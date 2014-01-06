@@ -1,0 +1,1818 @@
+FDT3612	from hqew, 津讯发电子	FAIRCHILD	1311+	89	SOT-223
+ISL6314CRZ	from hqew, 津讯发电子	INTERSIL	1109+	47	QFN
+INT5500A1G	from hqew, 津讯发电子	INTELLON	07+	5	QFP
+IRF633A	from hqew, 津讯发电子	IR	09+	160	NULL
+90USB1287-AU	from hqew, 现货 津讯发电子	ATMEL	1118+	787	QFP
+AD8692ARMZ-A1Z	from hqew, 现货 津讯发电子	AD	1232+	8835	MSOP8
+ADS7868	from hqew, 现货 津讯发电子	TI	08+	180	SOT23-6
+ADUC7020BCPZ62I	from hqew, 现货 津讯发电子	AD	1120+	570	QFN
+AK5371AVQ	from hqew, 现货 津讯发电子	AKM	0924+	19895	QFP48
+ALC262-C2-GR	from hqew, 现货 津讯发电子	REALTEK	08+	1317	QFP
+AM5669M28-E1	from hqew, 现货 津讯发电子	BCD	06+	47900	HSOP28
+AP1610ES5-HFKRG	from hqew, 现货 津讯发电子	CHIPOWN	12+	120000	SOT23-5
+AP2112K-2.5TRG1	from hqew, 现货 津讯发电子	BCD	12+	9000	SOT23-5
+AP3127B025MR	from hqew, 现货 津讯发电子	CHIPOWN	11+	60000	SOT23-6
+APM4953KG	from hqew, 现货 津讯发电子	APM	08+	638	SOP
+AR8152-BL1A-BL	from hqew, 现货 津讯发电子	ATHEROS	1136+	4000	QFN
+AT6392H	from hqew, 现货 津讯发电子	AIMTRON圆创	05+	5488	SOP28
+AT8UG2001CC5-TBRX	from hqew, 现货 津讯发电子	ATMEL	09+	10000	SOP
+AW8010AFCR	from hqew, 现货 津讯发电子	AWINIC	1315+	9000	CSP9
+AW8010CSR	from hqew, 现货 津讯发电子	AWINIC艾为	11+10+	8000	CSP9
+AW-NH520	from hqew, 现货 津讯发电子	AZUREWAVE	1317+	1537	BGA
+BCM56305B1KEBG	from hqew, 现货 津讯发电子	BOARDCOM	1041+	168	BGA
+BCM7630YKFEBG	from hqew, 现货 津讯发电子	BROADCOM	1022+/10	1512	BGA
+BCT2890ELL-TR	from hqew, 现货 津讯发电子	BCD	11+	30000	QFN
+BD5243G-TR	from hqew, 现货 津讯发电子	ROHM	10+/12+	16968	SOT23-5
+BD6909AEFV-E2	from hqew, 现货 津讯发电子	ROHM	1311+	2000	TSSOP40
+BG14A	from hqew, 现货 津讯发电子	BEREX	10+	390	SOT89
+BQ24617RGER	from hqew, 现货 津讯发电子	TI	1036+	5960	QFN
+BQ27210DRKR	from hqew, 现货 津讯发电子	TI	10+	83	QFN10
+BR24L02F	from hqew, 现货 津讯发电子	ROHM	05+	1200	SOP
+BS300H	from hqew, 现货 津讯发电子	VIKINTEK	13+	78	SOP
+BSZ035N03LS	from hqew, 现货 津讯发电子	INFINEON	08+	1700	TSDSON-8
+BU24590-8J	from hqew, 现货 津讯发电子	ROHM	08+	500	QFP
+C8051F930-GMR	from hqew, 现货 津讯发电子	SILICON	11+	9500	QFN
+CAT25128VI	from hqew, 现货 津讯发电子	CAT	09+	1270	SOP8
+CH7015A-DF	from hqew, 现货 津讯发电子	CHRONTEL	07+	382	QFP48
+CH7307C-DEF	from hqew, 现货 津讯发电子	CHRONTEL	07+	6480	QFP48
+CP2133	from hqew, 现货 津讯发电子	CHIPHOMER	08+	900	QFN16
+CP64002T.TCT	from hqew, 现货 津讯发电子	SEMTECH	10+	14900	SLP1006
+CS4334-DSZR	from hqew, 现货 津讯发电子	CIRRUS	0946+	2000	SOP
+CS5330AKS	from hqew, 现货 津讯发电子	CIRRUS	03+	4141	SOP8
+CX95110-22Z	from hqew, 现货 津讯发电子	CONEXANT	10+	949	QFN
+CXD2545Q	from hqew, 现货 津讯发电子	SONY	03+	58274	QFP00
+CXD5148GG	from hqew, 现货 津讯发电子	SONY	11+	340	BGA
+CY8CLEDAC02	from hqew, 现货 津讯发电子	CYPRESS	10+	2088	SOP8
+CYDMX256A16-90BVXI	from hqew, 现货 津讯发电子	CYPRESS	08+	9766	BGA
+CYRF69103A-40LFXC	from hqew, 现货 津讯发电子	CYPRESS	0925+/09	493	QFN
+DM632	from hqew, 现货 津讯发电子	SITI点晶	10+	19400	SOP
+DM9008AEP	from hqew, 现货 津讯发电子	DAVICOM	07+	66	QFP
+DMB8110D	from hqew, 现货 津讯发电子	FAIRCHILD	07+	2000	SSOP20
+DS1302Z+T	from hqew, 现货 津讯发电子	MAXIM	10+	170	SOP
+ECE1117-HZH	from hqew, 现货 津讯发电子	SMSC	10+	7800	QFN
+EM8622L-LFB	from hqew, 现货 津讯发电子	SIGMADESI	08+	1244	BGA
+EMC2113-1-AP-TR	from hqew, 现货 津讯发电子	SMSC	09+	3980	QFN16
+ET2154	from hqew, 现货 津讯发电子	ET	05+	34	QFP
+ET-662	from hqew, 现货 津讯发电子	GLOBALSAT	09+	2790	NULL
+FLI30602H-AC	from hqew, 现货 津讯发电子	ST	09+	204	BGA
+FM1073B	from hqew, 现货 津讯发电子	FORTEMED	06+	820	QFP48
+FM1182E-BE	from hqew, 现货 津讯发电子	FORTEMED	08+	2553	BGA
+FM2018-WE-380	from hqew, 现货 津讯发电子	FORTEMEDIA	11+	1418	QFN
+HAT2195R-EL-E	from hqew, 现货 津讯发电子	RENESAS	09+	12400	SOP8
+HAT3038R-EL	from hqew, 现货 津讯发电子	RENESAS	11+	28000	SOP8
+HI1018MA	from hqew, 现货 津讯发电子	HAIER	09+	800	QFP
+HI6331RBC	from hqew, 现货 津讯发电子	海思	13+	73	BGA
+HT1622	from hqew, 现货 津讯发电子	HOLTEK	11+	1000	QFP64
+HT46R63	from hqew, 现货 津讯发电子	HOLTEK	12+	160	QFP
+HX8258-A00BPP400	from hqew, 现货 津讯发电子	HIMAX	08+	1440	NULL
+IA4221-IC	from hqew, 现货 津讯发电子	INTEGRATI	08+	10213	TSSOP
+ICE2PCS04G	from hqew, 现货 津讯发电子	INFINEON	09+	4970	SOP8
+ICN2026BP	from hqew, 现货 津讯发电子	CHIPONE	13+	5000	SSOP24
+INT6300	from hqew, 现货 津讯发电子	INTELLON	0826+	1000	BGA
+IP210W-LF	from hqew, 现货 津讯发电子	ICPLUS	12+	2528	QFP
+IP4052CX20	from hqew, 现货 津讯发电子	NXP	08+	4400	BGA
+IRF6726MTR1PBF	from hqew, 现货 津讯发电子	IR	10+	1890	QFN
+IRF7432Q	from hqew, 现货 津讯发电子	INTERSIL	07+	3000	SOP8
+IRF7807ZTRPBF	from hqew, 现货 津讯发电子	INTERSIL	08+	13	SOP8
+ISL24020IHTZ-T7	from hqew, 现货 津讯发电子	INTERSIL	10+	2330	SOT23-5
+ISL97656IRTZ-TK	from hqew, 现货 津讯发电子	INTERSIL	11+	620	QFN
+ISL97701IRZ-T13	from hqew, 现货 津讯发电子	INTERSIL	07+	25000	QFN10
+IT8712F-S	from hqew, 现货 津讯发电子	ITE	08+/09+	123	QFP128
+IW1696-01-A2	from hqew, 现货 津讯发电子	IWATT	11+	15228	SOT23-5
+JM20339-LGCA1C	from hqew, 现货 津讯发电子	JMICRON	10+	34370	QFP
+KA22234	from hqew, 现货 津讯发电子	SAMSUNG	05+	6483	ZIP24
+KA8528	from hqew, 现货 津讯发电子	SAMSUNG	03+	484	QFP
+L13ESD5V0CE2	from hqew, 现货 津讯发电子	LITEON	03+	11000	QFN
+LA1823M	from hqew, 现货 津讯发电子	SANYO	07+	16620	SOP24
+LB11967V	from hqew, 现货 津讯发电子	SANYO	05+	1700	SSOP20
+LB1864	from hqew, 现货 津讯发电子	SANYO	07+	3960	ZIP
+LC863328A-5S8	from hqew, 现货 津讯发电子	SANYO	00+	1652	DIP
+LIS331DLTR	from hqew, 现货 津讯发电子	ST	10+	21514	QFN
+LM2653MTCX	from hqew, 现货 津讯发电子	NS	04+	2921	MSOP8
+LM3242TMXSD9B8	from hqew, 现货 津讯发电子	NS	13+	30000	BGA
+LM3658SD	from hqew, 现货 津讯发电子	NS	07+	610	QFN
+LM5642MTCX	from hqew, 现货 津讯发电子	NS	08+	1220	SOP
+LMSP33AA-696	from hqew, 现货 津讯发电子	MURATA	09+	996	SMD
+LPC2102FBD48	from hqew, 现货 津讯发电子	NXP	11+	498	QFP
+LPC2104BBD48	from hqew, 现货 津讯发电子	PHILIPS	06+	11570	QFP48
+LT1767EMS8E	from hqew, 现货 津讯发电子	LINEAR	08+	80	MSOP8
+LTC3455EUF	from hqew, 现货 津讯发电子	LINEAR	06+	2390	QFN
+LTC3727EG	from hqew, 现货 津讯发电子	LINEAR	08+	300	SSOP28
+MB96F348RSBPQCR-GS	from hqew, 现货 津讯发电子	FUJITSU	1132+	996	QFP
+MB9AF102RPMC-GE1	from hqew, 现货 津讯发电子	FUJITSU	12+	840	QFP
+MBI5042GFN	from hqew, 现货 津讯发电子	MBI台湾聚积	11+	10000	QFP24
+MC44BC374DWR2	from hqew, 现货 津讯发电子	FREESCALE	03+	3900	TSSOP24
+MC9S08AC60CFGER	from hqew, 现货 津讯发电子	FREESCALE	11+	15	QFP
+MM908E624ACPEWR2	from hqew, 现货 津讯发电子	FREESCALE	1227+	4000	SSOP
+MMA7260QR2	from hqew, 现货 津讯发电子	FREESCALE	10+	347	QFN
+MP1010BEM-LF-Z	from hqew, 现货 津讯发电子	MPS	07+	1200	TSSOP20
+MPC850SRVR50BU	from hqew, 现货 津讯发电子	FREESCALE	11+	220	BGA
+MSD7828L-LF	from hqew, 现货 津讯发电子	MSTAR	11+	209	LQFP256
+MSD7828L-LF	from hqew, 现货 津讯发电子	MSTAR	10+	687	QFP256
+MSL3165-SA	from hqew, 现货 津讯发电子	MSILICA	09+	945	SOP
+MSP3415G-QG	from hqew, 现货 津讯发电子	MICRONAS	06+	800	QFP44
+MSP430F135IPMR	from hqew, 现货 津讯发电子	TI	06+	10050	QFP64
+MT3608	from hqew, 现货 津讯发电子	MT	13+	30000	SOT23-6
+MT621	from hqew, 现货 津讯发电子	MTK	08+	2160	BGA
+M34286G2GP	from hqew, 现货 津讯发电子	RENESAS	09+	7500	TSSOP20
+M51132L	from hqew, 现货 津讯发电子	MITSUBISH	06+	13469	ZIP14
+M5634AL	from hqew, 现货 津讯发电子	ALI	06+	3194	QFP
+M5671-A1	from hqew, 现货 津讯发电子	ALI	11+	15	QFP
+MAX1616EUK+T	from hqew, 现货 津讯发电子	MAXIM	1120+	207	SOT23-5
+MAX3222CUP	from hqew, 现货 津讯发电子	MAXIM	11+	503	SSOP
+MAX810RTRG	from hqew, 现货 津讯发电子	ON SEMI	10+	99000	SOT-23
+MAX8727ETB+T	from hqew, 现货 津讯发电子	MAXIM	1121+	5000	QFN
+MAX9910EXK+T	from hqew, 现货 津讯发电子	MAXIM	09+	3840	SC70-5
+NCP1207ADR2G	from hqew, 现货 津讯发电子	ON SEMI	0736+/10	375	SOP8
+NCP1523BFCT2G	from hqew, 现货 津讯发电子	ON SEMI	09+	30000	BGA
+NCP3488DR2G	from hqew, 现货 津讯发电子	ON SEMI	07+	2500	SOP
+NJM2750M	from hqew, 现货 津讯发电子	JRC	07+	400	SOP16
+OICLH28F160BJBTTL9	from hqew, 现货 津讯发电子	SHARP	06+	3030	BGA
+OPA2674I-14DR	from hqew, 现货 津讯发电子	TI	08+	2500	SOP
+P2003BVG	from hqew, 现货 津讯发电子	NIKO	08+	2500	SOT252
+PCA9536D	from hqew, 现货 津讯发电子	PHILIPS	0629+	339	SOP8
+PI3A412ZLE	from hqew, 现货 津讯发电子	PERICOM	08+	3500	QFN16
+PI5C34X245BEX	from hqew, 现货 津讯发电子	PERICOM	12+	12000	SSOP
+PS219A3-CET	from hqew, 现货 津讯发电子	MITSUBISH	11+	360	DIP
+PT2322	from hqew, 现货 津讯发电子	PTC	04+	157	SOP
+PW328-10L	from hqew, 现货 津讯发电子	PIXELWORK	08+	1448	BGA
+PXA270C5C416	from hqew, 现货 津讯发电子	INTEL	08+	260	BGA
+R2A20112SP	from hqew, 现货 津讯发电子	RENESAS	09+	1500	SOP16
+R5F21114FP	from hqew, 现货 津讯发电子	RENESAS	09+	93	QFP
+R5H30201	from hqew, 现货 津讯发电子	KIT	11+	4528	QFN
+RDA5800C	from hqew, 现货 津讯发电子	RDA	09+	15354	QFN
+RDA6212+	from hqew, 现货 津讯发电子	RDA	10+11+	42536	QFN
+RJ3211	from hqew, 现货 津讯发电子	RICHTEK	09+	2277	SOP
+RJP4010AGE-00	from hqew, 现货 津讯发电子	RENESAS	11+	6000	SOT23-8
+RT3050F	from hqew, 现货 津讯发电子	RALINK	13+	21	BGA
+RT9204CS	from hqew, 现货 津讯发电子	RICHTEK	04+	959	2500
+RTL8111DL	from hqew, 现货 津讯发电子	REALTEK	09+	7532	QFP48
+RTL8271B-GR	from hqew, 现货 津讯发电子	REALTEK	11+	35777	QFN
+S-1167B15-I6T2G	from hqew, 现货 津讯发电子	SEIKO	09+	5000	SNT-6A
+S3P825AXZZ-QW8A	from hqew, 现货 津讯发电子	SAMSUNG	05+	230	QFP
+SC6523	from hqew, 现货 津讯发电子	HXJ	10+	5497	QFP
+SC6600H2-240G	from hqew, 现货 津讯发电子	SPREADTRU	10+	29007	BGA
+SE2593A20	from hqew, 现货 津讯发电子	SIGE	10+	5	QFN
+SIS412DN-T1-GE3	from hqew, 现货 津讯发电子	VISHAY	11+	10000	QFN8
+SN3218AI424E	from hqew, 现货 津讯发电子	SI-EN矽恩	1304+	2469	QFN-24
+SN8P2308ACZ007QG	from hqew, 现货 津讯发电子	SONIX	08+	460	QFP64
+SPC7011F-C6-TE3	from hqew, 现货 津讯发电子	FE	12+	15000	SOP8
+SPHE8104PW	from hqew, 现货 津讯发电子	SUNPLUS	07+	74	QFP
+SPHR8208T	from hqew, 现货 津讯发电子	SUNPLUS	09+	200	TQFP128
+SQ909-L	from hqew, 现货 津讯发电子	SQ	09+	590	QFP
+STDP8028-AB	from hqew, 现货 津讯发电子	ST	09+/11+	800	BGA
+STMP3553BN-TA4	from hqew, 现货 津讯发电子	SIGMATEL	05+	2760	QFP
+SY58294FAC	from hqew, 现货 津讯发电子	SILERGY	12+	1383	SOP
+T107BL	from hqew, 现货 津讯发电子	TERWINS芯润	08+	220	QFP128
+TA2092ANG	from hqew, 现货 津讯发电子	TOSHIBA	09+	2492	DIP24
+TA7259P	from hqew, 现货 津讯发电子	TOSHIBA	00+	435	DIP14
+TAS5706PAPR	from hqew, 现货 津讯发电子	TI	0910+	2710	QFP-64
+TB31224BF	from hqew, 现货 津讯发电子	TOSHIBA	03+	3254	QFP
+TC9028F-022	from hqew, 现货 津讯发电子	TOSHIBA	03+	9790	SOP
+TC9257FG	from hqew, 现货 津讯发电子	TOSHIBA	09+	460	SOP20
+TC9307F-010	from hqew, 现货 津讯发电子	TOSHIBA	03+	5377	QFP
+TDA18252HN/C1	from hqew, 现货 津讯发电子	NXP	12+	8970	QFN
+TDA7053AT/N2	from hqew, 现货 津讯发电子	NXP	06+	30	SOP16
+TDA7231	from hqew, 现货 津讯发电子	ST	03+	460	DIP8
+TDA8004AT	from hqew, 现货 津讯发电子	PHILIPS	05+	522	SOP28
+TDA8024AT/C4	from hqew, 现货 津讯发电子	NXP	08+	546	SOP
+TDA8024T	from hqew, 现货 津讯发电子	PHILIPS	05+	20	SOP28
+TDA9181T/N1	from hqew, 现货 津讯发电子	PHILIPS	0603+	989	SOP16
+TH2167.1	from hqew, 现货 津讯发电子	MEXLEXIS	03+	10000	SOP8
+THC63LVD104S	from hqew, 现货 津讯发电子	THINE	07+	333	QFP64
+THX203H-7V	from hqew, 现货 津讯发电子	南京通华	09+	50	DIP8
+TLC2932IPWR	from hqew, 现货 津讯发电子	TI	08+	64	SOP
+TMP86EP26F-4K76	from hqew, 现货 津讯发电子	TOSHIBA	05+	1514	QFP
+TNY264GN	from hqew, 现货 津讯发电子	POWER	12+	2975	SOP
+TP6810FNA	from hqew, 现货 津讯发电子	TOPRO	05+	1144	QFP
+TPD12S015YFFR	from hqew, 现货 津讯发电子	TI	1131+	3000	BGA
+TPS51120RHBR	from hqew, 现货 津讯发电子	TI	1023+	2495	QFN
+TPS61060DRBR	from hqew, 现货 津讯发电子	TI	11+	11990	QFN
+TS5A23166DCUR	from hqew, 现货 津讯发电子	TI	06+	300	VSSOP8
+TSA5518M	from hqew, 现货 津讯发电子	TOSHIBA	03+	2500	TSSOP20
+TW8827DETA3-GR	from hqew, 现货 津讯发电子	TECHWELL	0918+	330	QFP
+TXS0108EZXYR	from hqew, 现货 津讯发电子	TI	10+	1827	S-PBGA-N
+UBI9021	from hqew, 现货 津讯发电子	UBISYS	07+	1810	QFP48
+UCLAMP0501T.TCT	from hqew, 现货 津讯发电子	SEMTECH	10+	132000	NA
+UPD6P8AMC-5A4	from hqew, 现货 津讯发电子	RENESAS	10+	18500	SSOP
+UPD70F3629GCA-UEU-E2	from hqew, 现货 津讯发电子	RENESAS	11+	5000	QFP100
+UPD78F0537AGKA-GAJ	from hqew, 现货 津讯发电子	NEC	09+	595	QFP
+UPD78F4216AYGC	from hqew, 现货 津讯发电子	NEC	08+	308	QFP-80
+UPD79F9211GB-T01-8ES-A	from hqew, 现货 津讯发电子	RENESAS	12+	1600	TQFP
+UPS017	from hqew, 现货 津讯发电子	UPS	05+	965	QFP
+VS2801	from hqew, 现货 津讯发电子	VS	10+	8791	BGA
+VT356FCX-ADJ-007	from hqew, 现货 津讯发电子	VOLTERRA	1236+	2492	BGA
+W681308DG	from hqew, 现货 津讯发电子	NUVOTON	09+	750	LQFP48
+WM9707CFT	from hqew, 现货 津讯发电子	WOLFSON	03+	783	QFP
+X02014-007	from hqew, 现货 津讯发电子	MICROSOFT	06+	1500	QFP144
+XFS4041B	from hqew, 现货 津讯发电子	XFS	09+	299	QFP
+ZR36480BGCF	from hqew, 现货 津讯发电子	ZORAN	09+	91	BGA
+ZR39772HGCF-B	from hqew, 现货 津讯发电子	ZORAN	1044+	800	BGA
+88E6060-B0-RCJ1C000	from hqew, 现货 津讯发电子	MARVELL	09+	10578	QFN
+A3P125-VQG100	from hqew, 现货 津讯发电子	ACTEL	08+	15585	QFP100
+A5S30-CO-RH	from hqew, 现货 津讯发电子	AMBARELLA	1224+	111	BGA
+A723KGT	from hqew, 现货 津讯发电子	ADDTEK	08+	300	QFN
+AD8146ACPZ	from hqew, 现货 津讯发电子	AD	10+	398	LFCSP
+ADE7751ARSZRL	from hqew, 现货 津讯发电子	AD	10+	48500	SSOP
+ADE7878ACPZ	from hqew, 现货 津讯发电子	AD	11+	12	NULL
+ADP1877ACPZ	from hqew, 现货 津讯发电子	AD	1203+	3000	QFN
+ADV7180WBSTZ	from hqew, 现货 津讯发电子	AD	1125+	354	QFP
+AFQP1008	from hqew, 现货 津讯发电子	VERIFONE	12+	324	QFP
+AIC1526-0PSTR	from hqew, 现货 津讯发电子	AIC	08+	375	SOP8
+AK4647VQ-L	from hqew, 现货 津讯发电子	AKM	09+	7000	QFP48L
+ALC269Q-GR	from hqew, 现货 津讯发电子	REALTEK	09+	5146	QFN
+AML6213A	from hqew, 现货 津讯发电子	AMLOGIC	08+	375	QFP208
+AML7238	from hqew, 现货 津讯发电子	ANALOGIC	09+	1992	LQFP216
+AN5371	from hqew, 现货 津讯发电子	PANASONIC	03+	4400	SOP22
+AN5372	from hqew, 现货 津讯发电子	PANASONIC	03+	3980	SOP28
+AO4419	from hqew, 现货 津讯发电子	AOS	08+	2419	SOP8
+AP1530SL-13	from hqew, 现货 津讯发电子	DIODES INC	10+	1690	SOP8
+AP2125AKC-2.5TRG1	from hqew, 现货 津讯发电子	BCD	12+	6000	SOT
+AP238GHTR	from hqew, 现货 津讯发电子	ST	10+	12498	SOP14
+AP9971GM	from hqew, 现货 津讯发电子	APEC	09+	10105	SOP8
+APDS-9900	from hqew, 现货 津讯发电子	AVAGO	1150+	8038	DFN
+AR9101-AL1A	from hqew, 现货 津讯发电子	ATHEROS	08+	500	QFN
+AS2520	from hqew, 现货 津讯发电子	AMS	03+	3150	DIP28
+AT49BV4096A-90TI	from hqew, 现货 津讯发电子	ATMEL	06+03+	535	SSOP28
+AT8083	from hqew, 现货 津讯发电子	ATMEL	09+	990	QFP66
+AT89C51RD2-RLTUM	from hqew, 现货 津讯发电子	ATMEL	11+	60	QFP
+AT90USB162-16MU	from hqew, 现货 津讯发电子	ATMEL	09+	130	QFN32
+ATA6662C-TAQY	from hqew, 现货 津讯发电子	ATMEL	11+	2390	SOP
+ATR4251	from hqew, 现货 津讯发电子	ATMEL	13+	2333	QFN
+AV2020	from hqew, 现货 津讯发电子	AIROHA	09+	8	QFN
+AV7520	from hqew, 现货 津讯发电子	AVNERA	10+	201	QFN
+AW3215DNR	from hqew, 现货 津讯发电子	AWINIC	1320+	6000	NA
+AW8731ATQR	from hqew, 现货 津讯发电子	AWINIC	11+	12274	QFN
+BA1450	from hqew, 现货 津讯发电子	ROHM	04+	5490	DIP24
+BA5918FP	from hqew, 现货 津讯发电子	ROHM	03+	1000	SOP
+BA5946FP	from hqew, 现货 津讯发电子	ROHM	05+	166	SOP
+BA6398FP	from hqew, 现货 津讯发电子	ROHM	03+	4612	HSOP28
+BA6407AF	from hqew, 现货 津讯发电子	ROHM	07+	37500	SOP8
+BA9346	from hqew, 现货 津讯发电子	ROHM	03+	950	QFP
+BA9741F	from hqew, 现货 津讯发电子	ROHM	04+	11416	SOP16
+BCM3368KPBG	from hqew, 现货 津讯发电子	BOARDCOM	0850+	4	BGA
+BCM53314UB0KPBG	from hqew, 现货 津讯发电子	BROADCOM	1120	2715	BGA
+BCM5358UB0KFBG	from hqew, 现货 津讯发电子	BROADCOM	1329+	160	BGA
+BCM54980C1KFBG	from hqew, 现货 津讯发电子	BROADCOM	1306+	300	BGA
+BCM63168VKFEBG	from hqew, 现货 津讯发电子	BROADCOM	1302+/12	100	BGA
+BCM63281KFBG	from hqew, 现货 津讯发电子	BROADCOM	1331+	3780	BGA
+BCM6358URKFBG	from hqew, 现货 津讯发电子	BROADCOM	11+	1149	BGA
+BCM63619VKFEBG	from hqew, 现货 津讯发电子	BROADCOM	1309+	50	BGA
+BCM6368VKPBG	from hqew, 现货 津讯发电子	BROADCOM	1248+	174	BGA
+BCM6511IPB	from hqew, 现货 津讯发电子	BROADCOM	1051+	37	BGA
+BCM7403NKPB3G	from hqew, 现货 津讯发电子	BROADCOM	11+	28	BGA
+BD6964FVM-TR	from hqew, 现货 津讯发电子	ROHM	12+	51000	MSOP8
+BH1415F	from hqew, 现货 津讯发电子	ROHM	05+	3789	SOP20
+BH6779FVM-TR	from hqew, 现货 津讯发电子	ROHM	05+	27000	MSOP8
+BL8593CKCTR	from hqew, 现货 津讯发电子	上海贝岭	11+	84000	DFN
+BLF6G10LS-135R	from hqew, 现货 津讯发电子	NXP	1145+	30700	NA
+BQ2060A-E619DBQ	from hqew, 现货 津讯发电子	TI	10+	740	SSOP
+BQ20864DBTR	from hqew, 现货 津讯发电子	TI	08+	1980	SOP
+BQ24071RHLR	from hqew, 现货 津讯发电子	TI	05+	118	QFN20
+BQ27000DRKR	from hqew, 现货 津讯发电子	TI	10+	6500	SON10
+BQ27010DRKR	from hqew, 现货 津讯发电子	TI	10+	1186	QFN10
+BQ27200DRKR	from hqew, 现货 津讯发电子	TI	10+	34	QFN
+BQ29312APWR	from hqew, 现货 津讯发电子	TI	08+	309	SOP
+BQ29330DBTR	from hqew, 现货 津讯发电子	TI	09+/10+	56860	TSSOP
+BQ29412DCT3R	from hqew, 现货 津讯发电子	TI	0649+	725	SSOP8
+BS100E	from hqew, 现货 津讯发电子	VIKINTEK	10+	954	SOP16
+BTS-4025-0-36WL	from hqew, 现货 津讯发电子	QUALCOMM	1111+	33800	BGA
+BU15TA2WHFV-TR	from hqew, 现货 津讯发电子	ROHM	11+	3000	SOT353
+BU94604BKV	from hqew, 现货 津讯发电子	ROHM	11+	638	LQFP64
+BU9540K	from hqew, 现货 津讯发电子	ROHM	09+	1000	QFP
+CAT5104CF	from hqew, 现货 津讯发电子	CAT	10+	7500	QFN
+CB6392CB	from hqew, 现货 津讯发电子	CB系列	05+	508	NA
+CCIC1I	from hqew, 现货 津讯发电子	ST	11+	15650	TSSOP28
+CH7017A-TF	from hqew, 现货 津讯发电子	CHRONTEL	07+	390	QFP100
+CH7021A	from hqew, 现货 津讯发电子	CHRONTEL	10+	394	QFP64
+CH7021A-TF	from hqew, 现货 津讯发电子	CHRONTEL	08+	84	QFP
+CH7313A-DEF	from hqew, 现货 津讯发电子	CHRONTEL	07+	318	QFP48
+CH7317A-TF	from hqew, 现货 津讯发电子	CHRONTEL	07+	200	QFP64
+CM6805AGIRTR	from hqew, 现货 津讯发电子	CHAMPION	10+	800	SOP10
+CP2130G	from hqew, 现货 津讯发电子	CHIPHOMER	0802+	930	QFN
+CP2532LQ40B	from hqew, 现货 津讯发电子	CHIPHOMER	11+	1450	QFN-40
+CS1100	from hqew, 现货 津讯发电子	CIRRUS	09+	5550	QFN
+CS5521-ASZ	from hqew, 现货 津讯发电子	CIRRUS	10+	1089	SSOP20
+CSC6502	from hqew, 现货 津讯发电子	HWCAT	09+	30	TSSOP24
+CT955A	from hqew, 现货 津讯发电子	CHEERTEK	05+	1077	QFP
+CT956B	from hqew, 现货 津讯发电子	CHEERTEK	08+	24531	QFP
+CX3510IMZ	from hqew, 现货 津讯发电子	CONEXANT	10+	810	QFN
+CXA2550N	from hqew, 现货 津讯发电子	SONY	08+	1800	SOP
+CXD3059R	from hqew, 现货 津讯发电子	SONY	05+	250	QFP
+CXD3068Q	from hqew, 现货 津讯发电子	SONY	08+	238	QFP80
+CXD4127GG	from hqew, 现货 津讯发电子	SONY	12+	406	QFP
+CY62128EV30LL-45ZXIT	from hqew, 现货 津讯发电子	CYPRESS	1219+	652	TSOP32
+CY8C24794-24LFXI	from hqew, 现货 津讯发电子	CYPRESS	07+	402	QFN
+DA116F	from hqew, 现货 津讯发电子	ROHM	03+	1516	SOT23
+DE24RF17	from hqew, 现货 津讯发电子	NA	07+	779	NULL
+DS1302ZN+T	from hqew, 现货 津讯发电子	MAXIM	0902+	1276	SOP8
+ECLAMP2465T.TCT	from hqew, 现货 津讯发电子	SEMTECH	10+	9000	SLP1713P
+EKT8120KCWSQ	from hqew, 现货 津讯发电子	ELAN	08+	1000	QFN
+E-L6219DS013TR	from hqew, 现货 津讯发电子	STM	10+	210	SOP
+EM260-RTY	from hqew, 现货 津讯发电子	UNISEM	07+	2545	QFN
+EMBAON10A	from hqew, 现货 津讯发电子	EMB	09+	2500	QFP60
+EML3406-00VF05GRR	from hqew, 现货 津讯发电子	EMP晶镁	11+	6000	SOT23-5
+EP1C20F324C7N	from hqew, 现货 津讯发电子	ALTERA	0625+	120	BGA
+EP3C80F780C8N	from hqew, 现货 津讯发电子	ALTERA	12+	396	BGA
+ES6018	from hqew, 现货 津讯发电子	ESS	03+	912	QFP208
+ES6603	from hqew, 现货 津讯发电子	ESS	04+	2712	QFP
+ET2046Y	from hqew, 现货 津讯发电子	ETEK	10+	10900	QFN16
+EUA6204JIR1	from hqew, 现货 津讯发电子	PHILIP	08+	3486	QFN
+FDS6982AS	from hqew, 现货 津讯发电子	FAIRCHILD	05+	214	SOP8
+FLI8125	from hqew, 现货 津讯发电子	GENESIS	09+	143	QFP
+FLI8532-LF-BE	from hqew, 现货 津讯发电子	GENESIS	07+	1150	BGA
+FM1073B	from hqew, 现货 津讯发电子	FM1073B	05+	13004	QFP48
+FM1182E-GE	from hqew, 现货 津讯发电子	FORTEMED	08+	907	QFP48
+FM1182E-GE	from hqew, 现货 津讯发电子	FORTEMED	07+	1599	QFP48
+FM1185B-BE	from hqew, 现货 津讯发电子	FORTMEED	08+	320	BGA
+FM3308-LQC-A-R	from hqew, 现货 津讯发电子	FORTEMED	09+	2360	QFP
+FMS6146MTC14X	from hqew, 现货 津讯发电子	FAIRCHILD	09+	16737	TSSOP
+FP6160KR-LF-ADJ	from hqew, 现货 津讯发电子	FEELING	11+	6000	SOT-23
+FT5206GE1	from hqew, 现货 津讯发电子	FOCALTECH	10+/12+	5385	QFN
+FW359-TL-E	from hqew, 现货 津讯发电子	SANYO	05+	23000	SOP8
+GM5868H-LF-AA	from hqew, 现货 津讯发电子	GENESIS	08+	1705	QFP208
+GM8180SF-BD-E	from hqew, 现货 津讯发电子	GRAIN	10+	817	BGA
+GPM8F3116A-QL014	from hqew, 现货 津讯发电子	GENERALPL凌	1324+	11000	LQFP44
+GR6953JG	from hqew, 现货 津讯发电子	GRENERGY	10+	22180	DIP
+GRF3I-0336	from hqew, 现货 津讯发电子	SIRF	0930+/12	6183	QFN24
+GT20L16S1Y	from hqew, 现货 津讯发电子	上海集通	1118+	15000	SOP23-6
+GT811	from hqew, 现货 津讯发电子	GOODIX	13+	80	QFN
+GX1501	from hqew, 现货 津讯发电子	NATIONALC国	10+	996	QFP
+HD64F2377VFQ33V	from hqew, 现货 津讯发电子	HITACHI	0252+	1144	QFP
+HI3510	from hqew, 现货 津讯发电子	海思	1130+	488	BGA
+HI6731ARBC	from hqew, 现货 津讯发电子	海思	13+	220	BGA
+HIP6012CBZ-TR	from hqew, 现货 津讯发电子	INTERSIL	06+	760	SOP
+HM91510B	from hqew, 现货 津讯发电子	HMC	05+	349	DIP22
+HMC276LP4ETR	from hqew, 现货 津讯发电子	HITTITE	12+	128	QFN
+HV9911NG	from hqew, 现货 津讯发电子	SUPERTEX	09+	370	SOP16
+HX8904TB	from hqew, 现货 津讯发电子	HIMAX	08+	6800	SOP
+HY2110-CB	from hqew, 现货 津讯发电子	HYCON	08+	32000	SOT23-6
+HYM8563T	from hqew, 现货 津讯发电子	HYM	08+	2108	SOP8
+IA4320-IC	from hqew, 现货 津讯发电子	INTEGRATION	08+	2340	SSOP
+ICE3BR0665J	from hqew, 现货 津讯发电子	INFINEON	08+	9730	DIP8
+IDT72V251L10PFG	from hqew, 现货 津讯发电子	IDT	07+	1485	QFP32
+IHY20N120R3	from hqew, 现货 津讯发电子	INFINEON	1151+	6704	TO-247
+IMH21T110	from hqew, 现货 津讯发电子	ROHM	11+	3000	SOT163
+IMP705ESA/T	from hqew, 现货 津讯发电子	IMP	09+	2356	SOP8
+IP1001LF	from hqew, 现货 津讯发电子	ICPLUS	11+10+	18008	QFN
+IP4777CZ38/V	from hqew, 现货 津讯发电子	NXP	10+	255	SSOP38
+IP4791CZ12	from hqew, 现货 津讯发电子	NXP	1237+	1855	QFN
+IR2133STRPBF	from hqew, 现货 津讯发电子	INTERSIL	05+	11118	SOP
+IRF6645TR1PBF	from hqew, 现货 津讯发电子	IR	10+	2646	QFN
+ISL62392CHRTZ-T	from hqew, 津讯发电子	INTERSIL	11+	51	QFN
+ISL6561CRZ	from hqew, 现货 津讯发电子	INTERSIL	06+	4000	QFN
+ISL95311WIU10Z-TK	from hqew, 现货 津讯发电子	INTERSIL	0846+	5670	SSOP
+ISL97650ARTZ-T	from hqew, 现货 津讯发电子	INTERSIL	10+	2080	QFN36
+ISP1583ET1TM	from hqew, 现货 津讯发电子	NXP	09+	6212	QFN
+IT6902E/BX	from hqew, 现货 津讯发电子	ITE	1112+	350	LQFP
+IT7019	from hqew, 现货 津讯发电子	ITE	10+	2440	TSSOP
+IT8712F-A	from hqew, 现货 津讯发电子	ITE	07+	30	QFP
+IW1696-03-A2	from hqew, 现货 津讯发电子	IWATT	11+	24000	SOT23-5
+JL2186A	from hqew, 现货 津讯发电子	杰霖	11+	211	QFP
+JXF001	from hqew, 现货 津讯发电子	ON SEMI	10+	20000	SOP8
+JZ4730	from hqew, 现货 津讯发电子	INGENIC	08+	700	BGA
+KA22136	from hqew, 现货 津讯发电子	SAMSUNG	03+	1989	NA
+KA9286	from hqew, 现货 津讯发电子	SAMSUNG	03+	2595	DIP
+KB9012QF-A3	from hqew, 现货 津讯发电子	ENE	12+	700	TQFP
+KF9901H	from hqew, 现货 津讯发电子	KF	09+	209	ZIP4
+KSZ8851-16MLL	from hqew, 现货 津讯发电子	MICREL	11+	302	QFP
+KXD6222-1	from hqew, 现货 津讯发电子	国产	07+	6000	SOP
+L13ESD5V0CE2	from hqew, 现货 津讯发电子	LITEON	13+	330000	NA
+L4981AD	from hqew, 现货 津讯发电子	ST	10+	174	SOP
+L6571BD	from hqew, 现货 津讯发电子	ST	10+	32460	SOP8
+L6599ADTR	from hqew, 现货 津讯发电子	ST	11+/12+	608	SOP
+LA79107	from hqew, 现货 津讯发电子	SANYO	05+	3000	SSOP24
+LB11851TT-TLM-H	from hqew, 现货 津讯发电子	SANYO	10+	1723	MSOP
+LB11923V-TLM-E	from hqew, 现货 津讯发电子	SANYO	07+	10000	SOP
+LB1668M-TLM-H	from hqew, 现货 津讯发电子	SANYO	10+	394	SOP14
+LB1861M-TLM-E	from hqew, 现货 津讯发电子	SANYO	06+	2000	SOP
+LB1868M-TE-L	from hqew, 现货 津讯发电子	SANYO	02+	7000	SOP
+LB1966M	from hqew, 现货 津讯发电子	SANYO	03+	4000	SOP
+LC78605E	from hqew, 现货 津讯发电子	SANYO	03+	300	QFP
+LC786925W-ULG-H	from hqew, 现货 津讯发电子	SANYO	10+	8400	QFP
+LC7870E	from hqew, 现货 津讯发电子	SANYO	03+	3750	QFP
+LCMXO1200C-3TN100C	from hqew, 现货 津讯发电子	LATTICE	10+	3710	QFP100
+LCMXO2-1200HC-4TG100C	from hqew, 现货 津讯发电子	LATTICE	13+	1796	QFP
+LD7530APL	from hqew, 现货 津讯发电子	通嘉	08+	22900	SOT
+LM2512ASM	from hqew, 现货 津讯发电子	NS	10+	4000	BGA
+LM2596R-5.0	from hqew, 现货 津讯发电子	HTC	10+	19	TO-263
+LM3402HVMR	from hqew, 现货 津讯发电子	NS	12+	50	SOP8
+LM4811MM	from hqew, 现货 津讯发电子	NS	0436+	390	SSOP
+LM4910MAX	from hqew, 现货 津讯发电子	NS	0648+	3168	SOP8
+LM5110-1MX	from hqew, 现货 津讯发电子	NS	08+	1600	SOP8
+LMC6482IMX	from hqew, 现货 津讯发电子	NS	0712+	42800	SOP8
+LMX4169ALQXN	from hqew, 现货 津讯发电子	SITELSEMI	07+	14400	QFN48
+LPC2132FBD64/01	from hqew, 现货 津讯发电子	NXP	11+	10	QFP
+LPC2458FET-180	from hqew, 现货 津讯发电子	NXP	1001+	1955	BGA
+LTC1726IS8	from hqew, 现货 津讯发电子	LINEAR	1320+	2500	SOP8
+LTC3405AES6	from hqew, 现货 津讯发电子	LINEAR	08+	3800	SOT23-6
+LTC3409EDD	from hqew, 现货 津讯发电子	LINEAR	06+	4729	QFN
+LTC3727EG-1	from hqew, 现货 津讯发电子	LINEAR	1310+	184	SSOP28
+LTC3850GN-1	from hqew, 现货 津讯发电子	LINEAR	10+/1148	6646	SSOP28
+LX1691AIPW-TR	from hqew, 现货 津讯发电子	MICROSEMI	07+	4799	TSSOP16
+LX6512CD-TR	from hqew, 现货 津讯发电子	MICROSEM	10+	2280	SOP
+MB89F538-101PMC-GE	from hqew, 现货 津讯发电子	FUJITSU	11+	4912	QFP
+MBI6020GFN	from hqew, 现货 津讯发电子	MARCROBLOC	09+	29900	QFN
+MC3361BPL	from hqew, 现货 津讯发电子	UTC	08+	100	SOP16
+MC56F8014VFAE	from hqew, 现货 津讯发电子	FREESCALE	09+	550	QFP32
+MC908AP8CFAE	from hqew, 现货 津讯发电子	FREESCALE	0921+	154	QFP
+MC9S08DZ128CLF	from hqew, 现货 津讯发电子	FREESCALE	10+	455	QFP48
+MC9S08GT16ACFDE	from hqew, 现货 津讯发电子	FREESCLE	09+	16860	QFN
+MC9S12A256BCPV	from hqew, 现货 津讯发电子	FREESICAL	0648+	3160	QFP
+MCR08MTI	from hqew, 现货 津讯发电子	ON SEMI	08+	600	SOT23
+MDT2051S	from hqew, 现货 津讯发电子	MDT	09+	610	SOP18
+MIC4424BWM	from hqew, 现货 津讯发电子	MICREL	03+	20000	SOP16
+MIG20J503L	from hqew, 现货 津讯发电子	MITSUBIS	08+	354	SOP
+MP1008ES-LF-Z	from hqew, 现货 津讯发电子	MPS	0717+	40780	SOP16
+MP1530DM	from hqew, 现货 津讯发电子	MPS	10+	50	TSSOP16
+MRF7S19120NR1	from hqew, 现货 津讯发电子	FREESCALE	10+	1760	TO-270
+MSD106CHL-LF-Z1	from hqew, 现货 津讯发电子	MSTAR	08+	278	TQFP256
+MSD6A800HTAB-WL	from hqew, 现货 津讯发电子	MSTAR	13+	267	BGA
+MSD6A801FVA-W4	from hqew, 现货 津讯发电子	MSTAR	13+	1726	BGA
+MSG2133APNA674A	from hqew, 现货 津讯发电子	MSTAR	13+	1579	QFN
+MSM6000-208	from hqew, 现货 津讯发电子	QUALCOM	07+	302	BGA208
+MSP3410G-QI-B8-V3	from hqew, 现货 津讯发电子	MICRO	06+	19830	QFP64
+MSP3425G-QG-B8-V3	from hqew, 现货 津讯发电子	MICRO	06+	5100	QFP
+MSP3445G-Q1-B8-V3	from hqew, 现货 津讯发电子	MICRO	06+	2830	QFP
+MSP3455G-QI-B8-V3	from hqew, 现货 津讯发电子	MICRONAS	06+	2984	QFP
+MSP430V187IPMR	from hqew, 现货 津讯发电子	TI	0819+	1000	QFP
+MT1389DE/E	from hqew, 现货 津讯发电子	MTK	08+	3680	QFP
+MT1888E/AOD-L	from hqew, 现货 津讯发电子	MTK	06+	2000	QFP
+MT25408A0-FCCR	from hqew, 现货 津讯发电子	MELLANOX	09+	590	BGA
+MTD2003F	from hqew, 现货 津讯发电子	SHINDENGE	08+	10	HSOP28
+MTV018GP24-01	from hqew, 现货 津讯发电子	MYSON	10+	12000	SOP24
+MTV312	from hqew, 现货 津讯发电子	MYSON	08+	2000	PLCC
+M30624FGPFP	from hqew, 现货 津讯发电子	RENESAS	10+	483	QFP
+M3329-B1	from hqew, 现货 津讯发电子	ALI	09+	60	QFP
+M36COW5040TOZSPE	from hqew, 现货 津讯发电子	ST	10+	6240	BGA
+M37160M8-073FP	from hqew, 现货 津讯发电子	RENESAS	07+	100000	SOP
+M37546G4GP#U0	from hqew, 现货 津讯发电子	RENESAS	12+	1099	NA
+M51348FP	from hqew, 现货 津讯发电子	MITSUBISHI	04+	8000	SOP24
+M5672-A1	from hqew, 现货 津讯发电子	ALI	09+	198	QFP
+MAX1512ETA+T	from hqew, 现货 津讯发电子	MAXIM	10+	2500	QFN
+MAX1586AETM+F	from hqew, 现货 津讯发电子	MAMIX	06+	9525	QFN48
+MAX1637EEE	from hqew, 现货 津讯发电子	MAXIM	11+	277	SSOP
+MAX232	from hqew, 现货 津讯发电子	MAXIM	09+	600	SOPDIP
+MAX6957ATL	from hqew, 现货 津讯发电子	MAXIM	0746+	1200	QFN
+MAX706ESA	from hqew, 现货 津讯发电子	MAXIM	0648+	762	SOP8
+NCP1216AP100	from hqew, 现货 津讯发电子	ON SEMI	08+	100	DIP
+NCP1219AD65R2G	from hqew, 现货 津讯发电子	ON SEMI	10+	1330	SOP
+NCP3163BPWR2G	from hqew, 现货 津讯发电子	ON SEMI	07+	5787	SOP16
+NCP6121S52MNR2G	from hqew, 现货 津讯发电子	ON SEMI	1316+	2500	QFN
+NJM2060V	from hqew, 现货 津讯发电子	JRC	10+	2351	TSSOP14
+NT68565FG	from hqew, 现货 津讯发电子	NOVATEK	06+	980	QFP128
+NV320	from hqew, 现货 津讯发电子	NDSP	03+	5610	QFP
+NVP1108B	from hqew, 现货 津讯发电子	NEXTCHIP	12+/13+	922	TQFP
+NVP1914	from hqew, 现货 津讯发电子	NEXTCHIP	12+	290	QFP
+P2803NVG	from hqew, 现货 津讯发电子	NIKO	10+	388	SOP8
+P4M800PRO	from hqew, 现货 津讯发电子	VIA	08+	28	BGA
+P87C51RC2BBD	from hqew, 现货 津讯发电子	NXP	10+	320	QFP44
+P89V52X2FBD	from hqew, 现货 津讯发电子	NXP	10+	10	QFP
+PCM1770PWR	from hqew, 现货 津讯发电子	TI	03+/04+	32220	TSSOP16
+PIC18LF2420T-I/SO	from hqew, 现货 津讯发电子	MICROCHIP	09+	2956	SOP28
+PLCDA12-LF-T7	from hqew, 现货 津讯发电子	PROTEK	10+	954	SOP8
+PS21562-CP	from hqew, 现货 津讯发电子	MITSUBISH	11+	94	IGBT
+PS21563-P	from hqew, 现货 津讯发电子	MITSUBIS	11+	20	DIP
+PT6315LQ	from hqew, 现货 津讯发电子	PTC	09+	128	QFP
+R2A30234SP	from hqew, 现货 津讯发电子	RENESAS	09+	623	HSSOP42
+R2A30420NA	from hqew, 现货 津讯发电子	RENESAS	08+	4875	QFN
+R2S15903SP	from hqew, 现货 津讯发电子	RENESAS	07+	550	SOP
+R5F21256SYFP  V2UG	from hqew, 现货 津讯发电子	RENESAS	1320+	800	LQFP52
+R5F2133CANSP	from hqew, 现货 津讯发电子	RENESAS	10+	5720	SSOP32
+R5F21346CNFP	from hqew, 现货 津讯发电子	RENESAS	1039+	22486	QFP
+R5F71242VD50	from hqew, 现货 津讯发电子	RENESAS	1010+	1424	QFP
+RCLAMP3304N.TCT	from hqew, 现货 津讯发电子	SEMTECH	12+	55205	SLP2626P
+RJK0301DPB-02-J0	from hqew, 现货 津讯发电子	RENESAS	13+	2445	NA
+RJP4003ANS-00-Q1	from hqew, 现货 津讯发电子	RENESAS	0811+	11895	VSON8
+RK2706-C	from hqew, 现货 津讯发电子	ROCKCHIP	08+	259	QFP
+RT2880F-G0	from hqew, 现货 津讯发电子	RALINK	09+	1080	BGA
+RT3070L	from hqew, 现货 津讯发电子	RALINK	12+	119	QFN
+RT3352F	from hqew, 现货 津讯发电子	RALINK	12+/13+	223	BGA
+RT9169-33PVL	from hqew, 现货 津讯发电子	RECHTEK	0905+	2048	SOT235
+RT9173BGS	from hqew, 现货 津讯发电子	RICHTEK	09+	1604	SOP8
+RT9285BGJ6	from hqew, 现货 津讯发电子	RICHTEK	11+	2000	SOT23-6
+RT9364PQW	from hqew, 现货 津讯发电子	RICHTEK	0910+	1977	QFN16
+RT9365	from hqew, 现货 津讯发电子	RICHTEK	08+	2080	QFN16
+RT9603PS	from hqew, 现货 津讯发电子	RICHTEK	07+	12422	SOP8L
+RTC6607	from hqew, 现货 津讯发电子	RICHWAVE	12+	3000	DFN
+RTL8101E-GR	from hqew, 现货 津讯发电子	RICHTEK	06+	2432	QFP
+RTL8196C-GR	from hqew, 现货 津讯发电子	REALTEK	11+	625	QFP128
+RTL8671BH	from hqew, 现货 津讯发电子	REALTEK	07+	613	QFP
+S1A0426X01	from hqew, 现货 津讯发电子	SAMSUNG	06+	1000	QFP
+S-24CS02AFJ-TB-GE	from hqew, 现货 津讯发电子	SEIKO	10+	7780	SOP8
+S3C2412XL-26	from hqew, 现货 津讯发电子	SAMSUNG	11+	56	BGA
+S5L9290	from hqew, 现货 津讯发电子	SAMSUNG	05+	86	QFP48
+S8P2308AC001QG-1	from hqew, 现货 津讯发电子	SONIX	06+	1600	NULL
+S9S12G128F0CLF	from hqew, 现货 津讯发电子	FREESCALE	13+	2500	LQFP
+SA2111	from hqew, 现货 津讯发电子	SILAN	05+	201	DIP20
+SA705AB	from hqew, 现货 津讯发电子	ST	05+	500	NA
+SAA6579T	from hqew, 现货 津讯发电子	PHILIPS	08+	326	SOP
+SAA7114H	from hqew, 现货 津讯发电子	PHILIPS	02+	140	QFP
+SAA7119E	from hqew, 现货 津讯发电子	PHILIPS	05+	7380	BGA
+SC4988-G3	from hqew, 现货 津讯发电子	RENESAS	09+	917	NULL
+SC7313S	from hqew, 现货 津讯发电子	SILAN	08+	1200	SOP28
+SDM20U30LP-7	from hqew, 现货 津讯发电子	DIODES INC	10+	51000	DFN1006
+SE4150L	from hqew, 现货 津讯发电子	SIGE	10+	15	QFN
+SE758MH-LF	from hqew, 现货 津讯发电子	SAMSUNG	09+	1040	QFP128
+SI32176-B-FMR	from hqew, 现货 津讯发电子	SILICON	09+	11390	QFN42
+SI4704-B20-GMR	from hqew, 现货 津讯发电子	SILICON	1136+	2500	QFN
+SII9244BOTR	from hqew, 现货 津讯发电子	SILICON	11+12+	12000	BGA
+SKY80203-38B	from hqew, 现货 津讯发电子	SKYWORKS	03+	2020	SOP28
+SLG4AP016V	from hqew, 现货 津讯发电子	SILEGO	12+	3000	NA
+SLVU2.8-8-LF-T7	from hqew, 现货 津讯发电子	PROTEK	11+	164440	SOP8
+SMP8635LFC-REVC	from hqew, 现货 津讯发电子	SIGMADE	08+	925	BGA
+SN211038PAPG4	from hqew, 现货 津讯发电子	TI	09+	1600	QFP
+SN4088-JIR1	from hqew, 现货 津讯发电子	SI-EN	09+	415	NA
+SN50245C4DSPR	from hqew, 现货 津讯发电子	SINETT	09+	1778	NA
+SN65HVD1040QDRQ1	from hqew, 现货 津讯发电子	TI	11+12+	8273	SOP8
+SPCA716A	from hqew, 现货 津讯发电子	SUNPLUS	06+	3141	QFP
+SPCA717A-PL211	from hqew, 现货 津讯发电子	SUNPLUS	06+	7400	QFP
+SSD1935G42	from hqew, 现货 津讯发电子	ARM	10+	1260	BGA
+SSSB230	from hqew, 现货 津讯发电子	NUMBER	09+	1433	QFN
+ST10F273M-4T3	from hqew, 现货 津讯发电子	ST	12+	14040	QFP
+ST10F276-CEG	from hqew, 现货 津讯发电子	ST	10+/11+	8480	BGA
+STA1052S1	from hqew, 现货 津讯发电子	ST	10+	303	QFP
+STE2004SDIE2	from hqew, 现货 津讯发电子	ST	08+	1140	SOP
+STI7111-SUC	from hqew, 现货 津讯发电子	STM	10+	237	PBGA572
+STM-341S2606-DVT	from hqew, 现货 津讯发电子	USI	1048+	10000	QFN
+STV7778	from hqew, 现货 津讯发电子	ST	03+	5000	DIP42
+T0816M-TCQG	from hqew, 现货 津讯发电子	ATMEL	08+	4000	SSOP16
+T1320A	from hqew, 现货 津讯发电子	SYNAPTICS	11+	1270	QFN
+TA1243BF	from hqew, 现货 津讯发电子	TOSHIBA	03+	4335	SOP24
+TA2003F	from hqew, 现货 津讯发电子	TOSHIBA	05+	88	SOP16
+TA2104BFNG	from hqew, 现货 津讯发电子	TOSHIBA	05+	1740	SOP24
+TA2104BN	from hqew, 现货 津讯发电子	TOSHIBA	03+	2150	DIP24
+TA2132FNG	from hqew, 现货 津讯发电子	TOSHIBA	09+	450	SSOP
+TA2153FNG	from hqew, 现货 津讯发电子	TOSHIBA	09+	600	TSSOP
+TA2180FNG	from hqew, 现货 津讯发电子	TOSHIBA	06+	1127	TSSOP24
+TA8132AN	from hqew, 现货 津讯发电子	TOSHIBA	0411+	60	DIP
+TAS5186A	from hqew, 现货 津讯发电子	TI	12+	500	HTSSOP44
+TC9135P	from hqew, 现货 津讯发电子	TOSHIBA	98+	6880	DIP16
+TC9256F	from hqew, 现货 津讯发电子	TOSHIBA	06+	600	SOP16
+TC9307F-014	from hqew, 现货 津讯发电子	TOSHIBA	03+	152	QFP
+TC9411F	from hqew, 现货 津讯发电子	TOSHIBA	03+	288	QFP60
+TC9457F-010	from hqew, 现货 津讯发电子	TOSHIBA	03+	3764	QFP100
+TC94A09F-206	from hqew, 现货 津讯发电子	TOSHIBA	05+	1471	QFP100
+TC94A34FG-002	from hqew, 现货 津讯发电子	TOSHIBA	06+	4094	QFP64
+TC94A58FAG-050	from hqew, 现货 津讯发电子	TOSHIBA	06+	13785	QFP64
+TDA11106PS/N3	from hqew, 现货 津讯发电子	NXP	10+	1920	DIP64
+TDA4841PS	from hqew, 现货 津讯发电子	PHILIPS	03+	165	DIP32
+TDA9112	from hqew, 现货 津讯发电子	ST	03+	2265	DIP32
+TDA9874AH	from hqew, 现货 津讯发电子	PHILIPS	05+	305	QFP44
+TDA9874AH	from hqew, 现货 津讯发电子	PHILIPS	00+	5800	QFP44
+TDA9874ASP	from hqew, 现货 津讯发电子	PHILIPS	05+	1260	QFP
+TDUHC122-0F0C-01	from hqew, 现货 津讯发电子	IDT	10+	3200	QFP
+TEA1791T	from hqew, 现货 津讯发电子	NXP	10+	3144	SOP8
+TEA5764HN	from hqew, 现货 津讯发电子	NXP	06+/05+	39000	QFN
+TFA9810T	from hqew, 现货 津讯发电子	NXP	09+	900	SOP32
+TJA1040T/VM	from hqew, 现货 津讯发电子	NXP	1320+	8790	SOP8
+TJA1042T	from hqew, 现货 津讯发电子	NXP	13+	10000	SOP
+TJA1055T	from hqew, 现货 津讯发电子	NXP	09+	309	SOP14
+TL1451ACDR	from hqew, 现货 津讯发电子	TI	09+	514	SOP16
+TL1451ACPWR	from hqew, 现货 津讯发电子	TI	09+	3228	TSSOP16
+TL2428MC	from hqew, 现货 津讯发电子	PACKING	10+	382	QFP
+TPA1517NE	from hqew, 现货 津讯发电子	TI	00+	7140	DIP20
+TPA2010D1YZFR	from hqew, 现货 津讯发电子	TI	06+	490	QFN
+TPA6204A1DRBR	from hqew, 现货 津讯发电子	TI	08+	575	SOP
+TPS2211APWPR	from hqew, 现货 津讯发电子	TI	0614+	9755	SOP
+TPS51116RGER	from hqew, 现货 津讯发电子	TI	09+	3180	QFN
+TPS61042DRBR	from hqew, 现货 津讯发电子	TI	06+08+	25576	QFN
+TPS61090RSAR	from hqew, 现货 津讯发电子	TI	1201+	4774	QFN
+TPS61181RTER	from hqew, 现货 津讯发电子	TI	11+	375	QFN
+TPS62020DRCR	from hqew, 现货 津讯发电子	TI	0623+	3000	SOP
+TPS62046DGQR	from hqew, 现货 津讯发电子	TI	05+	102	MSOP10
+TPS62200DBVR	from hqew, 现货 津讯发电子	TI	05+	1019	SOT23-5
+TPS65120RGTR	from hqew, 现货 津讯发电子	TI	08+	400	QFN16
+TPS65161PWPR	from hqew, 现货 津讯发电子	TI	11+	12000	SSOP
+TRS3232EIDBR	from hqew, 现货 津讯发电子	TI	09+	23	SSOP16
+TS514IDT	from hqew, 现货 津讯发电子	ST	08+	22500	SOP
+TSA5523	from hqew, 现货 津讯发电子	PHILIPS	03+	753	SSOP20
+TSC2003IPWR	from hqew, 现货 津讯发电子	TI	1147+	1300	TSSOP16
+TSC2046IRGVR	from hqew, 现货 津讯发电子	TI	07+	2056	QFN
+TSM1012IDT	from hqew, 现货 津讯发电子	ST	10+	10395	SOP8
+TW2868-LA2-CR	from hqew, 现货 津讯发电子	INTERSIL	11+	20	QFP
+TW6802B-LA2-GR	from hqew, 现货 津讯发电子	TECHWELL	1118+	3888	QFP
+TW8811-LC2-GR	from hqew, 现货 津讯发电子	TECHWELL	1310+	720	QFP
+U6295	from hqew, 现货 津讯发电子	OKI	11+	181	QFP
+UB6232QF	from hqew, 现货 津讯发电子	ENE	0916+	1950	QFP
+UBX-G6010-ST	from hqew, 现货 津讯发电子	UBLOX	1227+	230	QFN
+UCLAMP0511T.TCT	from hqew, 现货 津讯发电子	SEMTECH	10+	6000	SLP1006
+UCLAMP2401T.TCT	from hqew, 现货 津讯发电子	SEMTECH	10+	12000	SLP1006
+UPA2757GR-E1	from hqew, 现货 津讯发电子	RENESAS	1016+	27500	SOP8
+UPA2790GR-E1-AT	from hqew, 现货 津讯发电子	RENESAS	09+	2500	SOP8
+UPC1316	from hqew, 现货 津讯发电子	NEC	03+	3044	DIP14L
+UPD70F3376M2GCA	from hqew, 现货 津讯发电子	RENESAS	11+	1000	TQFP100
+UPD78F0503AMC(S)-CAB	from hqew, 现货 津讯发电子	NEC	1025+	1014	SSOP
+UPD78F0514GA-8EU	from hqew, 现货 津讯发电子	NEC	06+	511	QFP48
+UPD78F0547AGC-GAD	from hqew, 现货 津讯发电子	NEC	10+	885	QFP48
+UPD78F1154AGK(S)-GAK-AX	from hqew, 现货 津讯发电子	RENESAS	1316+	2380	QFP
+USB2504A-JT	from hqew, 现货 津讯发电子	SMSC	08+	800	TQFP64
+USB2512A-AEZG	from hqew, 现货 津讯发电子	SMSC	10+	10359	QFN
+VAC3563BG6	from hqew, 现货 津讯发电子	NA	09+	1366	NA
+VT356FCX	from hqew, 现货 津讯发电子	VOLTERRA	13+	2500	BGA
+VT6113	from hqew, 现货 津讯发电子	VIA	10+	219	QFP
+W83627EHG-A	from hqew, 现货 津讯发电子	WINBOARD	07+	13	QFP
+W83L771AWG	from hqew, 现货 津讯发电子	WINBOARD	11+	22687	MSOP8
+W9412G6IH-5	from hqew, 现货 津讯发电子	WINBOARD	09+	121	TSOP54
+W9725G6JB-18	from hqew, 现货 津讯发电子	WINBOARD	10+	1890	BGA84
+W9725G6JB-3	from hqew, 现货 津讯发电子	WINBOARD	10+	15464	BGA
+WM8521H9GED/RV	from hqew, 现货 津讯发电子	WOLFSON	08+	4760	SOP
+WM8725GED/RV	from hqew, 现货 津讯发电子	WOLFSON	05+	173	SOP
+WM8727GED	from hqew, 现货 津讯发电子	WOLFSON	08+	736	SOP8
+WM8750LSEFL	from hqew, 现货 津讯发电子	WOLFSON	07+	107	QFN32
+WS1105-TR1	from hqew, 现货 津讯发电子	AVAGO	1030+	1000	QFN
+XC420061-006	from hqew, 现货 津讯发电子	XILINX	08+	400	SOP
+ZG43G	from hqew, 现货 津讯发电子	NA	10+	302	NA
+ZLF645E0H2864G	from hqew, 现货 津讯发电子	MAXIM	11+	239623	SSOP28
+ZR36441BGCF	from hqew, 现货 津讯发电子	ZORAN	08+	119	BGA
+ZR36442BGCF	from hqew, 现货 津讯发电子	ZORAN	03+	900	BGA
+ZR36463BGCG	from hqew, 现货 津讯发电子	ZORAN	07+	1682	BGA
+ZR36768	from hqew, 现货 津讯发电子	ZORAN	03+	86	QFP
+ZR36888HLCG-S	from hqew, 现货 津讯发电子	ZORAN	1023+	1721	LQFP256
+ZR36966ELCG/D	from hqew, 现货 津讯发电子	ZORAN	06+	1911	QFP
+ZR36966ELCG-UM	from hqew, 现货 津讯发电子	ZORAN	07+	4108	QFP
+ZR39775HGCF-B	from hqew, 现货 津讯发电子	ZORAN	1126+	70	BGA
+5CL8	from hqew, 现货 津讯发电子	TOSHIBA	13+	650	QFP
+88E1545MA0-LKJ2C000	from hqew, 现货 津讯发电子	MARVELL	1126+	697	QFP128
+88F6281-A1-BIA2C100	from hqew, 现货 津讯发电子	MARWELL	09+	330	BGA
+A3P250-FGG256I	from hqew, 现货 津讯发电子	ACTEL	10+	3336	BGA256
+A71X05QFI/Q	from hqew, 现货 津讯发电子	AMICCON	1123+	1425	QFN
+A73C02ADF/Q	from hqew, 现货 津讯发电子	AMICCOM	10+	2000	QFN
+AA4002G-E1	from hqew, 现货 津讯发电子	BCD	06+	3985	SOP28
+AAP2408VIR1	from hqew, 现货 津讯发电子	EUTECHS	09+	30	SOT23-5
+AD8051A	from hqew, 现货 津讯发电子	AD	0630+	6219	SOP
+ADM809RAKSZ-REEL7	from hqew, 现货 津讯发电子	AD	0738+	3000	SC70-3
+ADP3334ACPZ-REEL7	from hqew, 现货 津讯发电子	AD	09+/10+	42100	QFN
+ADSP-2189MBSTZ-266	from hqew, 现货 津讯发电子	AD	11+	675	LQFP100
+ADUM1250ARZ	from hqew, 现货 津讯发电子	AD	08+	350	SOP8
+ADV7340BSTZ	from hqew, 现货 津讯发电子	AD	06+	159	QFP
+AH180-WG-7	from hqew, 现货 津讯发电子	DIODES INC	0921+	2800	SOT-23
+AH180-WG-7-26	from hqew, 现货 津讯发电子	DIODES INC	09+	19000	SOT23-3
+AK4385ET-E2	from hqew, 现货 津讯发电子	AKM	08+	21360	SSOP16
+AK4388VT-E2	from hqew, 现货 津讯发电子	AKM	09+	3000	TSSOP16L
+AK5358AET-E2	from hqew, 现货 津讯发电子	AKM	08+	15	SOP
+ALC883-VBI-GR	from hqew, 现货 津讯发电子	REALTEK	09+	3000	QFP
+AMIS30660CANH2RG	from hqew, 现货 津讯发电子	ON SEMI	1338+	3000	SOP8
+AML7210	from hqew, 现货 津讯发电子	AMLOGIC	08+	394	QFP
+AN8826AT	from hqew, 现货 津讯发电子	台湾晶发	05+	22145	SOP
+ANX9832	from hqew, 现货 津讯发电子	ANALOGIC	10+	102	QFN48
+AO3401	from hqew, 现货 津讯发电子	国产	11+	15000	SOT-23
+AO4435	from hqew, 现货 津讯发电子	AOS	10+	2800	SOP8
+AO4466	from hqew, 现货 津讯发电子	AOS	09+	3000	SOP8
+AON7408L	from hqew, 现货 津讯发电子	AOS	12+	5000	DFN
+AOZ8804DI	from hqew, 现货 津讯发电子	AOS	08+	12453	QFN
+AOZ8902CIL	from hqew, 现货 津讯发电子	AOS	13+	254500	SOT23-6
+AP2000ES6-3.3	from hqew, 现货 津讯发电子	CHIPOWN	10+	78000	SOT23-6
+AP3703KTR-G1	from hqew, 现货 津讯发电子	BCD	12+	3678	SOT
+AP3770BK6TR-G1	from hqew, 现货 津讯发电子	BCD	12+	138000	SOT23-6
+AP8012	from hqew, 现货 津讯发电子	CHIPOWN	10+	300	DIP
+APW7136CCI-TRG	from hqew, 现货 津讯发电子	ANPEC	10+	832	SOT23-6
+APX9132AI-TRG	from hqew, 现货 津讯发电子	ANPEC茂达	12+	30000	SOT-23
+AR2413A-001	from hqew, 现货 津讯发电子	ATHEROS	0741+	119	BGA
+AR9132-BC1E	from hqew, 现货 津讯发电子	ATHEROS	08+	3970	BGA
+AR9283-AL1A	from hqew, 现货 津讯发电子	ATHEROS	08+	2530	QFN
+ASM1440	from hqew, 现货 津讯发电子	ASMT	10+	7000	QFN
+AT440D-CC-2	from hqew, 现货 津讯发电子	CENTRALIT	05+	5739	BGA
+AT643	from hqew, 现货 津讯发电子	CENTRALIT	07+	48	BGA
+ATA6620N-TAQY	from hqew, 现货 津讯发电子	ATMEL	11+	4000	SOP8
+AW8145CSR	from hqew, 现货 津讯发电子	AWINIC艾为	10+	6000	CSP9
+AZC099-04S.R7G	from hqew, 现货 津讯发电子	AMAZING	10+	10475	SOT23-6
+AZC199-04S.R7G	from hqew, 现货 津讯发电子	AMAZING	10+	9000	SOT23-6
+BA3544F-E2	from hqew, 现货 津讯发电子	ROHM	07+	5000	SOP8
+BA6392FP	from hqew, 现货 津讯发电子	ROHM	05+	151	HSSOP28
+BA7653AF-E2	from hqew, 现货 津讯发电子	ROHM	0541+	14228	SOP8
+BA7655F-E2	from hqew, 现货 津讯发电子	ROHM	08+	5000	SOP8
+BCM20792SBKWBG	from hqew, 现货 津讯发电子	BROADCOM	11+	1000	BGA
+BCM47511IFBG	from hqew, 现货 津讯发电子	BROADCOM	11+	2310	BGA
+BCM4751IFBG	from hqew, 现货 津讯发电子	BROADCOM	11+	11673	BGA
+BCM54612B1KMLG	from hqew, 现货 津讯发电子	BROADCOM	1212+	3114	QFN
+BCM56025B0KPBG	from hqew, 现货 津讯发电子	BOARDCOM	10+	400	BGA
+BCM56302B1KEBG	from hqew, 现货 津讯发电子	BROADCOM	1016+	20	BGA
+BCM56307B1KEBG	from hqew, 现货 津讯发电子	BOARDCOM	10+	33	FCBGA115
+BCM56314A0KFEBG	from hqew, 现货 津讯发电子	BROADCOM	1022+	3	BGA
+BCM5646LB0KPBG	from hqew, 现货 津讯发电子	BROADCOM	1022+	29	BGA
+BCM63283KFBG	from hqew, 现货 津讯发电子	BOARDCOM	10+	300	BGA
+BCM6348KPBG	from hqew, 现货 津讯发电子	BOARDCOM	0849+	20	BGA
+BCM6512IPB	from hqew, 现货 津讯发电子	BROADCOM	1021+	237	BGA
+BCM7115KPBG	from hqew, 现货 津讯发电子	BOARDCOM	08+	11	BGA
+BCM7312TKPB16G	from hqew, 现货 津讯发电子	BOARDCOM	08+	10	BGA
+BFG591	from hqew, 现货 津讯发电子	NXP	06+	230	SOT223
+BH1416F	from hqew, 现货 津讯发电子	ROHM	05+	9518	SOP
+BH1418FV-E2	from hqew, 现货 津讯发电子	ROHM	05+/06+	109900	TSSOP24
+BH3354	from hqew, 现货 津讯发电子	ROHM	05+	2520	SOP
+BIT1611G	from hqew, 现货 津讯发电子	BITEK	07+	960	QFP128
+BQ2057CDGKR	from hqew, 现货 津讯发电子	TI	10+	1769	TSOP
+BQ24195RGER	from hqew, 现货 津讯发电子	TI	12+	173	QFN
+BU1923F	from hqew, 现货 津讯发电子	ROHM	06+	1893	SOP16
+BU2506FV-E2	from hqew, 现货 津讯发电子	ROHM	1007+	2500	SSOP
+CAT24C256WI-GT3	from hqew, 现货 津讯发电子	ON SEMI	10+	2274	SOP
+CC1203	from hqew, 现货 津讯发电子	C2MICROSY	10+	6605	BGA
+CE2836	from hqew, 现货 津讯发电子	CE	06+	2350	QFP48
+CH7307C-DEP	from hqew, 现货 津讯发电子	CHRONTEL	10+	460	QFP
+CJ3117DC	from hqew, 现货 津讯发电子	SS	10+	3000	DFN
+CM1451-08CP	from hqew, 现货 津讯发电子	CMD	08+	6780	CSP20
+CM2021-02TR	from hqew, 现货 津讯发电子	CMD	10+	4018	TSSOP
+CM6800TXIP	from hqew, 现货 津讯发电子	CHAMPIOM冠虹	10+	8780	DIP16
+CMLDM7002A TR	from hqew, 现货 津讯发电子	CENTRAL	07+	15000	SOT-563
+CP2894CA	from hqew, 现货 津讯发电子	CAT	09+	190	SOP8
+CR6238T	from hqew, 现货 津讯发电子	CR	12+	27800	DIP8
+CS4360-KZZR	from hqew, 现货 津讯发电子	CIRRUS	05+/06+	470	TSSOP28
+CS5506-BSZ	from hqew, 现货 津讯发电子	CIRRUS	09+	72	SOP
+CSR6130A04U	from hqew, 现货 津讯发电子	CSR	13+	700	BGA
+CXA1733M	from hqew, 现货 津讯发电子	SONY	03+	12125	SOP20
+CY8C20324-12LQXI	from hqew, 现货 津讯发电子	CYPRESS	10+	6298	QFN
+CY8C21345-24SXI	from hqew, 现货 津讯发电子	CYPRESS	1043+	513	SOP
+CY8C27643-24LFXI	from hqew, 现货 津讯发电子	CYPRESS	09+	520	QFN
+D6283	from hqew, 现货 津讯发电子	CHMC华越	08+	6800	ZIP
+DE19RF16	from hqew, 现货 津讯发电子	DSP	07+	2816	QFN
+DM9102DEP	from hqew, 现货 津讯发电子	DAVICOM	07+	17530	QF128P
+DS1307Z+T	from hqew, 现货 津讯发电子	MAXIM	1208+	14	SOP8
+DS75U+T	from hqew, 现货 津讯发电子	MAXIM	08+	928	MSOP8
+DSPIC33FJ64GS606T-I/PTD22	from hqew, 现货 津讯发电子	MICROCHIP	11+	10690	TQFP64
+EN25F20-100GCP	from hqew, 现货 津讯发电子	EON	09+	5831	SOP8
+EP3C80F780C8	from hqew, 现货 津讯发电子	ALTERA	10+	562	BGA
+EP9134	from hqew, 现货 津讯发电子	EXPLORE	1304+	642	QFP
+ES6688	from hqew, 现货 津讯发电子	EES	08+	95	QFP
+ES6698FDF	from hqew, 现货 津讯发电子	ESS	05+	7679	QFP
+EUA6019QIR1	from hqew, 现货 津讯发电子	EUTECH	10+	855	TSSOP24
+FD9802C-A1	from hqew, 现货 津讯发电子	FD	11+	60	SOP
+FM1073V-23-G	from hqew, 现货 津讯发电子	FORTEMED	06+	4000	QFP
+FT6306DWB	from hqew, 现货 津讯发电子	FOCALTECH	12+	1020	QFN
+G5244T11U	from hqew, 现货 津讯发电子	GMT	12+	3000	SOT
+GM5726H-LF-AB	from hqew, 现货 津讯发电子	GENESIS	07+	5000	QFP128
+GM5766-LF-AB	from hqew, 现货 津讯发电子	GENESIS	07+	24	QFP128
+GM8120SF-BE	from hqew, 现货 津讯发电子	GRAIN	09+	231	BGA
+GPL32902A-002B-QL171	from hqew, 现货 津讯发电子	N/A	12+	1120	QFP
+GT20L16P1Y	from hqew, 现货 津讯发电子	上海集通	1118+	6000	SOP23-6
+GT818X	from hqew, 现货 津讯发电子	GOODIX	12+	98	QFN
+GT868	from hqew, 现货 津讯发电子	GOODIX	12+	1500	QFN
+HD64F36109HV	from hqew, 现货 津讯发电子	RENESAS	11+	13144	QFP100
+HI3110ERQC V201000	from hqew, 现货 津讯发电子	海思	1315+	243	TQFP
+HI3611RBC	from hqew, 现货 津讯发电子	HISILICON	09+	1156	BGA
+HIP6006CB	from hqew, 现货 津讯发电子	INTERSIL	09+	2500	SOP14
+HT1620	from hqew, 现货 津讯发电子	HOLTEK	09+	15	SOP
+HT1622	from hqew, 现货 津讯发电子	HOLTEK	09+	92	QFP64
+HT82A850R	from hqew, 现货 津讯发电子	HOLTEK	05+	450	QFP
+HT82K95E	from hqew, 现货 津讯发电子	HOLTEK	06+	940	SOP20
+HX8267-A00BPD300-A	from hqew, 现货 津讯发电子	HIMAX	08+	30480	NA
+HX8347-D000PD300	from hqew, 现货 津讯发电子	HIMAX	10+	600	SOP
+HX8677-B01BPD300	from hqew, 现货 津讯发电子	HIMAX	08+	8960	NA
+HYCOUEEOAF2-3S60E	from hqew, 现货 津讯发电子	HYNIX	09+	2139	BGA
+ICE40HX1K-VQ100	from hqew, 现货 津讯发电子	LATTICE	13+	2000	NA
+ICN2026CP	from hqew, 现货 津讯发电子	CHIPONE	13+	58150	SSOP24
+ICN2026DP	from hqew, 现货 津讯发电子	CHIPONE	13+	36850	SSOP24
+IMAPX210BM1-80	from hqew, 现货 津讯发电子	INFOTMIC	11+	6500	BGA
+INT1400CQZ-TR	from hqew, 现货 津讯发电子	ATHEROS	1029+	2407	BGA
+IP113G	from hqew, 现货 津讯发电子	ICPLUS	1246+	4900	QFN
+IR2113STR	from hqew, 现货 津讯发电子	INTERSIL	05+	103	SOP
+IRF7304TRPBF	from hqew, 现货 津讯发电子	IR	09+	3520	SOP8
+IS1632N-213	from hqew, 现货 津讯发电子	ISSC	10+	1560	QFN
+IS6110A14U	from hqew, 现货 津讯发电子	CSR	10+	216	QFN56
+ISL6261ACRZ-T	from hqew, 现货 津讯发电子	INTERSIL	08+	215	QFN
+ISL6269CRZ-T	from hqew, 现货 津讯发电子	INETRSIL	09+	3599	QFN
+ISL6333ACRZ	from hqew, 现货 津讯发电子	INTERSIL	1016+	9730	QFN
+ISL6622-CRZ-T	from hqew, 现货 津讯发电子	INTERSIL	10+	6000	QFN
+ISL83072E1BZ	from hqew, 现货 津讯发电子	INTERSIL	08+	2077	SOP8
+IW1696-04-A2	from hqew, 现货 津讯发电子	IWATT	11+	30000	SOT23-5
+IW1696S-01	from hqew, 现货 津讯发电子	IWATT	13+	36000	SOT23-5
+IW1700-01	from hqew, 现货 津讯发电子	IWATT	11+	14860	QFN
+JL2183A	from hqew, 现货 津讯发电子	杰霖	11+	308	QFP
+JL2185A-V2	from hqew, 现货 津讯发电子	杰霖	11+	380	QFP
+JM20337-LGCA3C	from hqew, 现货 津讯发电子	JMICRON	1305+	9280	QFP
+JM20339-LGDA0C	from hqew, 现货 津讯发电子	JMICRON	07+	2536	QFP64
+JMB385-QGAZ0C	from hqew, 现货 津讯发电子	JMICRON	09+	3000	QFP48
+JMS539-LGCA2B	from hqew, 现货 津讯发电子	JMICRON	11+	84515	QFP64
+KTH1036AWSB	from hqew, 现货 津讯发电子	ELAN	11+	1560	QFN
+KTP1059FBQSV	from hqew, 现货 津讯发电子	KTP	11+	5000	QFP
+L6561D	from hqew, 现货 津讯发电子	ST	09+	9180	SOP
+L6571AD	from hqew, 现货 津讯发电子	ST	12+	10000	SOP8
+L6910ATR	from hqew, 现货 津讯发电子	ST	06+	12500	TSSOP16
+LA1828	from hqew, 现货 津讯发电子	SANYO	05+	1100	DIP24
+LA6541	from hqew, 现货 津讯发电子	SANYO	04+	4830	DIP
+LA7577N	from hqew, 现货 津讯发电子	SANYO	03+	7679	DIP24
+LA7605AM-MPB-E	from hqew, 现货 津讯发电子	SANYO	05+	270	QFP
+LAE6SF-ABBB-23-1-Z-F	from hqew, 现货 津讯发电子	OSRAM	10+	4000	SMD
+LB11961-TLM-H	from hqew, 现货 津讯发电子	SANYO	12+	3840	SOP
+LB1836M	from hqew, 现货 津讯发电子	SANYO	06+	50	SOP
+LB1860	from hqew, 现货 津讯发电子	SANYO	03+	1747	SOP14
+LB1977M	from hqew, 现货 津讯发电子	SANYO	03+	4956	SOP24
+LC4064V-75T100C	from hqew, 现货 津讯发电子	LATTICE	06+	1300	BGA
+LC4128ZC-75MN2-42	from hqew, 现货 津讯发电子	LATTICE	08+	1446	BGA
+LC72131M	from hqew, 现货 津讯发电子	SANYO	07+	2000	SOP20
+LC75853E	from hqew, 现货 津讯发电子	SANYO	03+	33796	QFP24L
+LC7881	from hqew, 现货 津讯发电子	SANYO	05+	2000	DIP20
+LC79430D	from hqew, 现货 津讯发电子	SANYO	06+	250	QFP
+LC865508A	from hqew, 现货 津讯发电子	SANYO	03+	7090	QFP
+LC87F1HC4AVU-SQFP-E	from hqew, 现货 津讯发电子	SANYO	10+	6696	QFP
+LD7535MBL	from hqew, 现货 津讯发电子	通佳	11+	160	SOT23-6
+LE79252BTC	from hqew, 现货 津讯发电子	LEGERITY	10+	15280	QFP
+LM1877MX-9	from hqew, 现货 津讯发电子	NS	99+	43	SOP14
+LM2622MMX-ADJ	from hqew, 现货 津讯发电子	NS	04+	4395	MSOP8
+LM2651MTCX-3.3	from hqew, 现货 津讯发电子	NS	10+	4264	TSSOP16
+LM2750LDX-5.0	from hqew, 现货 津讯发电子	NS	05+/08+	65272	QFN
+LM2931AD-5.0R2G	from hqew, 现货 津讯发电子	ON SEMI	10+	150	SOP8
+LM3242TMX	from hqew, 现货 津讯发电子	NEC	13+	30000	NA
+LM48580TLX	from hqew, 现货 津讯发电子	NS	10+	12515	SOP
+LMC6032IN	from hqew, 现货 津讯发电子	NS	02+	19380	DIP8
+LNBH21PD-TR	from hqew, 现货 津讯发电子	ST	12+	1000	SOP20
+LNK603DG-TL	from hqew, 现货 津讯发电子	POWER	11+	134270	SOP7
+LP28010AQVF	from hqew, 现货 津讯发电子	LOWPOWER	10+	10000	DFN10
+LP2986AIMM-5.0	from hqew, 现货 津讯发电子	NS	08+	1000	MSOP8
+LPC1112FHN33/202	from hqew, 现货 津讯发电子	NXP	11+	2700	QFN
+LPC1752FBD80	from hqew, 现货 津讯发电子	NXP	10+	107	LQFP80
+LPC2210	from hqew, 现货 津讯发电子	PHILIPS	08+	150	TQFP144
+LR-D613S5	from hqew, 现货 津讯发电子	KYOCERA	07+	8000	QFN
+LT3502AEDC	from hqew, 现货 津讯发电子	LINEAR	12+	4264	QFN8
+LT3590ESC8	from hqew, 现货 津讯发电子	LENEAT	09+	5000	SOT238
+LT3685EMSE	from hqew, 现货 津讯发电子	LINEAR	08+/12+	8779	MSOP10
+LT5512EUF	from hqew, 现货 津讯发电子	LINEAR	1028+	2475	QFN
+LTC3417EDHC#TRPBF	from hqew, 现货 津讯发电子	LINEAR	07+	29567	DFN16
+LTC3428EDD	from hqew, 现货 津讯发电子	LINEAR	08+	59700	QFN
+LTC3539EDCB-2	from hqew, 现货 津讯发电子	LINEAR	12+	18	DFN8
+LTC3586EUFE	from hqew, 现货 津讯发电子	LINEAR	09+	11096	QFN38
+MB86276PB-GS-ZE1	from hqew, 现货 津讯发电子	FUJITSU	1202+	1498	BGA
+MB91F264B	from hqew, 现货 津讯发电子	FUJITSU	11+	317	QFP
+MB96F918DSBPMC-GS-ERE2	from hqew, 现货 津讯发电子	FUJITSU	11+	3000	TQFP100
+MBI5041GF-A	from hqew, 现货 津讯发电子	聚积	09+	1366	SSOP24
+MC145018P	from hqew, 现货 津讯发电子	FREESCALE	07+	8590	DIP20
+MC44BC374DWR2	from hqew, 现货 津讯发电子	MOTOROLA	03+	4000	TSSOP24
+MC9S08AC32CFGER	from hqew, 现货 津讯发电子	FREESCALE	11+	3800	QFP
+MCF5235CVM150	from hqew, 现货 津讯发电子	FREESCALE	1322+	90	BGA256
+MCIMX508CVK8B	from hqew, 现货 津讯发电子	FREESCALE	12+	1078	BGA
+MD4133	from hqew, 现货 津讯发电子	瑞信	12+	12000	QFN
+MDU2654RH	from hqew, 现货 津讯发电子	MAGNACHIP	11+	51320	QFN8
+MFI341S1979	from hqew, 现货 津讯发电子	AVNET	06+	1683	QFN
+MFI341S2163	from hqew, 现货 津讯发电子	KIT	11+	1282	QFN
+MGA-43228-TR1G	from hqew, 现货 津讯发电子	AVAGO	1116+	620	QFN
+MHV5IC2215NR2	from hqew, 现货 津讯发电子	FREESCALE	07+	4300	SSOP
+MIC5205-3.3YM5	from hqew, 现货 津讯发电子	MICREL	12+	6000	SOT23-5
+MIC94061YMT-TR	from hqew, 现货 津讯发电子	MICREL	10+	9970	SC-70-6
+MP1410ES	from hqew, 现货 津讯发电子	MPS	10+	2580	SOP
+MP1412DH-LF-Z	from hqew, 现货 津讯发电子	MPS	08+	165	MSOP10
+MP2104DJ-LF-Z	from hqew, 现货 津讯发电子	MPS	0944+	950	SOT23-5
+MSD106CHL	from hqew, 现货 津讯发电子	MSTAR	09+	864	QFP256
+MSP3415G-QI	from hqew, 现货 津讯发电子	MICRO	06+	2903	QFP64
+MSP3440G-GI-C12	from hqew, 现货 津讯发电子	MICRO	06+	644	QFP
+MSP430F2011IRSAR	from hqew, 现货 津讯发电子	TI	11+/09+	3000	QFN
+MSP430F2012	from hqew, 现货 津讯发电子	TI	08+	555	TSSOP14
+MST6E181VS-LF-Z1	from hqew, 现货 津讯发电子	MSTAR	12+	1210	LQFP216
+MST710A-LF	from hqew, 现货 津讯发电子	MSTAR	08+	451	QFP100
+MT5112EE/A	from hqew, 现货 津讯发电子	MTK	11+	1535	QFP
+MT6161AN	from hqew, 现货 津讯发电子	MTK	09+	762	QFN
+MT8221CRSU	from hqew, 现货 津讯发电子	MTK	06+	2600	QFP
+MV9200	from hqew, 现货 津讯发电子	VASTVISIO	1110+	600	QFP
+M24C02-RMB6TG	from hqew, 现货 津讯发电子	ST	08+	5710	QFN8
+M30876FJBGP#U3	from hqew, 现货 津讯发电子	RENESAS	11+	4719	QFP
+M3328B1B	from hqew, 现货 津讯发电子	ALI	05+	10799	QFP
+M3823FHF4	from hqew, 现货 津讯发电子	MIT	03+	384	NA
+M430F448REVG	from hqew, 现货 津讯发电子	TI	09+	756	QFP100
+M51957A	from hqew, 现货 津讯发电子	MITSUBIS	07+	2715	DIP
+M52795FP	from hqew, 现货 津讯发电子	RENESAS	09+	350	SOP28
+M5673-A1FG	from hqew, 现货 津讯发电子	ALI	1313+/13	1440	QFP128
+M88TS2022	from hqew, 现货 津讯发电子	MTG	11+	5805	QFN
+MAX16054AZT+T	from hqew, 现货 津讯发电子	MAXIM	10+	153	TSOT23-6
+MAX1668MEE+T	from hqew, 现货 津讯发电子	MAXIM	1030+	1015	SSOP
+MAX17077AETM+TW	from hqew, 现货 津讯发电子	MAXIM	09+	10000	QFN48
+MAX3221CUE	from hqew, 现货 津讯发电子	MAXIM	06+	3460	TSSOP16
+MAX4375FEUB+T	from hqew, 现货 津讯发电子	MAXIM	07+/08+	7060	SOP
+MAX9668ETP+T	from hqew, 现货 津讯发电子	MAXIM	10+	29900	QFN20
+MAX9700CETB+T	from hqew, 现货 津讯发电子	MAXIM	08+	10732	QFN
+N2576S	from hqew, 现货 津讯发电子	NIKO	05+	1700	TO263
+N2DS12Q16BS-5T	from hqew, 现货 津讯发电子	ELIXIR	0809+	1080	TSSOP
+NCV3063DR2G	from hqew, 现货 津讯发电子	ON SEMI	1324+	2500	SOP8
+NRF2402G	from hqew, 现货 津讯发电子	NORDIC	06+	40	QFN
+NT68521AELFG	from hqew, 现货 津讯发电子	NOVATEK	07+	3953	QFP128
+NUC120VD3AN	from hqew, 现货 津讯发电子	NUVOTON	13+	255	LQFP100
+OB2273AMP	from hqew, 现货 津讯发电子	昂宝	12+	12000	SOP23-6
+OB2356LCGA	from hqew, 现货 津讯发电子	ON-BRIGHT	11+	10000	SOP
+OB2540MP	from hqew, 现货 津讯发电子	昂宝	12+	1700	SOT23-6
+OZ9936GN	from hqew, 现货 津讯发电子	MICRO	07+	810	SOP8
+P6006BD	from hqew, 现货 津讯发电子	NIKO	08+	6940	SOT-252
+PCA9516APW	from hqew, 现货 津讯发电子	NXP	07+	105	SSOP16
+PCA9517ADP	from hqew, 现货 津讯发电子	NXP	1306+	2180	MSOP8
+PCA9535BS	from hqew, 现货 津讯发电子	NXP	06+/09+	3913	QFN
+PCA9535RGER	from hqew, 现货 津讯发电子	TI	09+	329	QFN24
+PCD3312CT-1	from hqew, 现货 津讯发电子	PHILIPS	0239+	80	SOP
+PCF8574TS	from hqew, 现货 津讯发电子	PHILIPS	03+	400	SOP20
+PCM1800E	from hqew, 现货 津讯发电子	TI	00+	190	SOP
+PJ5947	from hqew, 现货 津讯发电子	NIKON	03+	4000	NA
+PM25LV512A-100DCER	from hqew, 现货 津讯发电子	PFLASH	11+	6675	TSSOP8
+PNX8473-041S1GZ	from hqew, 现货 津讯发电子	TRIDENT	1219+	300	BGA
+PS21246-AEY	from hqew, 现货 津讯发电子	MITSUBISH	08+	177	SOPDIP
+PS8301TQFN40GTR	from hqew, 现货 津讯发电子	PARADE	0712+	2480	QFN
+PTN3392BS	from hqew, 现货 津讯发电子	NXP	1250+130	897	QFN
+PW3300-10L	from hqew, 现货 津讯发电子	PIXELWORK	08+	528	BGA256
+PXAS37KBBC	from hqew, 现货 津讯发电子	NXP	10+	209	QFP80
+Q65110A7368	from hqew, 现货 津讯发电子	OSRAM	10+/06+	4000	SMD
+QP7884	from hqew, 现货 津讯发电子	NA	09+	520	NA
+R1LP0408CSP-5SI	from hqew, 现货 津讯发电子	RENESAS	10+	740	SOP
+R2A20117SP	from hqew, 现货 津讯发电子	RENASAS	09+	4247	SOP16
+R2A30254SP	from hqew, 现货 津讯发电子	RENESAS	1018+	450	SOP
+R2J20651NP	from hqew, 现货 津讯发电子	RENESAS	09+	1010	QFN
+R5F21152SP	from hqew, 现货 津讯发电子	RENESAS	08+	5390	SOP
+R5F212K4SN061FP	from hqew, 现货 津讯发电子	RENESAS	11+	5936	BGA
+R5F3640DDFA-UGDP	from hqew, 现货 津讯发电子	RENESAS	10+	2174	QFP100
+R8J32040FPV-22	from hqew, 现货 津讯发电子	RENESAS	08+	416	QFP
+RA8863P2NB	from hqew, 现货 津讯发电子	RAIP	06+	589	QFP
+RCLAMP0504F.TCT	from hqew, 现货 津讯发电子	SEMTECH	10+	915	SOT363
+RCLAMP0521P.TCT	from hqew, 现货 津讯发电子	SEMTECH	10+	300000	QFN
+RClamp7535M.TLT	from hqew, 现货 津讯发电子	SEMTECH	1043+	4959	SOP10L
+RDA5802	from hqew, 现货 津讯发电子	RDA	0928+	1085	QFN
+RDA5807P	from hqew, 现货 津讯发电子	RDA	08+	922	QFN24
+RE46C153E	from hqew, 现货 津讯发电子	MICRO	10+	16500	NA
+RK2738	from hqew, 现货 津讯发电子	ROCKCHIP	1151+	140	QFP
+RM601N-TE1	from hqew, 现货 津讯发电子	FUJITSU	08+	1397	SOP8
+RT8167AGQW	from hqew, 现货 津讯发电子	RICHTEK	13+	1613	QFN
+RT8804APQW	from hqew, 现货 津讯发电子	RICHTEK	07+	2040	NA
+RT9167A-25GB	from hqew, 现货 津讯发电子	RICHTEK	10+	3000	SOT23-5
+RT9179PB	from hqew, 现货 津讯发电子	RECHTEK	0829+	1995	SOT235
+RT9261-50PX	from hqew, 现货 津讯发电子	RICHTEK	11+	2000	SOT-89
+RT9432TS	from hqew, 现货 津讯发电子	RICHTEK	07+	2500	NA
+RT9603CS	from hqew, 现货 津讯发电子	RICHTEK	05+	19814	SOP
+RTD1073MD-GR	from hqew, 现货 津讯发电子	REALTEK	09+	8278	NA
+RTD2525L-LF	from hqew, 现货 津讯发电子	REALTEK	08+	560	QFP48
+RTD2620-LF	from hqew, 现货 津讯发电子	REALTEK	11+	240	QFP
+RTL8103E	from hqew, 现货 津讯发电子	REALTEK	0924+	1890	QFN
+RTL8191RU-VA6-GR	from hqew, 现货 津讯发电子	REALTEK	11+	40338	QFN
+RTL8671B-VE-GR	from hqew, 现货 津讯发电子	REALTEK	12+	8100	QFP128
+S1A0903X01-Q080	from hqew, 现货 津讯发电子	SAMSUNG	02+	1455	QFP
+S1A2224	from hqew, 现货 津讯发电子	SAMSUNG	03+	34975	DIP14L
+S1T3361D01	from hqew, 现货 津讯发电子	SAMSUNG	03+	350	SOP16
+S1T8507B01	from hqew, 现货 津讯发电子	SAMSUNG	04+	27210	SOP
+S3C2440AL-40	from hqew, 现货 津讯发电子	SAMSUNG	10+	8	BGA
+S3C825AC73-QW8A	from hqew, 现货 津讯发电子	SAMSUNG	05+	2309	QFP
+S3F84K4XZZ-VK94	from hqew, 现货 津讯发电子	SAMSUNG	09+	4898	SSOP20
+S5L2010X02	from hqew, 现货 津讯发电子	SAMSUNG	09+	500	QFP
+S5L8310W	from hqew, 现货 津讯发电子	SAMSUNG	07+/08+	5482	QFP
+S5L9292	from hqew, 现货 津讯发电子	SAMSUNG	06+	100	QFP
+S-8242BAT-18T1G	from hqew, 现货 津讯发电子	SEIKO	11+	30000	MSOP8
+S-8244AAAFN-CEAT2G	from hqew, 现货 津讯发电子	SEIKO	08+	420	SOP8
+S9S12HZ64J3VAL	from hqew, 现货 津讯发电子	FREESCALE	09+	600	LQFP112
+S9S12XS256JOVAA	from hqew, 现货 津讯发电子	FREESCALE	09+	840	QFP
+SA1414SCTR	from hqew, 现货 津讯发电子	SILAN	09+	39	SOP
+SAA7117AE/V2	from hqew, 现货 津讯发电子	PHILIPS	06+	630	BGA156
+SAA7185W	from hqew, 现货 津讯发电子	PHILIPS	03+	3589	PLCC
+SAA7325	from hqew, 现货 津讯发电子	PHILIPS	03+	82	QFP64
+SARS03	from hqew, 现货 津讯发电子	SANKEN	07+	4040	TO-220
+SC5C110AAD-A040	from hqew, 现货 津讯发电子	SAMSUNG	0902+	316	BGA
+SDC6073	from hqew, 现货 津讯发电子	光大芯业	12+	5000	MSOP8
+SGM4684XG/TR	from hqew, 现货 津讯发电子	SGMICRO	1310+	30000	CSP
+SI4705-D60-GM	from hqew, 现货 津讯发电子	SILICON	12+	9200	QFN
+SI4741-C10-GMR	from hqew, 现货 津讯发电子	SILICON	10+	3450	QFN
+SI5441BDC-T1-E3	from hqew, 现货 津讯发电子	VISHAY	1129+	6000	SOT23-8
+SI7716ADN-T1-GE3	from hqew, 现货 津讯发电子	VISHAY	10+	81000	QFN8
+SI8413DB-T1-E1	from hqew, 现货 津讯发电子	VISHAY	11+/09+/	66000	QFN
+SII9024ARBTTR	from hqew, 现货 津讯发电子	SILICON	11+	5190	BGA
+SIL9223ACTU	from hqew, 现货 津讯发电子	SILICON	10+	310	TQFP144
+SKY65352-11	from hqew, 现货 津讯发电子	SKYWORKS	1023+	1050	NA
+SLA7024M	from hqew, 现货 津讯发电子	SANKEN	12+	2160	ZIP18
+SM1628B	from hqew, 现货 津讯发电子	SM明微	08+	3585	SOP28
+SMP8642AD-CBE3	from hqew, 现货 津讯发电子	SIGMADE	10+	46	BGA
+SMP8655BU	from hqew, 现货 津讯发电子	SIGMADESI	10+	68	BGA
+SN03ACPA	from hqew, 现货 津讯发电子	昂宝	11+	2100	SOP8
+SN3726JIR1	from hqew, 现货 津讯发电子	SI-EN	10+	4500	QFN
+SN7325A424E	from hqew, 现货 津讯发电子	SI-EN	1017+	2118	QFN
+SN8P2624SG	from hqew, 现货 津讯发电子	SONIX	11+	480	SOP28
+SPC8548EPXAUJB	from hqew, 现货 津讯发电子	FREESCALE	1123+	180	BGA
+SPHE1003A-HL171	from hqew, 现货 津讯发电子	SUNPLUS	08+	785	LQFP216
+SPHE8104TW	from hqew, 现货 津讯发电子	SUNPLUS	0921+	340	QFP
+SPHE8281A	from hqew, 现货 津讯发电子	SUNPLUS	05+	1472	QFP256
+SPMC65P2102A	from hqew, 现货 津讯发电子	SPMC65	06+	6000	QFP
+SPMC65SF112A-001D-HL211	from hqew, 现货 津讯发电子	SUNPLUS	12+	2500	LQFP32
+SPV7100E-HLEB2	from hqew, 现货 津讯发电子	SUNPLUS	0745+	11761	LQFP256L
+SSD1906	from hqew, 现货 津讯发电子	SOLOMOM	10+	599	QFP
+STI5518DQC	from hqew, 现货 津讯发电子	ST	05+	22	QFP
+STI7710PUD	from hqew, 现货 津讯发电子	ST	0841+	92	BGA
+STK3101-90H	from hqew, 现货 津讯发电子	SITRONIX	1247+	2770	NA
+STM5105ALB	from hqew, 现货 津讯发电子	ST	07+	308	QFP
+STV6412AD	from hqew, 现货 津讯发电子	ST	04+	6896	TQFP64
+STV9555	from hqew, 现货 津讯发电子	ST	03+	1490	ZIP11
+STV9556A	from hqew, 现货 津讯发电子	ST	07+	1120	ZIP11
+SVF4N60DTR	from hqew, 现货 津讯发电子	士兰	12+	5970	TO-252
+SY8089AAAC	from hqew, 现货 津讯发电子	SILERGY	12+	6000	SOT23-5
+TA1243CFN	from hqew, 现货 津讯发电子	TOSHIBA	03+	8278	SOP24
+TA2005SN	from hqew, 现货 津讯发电子	TOSHIBA	03+	360	ZIP12
+TA2092N	from hqew, 现货 津讯发电子	TOSHIBA	06+	13750	DIP24
+TA2149BN	from hqew, 现货 津讯发电子	TOSHIBA	06+	1610	DIP24
+TA8189N	from hqew, 现货 津讯发电子	TOSHIBA	06+	160	DIP
+TA8217P	from hqew, 现货 津讯发电子	TOSHIBA	03+	125	DIP
+TAS5614A	from hqew, 现货 津讯发电子	TI	11+	311	QFP
+TC9162AF	from hqew, 现货 津讯发电子	TOSHIBA	05+	665	SOP28
+TC9257F	from hqew, 现货 津讯发电子	TOSHIBA	0407+	80	SOP
+TC9284	from hqew, 现货 津讯发电子	TOSHIBA	05+	4099	QFP
+TC9462F	from hqew, 现货 津讯发电子	TOSHIBA	04+	3066	QFP100
+TC9462FG	from hqew, 现货 津讯发电子	TOSHIBA	05+	388	QFP100
+TC94A09FG-213	from hqew, 现货 津讯发电子	TOSHIBA	03+	200	QFP
+TC94A29FAG-020	from hqew, 现货 津讯发电子	TOSHIBA	11+	17538	QFP64
+TD6134AF	from hqew, 现货 津讯发电子	TOSHIBA	03+	72254	SOP
+TDA6508ATT	from hqew, 现货 津讯发电子	PHILIPS	04+	13975	SSOP32
+TDA7053A	from hqew, 现货 津讯发电子	PHILIPS	06+	50	SOP
+TDA9886TS	from hqew, 现货 津讯发电子	NXP	08+	441	SSOP24
+THC63LVDM83R	from hqew, 现货 津讯发电子	THINE	06+	450	TSSOP56
+TJA1020T	from hqew, 现货 津讯发电子	NXP	05+	213	SOP8
+TJA1050T	from hqew, 现货 津讯发电子	NXP	13+	5540	SOP8
+TJA1051T/3	from hqew, 现货 津讯发电子	NXP	13+	2252	SOP
+TJA1054T	from hqew, 现货 津讯发电子	NXP	07+	130	SOP14
+TK86287AM1G0L	from hqew, 现货 津讯发电子	TOKOINC	10+/11+	3000	SOP8
+TLV320AIC23BPWR	from hqew, 现货 津讯发电子	TI	09+	60	SSOP
+TLV320AIC23PWR	from hqew, 现货 津讯发电子	TI	09+	358	TSSOP28
+TMD2201A	from hqew, 现货 津讯发电子	SAMSUNG	06+	591	QFP
+TMP86FS49BUG	from hqew, 现货 津讯发电子	TOSHIBA	1035+	1580	QFP64
+TMP87EP26F-1J15	from hqew, 现货 津讯发电子	TOSHIBA	05+	1158	QFP
+TMP89FS60FG	from hqew, 现货 津讯发电子	TOSHIBA	11+	899	QFP
+TMS320C6412AZNZ5	from hqew, 现货 津讯发电子	TI	11+	280	BGA
+TMS320DM320ZHK	from hqew, 现货 津讯发电子	TI	06+	404	BGA
+TMS320R2812GHHA	from hqew, 现货 津讯发电子	TI	0606+	320	SOP
+TMS320TCI6486ZTZ	from hqew, 现货 津讯发电子	TI	07+	168	BGA
+TMS320TCI6487FZUN	from hqew, 现货 津讯发电子	TI	10+	838	BGA
+TNETV1050ZDW	from hqew, 现货 津讯发电子	TI	10+	600	BGA
+TNY275PG	from hqew, 现货 津讯发电子	POWER	09+	432	DIP7
+TOUCHCORE350-ML16IP	from hqew, 现货 津讯发电子	CORERIVER	1325+	9800	QFN
+TP3001B	from hqew, 现货 津讯发电子	TELEPAIH	08+	438	BGA
+TPA2005D1DRBR	from hqew, 现货 津讯发电子	TI	05+	1228	QFN
+TPA3005D2PHP	from hqew, 现货 津讯发电子	TI	0801+	180	QFP
+TPA6111A2DGN	from hqew, 现货 津讯发电子	TI	08+	2875	SOP8
+TPA6205A1ZQVR	from hqew, 现货 津讯发电子	TI	10+	10000	BGA
+TPCA8065-H	from hqew, 现货 津讯发电子	TOSHIBA	10+	30000	QFN8
+TPD6V8LP-7	from hqew, 现货 津讯发电子	DIODES INC	10+	9000	DFN1006
+TPS2829DBVR	from hqew, 现货 津讯发电子	TI	1123+	3000	SOT23-5
+TPS5103IDBR	from hqew, 现货 津讯发电子	TI	09+	1536	SSOP20
+TPS51212DSCR	from hqew, 现货 津讯发电子	TI	1210+	3000	QFN
+TPS61010DGSR	from hqew, 现货 津讯发电子	TI	06+	1572	QFN
+TPS62052DGSR	from hqew, 现货 津讯发电子	TI	06+	28681	MSOP-10
+TPS62054DGSR	from hqew, 现货 津讯发电子	TI	06+	18807	MSOP10
+TPS65011RGZR	from hqew, 现货 津讯发电子	TI	07+	240	QFN
+TPS65530A	from hqew, 现货 津讯发电子	TI	10+	2490	QFN48
+TRF370315-IRGER	from hqew, 现货 津讯发电子	TI	08+	893	QFN
+TS5A23159RSER	from hqew, 现货 津讯发电子	TI	08+	2010	QFN10
+TSC2046IZQCR	from hqew, 现货 津讯发电子	TI	05+	1322	QFN
+TSUMV26KU-LF	from hqew, 现货 津讯发电子	MSTAR	1213+	40	QFP
+TUMU58BWHJ-LF	from hqew, 现货 津讯发电子	MSTAR	08+	1056	QFP
+TW8826-DELA3-GR	from hqew, 现货 津讯发电子	TECHWELL	11+	400	QFP
+U3600BM-N	from hqew, 现货 津讯发电子	ATMEL	10+	995	SOP
+UAA3546HN	from hqew, 现货 津讯发电子	PHILIPS	06+	700	QFN32
+UAC3567B-XK-G	from hqew, 现货 津讯发电子	TRIDENT	09+	428	QFN
+UBA2024P	from hqew, 现货 津讯发电子	NXP	09+	5240	DIP8
+UCC2895DW	from hqew, 现货 津讯发电子	TI	09+/10+	389	SOP
+UCLAMP3301P.TCT	from hqew, 现货 津讯发电子	SEMTECH	10+	45000	SLP1006
+UCLAMP3311T.TCT	from hqew, 现货 津讯发电子	SEMTECH	10+	3000	QFN
+UPC1406HA	from hqew, 现货 津讯发电子	NEC	03+	5510	ZIP9
+UPD70F3340(A)-8EA	from hqew, 现货 津讯发电子	NEC	09+/10+	9304	QFP100L
+UPD70F3630GCA-UEU-E2	from hqew, 现货 津讯发电子	RENESAS	11+	3000	QFP100
+UPD780055	from hqew, 现货 津讯发电子	NEC	00+	2365	QFP
+UPD78F0511AGB-8EA	from hqew, 现货 津讯发电子	NEC	09+	800	QFP
+UPD78F0526AGB-GAG-AX	from hqew, 现货 津讯发电子	NEC	10+/12+	1445	QFP
+USB2513B-AEZG	from hqew, 现货 津讯发电子	SMSC	13+	4954	QFN
+USB3300-EZK	from hqew, 现货 津讯发电子	SMSC	09+/10+	6042	QFN
+USB3319C-CP-TR	from hqew, 现货 津讯发电子	SMSC	09+/10+	4267	QFN
+USB5534BJZX2	from hqew, 现货 津讯发电子	SMSC	12+	617	QFN
+UTC7496	from hqew, 现货 津讯发电子	TI	05+	3350	DIP
+VC0345PLVA1	from hqew, 现货 津讯发电子	VIMICRO	11+	245	TQFP48
+VCT6973-FA-B3	from hqew, 现货 津讯发电子	MICRONAS	08+	5152	QFP
+VSP6822AZRCR	from hqew, 现货 津讯发电子	TI	10+	7500	QFP
+VT1103MFLX	from hqew, 现货 津讯发电子	VOLTERRA	05+	7923	QFP48
+WM8650	from hqew, 现货 津讯发电子	VIA	1206+120	121	BGA
+WM8711GEFL	from hqew, 现货 津讯发电子	WOLFSON	06+	381	QFN
+WM-BN-BM-01	from hqew, 现货 津讯发电子	USI	1217+	1410	LGA
+WM-BN-BM-01-S	from hqew, 现货 津讯发电子	USI	10+	200	LGA
+WSC2800E1	from hqew, 现货 津讯发电子	FUJITSU	12+	7000	QFP128
+X810461-005	from hqew, 现货 津讯发电子	微软	07+	1104	QFP
+XC61CN2702MR	from hqew, 现货 津讯发电子	TOREX	10+	2850	SOT23
+XEL32V	from hqew, 现货 津讯发电子	MICREL	10+	740	SOP8
+YD3361	from hqew, 现货 津讯发电子	YD	10+	18000	SOP16
+YDE164QZE2(Y164)	from hqew, 现货 津讯发电子	N/A	1024+	2970	QFN
+ZL10353	from hqew, 现货 津讯发电子	ZARLINK	06+	1000	QFP64
+ZR364241NCCG	from hqew, 现货 津讯发电子	ZORAN	11+	5016	BGA
+ZR36424BGCG	from hqew, 现货 津讯发电子	ZORAN	09+	49	BGA
+A71C22AQF/Q	from hqew, 现货 津讯发电子	AMIC-COM	11+	2283	QFN32
+A72C01AUF/Q	from hqew, 现货 津讯发电子	AMICCOM	10+	1000	SSOP
+AAT2603INJ-1-T1	from hqew, 现货 津讯发电子	ANALOGIC	09+	13130	DFN
+ACT364US-T	from hqew, 现货 津讯发电子	ACTIVE	12+	600000	SOT23-6
+AD5274BCPZ-20-RL7	from hqew, 现货 津讯发电子	AD	1048+	1500	NA
+AD5628ARUZ-2	from hqew, 现货 津讯发电子	AD	1329+	481	TSSOP16
+AD9516-3BCPZ	from hqew, 现货 津讯发电子	AD	1137+	1730	QFN
+ADMTV102ACPZRL	from hqew, 现货 津讯发电子	AD	09+	207	QFN
+ADS1100A3IDBVT	from hqew, 现货 津讯发电子	TI	08+	8268	SOT23
+ADSP-21261SKBCZ150	from hqew, 现货 津讯发电子	AD	07+	494	BGA
+AK2591EN-L	from hqew, 现货 津讯发电子	AKM	09+/10+	15000	QFN
+AK5357ET-E2	from hqew, 现货 津讯发电子	AKM	06+	537	TSSO16
+AM3352ZCZD72	from hqew, 现货 津讯发电子	TI	1244+	126	BGA
+AML8726-M	from hqew, 现货 津讯发电子	AMLOGIC	11+	41	BGA
+AN2526H	from hqew, 现货 津讯发电子	PANASONIC	05+	450	QFP
+AN2546FH-AV	from hqew, 现货 津讯发电子	PANASONIC	08+	450	QFP64
+AN5832SA	from hqew, 现货 津讯发电子	PANASONIC	05+	5000	SSOP32
+AN7024	from hqew, 现货 津讯发电子	PANASONIC	05+	2000	ZIP18
+AN7312	from hqew, 现货 津讯发电子	PANASONIC	06+	1238	DIP14
+AN7338	from hqew, 现货 津讯发电子	PANASONIC	05+	119	DIP22
+AON6504	from hqew, 现货 津讯发电子	ALPHA	12+	51000	DFN
+AP1986C	from hqew, 现货 津讯发电子	AP	10+	1018	QFP
+AP3772BK6TR	from hqew, 现货 津讯发电子	BCD	12+	45000	SOT23-6
+APL5913KAC-TRG	from hqew, 现货 津讯发电子	ANPEC	09+	55277	SOP8
+APP003SN	from hqew, 现货 津讯发电子	APP	10+	8977	SSOP
+AR6103G-BM2D	from hqew, 现货 津讯发电子	ATHEROS	13+	1174	LGA
+AR6103T-BM2D-R	from hqew, 现货 津讯发电子	ATHEROS	1138+	2061	QFN
+AR8161-BL3A-RL	from hqew, 现货 津讯发电子	ATHEROS	1208+	2150	QFN
+AT24C256C-SSHL-T	from hqew, 现货 津讯发电子	ATMEL	10+	400	SOP8
+AT25020AU-SU18B4	from hqew, 现货 津讯发电子	ATMEL	05+	3000	SOP8
+AT26DF161A-SSU	from hqew, 现货 津讯发电子	ATMEL	0829+	2230	SOP8
+AT3820	from hqew, 现货 津讯发电子	AIMTRON圆创	07+	480	QFP100
+AT550	from hqew, 现货 津讯发电子	SIRF	10+	630	BGA
+AT640	from hqew, 现货 津讯发电子	ATMEL	09+	252	BGA
+AT640-1	from hqew, 现货 津讯发电子	SIRF	07+	44	BGA
+AT91SAM9G45-CU	from hqew, 现货 津讯发电子	ATMEL	1045+103	30	BGA
+ATMEGA164P-A15AZ	from hqew, 现货 津讯发电子	ATMEL	11+	5780	QFP
+ATT7027U	from hqew, 现货 津讯发电子	ATT巨力原	07+	124	QFP
+AU6438/R61-GIF-GR	from hqew, 现货 津讯发电子	ALCORMICRO	12+	11950	WQFN
+AU9368	from hqew, 现货 津讯发电子	ALCOR	05+	1550	QFO64
+AV7201	from hqew, 现货 津讯发电子	AVNERA	10+	239	QFN
+AW8731TQR	from hqew, 现货 津讯发电子	AWINIC	11+	4678	QFN
+AZ2025-04S.R7G	from hqew, 现货 津讯发电子	AMAZING	13+	27000	SOT23-5
+BA5888FP	from hqew, 现货 津讯发电子	BOHM	06+	1275	SOP28
+BA6664FM	from hqew, 现货 津讯发电子	ROHM	05+	2240	SOP28
+BA6849FM	from hqew, 现货 津讯发电子	ROHM	05+	20	SOP
+BA6898	from hqew, 现货 津讯发电子	ROHM	03+	824	NA
+BA6986FS	from hqew, 现货 津讯发电子	ROHM	03+	4000	SOP24
+BA7657F	from hqew, 现货 津讯发电子	ROHM	03+	3415	SOP24
+BC413159A11-IQA-E4	from hqew, 现货 津讯发电子	CSR	0817+	5990	QFN56
+BC63B239A04-IKB-E4	from hqew, 现货 津讯发电子	CSR	11+	30000	BGA
+BCM3252KPBG	from hqew, 现货 津讯发电子	BOARDCOM	10+	319	BGA
+BCM3549VMKFSB5G	from hqew, 现货 津讯发电子	BROADCOM	1034+	439	BGA
+BCM43241XKWBG	from hqew, 现货 津讯发电子	BROADCOM	11+	200	BGA
+BCM53115UKFBG	from hqew, 现货 津讯发电子	BROADCOM	11+	1170	BGA
+BCM5347MA1KPBG	from hqew, 现货 津讯发电子	BOARDCOM	09+10+	100	BGA
+BCM56112A0KFEBG	from hqew, 现货 津讯发电子	BOARDCOM	1020+	562	BGA
+BCM56112A0KFEBG-P10	from hqew, 现货 津讯发电子	BOARDCOM	09+	262	BGA
+BCM56300B1KEBG-P21	from hqew, 现货 津讯发电子	BOARDCOM	10+	11	BGA
+BCM56303B1KEBG	from hqew, 现货 津讯发电子	BOARDCOM	0820+	47	BGA
+BCM56312A0KFEBG-P10	from hqew, 现货 津讯发电子	BOARDCOM	10+	65	BGA
+BCM56313A0KFEBG-P10	from hqew, 现货 津讯发电子	BOARDCOM	10+	427	BGA
+BCM56502LB2KEBG	from hqew, 现货 津讯发电子	BOARDCOM	10+	39	BGA
+BCM56503LB2KEBG-P33	from hqew, 现货 津讯发电子	BOARDCOM	10+	37	BGA
+BCM56514AOKFEBG	from hqew, 现货 津讯发电子	BROADCOM	1310+	121	BGA
+BCM6332BKFBG	from hqew, 现货 津讯发电子	BROADCOM	1302+	46	BGA
+BCM7403ZKPB1G	from hqew, 现货 津讯发电子	BOARDCOM	10+	14	BGA
+BD3805F-E2	from hqew, 现货 津讯发电子	ROHM	09+	1559	SOP22
+BH6519FS	from hqew, 现货 津讯发电子	ROHM	08+	659	SSOP32
+BH6766FVM-TR	from hqew, 现货 津讯发电子	ROHM	11+	23000	MSOP8
+BQ2085DBTR	from hqew, 现货 津讯发电子	TI	08+	395	SOP
+BQ20Z453DBTR	from hqew, 现货 津讯发电子	TI	1210+	10000	SSOP
+BQ20Z90DBTR-V150	from hqew, 现货 津讯发电子	TI	08+	14000	sop
+BQ20Z951DBTR-R150	from hqew, 现货 津讯发电子	TI	08+	959	SSOP
+BQ24032ARHLR	from hqew, 现货 津讯发电子	TI	0540+	1666	QFN
+BQ24070RHLR	from hqew, 现货 津讯发电子	TI	08+	63	QFN
+BQ29311PWR	from hqew, 现货 津讯发电子	TI	08+	1534	SOP
+BQ29412DCTR  CJJ	from hqew, 现货 津讯发电子	TI	12+	5300	MSOP
+BR24L02FVM-WTR	from hqew, 现货 津讯发电子	ROHM	09+	522	SSOP8
+BR9020F	from hqew, 现货 津讯发电子	ROHM	09+	700	SOP8
+BSC010NE2LS	from hqew, 现货 津讯发电子	INFINEON	1145+	1962	QFN8
+BU24530-9E	from hqew, 现货 津讯发电子	ROHM	04+	1743	QFP
+BU9534KV	from hqew, 现货 津讯发电子	ROHM	03+	400	QFP
+BZT52C3V3LP-7	from hqew, 现货 津讯发电子	DIODES INC	10+	9000	DFN1006
+C8051F921-GMR	from hqew, 现货 津讯发电子	SILICON	11+	3000	QFN24
+CC1100-350	from hqew, 现货 津讯发电子	MARWELL	08+	560	BGA
+CD3238RGJRG4	from hqew, 现货 津讯发电子	TI	06+	9000	QFN32
+CDCDLP223PWR	from hqew, 现货 津讯发电子	TI	0826+	290	TSOP
+CDCM1804	from hqew, 现货 津讯发电子	TI	11+	2273	QFN
+CH7013B-DF	from hqew, 现货 津讯发电子	CHRONTEL	07+	154	QFP48
+CH7308A	from hqew, 现货 津讯发电子	CHRONTEL	10+	880	QFP64
+CH7312A-DEF	from hqew, 现货 津讯发电子	CHRONTEL	07+	66	QFP48
+CM2021-00TR	from hqew, 现货 津讯发电子	CMD	07+	5747	TSSOP38
+CM3406DS-LF-Z	from hqew, 现货 津讯发电子	MPS	0936+	1400	SOP8
+CS4334-KSZR	from hqew, 现货 津讯发电子	CIRRUS	1209+	45	SOP8
+CS4955-CQ	from hqew, 现货 津讯发电子	CIRRUS	02+	908	QFP
+CS8819	from hqew, 现货 津讯发电子	CS8819	06+	4458	QFP48
+CSC3800-L128G	from hqew, 现货 津讯发电子	CHESEN	08+	12	LQFP128
+CT216T-T	from hqew, 现货 津讯发电子	CHEERTEK	12+	1320	QFP
+CX2601B	from hqew, 现货 津讯发电子	N/A	11+	254900	SOT-23
+CXA1791M	from hqew, 现货 津讯发电子	SONY	03+	87624	SOP20
+CXA2534Q	from hqew, 现货 津讯发电子	SONY	04+	12200	QFP48
+CXA2550N	from hqew, 现货 津讯发电子	SONY	08+	590	TSSOP20
+CXD4813GG	from hqew, 现货 津讯发电子	SONY	11+	1000	BGA
+CXD9926ATQ	from hqew, 现货 津讯发电子	TI	10+	680	QFP
+CY2890-AFB	from hqew, 现货 津讯发电子	CYPRESS	09+	368	QFP
+CY62148EV30LL-45ZSXIT	from hqew, 现货 津讯发电子	CYPRESS	0743+	52	SOP
+CY7C1021DV33-10ZSXI	from hqew, 现货 津讯发电子	CYPRESS	07+	455	TSOP44
+CY7C1350G-200AXCT	from hqew, 现货 津讯发电子	CYPRESS	08+	170	QFP
+CY8C24223A-24SXIT	from hqew, 现货 津讯发电子	CYPRESS	10+	500	SOIC
+CY8C24533-24PVXIT	from hqew, 现货 津讯发电子	CYPRESS	10+	14	SSOP28
+DAD1000CPFPG4	from hqew, 现货 津讯发电子	TI	05+	1863	QFP
+DG419DY-T1-E3	from hqew, 现货 津讯发电子	VISHAY	09+	32715	SOP
+DMC4002	from hqew, 现货 津讯发电子	DAEWOO	03+	133	QFP64
+DS1232L	from hqew, 现货 津讯发电子	DALLAS	07+	271	SOP8
+DS1672S-33+TR	from hqew, 现货 津讯发电子	MAXIM	1130+	221	SSOP
+DS2431P	from hqew, 现货 津讯发电子	DALLAS	09+/10+	1488	SOP6
+EFM32GG380F512	from hqew, 现货 津讯发电子	ENERGY	1240+	1000	QFP100
+EFM32GG380F512	from hqew, 现货 津讯发电子	ENERGY	12+	1000	QFP
+EK6709TQ	from hqew, 现货 津讯发电子	EK	0807+	64	QFP
+EM8625L-LF-B	from hqew, 现货 津讯发电子	SIGAMATEL	0806+	2160	BGA596
+EMB40P06A	from hqew, 现货 津讯发电子	EMB	09+	2500	QFP60
+EP9431	from hqew, 现货 津讯发电子	EXPLORE	1310+	1	QFP
+EP9432	from hqew, 现货 津讯发电子	EXPLORE	1208+/11	1249	QFP
+ES6028F	from hqew, 现货 津讯发电子	ESS	03+	1895	QFP208
+ES8381FFC	from hqew, 现货 津讯发电子	ESS	06+	58	QFP
+EUP3484DIR1	from hqew, 现货 津讯发电子	EUTECH	12+	128	SOP8
+FLI8538-LF-AB	from hqew, 现货 津讯发电子	GENESIS	05+	4188	BGA
+FLI8638-LF-BC	from hqew, 现货 津讯发电子	GENESIS	08+	119	BGA
+FM1182E-CA1	from hqew, 现货 津讯发电子	FORTEMED	08+	524	qfp48
+FM25Q16A-1AIA1	from hqew, 现货 津讯发电子	FIDELIX	10+	10000	SOP
+FMS6502	from hqew, 现货 津讯发电子	ZL	13+	4840	TSSOP24
+FP9904	from hqew, 现货 津讯发电子	FITIPOWER	08+	56570	TSSOP14
+FSFR1700XS	from hqew, 现货 津讯发电子	FAIRCHILD	11+	387	ZIP
+GD25Q32BSIG	from hqew, 现货 津讯发电子	GD	11+	3734	SOP8
+GFT808	from hqew, 现货 津讯发电子	GAINTECH	08+	98	QFN
+GM5726-LF-AB	from hqew, 现货 津讯发电子	GENESIS	0655+	543	QFP
+GPBA02A-HL011	from hqew, 现货 津讯发电子	GENERALP	09+	700	QFP
+GS1672	from hqew, 现货 津讯发电子	GS	10+	37	NULL
+GSC9435	from hqew, 现货 津讯发电子	GTM	08+	2000	NULL
+GT818	from hqew, 现货 津讯发电子	GOODIX	12+	28196	QFN
+GT818P	from hqew, 现货 津讯发电子	GOODIX	12+	4879	QFN
+GX6201	from hqew, 现货 津讯发电子	NATIONALC国	10+	246	QFP
+HCPL-4506-300E	from hqew, 现货 津讯发电子	AVAGO	10+	4255	SOP8
+HD64F2110BVTE10V	from hqew, 现货 津讯发电子	RENESAS	09+	9360	QFP
+HD64F2633F25V	from hqew, 现货 津讯发电子	RENESAS	11+	710	QFP128
+HN58X2504TIE	from hqew, 现货 津讯发电子	RENESAS	08+	2512	MSOP8
+HS-100	from hqew, 现货 津讯发电子	C-MEDIA	1250+	490	LQFP
+HT82A851R	from hqew, 现货 津讯发电子	HOLTEK	05+	425	SOP24
+HV9910B	from hqew, 现货 津讯发电子	SUPERTEX	10+	310	SOP8
+HX8232-B020PD400	from hqew, 现货 津讯发电子	HIMAX	08+	1800	PLCC
+HX8267-A00BPD300-B	from hqew, 现货 津讯发电子	HIMAX	08+	28860	NA
+HX8806ALA	from hqew, 现货 津讯发电子	HIMAX	11+	1930	QFP48
+IBM39STB02500LFA05CA	from hqew, 现货 津讯发电子	IBM	11+	135	BGA
+ICE3BR1765J	from hqew, 现货 津讯发电子	INFINEON	09+	395	DIP
+ICN2024	from hqew, 现货 津讯发电子	国产	12+	26000	SSOP24
+ICN2138.H	from hqew, 现货 津讯发电子	CHIPONE	13+	9000	SOP16
+IMH21-T110	from hqew, 现货 津讯发电子	ROHM	1136+	3000	SOT23-6
+IML2811CC-TR	from hqew, 现货 津讯发电子	SAMSUNG	11+	6000	MSOP8
+INT6400CKZ-TR	from hqew, 现货 津讯发电子	ATHEROS	10+	69	BGA
+IP101	from hqew, 现货 津讯发电子	ICPLUS	07+	63	QFP48
+IR3535MTRPBF	from hqew, 现货 津讯发电子	IR	1312+	3000	NA
+IR3841F	from hqew, 现货 津讯发电子	INTERSIL	08+	7511	QFN
+IRF6798MTRPBF	from hqew, 现货 津讯发电子	IR	1201+	9485	SOP
+IRS2168DS	from hqew, 现货 津讯发电子	IR	09+	1370	SOP16
+ISL59121IIZ	from hqew, 现货 津讯发电子	INTERSIL	12+	3000	DFN
+ISL6253HRZ-T	from hqew, 现货 津讯发电子	INTERSIL	0901+	2920	QFN
+ISL6255AHRZ-T	from hqew, 现货 津讯发电子	INTERSIL	1148+	8090	QFN28
+ISL6262ACR	from hqew, 现货 津讯发电子	INTERSIL	08+	782	QFN48
+ISL6266AHRZ-T	from hqew, 现货 津讯发电子	INETRSIL	09+	1670	QFN
+ISL6307CRZ	from hqew, 现货 津讯发电子	INTERSIL	07+	319	QFN
+ISO3082DWR	from hqew, 现货 津讯发电子	TI	1223+	1970	SOP
+IT7230AFN/BX	from hqew, 现货 津讯发电子	CAT	11+	799	QFN40
+IT8512E/JX-L	from hqew, 现货 津讯发电子	ITE	09+/10+	3935	QFP
+IW1691-10	from hqew, 现货 津讯发电子	IWATT	1202+	5000	SOP8
+IW1697-01	from hqew, 现货 津讯发电子	IWATT	10+	9000	SOT23-6
+JMH330APC1-TGCC	from hqew, 现货 津讯发电子	JMICRON	12+	2880	QFP64
+K4T51163QI-HCE7	from hqew, 现货 津讯发电子	SAMSUNG	0907+	150	BGA
+KA9223	from hqew, 现货 津讯发电子	SAMSUNG	03+	2432	NA
+KA9258BD	from hqew, 现货 津讯发电子	FAIRCHILD	05+	5573	SOP28
+KFG1GN6W2D-HIB6	from hqew, 现货 津讯发电子	SAMSUNG	1201+	2560	BGA
+KID65083AP/P	from hqew, 现货 津讯发电子	KEC	09+	3360	DIP18
+KTF3624BWSW	from hqew, 现货 津讯发电子	ELAN	11+	700	QFN
+L6717ATR	from hqew, 现货 津讯发电子	ST	11+	1248	QFN
+L8600L	from hqew, 现货 津讯发电子	UTC	10+	12348	SSOP20
+LA1823	from hqew, 现货 津讯发电子	SANYO	07+	18533	DIP
+LA4533	from hqew, 现货 津讯发电子	SANYO	03+	8190	SOP10
+LA6531	from hqew, 现货 津讯发电子	SANYO	03+	4953	DIP16
+LA9241	from hqew, 现货 津讯发电子	SANYO	03+	107400	QFP
+LAN9500-ABZJ	from hqew, 现货 津讯发电子	SMSC	0844+	10	QFN
+LB11851M-TE-L-E	from hqew, 现货 津讯发电子	SANYO	10+	700	MFP10S
+LB1861M	from hqew, 现货 津讯发电子	SANYO	06+	2000	SOP14
+LB1862M	from hqew, 现货 津讯发电子	SANYO	03+	7000	SOP10
+LC4128ZC-42MNZ-75I	from hqew, 现货 津讯发电子	LATTICE	08+	984	BGA
+LC822973-10B	from hqew, 现货 津讯发电子	SANYO	08+	1580	QFN
+LC87F2J32AU-QIP-E	from hqew, 现货 津讯发电子	ON SEMI	13+/11+	1500	NA
+LM1881M	from hqew, 现货 津讯发电子	NS	10+	87	SOP8
+LM4866MTEX	from hqew, 现货 津讯发电子	NS	08+	75000	SOP
+LM555CMX	from hqew, 现货 津讯发电子	NS	09+	120	SOP8
+LM8262MMX	from hqew, 现货 津讯发电子	NS	04+	1150	MSOP8
+LNK304GN-TL	from hqew, 现货 津讯发电子	POWER	09+	250	SOP
+LT1790BCS6-2.5	from hqew, 现货 津讯发电子	LINEAR	1126+	1717	SOT23-6
+LT1943EFE	from hqew, 现货 津讯发电子	LINEAR	09+	2269	TSSOP28
+LT3481EMSE	from hqew, 现货 津讯发电子	LINEAR	10+	5143	SOP10
+LT3508IFE	from hqew, 现货 津讯发电子	LINEAR	1318+	2498	TSSOP
+LT3684EDD	from hqew, 现货 津讯发电子	LINEAR	12+	4192	QFN
+LTC3406BES5	from hqew, 现货 津讯发电子	LINEAR	10+	1906	SOT23-5
+MB90F882PMC-GSE1	from hqew, 现货 津讯发电子	FIJITSU	10+	5793	QFP
+MC13892BJVL	from hqew, 现货 津讯发电子	FREESCALE	1115+	250	BGA
+MC56F8037V4M67E	from hqew, 现货 津讯发电子	FREESCALE	10+	5069	QFP64
+MC74HC4051ADTR2G	from hqew, 现货 津讯发电子	ON SEMI	11+	160	TSSOP
+MC908JB8JDME	from hqew, 现货 津讯发电子	FREESCALE	09+	5010	SOP
+MC9S08AC128CFGE	from hqew, 现货 津讯发电子	FREESCALE	12+	2900	QFP44
+MC9S08QE16CLC	from hqew, 现货 津讯发电子	FREESCALE	0944+	7500	LQFP32
+MCIMX31LDVMN5D	from hqew, 现货 津讯发电子	FREESCALE	09+	475	BGA
+MCZ33797EK	from hqew, 现货 津讯发电子	FREESCALE	08+	1000	SSOP
+MFI341S1978	from hqew, 现货 津讯发电子	AVNET	08+	4710	QFN
+MFI341S2162	from hqew, 现货 津讯发电子	KIT	11+	486	QFN
+MIC811SUY	from hqew, 现货 津讯发电子	MICREL	10+	620	SOT-143
+MM3177NREH	from hqew, 现货 津讯发电子	MITSUMI	09+	9000	SOT
+MP1026	from hqew, 现货 津讯发电子	MPS	09+	2000	SOP
+MP1519DQL-LF-Z	from hqew, 现货 津讯发电子	MPS	06+	106000	QFN
+MP2109DQ-LF-Z	from hqew, 现货 津讯发电子	MPS	10+	3765	QFN10
+MP3011DQ-LF	from hqew, 现货 津讯发电子	MPS	06+	33	QFN16
+MP615XCG	from hqew, 现货 津讯发电子	MPS	07+	43	BGA256
+MP630DTCG-B	from hqew, 现货 津讯发电子	MPS	09+	1900	QFP
+MPC8533VTALF	from hqew, 现货 津讯发电子	FREESCALE	10+	504	BGA
+MSD6I981BX-U4	from hqew, 现货 津讯发电子	MSTAR	11+	2876	BGA
+MSP3415G-QG	from hqew, 现货 津讯发电子	MICRONAS	08+	807	QFP44
+MSP430F1101AIPW	from hqew, 现货 津讯发电子	TI	09+	498	TSSOP20
+MST6M182VL-LF-TZ  288/  12+	from hqew, 现货 津讯发电子	MSTAR	12+	3168	TQFP
+MSW8533C1-LF	from hqew, 现货 津讯发电子	MSTAR	11+	470	BGA
+MSW8533C-LF	from hqew, 现货 津讯发电子	MSTAR	11+	2736	BGA
+MT47H32M16HR-25E AAT:G	from hqew, 现货 津讯发电子	MICRON	13+	1000	BGA
+MT8105GE	from hqew, 现货 津讯发电子	MTK	06+	2160	QFP
+MTL017BG	from hqew, 现货 津讯发电子	MYSON	09+	2000	LQFP
+MTV1189-011	from hqew, 现货 津讯发电子	MYSON	05+	1000	SOP
+MX25L5121EOC-20G	from hqew, 现货 津讯发电子	MXIC	11+	2300	SOP8
+MX29LV160DTTI-70G	from hqew, 现货 津讯发电子	MXIC	1227+	360	TSOP48
+MX93132FC	from hqew, 现货 津讯发电子	MXIC	03+	385	QFP
+M24256-BWMN6TP	from hqew, 现货 津讯发电子	ST	10+	4570	SOP
+M25PE20-VMN6TP	from hqew, 现货 津讯发电子	STM	10+	476	SOP8
+M30873FHBGP	from hqew, 现货 津讯发电子	RENESAS	10+	70	QFP
+M3330B1	from hqew, 现货 津讯发电子	ALI	10+	193	QFP
+M52045FP	from hqew, 现货 津讯发电子	MITSUBISH	03+	10599	SOP24
+M52743BSP	from hqew, 现货 津讯发电子	MITSUBISH	03+	30020	DIP36L
+M5291FP	from hqew, 现货 津讯发电子	MITSUBISH	04+	3844	SOP8
+M5671-A1B(G)L	from hqew, 现货 津讯发电子	ALI	10+	3086	QFP128
+MAX16814UUP+TCJ3	from hqew, 现货 津讯发电子	MAXIM	10+	2790	TSSOP20
+MAX3232C	from hqew, 现货 津讯发电子	MAXIM	06+	692	SOP16
+MAX4375TEUB+T	from hqew, 现货 津讯发电子	MAXIM	09+	21035	TSSOP
+MAX5048BAUT	from hqew, 现货 津讯发电子	MAXIM	10+	160	SOT23-6
+MAX6496ATA	from hqew, 现货 津讯发电子	MAXIM	10+	20	QFN
+MAX9650ATA+T	from hqew, 现货 津讯发电子	MAXIM	09+	39920	QFN8
+MAX97000EWA+T	from hqew, 现货 津讯发电子	MAXIM	11+	1100	WLP
+N2TU51216DG-AC	from hqew, 现货 津讯发电子	ELIXIR	1122+	2090	BGA
+NCP3066DR2G	from hqew, 现货 津讯发电子	ON SEMI	11+	40000	SOP8
+NCV3065DR2G	from hqew, 现货 津讯发电子	ON SEMI	1340+	2500	SOP8
+NRF24LE1-F16Q32	from hqew, 现货 津讯发电子	NRODIC	1221+	1123	QFN32
+NRF24LE1-O17Q48-R	from hqew, 现货 津讯发电子	NORDIC	10+	18000	QFN48
+NT7086PQ	from hqew, 现货 津讯发电子	NEOTEC	11+	5479	QFP100
+NT96632BG-CS	from hqew, 现货 津讯发电子	NOVATEK	10+	952	BGA
+OB2520MP	from hqew, 现货 津讯发电子	昂宝	12+	24000	SOT23-6
+OPA2377AIDGKR	from hqew, 现货 津讯发电子	TI	1206+	18	MSOP
+OTI002172	from hqew, 现货 津讯发电子	OTI	09+	2800	QFP48
+OV14810-A16A	from hqew, 现货 津讯发电子	OV	13+	207	NA
+OZ960S	from hqew, 现货 津讯发电子	O2MICRO	0507+	2000	SSOP20L
+P1014NSE5HFA	from hqew, 现货 津讯发电子	FREESCALE	12+	1670	NA
+PAM2307AJE	from hqew, 现货 津讯发电子	PAM	11+	3000	QFN33-16
+PAM8302AADCR	from hqew, 现货 津讯发电子	PAM	12+	80000	SOP-8
+PAM8603MNHR	from hqew, 现货 津讯发电子	PAM	10+	7390	SSOP
+PAN3204DB	from hqew, 现货 津讯发电子	PIXART	12+	697	DIP8L
+PCA85134H/Q900/1	from hqew, 现货 津讯发电子	NXP	13+	2000	QFP
+PCA9515ADP	from hqew, 现货 津讯发电子	NXP	08+	820	TSOP
+PCF8574T	from hqew, 现货 津讯发电子	NXP	0541+	349	SOP
+PCM1716E	from hqew, 现货 津讯发电子	TI	00+	17637	SOP
+PCM1807PW	from hqew, 现货 津讯发电子	TI	08+	26	TSSOP14
+PCM1808PWR	from hqew, 现货 津讯发电子	TI	09+	2257	TSSOP14
+PI3HDMI341ARTFFEX	from hqew, 现货 津讯发电子	PERICOM	08+	540	QFP80
+PI3L500-AZFEX	from hqew, 现货 津讯发电子	PERICOM	11+	995	QFN
+PMB6610RV-2.1	from hqew, 现货 津讯发电子	INFINEON	08+	33000	SOP
+PMV65XP	from hqew, 现货 津讯发电子	NXP	1101+	2580	SOT23-3
+PN65NET1/C205024	from hqew, 现货 津讯发电子	NXP	1242+	1525	BGA
+PNX8550EH	from hqew, 现货 津讯发电子	PHILIPS	06+	95	BGA
+PT2253	from hqew, 现货 津讯发电子	PTC	03+	80	DIP16
+PT2256	from hqew, 现货 津讯发电子	PTC	03+	3694	DIP16
+PT2399	from hqew, 现货 津讯发电子	PTC	06+	30	SOP
+PW328B-10L	from hqew, 现货 津讯发电子	PIXELWORK	08+	346	BGA
+RCLAMP0511P	from hqew, 现货 津讯发电子	SEMTECH	10+	3000	NA
+RCLAMP0821P.TCT	from hqew, 现货 津讯发电子	SEMTECH	10+	21000	SLP1006
+RCLAMP2574N.TCT	from hqew, 现货 津讯发电子	SEMTECH	1306+	12000	QFN
+RCLAMP3304P.TCT	from hqew, 现货 津讯发电子	SEMTECH	1144+	2000	SLP1616
+RDA3308	from hqew, 现货 津讯发电子	RDA锐迪	07+	3000	QFN
+RF3198TR13	from hqew, 现货 津讯发电子	RFMD	08+	1210	QFN
+RK2906-6	from hqew, 现货 津讯发电子	ROCKCHIP	12+	793	BGA
+RT3062F	from hqew, 现货 津讯发电子	RALINK	12+	241	BGA
+RT8800PQV	from hqew, 现货 津讯发电子	RICHTEK	07+/05+	14462	QFN16
+RT8870AGQW	from hqew, 现货 津讯发电子	RICHTEK	13+	2450	QFN
+RT9202CS	from hqew, 现货 津讯发电子	RICHTEK	05+	277	SOP8
+RT9245	from hqew, 现货 津讯发电子	RICHTEK	07+	1010	TSSOP28
+RT9605APQW	from hqew, 现货 津讯发电子	RICHTEK	07+	3117	NA
+RTD2375D	from hqew, 现货 津讯发电子	REALTEK	09+	1034	QFP128
+RTL8672-GR	from hqew, 现货 津讯发电子	REALTEK	11+	35800	QFP
+RTS5151N	from hqew, 现货 津讯发电子	REALTEK	09+	2664	QFP100
+S3C2443X40-YL8N	from hqew, 现货 津讯发电子	SAMSUNG	10+	960	BGA
+S5L931CX01	from hqew, 现货 津讯发电子	SAMSUNG	05+	5311	QFP
+S9S12G128CLF	from hqew, 现货 津讯发电子	FREESCALE	13+	2500	LQFP-48
+SA1469PH	from hqew, 现货 津讯发电子	SILAN	06+	99	HSOP28
+SAA7118E	from hqew, 现货 津讯发电子	PHILIPS	03+	812	BGA
+SAA7378	from hqew, 现货 津讯发电子	PHILIPS	03+	840	QFP64
+SC370904P	from hqew, 现货 津讯发电子	FREESCALE	08+	2000	DIP
+SC632ULTRT	from hqew, 现货 津讯发电子	SEMTECH	11+	2997	QFN
+SCH5617C-NC	from hqew, 现货 津讯发电子	SMSC	09+	353	QFP
+SDN8080G	from hqew, 现货 津讯发电子	AVANT	08+	57	QFP100
+SI4459ADY-T1-GE3	from hqew, 现货 津讯发电子	VISHAY	11+	129000	SOP8
+SI4705-B20	from hqew, 现货 津讯发电子	SILICON	10+	1483	QFN
+SII5744CNU	from hqew, 现货 津讯发电子	SILICON	07+	112	QFN
+SII9002CSU	from hqew, 现货 津讯发电子	SILICON	07+	30679	SOP
+SKY65249-11	from hqew, 现货 津讯发电子	SKYWORKS	08+	2563	QFN
+SM628C	from hqew, 现货 津讯发电子	SYNCMOS	08+	400	QFP
+SM6317-VB	from hqew, 现货 津讯发电子	NA	08+	1610	NA
+SMP8634LF-B	from hqew, 现货 津讯发电子	SIGMATEL	07+	230	BGA
+SN502045C4DAPR	from hqew, 现货 津讯发电子	TI	10+	1778	NULL
+SN65176BP	from hqew, 现货 津讯发电子	国产	10+	1470	DIP8
+SN75DP139	from hqew, 现货 津讯发电子	TI	10+	1000	QFN
+SN88080A4PFBR	from hqew, 现货 津讯发电子	TI	10+	2000	QFP
+SN8P2604ASB	from hqew, 现货 津讯发电子	SONIX	08+	3088	SOP
+SN9C230CJG	from hqew, 现货 津讯发电子	SONIX	09+	3900	QFN
+SP2132HCA-V/TR	from hqew, 现货 津讯发电子	SIPEX	08+	976	QFP
+SP213EHCA	from hqew, 现货 津讯发电子	SIPEX	09+	880	SSOP
+SPC5606SF2VLQ6R	from hqew, 现货 津讯发电子	FREESCALE	1206+	500	TQFP
+SPHE8281A-U	from hqew, 现货 津讯发电子	SUNPLUS	05+	360	QFP256
+ST10F276-CEG-P	from hqew, 现货 津讯发电子	ST	10+/11+	8480	BGA
+ST7263BM1/NHNTR	from hqew, 现货 津讯发电子	ST	05+	2000	SSOP
+STA2080AC	from hqew, 现货 津讯发电子	NA	09+	2500	QFP64
+STA309A13TR	from hqew, 现货 津讯发电子	ST	09+	20600	QFP
+STA309A13TR	from hqew, 现货 津讯发电子	ST	10+	6212	QFP
+STC12C5A32S2-35I	from hqew, 现货 津讯发电子	ST	10+	41	LQFP44
+STC90C54RD+40I	from hqew, 现货 津讯发电子	ST	10+	1468	LQFP44
+STD1501-ADTM	from hqew, 现货 津讯发电子	ST	08+	2430	NA
+STI5189-EYB	from hqew, 现货 津讯发电子	ST	09+	26	BGA
+STI7109YWC	from hqew, 现货 津讯发电子	ST	08+	240	BGA
+STI7710MUD	from hqew, 现货 津讯发电子	ST	08+	2399	BGA
+STI8518DQC	from hqew, 现货 津讯发电子	ST	08+	275	QFP
+STM32F205RGY6TR	from hqew, 现货 津讯发电子	ST	12+	1848	WLCSP
+STV6415	from hqew, 现货 津讯发电子	ST	05+	70000	QFP
+STX7710CUC	from hqew, 现货 津讯发电子	ST	09+	400	BGA
+T108BA	from hqew, 现货 津讯发电子	TERAWINS	08+	321	QFP
+T6UN6EFG-003	from hqew, 现货 津讯发电子	TOSHIBA	10+	459	QFP
+TA2065F	from hqew, 现货 津讯发电子	TOSHIBA	05+	4040	QFP
+TA2078P	from hqew, 现货 津讯发电子	TOSHIBA	03+	4344	DIP16
+TA2104AFNG	from hqew, 现货 津讯发电子	TOSHIBA	06+	1314	SOP
+TA2111F	from hqew, 现货 津讯发电子	TOSHIBA	04+	88	SOP24
+TA2111FNG	from hqew, 现货 津讯发电子	TOSHIBA	06+	565	SOP
+TA2132AP	from hqew, 现货 津讯发电子	TOSHIBA	03+	3043	DIP16
+TA2149BNG	from hqew, 现货 津讯发电子	TOSHIBA	07+	7200	DIP24
+TA31101AP	from hqew, 现货 津讯发电子	TOSHIBA	10+	3050	DIP16
+TA8122AF	from hqew, 现货 津讯发电子	TOSHIBA	03+	7000	SOP24
+TAA2008	from hqew, 现货 津讯发电子	TRTPATR	06+	641	QFN32
+TAS3204PAGR	from hqew, 现货 津讯发电子	TI	11+	3541	QFP
+TAS5086DBTR	from hqew, 现货 津讯发电子	TI	10+/09+	2325	TSSOP38
+TAS5112ADFDR	from hqew, 现货 津讯发电子	TI	08+	2617	SSOP
+TAS5352A	from hqew, 现货 津讯发电子	TI	13+	265	HTSSOP44
+TB6596FLG	from hqew, 现货 津讯发电子	TOSHIBA	08+	4000	QFN
+TC9235APG	from hqew, 现货 津讯发电子	TOSHIBA	06+	1000	DIP16
+TC9257AFG	from hqew, 现货 津讯发电子	TOSHIBA	07+	580	SOP
+TC9309A-119	from hqew, 现货 津讯发电子	TOSHIBA	03+	822	QFP
+TC9409BF-001	from hqew, 现货 津讯发电子	TOSHIBA	03+	1000	QFP44
+TC9411AFG	from hqew, 现货 津讯发电子	TOSHIBA	09+	1990	QFP60
+TC9422FG	from hqew, 现货 津讯发电子	TOSHIBA	06+	3130	SOP28
+TC94A23F-503	from hqew, 现货 津讯发电子	TOSHIBA	03+	927	QFP
+TC94A29FB-202	from hqew, 现货 津讯发电子	TOSHIBA	03+	2700	QFP
+TC94A34FG-008	from hqew, 现货 津讯发电子	TOSHIBA	04+	1800	QFP
+TCD1254GFG	from hqew, 现货 津讯发电子	TOSHIBA	11+	238	QFN
+TD1483MR	from hqew, 现货 津讯发电子	TECHCODE	12+	2500	SOP8
+TD1484MR	from hqew, 现货 津讯发电子	TECHCODE	1302+	12500	SOP
+TDA1311A	from hqew, 现货 津讯发电子	PHILIPS	03+	5880	DIP8
+TDA8007B-C3	from hqew, 现货 津讯发电子	NXP	12+	200	QFP
+TDA9885TS	from hqew, 现货 津讯发电子	PHILIPS	06+	111	SSOP24
+TEA5757H	from hqew, 现货 津讯发电子	PHILIPS	00+	1110	QFP
+TEA5761UK	from hqew, 现货 津讯发电子	PHILIPS	06+	1888	BGA
+TEA6330T	from hqew, 现货 津讯发电子	PHILIPS	03+	970	SOP20
+TEF6902AH/V5S	from hqew, 现货 津讯发电子	NXP	11+	7950	QFP
+TH2267.1	from hqew, 现货 津讯发电子	MELEXIS	03+	4790	SOP8
+THS8200	from hqew, 现货 津讯发电子	TI	09+	586	QFP
+THX201	from hqew, 现货 津讯发电子	通华	06+	80	DIP8
+TJA1021T/20/C	from hqew, 现货 津讯发电子	NXP	1338+	2400	SOP8
+TLV2361CDBVR	from hqew, 现货 津讯发电子	TI	11+	2340	SOT23-5
+TLV320DAC23PWR	from hqew, 现货 津讯发电子	TI	0514+	602	TSOP
+TMP87FM42UG	from hqew, 现货 津讯发电子	TOSHIBA	10+	960	QFP
+TMP89FM42UG	from hqew, 现货 津讯发电子	TOSHIBA	06+	920	QFP44
+TMS320DM6447CZUT7	from hqew, 现货 津讯发电子	TI	09+	248	BGA
+TMS320TCI648FCMH	from hqew, 现货 津讯发电子	TI	09+	240	BGA
+TP2804HCNE	from hqew, 现货 津讯发电子	TOPRO	07+	97	PLCC44
+TP2808HCN	from hqew, 现货 津讯发电子	TOPRO	09+	2800	PLCC
+TPA2000D2PWPR	from hqew, 现货 津讯发电子	TI	0536+	9490	TSSOP24
+TPA2012D2RTJR	from hqew, 现货 津讯发电子	TI	0749+	40	QFN
+TPA3004D2PHPR	from hqew, 现货 津讯发电子	TI	0631+	16	QFP48
+TPIC1386DFDRG4	from hqew, 现货 津讯发电子	TI	09+	2000	SOP
+TPS2115ADRBR	from hqew, 现货 津讯发电子	TI	09+	11890	QFN8
+TPS2231PWR	from hqew, 现货 津讯发电子	TI	07+	1988	SOP
+TPS3823-50DBVR	from hqew, 现货 津讯发电子	TI	11+	16290	SOT23-5
+TPS40007DGQR	from hqew, 现货 津讯发电子	TI	09+	99	MSOP10
+TPS40130DBTR	from hqew, 现货 津讯发电子	TI	0810+	18000	TSSOP30
+TPS51125RGER	from hqew, 现货 津讯发电子	TI	10+	8976	QFN
+TPS61151DRCT	from hqew, 现货 津讯发电子	TI	08+	500	QFN
+TPS62242DRVR	from hqew, 现货 津讯发电子	TI	08+	2040	QFN
+TPS65862IC	from hqew, 现货 津讯发电子	TI	13+	853	BGA
+TPS73701DRBR	from hqew, 现货 津讯发电子	TI	1127+	100	QFN
+TPS76301DBVR	from hqew, 现货 津讯发电子	TI	10+	21000	SOT23-5
+TS1003	from hqew, 现货 津讯发电子	EDISON	10+	425	SMD
+TS5A23157RSER	from hqew, 现货 津讯发电子	TI	08+	67261	QFN
+TSA5512	from hqew, 现货 津讯发电子	PHILIPS	03+	2500	SOP
+TSC2003IPWR	from hqew, 现货 津讯发电子	国产	10+	8900	TSSOP
+TSC2046IPGVR	from hqew, 现货 津讯发电子	TI	06+	950	SOP
+TSUM16AL	from hqew, 现货 津讯发电子	MSTAR	06+	233	QFP
+TVP5150AM1ZQCR	from hqew, 现货 津讯发电子	TI	0440+/06	1964	BGA
+UC2525ADWTR	from hqew, 现货 津讯发电子	TI	08+	69	SOIC16
+UCC3895DW	from hqew, 现货 津讯发电子	TI	07+	15	SOP
+UCC5672PWPTR	from hqew, 现货 津讯发电子	TI	06+	1915	SOP
+UCLAMP0541Z.TNT	from hqew, 现货 津讯发电子	SEMTECH	13+	10000	SOD0201
+UM5059	from hqew, 现货 津讯发电子	UNION	09+	3000	SOD923
+UPD70F3261YGC-8EA	from hqew, 现货 津讯发电子	NEC	09+	473	QFP
+UPD70F3421GJ(A)	from hqew, 现货 津讯发电子	RENESAS	12+	217	QFP
+UPD70F3425GJ(A)	from hqew, 现货 津讯发电子	RENESAS	11+	1147	QFP
+UPD78F0537AGK-GAJ	from hqew, 现货 津讯发电子	NEC	09+	889	QFP
+UPD78F9211MA-FAA-E	from hqew, 现货 津讯发电子	NEC	11+	3000	SOP
+UPSD3333DV-40U6	from hqew, 现货 津讯发电子	STM	11+	1428	QFP
+UT165-L48  A1B	from hqew, 现货 津讯发电子	USBEST	10+	2500	LQFP48
+VT1828S	from hqew, 现货 津讯发电子	VIA	10+	2006	QFP48
+W25Q80BVSIG	from hqew, 现货 津讯发电子	WINBOND	11+	150	SOP8
+WM8955LEFL	from hqew, 现货 津讯发电子	WOLFSON	04+	5820	QFN32
+WM9709CDS	from hqew, 现货 津讯发电子	WOLFSON	06+	1420	SOP28
+WM-N-BM-01	from hqew, 现货 津讯发电子	USI	10+	3856	NULL
+X801999-001	from hqew, 现货 津讯发电子	MICROSOFT	08+	7230	QFN32
+ZR364241BGCG	from hqew, 现货 津讯发电子	ZORAN	12+	1260	BGA
+ZR36474BGCF	from hqew, 现货 津讯发电子	ZORAN	10+	6	BGA
+ZR36494BGCF	from hqew, 现货 津讯发电子	ZORAN	09+	875	BGA
+ZXCZA200JC40TA	from hqew, 现货 津讯发电子	ZETEX	09+	800	QFN
+A2S50-A1-RH	from hqew, 现货 津讯发电子	AMBARELLA	11+	112	BGA
+A706KGT-A	from hqew, 现货 津讯发电子	ADDTEK	08+	33763	QFN
+ADN2812ACPZ	from hqew, 现货 津讯发电子	AD	07+	80	AFN
+ADSP-BF536BBCZ-3A	from hqew, 现货 津讯发电子	AD	08+	264	BGA
+AF9035B-N2	from hqew, 现货 津讯发电子	FA	10+	1788	QFN
+AI1003	from hqew, 现货 津讯发电子	AIPROS	09+	425	TSSOP16
+AK4643EN-L	from hqew, 现货 津讯发电子	AKM	08+	9750	QFN
+AK8856VG-L	from hqew, 现货 津讯发电子	AKM	08+	1486	BGA
+ALC202A	from hqew, 现货 津讯发电子	REALTEK	0833+	86	QFP
+AN41204A	from hqew, 现货 津讯发电子	PANASONIC	06+	1282	QFP
+AP8801SG-13	from hqew, 现货 津讯发电子	DIODES INC	09+	13	SOP8
+AT551	from hqew, 现货 津讯发电子	AIMTRON	11+	140	WLCSP6
+ATS137-PL-B-B	from hqew, 现货 津讯发电子	DIODES INC	11+	17200	NA
+BCM56304B1KEBG-P21	from hqew, 现货 津讯发电子	BOARDCOM	09+/10+	194	BGA
+BD4828G-TR	from hqew, 现货 津讯发电子	ROHM	11+/12+	5170	SOT23-5
+BU9532KS	from hqew, 现货 津讯发电子	ROHM	05+	1799	QFP52
+CC1202	from hqew, 现货 津讯发电子	MICROSEMI	10+	25600	BGA
+CDCLVP1102RGTR	from hqew, 现货 津讯发电子	TI	1114+	1542	QFN
+CL8830A	from hqew, 现货 津讯发电子	C-CUBE	03+	1377	QFP
+CXB1457R	from hqew, 现货 津讯发电子	SONY	12+	9376	QFP
+DDP2431	from hqew, 现货 津讯发电子	DLP	10+	983	BGA
+EP9142	from hqew, 现货 津讯发电子	EP	11+	542	QFP
+FR9886ASPCTR	from hqew, 现货 津讯发电子	天钰科技	12+	120	SOP
+GL6810	from hqew, 现货 津讯发电子	ROHM	11+	3000	SOT23-5
+GL850A	from hqew, 现货 津讯发电子	GENESIS	08+	100	QFP48
+HAT2116H-EL	from hqew, 现货 津讯发电子	RENESAS	10+	25000	LEPAK
+HD64F2166VTE33V	from hqew, 现货 津讯发电子	RENESAS	10+	474	QFP
+HD64F3397FBL17V	from hqew, 现货 津讯发电子	RENESAS	04+	672	QFP
+ICE3BR1976	from hqew, 现货 津讯发电子	INFINEON	08+	1000	SOP
+IW1690-02	from hqew, 现货 津讯发电子	IWATT	08+	5000	SOP8
+KIA6040P	from hqew, 现货 津讯发电子	KEC	03+	51	DIP16
+L6574D	from hqew, 现货 津讯发电子	ST	08+	250	SOP
+LA1787M	from hqew, 现货 津讯发电子	SANYO	08+/05+	8	QFP64
+LA1837N	from hqew, 现货 津讯发电子	SANYO	04+	1262	DIP30
+LC7461-8103	from hqew, 现货 津讯发电子	SANYO	05+	1037	SOP24
+LM2576T-ADJ	from hqew, 现货 津讯发电子	国产	05+	4400	TO-220
+LP2951ACMM-3.3	from hqew, 现货 津讯发电子	NS	10+	4057	MSOP8
+LTC3728EG	from hqew, 现货 津讯发电子	LINEAR	08+	558	SSOP
+LTC6104	from hqew, 现货 津讯发电子	LINEAR	13+	1590	MSSOP
+MC908JK8CDWE	from hqew, 现货 津讯发电子	FREESCALE	08+	8	SOP
+MC9S08AW16CFGER	from hqew, 现货 津讯发电子	FREESCALE	1034+	1350	QFP
+MMA7660FCR1	from hqew, 现货 津讯发电子	FREESCALE	11+	200	QFN10
+M3062LFGPFP U5CG	from hqew, 现货 津讯发电子	RENESAS	09+	1114	QFP
+M3100-A1	from hqew, 现货 津讯发电子	ALI	10+	982	QFP
+M3355A1	from hqew, 现货 津讯发电子	ALI	03+	2619	QFP
+M5705	from hqew, 现货 津讯发电子	ALI	03+	1900	QFP
+M6249FP	from hqew, 现货 津讯发电子	国产	10+	2300	SOP
+M7707-ATAA	from hqew, 现货 津讯发电子	ALI	12+	9600	QFP
+MAX17113ETL+T	from hqew, 现货 津讯发电子	MAXIM	10+	69950	QFN
+MAX3232EIDBR	from hqew, 现货 津讯发电子	TI	1023+	4	SSOP16
+NCP1271D65R2G	from hqew, 现货 津讯发电子	ON SEMI	08+	2276	SOP7
+NRF24LU1	from hqew, 现货 津讯发电子	NRF	08+	673	QFN
+PL-2507CLF	from hqew, 现货 津讯发电子	PROLIFIC	05+	3200	LQFP64
+PL2571	from hqew, 现货 津讯发电子	PROLIFIC	08+	3108	QFP
+PM25LD020C-SCE	from hqew, 现货 津讯发电子	PFLASH	12+	250	SOP8
+PNX1520E	from hqew, 现货 津讯发电子	TRIDENT	1016+	400	BGA
+PR9853	from hqew, 现货 津讯发电子	西安民展	12+	17420	SOT23-6
+PTFA211801EV4	from hqew, 现货 津讯发电子	INFINEON	1008+100	700	NA
+R5F212L4SDFP	from hqew, 现货 津讯发电子	RENESAS	10+	293	QFP32
+R5F71464FPV	from hqew, 现货 津讯发电子	RENESAS	11+	2155	QFP
+RCLAMP0531T.TCT	from hqew, 现货 津讯发电子	SEMTECH	10+	477	SLP1006
+RDA3560M	from hqew, 现货 津讯发电子	RDA	11+	3000	NULL
+RF3146TR13	from hqew, 现货 津讯发电子	RFMD	04+/05+	4065	QFN
+RT9173BCS	from hqew, 现货 津讯发电子	RICHTEK	04+	1367	SOP8
+RT9907PQV	from hqew, 现货 津讯发电子	RICHTEK	10+	715	QFN
+RT9979GQW	from hqew, 现货 津讯发电子	RICHTEK	12+	1770	QFN
+RTD2547D-LF	from hqew, 现货 津讯发电子	REALTEK	07+	138	QFP128
+RTL8105E-VL-CG	from hqew, 现货 津讯发电子	REALTEK	13+	4680	QFN48
+RTPXA270C5C312	from hqew, 现货 津讯发电子	INTEL	06+	2163	BGA
+S3C825AC27-QW8A	from hqew, 现货 津讯发电子	SAMSUNG	05+	602	QFP
+S5L1484	from hqew, 现货 津讯发电子	SAMSUNG	05+	800	QFP
+S6B0724A01-B0CY	from hqew, 现货 津讯发电子	SAMSUNG	05+	4480	NA
+SA2104C	from hqew, 现货 津讯发电子	SILAN	09+	1900	DIP24
+SC6600R2-257G	from hqew, 现货 津讯发电子	SPREADTRU	10+	4522	BGA
+SC72131S	from hqew, 现货 津讯发电子	SILAN	08+	735	SOP20
+SI4136DY-T1-GE3	from hqew, 现货 津讯发电子	VISHAY	10+	200	SOP8
+SII9134CTU	from hqew, 现货 津讯发电子	SILICON	0835+	270	QFP
+SIL9022EBU	from hqew, 现货 津讯发电子	SILICON	09+	926	QFN
+SP3721D	from hqew, 现货 津讯发电子	TI	05+	10503	QFP
+SP6686ER/TR	from hqew, 现货 津讯发电子	SIPEX	08+	302	QFN
+SPMC65SF112A-001D-HL211	from hqew, 现货 津讯发电子	SUNPLUS	1323+	2500	LQFP32
+SPS-HI12	from hqew, 现货 津讯发电子	NULL	10+	771	NULL
+STMP3507XXLAEA6	from hqew, 现货 津讯发电子	SIGMATEL	05+	450	QFP
+SVG170D	from hqew, 现货 津讯发电子	SEMITEL	08+	28025	SOP8L
+SYM120FAC	from hqew, 现货 津讯发电子	SILERGY	12+	5000	SOP8
+T1235H-6T	from hqew, 现货 津讯发电子	ST	09+	6251	TO220
+TA1275AZ	from hqew, 现货 津讯发电子	TOSHIBA	05+	1733	ZIP
+TA2104AN	from hqew, 现货 津讯发电子	TOSHIBA	05+	9796	DIP
+TA2109FG	from hqew, 现货 津讯发电子	TOSHIBA	03+	8750	SOP24
+TA7417AP	from hqew, 现货 津讯发电子	TOSHIBA	06+	700	ZIP21
+TA8173AP	from hqew, 现货 津讯发电子	TOSHIBA	04+	14500	DIP16
+TC9243F	from hqew, 现货 津讯发电子	TOSHIBA	03+	2000	SOP20
+TC94A09F-202	from hqew, 现货 津讯发电子	TOSHIBA	03+	10895	QFP
+TC94A14FAG	from hqew, 现货 津讯发电子	TOSHIBA	07+	3000	QFP
+TC94A23F-505	from hqew, 现货 津讯发电子	TOSHIBA	05+	4835	QFP
+TC94A23F-506	from hqew, 现货 津讯发电子	TOSHIBA	03+	1126	QFP100
+TD62207	from hqew, 现货 津讯发电子	TOSHIBA	03+	588	SSOP
+TEA5757HL	from hqew, 现货 津讯发电子	PHILIPS	03+	3542	QFP48
+TJA1021T	from hqew, 现货 津讯发电子	NXP	1338+	2500	SOP8
+TLL1780DBQR	from hqew, 现货 津讯发电子	TI	08+	1244	SSOP
+TMP87EP26FG-6CK9	from hqew, 现货 津讯发电子	TOSHIBA	03+	7234	QFP
+TMS320C6414TZLZ	from hqew, 现货 津讯发电子	TI	09+	100	BGA
+TNY278GN	from hqew, 现货 津讯发电子	POWER	08+	1000	SOP7
+TPS2115APWR	from hqew, 现货 津讯发电子	TI	11+/09+	3426	SOP8
+TPS62260DRVR	from hqew, 现货 津讯发电子	TI	09+/10+	420993	SON6
+TSC2003IZQCR	from hqew, 现货 津讯发电子	TI	0710+	5135	QFN
+TW8804-BALC3-GR	from hqew, 现货 津讯发电子	TECHWELL	09+	715	TQFP160
+TW8816DELA3-GR	from hqew, 现货 津讯发电子	TECHWELL	09+	30	QFP128
+UCLAMP0501P.TCT	from hqew, 现货 津讯发电子	SEMTECH	10+	165000	SOD-523
+UTC7613	from hqew, 现货 津讯发电子	TOSHIBA	03+	1632	DIP16
+VT1708B	from hqew, 现货 津讯发电子	VIA	10+	5000	QFP
+XA3S500E-4FTG256I	from hqew, 现货 津讯发电子	XILINX	09+	1000	BGA
+XC18V04VQ44I	from hqew, 现货 津讯发电子	XILINX	09+	477	QFP44
+ZR39775HGCF-TC	from hqew, 现货 津讯发电子	ZORAN	1129+	400	BGA
+AAT3110IGU-4.5-T1	from hqew, 津讯发电子	ANALOGIC	06+	24000	SOT163
+AAT3110IJS-5.0-T1	from hqew, 津讯发电子	ANALOGIC	08+	32600	SC70JW-8
+AAT3120ITP-T1	from hqew, 津讯发电子	ANALOGIC	08+	60173	TSOPJW-1
+AAT7601-Q7-T	from hqew, 津讯发电子	ADVANCED	09+	1174	QFN24
+ACT3780QY-T	from hqew, 津讯发电子	ACTIVE	12+	15000	QFN
+ACT4514	from hqew, 津讯发电子	ACTIVE	11+	4336	SOP
+AD7740YRMZ	from hqew, 津讯发电子	AD	12+	15	MSOP8
+AD80206ABCPZ-125	from hqew, 津讯发电子	AD	1132+	520	QFN
+AD8073JRZ	from hqew, 津讯发电子	AD	1232+	504	SOP14
+AD8347ARUZ	from hqew, 津讯发电子	AD	1308+	2	TSSOP28
+ADL5375-05ACPZ	from hqew, 津讯发电子	AD	11+	11196	LFCSP24
+ADM706RARZ	from hqew, 津讯发电子	AD	10+	1800	SOP8
+ATF-55143-TR1G	from hqew, 津讯发电子	AVAGO	09+	3000	SOT343
+BCM4313KML1G	from hqew, 津讯发电子	BROADCOM	09+	3638	QFN
+FM11-GE-300	from hqew, 津讯发电子	FORTEMED	09+	1480	QFP
+GSL1688	from hqew, 津讯发电子	NA	13+	49	QFN
+KIA6966	from hqew, 津讯发电子	KEC	06+	2490	ZIP9
+LAN9514	from hqew, 津讯发电子	SMSC	09+	6	QFN
+LIS35DE	from hqew, 津讯发电子	ST	11+	194	BGA
+LMH6642MFX	from hqew, 津讯发电子	NS	08+	1000	SOT23-5
+MBI5024GF	from hqew, 津讯发电子	MBI台湾聚积	10+	800	SOP
+MCZ33880EWR2	from hqew, 津讯发电子	FREESCALE	11+	1930	SOP
+MFI341S1839	from hqew, 津讯发电子	AVNET	07+	7292	QFN
+MIC94043YFL-TR	from hqew, 津讯发电子	MICREL	10+	5000	SOP11
+MP1470GJ-Z	from hqew, 津讯发电子	MPS	13+	6000	SOT23-6
+MST6M181VS-LF-Z1	from hqew, 津讯发电子	MSTAR	1229S+	217	QFP
+NRF905-REEL	from hqew, 津讯发电子	NORDICSEM	11+	5000	QFN32
+PKM32AG-Q	from hqew, 津讯发电子	ADC	1304+	1	LQFP-25
+RT8020PQW	from hqew, 津讯发电子	RICHTEK	09+	1973	QFN
+RTL8365MB-CG	from hqew, 津讯发电子	REALTEK	12+	41	NA
+S912XDP512J1MAL	from hqew, 津讯发电子	FREESCAL	12+	300	QFP
+SGM4890YMS/TR	from hqew, 津讯发电子	SGMICRO	1311+	6000	BGA
+SSL2101T	from hqew, 津讯发电子	NXP	10+	983	SOP
+SU3500	from hqew, 津讯发电子	INTEL	09+	10	BGA
+TDA18273HN	from hqew, 津讯发电子	NXP	12+	20	QFN
+TMS320DM6446ZWT	from hqew, 津讯发电子	TI	07+	133	BGA
+TPA0253DGQR	from hqew, 津讯发电子	TI	09+	1472	SOP10
+TPS2051BDBVR	from hqew, 津讯发电子	TI	06+	144	SOT23
+WM8731LSEFL/R	from hqew, 津讯发电子	WOLFSON	08+	2785	QFN28
+08233-01-R	from hqew, 津讯发电子	VERIFONE	12+	3866	BGA
+88E1141-D0-BBT1C000	from hqew, 津讯发电子	MARWELL	08+	1783	PBGA2727
+88E1240-TAH2-AOP	from hqew, 津讯发电子	MARWELL	0944+	581	QFP
+88F5281-DO-C500	from hqew, 津讯发电子	MARWELL	08+	100	BGA
+88SA8040-TBC1	from hqew, 津讯发电子	MARVELL	09+1035+	2360	TQFP64
+88W8618-D1-BBS1C000	from hqew, 津讯发电子	MARWELL	09+	1202	BGA
+8D02E	from hqew, 津讯发电子	8DIGIT	0930+	76	QFP
+A3P250-FGG144	from hqew, 津讯发电子	ACTEL	10+/06+	984	BGA
+A6279ELPTR-T	from hqew, 津讯发电子	ALLEGRO	1131+	19	TSSOP
+A6280EESTR-T	from hqew, 津讯发电子	ALLEGRO	10+	2000	QFN16
+AAT1270	from hqew, 津讯发电子	ANALOGIC	07+	4500	STDFN33-
+AAT3110IGU-5.0-T1	from hqew, 津讯发电子	ANALOGIC	11+	11880	SOT23
+AAT3169IFO	from hqew, 津讯发电子	ANALOGIC	10+	7300	QFN
+AD8042ARZ	from hqew, 津讯发电子	AD	1232+	5533	SOP
+AD8565AK	from hqew, 津讯发电子	ADI	10+	2723	SOT23-5
+ADAU1401YSTZ	from hqew, 津讯发电子	AD	1239+	2500	LQFP48
+ADM1491EBRZ	from hqew, 津讯发电子	AD	1233+	1627	SOP
+BA3308F	from hqew, 津讯发电子	ROHM	10+	1539	SOP14
+BCM53242MKPBG	from hqew, 津讯发电子	BROADCOM	1303+	90	BGA
+BCM7420DUKFNB1G	from hqew, 津讯发电子	BOARDCOM	10+	96	BGA
+CXD3142R	from hqew, 津讯发电子	SONY	1335+	713	QFP
+FM1722NL	from hqew, 津讯发电子	FM	13+	3	SOP
+FT232BQ	from hqew, 津讯发电子	FTDI	08+	900	QFN
+FT5306DE4	from hqew, 津讯发电子	FOCALTECH	11+	453	QFN
+HI6755RBC	from hqew, 津讯发电子	海思	13+	100	BGA
+HMC472LP4ETR	from hqew, 津讯发电子	HITTITE	12+	500	QFN
+HY27UF081G2A-TPCB	from hqew, 津讯发电子	HYNIX	0916+	1	SOP
+IRF6648TR1PBF	from hqew, 津讯发电子	IR	11+	100	Directfe
+LM2574MX-5.0	from hqew, 津讯发电子	NS	11+	4000	SOP
+LTC3525ESC6-3.3#PBF	from hqew, 津讯发电子	LINEAR	12+	500	SC70-6
+MFI341S2164	from hqew, 津讯发电子	KIT	10+	6000	QFN
+M38039G4HHP	from hqew, 津讯发电子	RENESAS	09+	798	LQFP64
+MAX9736AETJ+T	from hqew, 津讯发电子	MAXIM	08+	13	QFN
+NCP1377BDR2G	from hqew, 津讯发电子	ON SEMI	05+	60	SOP8
+NVP1104B	from hqew, 津讯发电子	NEXTCHIP	12+	30	QFP
+ST7FMC2S4T6	from hqew, 津讯发电子	ST	10+	900	QFP
+STL5197ABB	from hqew, 津讯发电子	ST	09+	17	BGA
+TB2132FN	from hqew, 津讯发电子	TOSHIBA	09+	160	TSSOP30
+TC9260P	from hqew, 津讯发电子	TOSHIBA	03+	500	DIP16
+TCLAMP3302N.TCT	from hqew, 津讯发电子	SEMTECH	1218+	2210	QFN
+TMD27713	from hqew, 津讯发电子	TAOS	11+	15	DFN-8
+TPS63030DSKR	from hqew, 津讯发电子	TI	1044+	3000	QFN
+UPSD3354DV-40U6	from hqew, 津讯发电子	ST	10+	600	TQFP
+73S8024RN-IL	from hqew, 津讯发电子	TERIDIAN	05+	785	SOP28
+8205A	from hqew, 津讯发电子	台湾富晶	10+	6000	TSSOP8
+88E8056-NNC1	from hqew, 津讯发电子	MARWELL	0919+	18509	QFN
+88W8010-B6-NNB1C000	from hqew, 津讯发电子	MARWELL	09+	4133	QFN
+89C58RD+40I	from hqew, 津讯发电子	STC	09+	39	QFP
+8D02D	from hqew, 津讯发电子	8DIGIT	05+	850	QFP64
+A3986SLDTR	from hqew, 津讯发电子	ALLEGRO	05+	534	TSSOP38
+A5368CA	from hqew, 津讯发电子	ALLEGRO	02+	164	DIP
+AD5398BCBZ-REE17	from hqew, 津讯发电子	AD	08+	9	LFCSP-8
+AD5807BCBZ	from hqew, 津讯发电子	AD	09+	9000	BGA
+AD7873ARUZ	from hqew, 津讯发电子	AD	0918+	1226	TSSOP
+AD7879-1ACBZ-500	from hqew, 津讯发电子	AD	11+	3209	WLCSP
+AD8143ACPZ	from hqew, 津讯发电子	AD	11+	398	QFN
+AD9709ASTZ	from hqew, 津讯发电子	AD	1101+	600	QFP
+AD9990BBCZR	from hqew, 津讯发电子	AD	07+	1831	BGA
+ADE7755ARSE	from hqew, 津讯发电子	AD	06+	741	SSOP
+ADF4113BRUZ-REEL	from hqew, 津讯发电子	AD	07+	15200	TSSOP16
+ADF4193BCPZ-RL	from hqew, 津讯发电子	AD	09+	500	LFCSP32
+ADM1032ARMZ-R7	from hqew, 津讯发电子	AD	08+	22800	MSOP8
+AS179-92LF	from hqew, 津讯发电子	SKYWORS	1203+	3000	SOT-363
+AX88760LF	from hqew, 津讯发电子	ASIX	11+	570	QFP
+BA4560F	from hqew, 津讯发电子	ROHM	0406+	240	SOP8
+EM6A9160TSA-4G	from hqew, 津讯发电子	ETRON	10+	244	TSSOP
+FM1702NL	from hqew, 津讯发电子	复旦微	13+	200	SOP32
+HD64F2328BVF25V	from hqew, 津讯发电子	RENESAS	09+	361	QFP
+HX8347-H020PD250	from hqew, 津讯发电子	HIMAX	11+	1200	NULL
+IRF6678R1PBF	from hqew, 津讯发电子	IR	1149+	2000	Directfe
+IRLL014N	from hqew, 津讯发电子	IR	03+	2500	SOT223
+KID65003AF-EL/P	from hqew, 津讯发电子	KEC	12+	615	SOP16
+LMV771MG	from hqew, 津讯发电子	NS	08+	65	SC70
+MC9S08QG4CDTE/MQG4	from hqew, 津讯发电子	FREESCALE	0835+	195	SSOP16
+MCZ33390EFR	from hqew, 津讯发电子	FREESCALE	09+	40	SOP8
+MFI341S2500	from hqew, 津讯发电子	KIT	11+	2000	QFN
+M3329C-F1B(G)	from hqew, 津讯发电子	ALI	09+	176	QFP
+M61538FP	from hqew, 津讯发电子	RENESAS	08+	3973	SOP24
+R2A20114AFPW5	from hqew, 津讯发电子	N/A	11+	2000	SOP
+RTD2525LH	from hqew, 津讯发电子	REALTEK	09+	2600	QFN48
+S5L8035X01-T081U	from hqew, 津讯发电子	SAMSUNG	13+	2	QFP
+SG6841J	from hqew, 津讯发电子	SGM	00+	144	SOP8
+SGM9119YS8G	from hqew, 津讯发电子	SGM	09+	20	SOP8
+TFA9810T	from hqew, 津讯发电子	NXP	08+	85	SOP32
+TPS5420DR	from hqew, 津讯发电子	TI	11+	25	SOP8
+TPS61170DRVR	from hqew, 津讯发电子	TI	1323+	12000	QFN6
+USB2514B-AEZG	from hqew, 津讯发电子	SMSC	11+	3000	QFN
+41B14-3A06U	from hqew, 津讯发电子	CSR	09+	338	BGA
+88E6218RA1-LKJ2	from hqew, 津讯发电子	MARWELL	10+	8640	QFP
+8D02D	from hqew, 津讯发电子	8DIGIT	05+	25920	LQFP
+9397822	from hqew, 津讯发电子	DELPHI	11+	450	QFP
+A2S30-A1-RH	from hqew, 津讯发电子	AMBARELLA	11+	2445	BGA
+A3P060-FGG144	from hqew, 津讯发电子	ACTEL	07+	421	BGA144
+A5367CAT	from hqew, 津讯发电子	ALLEGRO	07+	5830	DIP
+AAT2430AISX-T1	from hqew, 津讯发电子	ANALOGIC	12+	2000	LQFP
+AD1836AASZ	from hqew, 津讯发电子	ADI	11+	1200	NA
+AD8376ACPZ-R7	from hqew, 津讯发电子	AD	11+	1500	LFCSP-32
+AD9512BCPZ	from hqew, 津讯发电子	AD	1143+	702	QFN
+AD9884AKSZ-140	from hqew, 津讯发电子	AD	09+	121	QFP
+ADG3304BCBZ	from hqew, 津讯发电子	AD	1132+	29464	WLCSP
+ADL5371ACPZ-R7	from hqew, 津讯发电子	AD	11+	1500	LFCSP24
+AK8856BVN-L	from hqew, 津讯发电子	AKM	09+	1000	QFN
+ATA2501B	from hqew, 津讯发电子	ATLAB	06+	30	QFP48
+BAZ3882-NCAZ	from hqew, 津讯发电子	CONCXAN	10+	300	QFN
+BCM5325EKQMG	from hqew, 津讯发电子	BROADCOM	10+	127	QFP
+BPW34S	from hqew, 津讯发电子	OSRAM	06+	20	SMD
+DSPIC30F4011-30I/PT	from hqew, 津讯发电子	MICROCHIP	10+	103	TQFP44
+EP3C120F780C8N	from hqew, 津讯发电子	ALTERA	1125+	432	BGA780
+FSA9280AUMX	from hqew, 津讯发电子	FAIRCHILD	11+	3682	QFN
+FT5316	from hqew, 津讯发电子	FOCALTECH	12+	160	QFN48
+FT5406EE8	from hqew, 津讯发电子	FOCALTECH	11+	760	QFN
+HCPL-7840-300E	from hqew, 津讯发电子	AVAGO	10+	1500	SOP8
+HXB15H2G800BF-15H	from hqew, 津讯发电子	华芯	1302+	484	BGA
+IP113C-LF	from hqew, 津讯发电子	ICPLUS	1301+	18	QFP
+JM20329-LGCA2E	from hqew, 津讯发电子	JMICRON	13+	480	LQFP
+MFI341S2159	from hqew, 津讯发电子	KIT	11+	5000	QFN
+MP1593DN-C061-LF-Z	from hqew, 津讯发电子	MPS	0743+	3000	SOP8
+MPC82G516AF	from hqew, 津讯发电子	MEGAWIN	11+	257	QFP
+MSP430F2121IPWR	from hqew, 津讯发电子	TI	1119+	958	QFN
+MST6M16JS-LF	from hqew, 津讯发电子	MSTAR	1244+	55	QFP
+MST6M30QSC-LF	from hqew, 津讯发电子	MSTAR	11+/1314	490	QFP216
+MX25L12835FMI-10G	from hqew, 津讯发电子	MXIC	13+	5106	SOP16
+NCP348AEMTTBG	from hqew, 津讯发电子	ON SEMI	10+	9000	QFN
+R5F211B4SP	from hqew, 津讯发电子	RENESAS	06+	64	SSOP20
+RF7245TR7	from hqew, 津讯发电子	RFMD	12+	350	QFN
+RT5350F	from hqew, 津讯发电子	RALINK	1249+	20	BGA
+SL1053	from hqew, 津讯发电子	国产	1322+	4474	SOP8
+SY8133FCC	from hqew, 津讯发电子	SILERGY	1206+	2429	SOP8
+TEF6901AH/V2	from hqew, 津讯发电子	NXP	10+	530	QFP64
+TLE4207G	from hqew, 津讯发电子	INFINEON	1238+	2000	SOP14
+TLK1221RHAR	from hqew, 津讯发电子	TI	0940+101	35	VQFN40
+TMDS442PNPR	from hqew, 津讯发电子	TI	09+	429	QFP128
+TPS54418RTER	from hqew, 津讯发电子	TI	10+	45	QFN
+TPS62067DSGR	from hqew, 津讯发电子	TI	13+	6000	SON-8
+TW2867	from hqew, 津讯发电子	TECHWELL	10+	54	QFP128
+TW8816DALB3-GR	from hqew, 津讯发电子	TECHWELL	1205+	64	QFP
+UPD6467GR-001-A	from hqew, 津讯发电子	RENESAS	1217+	4	943
+VCA810AID	from hqew, 津讯发电子	TI	11+	450	SOP8
+VT1603A	from hqew, 津讯发电子	VIA	10+	121	QFP
+W9812G2IH-6	from hqew, 津讯发电子	WINBOND	09+	646	TSOP

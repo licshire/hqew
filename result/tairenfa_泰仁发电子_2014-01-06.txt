@@ -1,0 +1,733 @@
+16L-8AU	from hqew, 泰仁发电子	ATMEL	11+	7200	QFP
+24C04B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6535	
+24C16AN-10SU2.7	from hqew, 泰仁发电子	ATMEL	&nbsp;	162	SOP
+24C16BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	32947	SOP
+24C16C-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	41880	SOP
+24C256C-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	18690	
+24C32D-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	27668	
+24C32D-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	27668	SOP
+24C64D-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	134876	
+25256AW-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	45	SOP
+25256B-SHL-T	from hqew, 泰仁发电子	ATMEL	12+	22000	SOP
+25DF321A-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	1049	
+27C512R-12JC	from hqew, 泰仁发电子	ATMEL	&nbsp;	52	
+29LV020-12JI	from hqew, 泰仁发电子	ATMEL	&nbsp;	504	PLCC
+29LV512-12JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	109	
+89C4051-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	12450	
+89LS51-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1600	QFP
+89LS51-16JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3000	PLCC
+89LS51-16PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	
+89LS52-16JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1080	
+91SAM9261B-CU	from hqew, 泰仁发电子	ATMEL	&nbsp;	441	QFP
+93C46D-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	50000	
+AT24C04B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	8448	DIP
+ATF1504AS-15JC44	from hqew, 泰仁发电子	ATMEL	&nbsp;	249	
+ATF16V8BQL-15PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	9	
+ATMEGA1281-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1800	
+ATMEGA168PA-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	10462	
+ATMEGA16L-8AU	from hqew, 泰仁发电子	ATMEL	11+	7200	QFP
+ATMEGA48-20AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	102	
+ATMEGA48PA-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5991	
+ATSHA204-SH-DA	from hqew, 泰仁发电子	ATMEL	13	6655	SOP
+ATTINY25V-10PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1396	
+ATTINY25V-10SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	
+ATTINY28C64B-15SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1403	SOP
+ATTINY28C64B-15SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	9403	
+ATXMEGA64A3-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	900	QFP
+16L-8PU	from hqew, 泰仁发电子	ATMEL	11+	5800	DIP
+24C01BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	47700	
+24C01BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	47700	SOP
+24C01B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4880	DIP
+24C02B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6	
+24C02B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6	SOP
+24C02B-TH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	8193	SOP
+24C02C-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	526876	SOP
+24C02C-XHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	11890	
+24C02C-XHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	11890	TSSOP
+24C02N-10SU1.8	from hqew, 泰仁发电子	ATMEL	&nbsp;	103	SOP
+24C04BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	12000	
+24C04B-TH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	98155	
+24C04B-TH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	98155	SOP
+24C04C-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	56188	
+24c08A-10TU2.7	from hqew, 泰仁发电子	ATMEL	&nbsp;	938	
+24c08A-10TU2.7	from hqew, 泰仁发电子	ATMEL	&nbsp;	938	TSSOP
+24C08B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	7090	DIP
+24C08B-TH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	6885	
+24C1024BN-SH25-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	2048	
+24C1024B-PU25	from hqew, 泰仁发电子	ATMEL	&nbsp;	1565	DIP
+24C1024BW-SH25-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	3986	SOP
+24C128-10TI27	from hqew, 泰仁发电子	ATMEL	&nbsp;	212	
+24C128BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	295	
+24C128B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	8515	
+24C128C-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	35223	
+24C256C-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	18690	SOP
+24C32AN-10SU18	from hqew, 泰仁发电子	ATMEL	&nbsp;	8800	SOP
+24C32CN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	1283	SOP
+24C32C-TH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	900	SOP
+24C512BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	137	
+24C512B-TH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	2555	
+24C512C-SSHD-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	38729	SOP
+24C64A-10TU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	42	TSSOP
+24C64AN-10SU2.7	from hqew, 泰仁发电子	ATMEL	&nbsp;	3615	
+25040B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	17915	
+25080B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	22084	SOP
+25160AN-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	3497	
+25160AN-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	3497	SOP
+25160B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	3025	SOP
+25640AN-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	908	
+25640B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	26859	SOP
+25DF321A-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	1049	SOP
+25F512AN-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	63	SOP
+27C256R-70JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	272	PLCC
+27C256R-70PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	834	
+28C256-15JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	764	PLCC
+28C256-15PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1121	DIP
+28C64B-15PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	8500	DIP
+29C020-70JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	15	PLCC
+29C040A-90TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1560	
+29C040A-90TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1560	SOP
+29LV020-20TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	780	
+45DB081D-SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4546	SOP
+45DB321D-TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3985	SOP
+45DB642D-TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6	
+89C2051-12PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	8601	
+89C2051-12SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	10901	
+89C2051-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3340	
+89C2051-24SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4879	SOP
+89C4051-12SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2513	
+89C4051-12SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2513	SOP
+89C51ED2-SLSUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	1138	PLCC
+89C51RC-24AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1590	QFP
+89C51RC-24JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2483	
+89C51RC-24JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2483	PLCC
+89C51RC-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	134	
+89C51RC-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	134	DIP
+89C51RD2-RLTUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	1800	
+89C51RD2-SLSUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	2516	
+89C52-24PI	from hqew, 泰仁发电子	ATMEL	&nbsp;	532	
+89C55WD-24AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5260	
+89C55WD-24AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5260	QFP
+89C55WD-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5000	
+89LS51-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1600	
+89LS51-16PI	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	
+89LS51-16PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	DIP
+89LV55-12PI	from hqew, 泰仁发电子	ATMEL	&nbsp;	5	
+89S51-24AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4800	QFP
+89S52-24AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4800	QFP
+89S52-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	83149	
+89S8253-24AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3200	
+89S8253-24AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3200	QFP
+89S8253-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4800	DIP
+91M55800A-33AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	74	QFP
+91RF40162SB-CU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1260	
+91RF40162SB-CU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1260	QFP
+91SAM7S64C-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	207	
+91SAM9G20B-CU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1220	
+93C46DN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	53228	SOP
+93C56A-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	27140	
+93C66A-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	49448	
+93C66A-10TU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	10000	
+93C86A-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	20000	
+93C86A-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	20000	SOP
+AT24C01B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4880	DIP
+AT24C02B-TH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	8193	SOP
+AT24C02C-PUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	8475	DIP
+AT24C02C-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	526876	SOP
+AT24C04BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	43900	SOP
+AT24C04C-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	56188	SOP
+AT24C08A-10TU2.7	from hqew, 泰仁发电子	ATMEL	&nbsp;	938	TSSOP
+AT24C08B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	7090	DIP
+AT24C08B-TH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	6885	SOP
+AT24C1024BN-SH25-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	2048	SOP
+AT24C128-10TI27	from hqew, 泰仁发电子	ATMEL	&nbsp;	212	TSSOP
+AT24C128BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	295	SOP
+AT24C128B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	8515	DIP
+AT24C128C-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	35223	SOP
+AT24C16BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	32947	SOP
+AT24C16B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	46	DIP
+AT24C16C-PUM	from hqew, 泰仁发电子	ATMEL	12+	6500	DIP
+AT24C256C-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	18690	SOP
+AT24C32A-10TI27	from hqew, 泰仁发电子	ATMEL	&nbsp;	3572	TSSOP
+AT89LS52-16JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1080	PLCC
+AT89S51-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5000	DIP
+AT89S52-24AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4800	QFP
+AT89S8253-24AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3200	QFP
+AT89S8253-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4800	DIP
+AT90CAN128-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	900	QFP
+AT90CAN32-16AU	from hqew, 泰仁发电子	ATMEL	12+	1800	QFP
+AT91M40800-33AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2510	
+AT91M40800-33AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2510	QFP
+AT91M55800A-33AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	74	QFP
+AT91RF40162SB-CU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1260	QFP
+AT91RM9200-CJ	from hqew, 泰仁发电子	ATMEL	&nbsp;	990	
+AT91SAM7X512-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1436	
+AT93C56A-10PU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	8819	DIP
+ATF1500A-15JC	from hqew, 泰仁发电子	ATMEL	&nbsp;	270	
+ATF1502AS-15JC44	from hqew, 泰仁发电子	ATMEL	&nbsp;	31	PLCC
+ATF1502AS-15JU44	from hqew, 泰仁发电子	ATMEL	&nbsp;	858	PLCC
+ATF1504AS-10JU44	from hqew, 泰仁发电子	ATMEL	&nbsp;	942	
+ATF1508AS-10AU100	from hqew, 泰仁发电子	ATMEL	&nbsp;	1800	
+ATF16V8B-15PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6519	
+ATF22V10C-15JC	from hqew, 泰仁发电子	ATMEL	&nbsp;	136	PLCC
+ATF91SAM7S128C-AU-001	from hqew, 泰仁发电子	ATMEL	&nbsp;	2378	
+ATF91SAM7S256C-AU-001	from hqew, 泰仁发电子	ATMEL	&nbsp;	1430	QFP
+ATF91SAM9260B-CU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2169	QFP
+ATF91SAM9260B-QU	from hqew, 泰仁发电子	ATMEL	&nbsp;	436	
+ATF91SAM9263B-CU	from hqew, 泰仁发电子	ATMEL	&nbsp;	663	
+ATF91SAM9263B-CU	from hqew, 泰仁发电子	ATMEL	&nbsp;	663	QFP
+ATMEGA1281-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1800	QFP
+ATMEGA128-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3629	
+ATMEGA128A-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	10306	
+ATMEGA128A-MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6423	QFN
+ATMEGA128L-8AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	20	QFP
+ATMEGA128L-8MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	31	
+ATMEGA162-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	7332	
+ATMEGA162-16PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	122	DIP
+ATMEGA168PA-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	10462	QFP
+ATMEGA168PA-MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	10564	
+ATMEGA168PA-MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	10564	QFN
+ATMEGA168V-10AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	30	QFP
+ATMEGA168V-10MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4900	
+ATMEGA169P-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	395	
+ATMEGA169PA-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1680	
+ATMEGA16A-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2034	
+ATMEGA16L-8PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5000	
+ATMEGA16L-8PU	from hqew, 泰仁发电子	ATMEL	11+	5800	DIP
+ATMEGA2560-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2083	
+ATMEGA32-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5740	
+ATMEGA32-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5740	QFP
+ATMEGA324PV-10AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	152	QFP
+ATMEGA328P-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3661	
+ATMEGA328P-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3661	QFP
+ATMEGA329PV-10AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	43	
+ATMEGA32A-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1737	
+ATMEGA32A-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1737	DIP
+ATMEGA32L-8AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5466	QFP
+ATMEGA48-20PU	from hqew, 泰仁发电子	ATMEL	10+	8655	DIP
+ATMEGA48V-10PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6404	
+ATMEGA644PA-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5278	QFP
+ATMEGA8-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5774	
+ATMEGA8535-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3224	QFP
+ATMEGA8535L-8AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	44	QFP
+ATMEGA88PA-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	28436	
+ATMEGA88PA-MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	13458	
+ATMEGA88PA-MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	13458	QFN
+ATMEGA8A-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	11176	
+ATMEGA8A-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	11176	QFP
+ATMEGA8A-MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6054	QFN
+ATMEGA8A-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2160	DIP
+ATMEGA8L-8AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	15230	QFP
+ATTINY13A-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	7640	DIP
+ATTINY2313-20SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	12308	SOP
+ATTINY2313V-10PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4412	DIP
+ATTINY2313V-10SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	
+ATTINY2313V-10SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	SOP
+ATTINY25-20SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6000	SOP
+ATTINY25V-10SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	SOP
+ATTINY26L-8MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	70	QFN
+ATTINY26L-8PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	9876	
+ATTINY26L-8PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	9876	DIP
+ATTINY28V-1AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	
+ATTINY44A-SSU	from hqew, 泰仁发电子	ATMEL	&nbsp;	456	
+ATTINY44V-10SSU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	
+CAT24C04WI-GT3	from hqew, 泰仁发电子	ON SEMI	&nbsp;	6000	SOP
+CAT24C256LI-G	from hqew, 泰仁发电子	ON SEMI	&nbsp;	3903	DIP
+FM24C08A-DIP	from hqew, 泰仁发电子	FM	&nbsp;	2000	
+FM24C08A-DIP	from hqew, 泰仁发电子	FM	&nbsp;	2000	DIP
+FM24C08-SOP	from hqew, 泰仁发电子	FM	&nbsp;	4769	SOP
+17LV010-10PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	17	DIP
+24C01B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4880	
+24C02C-PUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	8475	
+24C02C-PUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	8475	DIP
+24C02C-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	526876	
+24C02N-10SU1.8	from hqew, 泰仁发电子	ATMEL	&nbsp;	68	
+24C04C-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	56188	SOP
+24C08B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	7090	
+24C08C-SSHM-T	from hqew, 泰仁发电子	ATMEL	12	60000	SOP
+24C1024BN-SH25-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	2048	SOP
+24C1024B-PU25	from hqew, 泰仁发电子	ATMEL	&nbsp;	1565	
+24C128C-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	35223	SOP
+24C16AN-10SU2.7	from hqew, 泰仁发电子	ATMEL	&nbsp;	162	
+24C16BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	32947	
+24C16B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	46	DIP
+24C32A-10TI27	from hqew, 泰仁发电子	ATMEL	&nbsp;	3572	TSSOP
+24C32CN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	1283	
+24C512BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	137	SOP
+24C512C-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	16901	
+24C512C-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	16901	SOP
+24C64A-10TU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	42	
+24C64CN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	335	
+24C64CN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	335	SOP
+25040AN-10SI27	from hqew, 泰仁发电子	ATMEL	&nbsp;	1726	
+25040AN-10SI27	from hqew, 泰仁发电子	ATMEL	&nbsp;	1726	SOP
+25080B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	22084	
+25128AN-10SI27	from hqew, 泰仁发电子	ATMEL	&nbsp;	314	SOP
+25160AN-10SI27	from hqew, 泰仁发电子	ATMEL	&nbsp;	4659	SOP
+25320B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	9392	
+25640AN-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	908	SOP
+25F512AN-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	63	
+25F512B-SSH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	669	SOP
+26DF321-SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	7380	
+27C256R-70PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	834	DIP
+27C512R-70JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	21	PLCC
+28C256-15JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	764	
+29C010A-90JI	from hqew, 泰仁发电子	ATMEL	&nbsp;	14	
+29C010A-90JI	from hqew, 泰仁发电子	ATMEL	&nbsp;	14	PLCC
+29C010A-90JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	11	PLCC
+29C020-12JC	from hqew, 泰仁发电子	ATMEL	&nbsp;	26	
+29C020-12JC	from hqew, 泰仁发电子	ATMEL	&nbsp;	26	PLCC
+29LV010A-12TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1550	SOP
+29LV020-12TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	616	SOP
+32A4-AU	from hqew, 泰仁发电子	ATMEL	12+	6514	QFP
+45DB021D-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	19870	
+45DB021D-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	19870	SOP
+45DB041D-SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5642	
+45DB081D-SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4546	
+45DB161D-SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	15195	
+45DB161D-TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5439	
+45DB321D SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5410	SOP
+45DB642D-TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6	SOP
+88sc0104-Su	from hqew, 泰仁发电子	ATMEL	&nbsp;	13763	SOP
+88sc0204-Su	from hqew, 泰仁发电子	ATMEL	&nbsp;	19500	
+89C2051-12PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	8601	DIP
+89C4051-24SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	151	SOP
+89C51AC2-RLTUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	1600	
+89C51AC2-RLTUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	1600	TQFP
+89C51CC010UA-RLTUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	1220	
+89C51CC010UA-RLTUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	1220	TQFP
+89C51ED2-RLTUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	2124	
+89C51RC2-RLTIM	from hqew, 泰仁发电子	ATMEL	&nbsp;	375	
+89C51RC2-SLSUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	12	PLCC
+89C51RD2-RLTUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	1800	TQFP
+89C51RD2-SLSUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	2516	PLCC
+89C55WD-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5000	DIP
+89LS52-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3200	
+89LS52-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3200	QFP
+89LV55-12PI	from hqew, 泰仁发电子	ATMEL	&nbsp;	5	DIP
+89S52-24AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4800	
+89S52-24JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4320	
+89S52-24JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4320	PLCC
+89S52-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	83149	DIP
+89S8253-24JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2762	PLCC
+89S8253-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4800	
+90CAN128-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	900	
+90CAN128-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	900	QFP
+91M55800A-33AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	74	
+91SAM9G20B-CU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1220	QFP
+93C46D-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	50000	DIP
+93C56A-10PU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	8819	DIP
+93C66A-10PU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	10091	
+93C66A-10TU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	10000	SOP
+AT24C02C-XHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	11890	TSSOP
+AT24C02N-10SU1.8	from hqew, 泰仁发电子	ATMEL	&nbsp;	103	SOP
+AT24C04B-TH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	98155	SOP
+AT24C1024BW-SH25-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	3986	SOP
+AT24C32AN-10SU18	from hqew, 泰仁发电子	ATMEL	&nbsp;	8800	SOP
+AT24C32D-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	27668	SOP
+AT25256AW-10SU2.7	from hqew, 泰仁发电子	ATMEL	12+	18000	SOP
+AT25DF041A-SH-T	from hqew, 泰仁发电子	ATMEL	13	8500	SOP
+AT89LS52-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3200	QFP
+AT89S8253-24JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2762	PLCC
+AT91R40008-66AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1600	
+AT91SAM7A3-AU	from hqew, 泰仁发电子	ATMEL	12+	2700	QFP
+AT93C46D-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	50000	DIP
+AT93C56A-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	27140	SOP
+AT93C66A-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	49448	SOP
+AT93C66A-10TU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	10000	SOP
+AT93C86A-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	20000	SOP
+ATF1502AS-15JU44	from hqew, 泰仁发电子	ATMEL	&nbsp;	858	
+ATF1504AS-10JU44	from hqew, 泰仁发电子	ATMEL	&nbsp;	942	PLCC
+ATF1504AS-15JC44	from hqew, 泰仁发电子	ATMEL	&nbsp;	249	PLCC
+ATF16V8B-15JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4440	
+ATF22V10B-15JC	from hqew, 泰仁发电子	ATMEL	&nbsp;	1860	PLCC
+ATF22V10C-15JC	from hqew, 泰仁发电子	ATMEL	&nbsp;	136	
+ATF91SAM7S256B-AU-001	from hqew, 泰仁发电子	ATMEL	&nbsp;	613	QFP
+ATF91SAM7S256C-AU-001	from hqew, 泰仁发电子	ATMEL	&nbsp;	1430	
+ATF91SAM7X256B-AU-001	from hqew, 泰仁发电子	ATMEL	&nbsp;	2074	
+ATF91SAM9260B-QU	from hqew, 泰仁发电子	ATMEL	&nbsp;	436	QFP
+ATMEG32A-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6271	
+ATMEG32A-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6271	QFP
+ATMEGA128L-8AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	20	
+ATMEGA128L-8MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	31	QFN
+ATMEGA162-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	7332	QFP
+ATMEGA168-20AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	294	QFP
+ATMEGA168V-10AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	30	
+ATMEGA168V-10MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4900	QFN
+ATMEGA169P-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	395	QFP
+ATMEGA169PA-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1680	QFP
+ATMEGA16A-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1199	
+ATMEGA2561-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1697	QFP
+ATMEGA324PA-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4560	
+ATMEGA324PA-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4560	QFP
+ATMEGA32L-8AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5466	
+ATMEGA48-20AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	102	QFP
+ATMEGA48PA-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5991	QFP
+ATMEGA48V-10AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1886	QFP
+ATMEGA64-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3800	QFP
+ATMEGA64A-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	13374	QFP
+ATMEGA64L-8AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1012	QFP
+ATMEGA8-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5774	QFP
+ATMEGA8515L-8AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3195	
+ATMEGA8515L-8AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3195	QFP
+ATMEGA8535-16AI	from hqew, 泰仁发电子	ATMEL	&nbsp;	33	
+ATMEGA8535-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3224	
+ATMEGA88-20AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3488	
+ATMEGA88-20AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3488	QFP
+ATMEGA88PA-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	28436	QFP
+ATMEGA88V-10MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1291	
+ATMEGA88V-10MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1291	QFN
+ATMEGA88V-10PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	10	
+ATMEGA88V-10PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	10	DIP
+ATMEGA8A-MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6054	
+ATMEGA8L-8AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	15230	
+ATMEGA8L-8PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2633	
+ATTINY13A-SSU	from hqew, 泰仁发电子	ATMEL	&nbsp;	9065	TSSOP
+ATTINY13A-SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	19090	
+ATTINY13A-SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	19090	SOP
+ATTINY2313V-10PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4412	
+ATTINY24-20SSU	from hqew, 泰仁发电子	ATMEL	&nbsp;	12008	TSSOP
+ATTINY24A-SSU	from hqew, 泰仁发电子	ATMEL	&nbsp;	295	TSSOP
+ATTINY24V-10SSU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	TSSOP
+ATTINY25V-10PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1396	DIP
+ATTINY25V-10SSU	from hqew, 泰仁发电子	ATMEL	&nbsp;	12646	TSSOP
+ATTINY28C64B-15PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2097	
+ATTINY28V-1AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	QFP
+ATTINY44V-10SSU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	TSSOP
+ATXMEGA128A1-AU	from hqew, 泰仁发电子	ATMEL	12+	5300	QFP
+ATXMEGA32A4-AU	from hqew, 泰仁发电子	ATMEL	12+	6514	QFP
+ATXMEGA64A3-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	900	
+ATXMEGA64A3-AU	from hqew, 泰仁发电子	ATMEL	12+	5400	QFP
+CAI24C02LI-G	from hqew, 泰仁发电子	ON SEMI	&nbsp;	11695	DIP
+CAT24C02WI-GT3	from hqew, 泰仁发电子	ON SEMI	&nbsp;	1182	SOP
+CAT24C08LI-G	from hqew, 泰仁发电子	ON SEMI	&nbsp;	14350	DIP
+CAT24C08WI-GT3	from hqew, 泰仁发电子	ON SEMI	&nbsp;	7470	SOP
+CAT24C16LI-G	from hqew, 泰仁发电子	ON SEMI	&nbsp;	8400	DIP
+CAT24C512LI-G	from hqew, 泰仁发电子	ON SEMI	&nbsp;	1082	DIP
+CAT24C64WI-GT3	from hqew, 泰仁发电子	ON SEMI	&nbsp;	8770	SOP
+FM24C16A-DIP	from hqew, 泰仁发电子	FM	&nbsp;	3934	
+FM24C16A-DIP	from hqew, 泰仁发电子	FM	&nbsp;	3934	DIP
+FM24C16A-SOP	from hqew, 泰仁发电子	FM	&nbsp;	5000	
+FM24C16A-SOP	from hqew, 泰仁发电子	FM	&nbsp;	5000	SOP
+FM24C64A-SOP	from hqew, 泰仁发电子	FM	&nbsp;	34	
+FT24C256A-UDR-B	from hqew, 泰仁发电子	FT	&nbsp;	4077	
+FT24C256A-UDR-B	from hqew, 泰仁发电子	FT	&nbsp;	4077	DIP
+FT24C64A-UDR-B	from hqew, 泰仁发电子	FT	&nbsp;	5263	DIP
+FT93C66A-CDR-B	from hqew, 泰仁发电子	FT	&nbsp;	3150	
+SM89516AC25JP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	1687	PLCC
+SM89C4051C25PP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	2	DIP
+128A1-AU	from hqew, 泰仁发电子	ATMEL	12+	5300	QFP
+24C04B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	8448	DIP
+24C1024BW-SH25-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	3986	
+24C128-10TI27	from hqew, 泰仁发电子	ATMEL	&nbsp;	212	TSSOP
+24C16C-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	51880	
+24C32C-TH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	900	
+24C512B-TH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	2555	SOP
+24C512C-SSHD-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	38729	
+24C64AN-10SU2.7	from hqew, 泰仁发电子	ATMEL	&nbsp;	3615	SOP
+25040B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	17915	SOP
+25080AN-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	948	
+25080AN-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	948	SOP
+25128B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	11709	
+25128B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	11709	SOP
+25160B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	3025	
+25320B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	9392	SOP
+25640B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	26859	
+25DF161-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	14062	
+25DF161-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	14062	SOP
+26DF321-SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	7380	SOP
+27C020-70JC	from hqew, 泰仁发电子	ATMEL	&nbsp;	27	
+27C256R-70JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	272	
+28C256-15PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1121	
+28C64B-15SU	from hqew, 泰仁发电子	ATMEL	11+	9504	SOP
+29C010A-90JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	11	
+29C020-70JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	15	
+29LV010A-12TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1550	
+29LV020-12JI	from hqew, 泰仁发电子	ATMEL	&nbsp;	504	
+29LV020-12TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	616	
+29LV020-20TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	780	SOP
+45DB321D-TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3985	
+64A3-AU	from hqew, 泰仁发电子	ATMEL	12+	5400	QFP
+89C2051-12SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	10901	SOP
+89C2051-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3340	DIP
+89C2051-24SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4879	
+89C4051-12PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4056	DIP
+89C4051-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	12450	DIP
+89C51ED2-RLTUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	2124	TQFP
+89C51ED2-SLSUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	1138	
+89C51RC2-RLTIM	from hqew, 泰仁发电子	ATMEL	&nbsp;	375	TQFP
+89C51RC2-SLSUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	12	
+89C52-24PI	from hqew, 泰仁发电子	ATMEL	&nbsp;	532	DIP
+89LS51-16JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3000	
+89LS51-16PI	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	DIP
+89LS52-16JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1080	PLCC
+89S51-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5000	
+89S51-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5000	DIP
+91SAM7A3-AU	from hqew, 泰仁发电子	ATMEL	12+	1560	QFP
+91SAM7S64C-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	207	QFP
+91SAM9261B-CU	from hqew, 泰仁发电子	ATMEL	&nbsp;	441	
+93C46DN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	53228	
+93C56A-10PU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	8819	
+93C56A-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	27140	SOP
+AT24C01BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	47700	SOP
+AT24C02B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6	SOP
+AT24C08C-SSHM-T	from hqew, 泰仁发电子	ATMEL	12	60000	SOP
+AT24C16AN-10SU2.7	from hqew, 泰仁发电子	ATMEL	&nbsp;	162	SOP
+AT24C16C-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	41880	SOP
+AT24C32C-TH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	900	SOP
+AT89LV55-12PI	from hqew, 泰仁发电子	ATMEL	&nbsp;	5	DIP
+AT89S52-24JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4320	PLCC
+AT89S52-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	83149	DIP
+AT91R40008-66AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1600	QFP
+AT91RM9200-QU-002	from hqew, 泰仁发电子	ATMEL	&nbsp;	450	
+AT91SAM7S64B-AU-001	from hqew, 泰仁发电子	ATMEL	&nbsp;	3533	
+AT91SAM7X512-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1436	QFP
+AT93C46DN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	53228	SOP
+ATF1500A-15JC	from hqew, 泰仁发电子	ATMEL	&nbsp;	270	PLCC
+ATF1502AS-15JC44	from hqew, 泰仁发电子	ATMEL	&nbsp;	31	
+ATF1508AS-10AU100	from hqew, 泰仁发电子	ATMEL	&nbsp;	1800	QFP
+ATF1508AS-10JU84	from hqew, 泰仁发电子	ATMEL	&nbsp;	2450	
+ATF16V8B-15PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6519	DIP
+ATF91SAM7S256B-AU-001	from hqew, 泰仁发电子	ATMEL	&nbsp;	613	
+ATMEGA128A-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	10306	QFP
+ATMEGA128A-MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6423	
+ATMEGA162-16PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	122	
+ATMEGA16A-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2034	QFP
+ATMEGA16A-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1199	DIP
+ATMEGA16L-8PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5000	DIP
+ATMEGA2561-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1697	
+ATMEGA48V-10AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1886	
+ATMEGA644PA-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5278	
+ATMEGA64L-8AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1012	
+ATMEGA8535-16AI	from hqew, 泰仁发电子	ATMEL	&nbsp;	33	QFP
+ATMEGA88PA-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3432	
+ATMEGA8A-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2160	
+ATTINY13A-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	7640	
+ATTINY13A-SSU	from hqew, 泰仁发电子	ATMEL	&nbsp;	9065	
+ATTINY2313-20SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	12308	
+ATTINY24A-SSU	from hqew, 泰仁发电子	ATMEL	&nbsp;	295	
+ATTINY24V-10SSU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	
+ATTINY26L-8MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	70	
+ATTINY28C64B-15JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	29	PLCC
+ATTINY28C64B-15PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2097	DIP
+ATTINY44A-SSU	from hqew, 泰仁发电子	ATMEL	&nbsp;	456	TSSOP
+CAT24C32LI-G	from hqew, 泰仁发电子	ON SEMI	&nbsp;	3879	DIP
+FM24C02-DIP	from hqew, 泰仁发电子	FM	&nbsp;	2900	DIP
+FM24C08-SOP	from hqew, 泰仁发电子	FM	&nbsp;	4769	
+FM24C64A-SOP	from hqew, 泰仁发电子	FM	&nbsp;	34	SOP
+FT93C66A-CDR-B	from hqew, 泰仁发电子	FT	&nbsp;	3150	SOP
+SM5964C40QP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	4	QFP
+24C02B-TH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	8193	
+24C04BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	43900	SOP
+24C08B-TH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	6885	SOP
+24C128BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	295	SOP
+24C128B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	8515	DIP
+24C64D-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	134876	SOP
+25256AW-10SU2.7	from hqew, 泰仁发电子	ATMEL	12+	18000	SOP
+25256AW-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	45	
+25256B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	22477	
+25256B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	22477	SOP
+25F512B-SSH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	669	
+27C020-70JC	from hqew, 泰仁发电子	ATMEL	&nbsp;	27	PLCC
+27C512R-12JC	from hqew, 泰仁发电子	ATMEL	&nbsp;	52	PLCC
+27C512R-70JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	21	
+29LV512-12JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	109	PLCC
+45DB041D-SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5642	SOP
+45DB161D-TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5439	SOP
+45DB321D SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5410	
+88sc0104-Su	from hqew, 泰仁发电子	ATMEL	&nbsp;	13763	
+88sc0204-Su	from hqew, 泰仁发电子	ATMEL	&nbsp;	19500	SOP
+89C4051-12PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4056	
+89C4051-24SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	151	
+89C51-24PI	from hqew, 泰仁发电子	ATMEL	&nbsp;	1682	
+89C51-24PI	from hqew, 泰仁发电子	ATMEL	&nbsp;	1682	DIP
+89C51RC-24AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1590	
+89C51RC2-SLSIM	from hqew, 泰仁发电子	ATMEL	&nbsp;	60	
+89C51RC2-SLSIM	from hqew, 泰仁发电子	ATMEL	&nbsp;	60	PLCC
+89C55WD-24JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2160	
+89C55WD-24JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2160	PLCC
+89S51-24AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4800	
+89S8253-24JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2762	
+93C66A-10PU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	10091	DIP
+93C66A-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	49448	SOP
+AT24C08BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	123	SOP
+AT24C1024B-PU25	from hqew, 泰仁发电子	ATMEL	&nbsp;	1565	DIP
+AT25256B-SHL-T	from hqew, 泰仁发电子	ATMEL	12+	22000	SOP
+AT45DB161D-SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	15195	SOP
+AT89S51-24AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4800	QFP
+AT91RM9200-CJ	from hqew, 泰仁发电子	ATMEL	&nbsp;	990	BGA
+AT91RM9200-QU-002	from hqew, 泰仁发电子	ATMEL	&nbsp;	450	QFP
+AT91SAM7S64B-AU-001	from hqew, 泰仁发电子	ATMEL	&nbsp;	3533	QFP
+AT91SAM9G25-CU	from hqew, 泰仁发电子	ATMEL	13	2890	BGA
+AT93C66A-10PU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	10091	DIP
+ATF1508AS-10JU84	from hqew, 泰仁发电子	ATMEL	&nbsp;	2450	PLCC
+ATF16V8B-15JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4440	PLCC
+ATF16V8BQL-15PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	9	DIP
+ATF22V10B-15JC	from hqew, 泰仁发电子	ATMEL	&nbsp;	1860	
+ATF91SAM7S128C-AU-001	from hqew, 泰仁发电子	ATMEL	&nbsp;	2378	QFP
+ATF91SAM7X256B-AU-001	from hqew, 泰仁发电子	ATMEL	&nbsp;	2074	QFP
+ATF91SAM9260B-CU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2169	
+ATMEGA128-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3629	QFP
+ATMEGA168-20AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	294	
+ATMEGA16L-8MI	from hqew, 泰仁发电子	ATMEL	&nbsp;	1097	
+ATMEGA16L-8MI	from hqew, 泰仁发电子	ATMEL	&nbsp;	1097	QFN
+ATMEGA2560-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2083	QFP
+ATMEGA324PV-10AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	152	
+ATMEGA329PV-10AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	43	QFP
+ATMEGA48PA-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1241	
+ATMEGA48PA-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1241	DIP
+ATMEGA48V-10PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6404	DIP
+ATMEGA64-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3800	
+ATMEGA64A-AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	13374	
+ATMEGA8535L-8AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	44	
+ATMEGA88PA-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3432	DIP
+ATMEGA8L-8MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	424	
+ATMEGA8L-8MU	from hqew, 泰仁发电子	ATMEL	&nbsp;	424	QFN
+ATMEGA8L-8PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2633	DIP
+ATTINY2313A-SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	17891	
+ATTINY2313A-SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	17891	SOP
+ATTINY24-20SSU	from hqew, 泰仁发电子	ATMEL	&nbsp;	12008	
+ATTINY25-20SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6000	
+ATTINY25V-10SSU	from hqew, 泰仁发电子	ATMEL	&nbsp;	12646	
+ATTINY26L-8SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	7273	
+ATTINY26L-8SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	7273	SOP
+ATTINY28C64B-15JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	29	
+CAT24C64LI-G	from hqew, 泰仁发电子	ON SEMI	&nbsp;	7673	DIP
+FM24C02-DIP	from hqew, 泰仁发电子	FM	&nbsp;	2900	
+FM24C04A-SOP	from hqew, 泰仁发电子	FM	&nbsp;	98	
+FM24C04A-SOP	from hqew, 泰仁发电子	FM	&nbsp;	98	SOP
+FT24C64A-UDR-B	from hqew, 泰仁发电子	FT	&nbsp;	5263	
+U2270B-MFPY	from hqew, 泰仁发电子	ATMEL	&nbsp;	13119	
+U2270B-MFPY	from hqew, 泰仁发电子	ATMEL	&nbsp;	13119	SOP
+24C08BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	123	
+24C32A-10TI27	from hqew, 泰仁发电子	ATMEL	&nbsp;	3572	
+AT24C64CN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	335	SOP
+AT25160AN-10SI27	from hqew, 泰仁发电子	ATMEL	&nbsp;	4659	SOP
+AT26DF321-SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	7380	SOP
+AT27C256R-70JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	272	PLCC
+AT28C256-15PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1121	DIP
+AT29C010A-90JI	from hqew, 泰仁发电子	ATMEL	&nbsp;	14	PLCC
+AT29C020-12JC	from hqew, 泰仁发电子	ATMEL	&nbsp;	26	PLCC
+AT29C020-70JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	15	PLCC
+AT29C040A-90TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1560	SOP
+AT45DB041D-SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5642	SOP
+AT45DB161D TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5439	SOP
+AT88sc0104-Su	from hqew, 泰仁发电子	ATMEL	&nbsp;	13763	SOP
+AT88sc0204-Su	from hqew, 泰仁发电子	ATMEL	&nbsp;	19500	SOP
+AT89C2051-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3340	DIP
+AT89C51ED2-SLSUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	1138	PLCC
+AT89C51RC-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	134	DIP
+AT89C52-24PI	from hqew, 泰仁发电子	ATMEL	&nbsp;	532	DIP
+AT89C55WD-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5000	DIP
+AT89LS51-16JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3000	PLCC
+CAI24C02LI-G	from hqew, 泰仁发电子	ON SEMI	&nbsp;	11695	
+CAT24C08WI-GT3	from hqew, 泰仁发电子	ON SEMI	&nbsp;	7470	
+CAT24C16LI-G	from hqew, 泰仁发电子	ON SEMI	&nbsp;	8400	
+CAT24C256LI-G	from hqew, 泰仁发电子	ON SEMI	&nbsp;	3903	
+CAT24C64WI-GT3	from hqew, 泰仁发电子	ON SEMI	&nbsp;	8770	
+SM5964C40JP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	222	PLCC
+SM8951AC25JP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	892	
+SM8951AC25JP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	892	PLCC
+SM8951AC25PP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	162	DIP
+SM8958AC25JP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	1190	PLCC
+17LV010-10PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	17	
+24C16B-PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	46	
+25128AN-10SI27	from hqew, 泰仁发电子	ATMEL	&nbsp;	314	
+AT24C512C-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	16901	SOP
+AT24C64A-10TU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	42	TSSOP
+AT24C64AN-10SU2.7	from hqew, 泰仁发电子	ATMEL	&nbsp;	3615	SOP
+AT25040AN-10SI27	from hqew, 泰仁发电子	ATMEL	&nbsp;	1726	SOP
+AT25160AN-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	3497	SOP
+AT25256B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	22477	SOP
+AT25640B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	26859	SOP
+AT25DF161-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	14062	SOP
+AT25F512AN-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	63	SOP
+AT27C256R-70PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	834	DIP
+AT27C512R-70JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	21	PLCC
+AT29LV010A-12TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1550	SOP
+AT45DB161D SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	15195	SOP
+AT45DB321D SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5410	SOP
+AT89C2051-12PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	8601	DIP
+AT89C2051-24SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4879	SOP
+AT89C51-24PI	from hqew, 泰仁发电子	ATMEL	&nbsp;	1682	DIP
+AT89C51CC010UA-RLTUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	1220	TQFP
+AT89C51RC-24AU	from hqew, 泰仁发电子	ATMEL	08+	8590	QFP
+AT89C51RC-24JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2483	PLCC
+AT89LS51-16PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	DIP
+CAT24C02WI-GT3	from hqew, 泰仁发电子	ON SEMI	&nbsp;	1182	
+CAT24C512LI-G	from hqew, 泰仁发电子	ON SEMI	&nbsp;	1082	
+SM5964C40JP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	222	
+SM5964C40QP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	4	
+SM89516AC25PP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	1836	
+SM8952AC25JP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	1267	
+SM8958AC25JP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	1190	
+SM8958AC25PP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	998	
+24C08BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	123	SOP
+25160AN-10SI27	from hqew, 泰仁发电子	ATMEL	&nbsp;	4659	
+AT24C512BN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	137	SOP
+AT24C64D-SSHM-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	134876	SOP
+AT25040B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	17915	SOP
+AT25080B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	22084	SOP
+AT25128B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	11709	SOP
+AT25256AW-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	45	SOP
+AT25320B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	9392	SOP
+AT25640AN-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	908	SOP
+AT25F512B-SSH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	669	SOP
+AT28C256-15JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	764	PLCC
+AT28C64B-15PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2097	DIP
+AT28C64B-15SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1403	SOP
+AT29C010A-90JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	11	PLCC
+AT29LV020-12TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	616	SOP
+AT45DB021D-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	19870	SOP
+AT45DB081D-SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4546	SOP
+AT89C2051-12SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	10901	SOP
+AT89C4051-12PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	4056	DIP
+AT89C51RC2-RLTIM	from hqew, 泰仁发电子	ATMEL	&nbsp;	375	TQFP
+AT89C51RD2-RLTUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	1800	TQFP
+AT89C55WD-24AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	5260	QFP
+AT89C55WD-24JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2160	PLCC
+CAT24C64LI-G	from hqew, 泰仁发电子	ON SEMI	&nbsp;	7673	
+SM5964C40PP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	497	
+SM5964C40PP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	497	DIP
+SM89516AC25JP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	1687	
+SM89516AC25QP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	7	QFP
+SM8952AC25PP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	2000	
+SM8952AC25QP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	178	
+SM8952AC25QP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	178	QFP
+SM8958AC25PP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	998	DIP
+SM8958AC25QP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	835	
+SM89C4051C25PP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	2	
+24C32AN-10SU18	from hqew, 泰仁发电子	ATMEL	&nbsp;	8800	
+AT24C32CN-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	1283	SOP
+AT24C512B-TH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	2555	SOP
+AT24C512C-SSHD-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	38729	SOP
+AT25080AN-10SU27	from hqew, 泰仁发电子	ATMEL	&nbsp;	948	SOP
+AT25128AN-10SI27	from hqew, 泰仁发电子	ATMEL	&nbsp;	314	SOP
+AT25160B-SSHL-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	3025	SOP
+AT25DF321A-SH-T	from hqew, 泰仁发电子	ATMEL	&nbsp;	1049	SOP
+AT27C020-70JC	from hqew, 泰仁发电子	ATMEL	&nbsp;	27	PLCC
+AT27C512R-12JC	from hqew, 泰仁发电子	ATMEL	&nbsp;	52	PLCC
+AT28C64B-15JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	29	PLCC
+AT29LV020-12JI	from hqew, 泰仁发电子	ATMEL	&nbsp;	504	PLCC
+AT29LV020-20TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	780	SOP
+AT29LV512-12JU	from hqew, 泰仁发电子	ATMEL	&nbsp;	109	PLCC
+AT45DB321D-TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	3985	SOP
+AT45DB642D-TU	from hqew, 泰仁发电子	ATMEL	&nbsp;	6	SOP
+AT89C4051-12SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	2513	SOP
+AT89C4051-24PU	from hqew, 泰仁发电子	ATMEL	&nbsp;	12450	DIP
+AT89C4051-24SU	from hqew, 泰仁发电子	ATMEL	&nbsp;	151	SOP
+AT89C51AC2-RLTUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	1600	TQFP
+AT89C51ED2-RLTUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	2124	TQFP
+AT89C51RC2-SLSIM	from hqew, 泰仁发电子	ATMEL	&nbsp;	60	PLCC
+AT89C51RC2-SLSUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	12	PLCC
+AT89C51RD2-SLSUM	from hqew, 泰仁发电子	ATMEL	&nbsp;	2516	PLCC
+AT89LS51-16AU	from hqew, 泰仁发电子	ATMEL	&nbsp;	1600	QFP
+AT89LS51-16PI	from hqew, 泰仁发电子	ATMEL	&nbsp;	1000	DIP
+CAT24C04WI-GT3	from hqew, 泰仁发电子	ON SEMI	&nbsp;	6000	
+CAT24C08LI-G	from hqew, 泰仁发电子	ON SEMI	&nbsp;	14350	
+CAT24C32LI-G	from hqew, 泰仁发电子	ON SEMI	&nbsp;	3879	
+SM89516AC25PP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	1836	DIP
+SM89516AC25QP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	7	
+SM8951AC25PP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	162	
+SM8952AC25JP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	1267	PLCC
+SM8952AC25PP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	2000	DIP
+SM8958AC25QP	from hqew, 泰仁发电子	SyncMOS	&nbsp;	835	QFP

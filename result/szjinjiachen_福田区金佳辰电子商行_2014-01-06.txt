@@ -1,0 +1,290 @@
+AT24C02BN-SH-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	8341	
+AT24C02C-XHM-T	from hqew, 福田区金佳辰电子商行	ATMEL	12+	30000	TSSOP8
+AT24C04N-SU2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	3617	
+AT24C16AN-SI1.8	from hqew, 福田区金佳辰电子商行	ATMEL	10+	112	
+AT24C16BN-SH-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	2074	
+AT24C512BN-SH-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	44	
+AT25128B-SSHL-T	from hqew, 福田区金佳辰电子商行	ATMEL	1252+	4500	SOP
+AT25160AN-SU2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	6380	
+AT29C512-15JC	from hqew, 福田区金佳辰电子商行	ATMEL	10+	828	
+AT89C4051-24SU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	56	
+AT93C66-SI2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	2289	
+ATMEGA128A-AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	900	
+ATMEGA128L-8MU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	7	
+DAC0832LCVX	from hqew, 福田区金佳辰电子商行	NS	10+	1561	
+DCP010505BP-U	from hqew, 福田区金佳辰电子商行	BB	127L05	25	SOP-14
+FM24CL16-S	from hqew, 福田区金佳辰电子商行	FM	03+	295	SOP8
+LM1117MPX-3.3	from hqew, 福田区金佳辰电子商行	NS	1030	6700	SOT223
+LM318MX	from hqew, 福田区金佳辰电子商行	NS	10+	83	SOP
+LTC1757A-2EMS/TRBF LTPM	from hqew, 福田区金佳辰电子商行	LT	0925+	1000	MSOP8
+ME2109FM5G	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	27265	SOT-23-5
+ME6209A50PG	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	1000	SOT-89
+MEM2313SG	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	4439	SOP-8
+SN75176DR	from hqew, 福田区金佳辰电子商行	TI	11+	200	SOP8
+TA1670	from hqew, 福田区金佳辰电子商行	TM天微	2013+	70	HSOP28
+TM1618	from hqew, 福田区金佳辰电子商行	天微	10+	700	SOP
+TM1635	from hqew, 福田区金佳辰电子商行	TM天微	2013+	150	SOP16
+TM1638	from hqew, 福田区金佳辰电子商行	TM天微	2013+	23	SOP28
+TM1812	from hqew, 福田区金佳辰电子商行	TM天微	2013+	2879	SOP16
+XPT2046	from hqew, 福田区金佳辰电子商行	XPT	11+	25	QFN
+24AA256-I/ST	from hqew, 福田区金佳辰电子商行	MIROCHIP	11+	5	TSSOP
+2SC1623(L6)	from hqew, 福田区金佳辰电子商行	CJ	10+	3000	SOT23
+AT24C02BN-SU1.8	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1370	
+AT24C02B-PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	7145	
+AT24C02C-SSHM-T	from hqew, 福田区金佳辰电子商行	AT	12+	120000	SOP
+AT24C04BN-SH-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	5858	
+AT24C04BN-SH-T	from hqew, 福田区金佳辰电子商行	AT	0804+	40000	SOP8
+AT24C04B-TH-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	8360	
+AT24C04-PI2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1027	
+AT24C08BN-SH-B	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1195	
+AT24C1024BN-SH2.5-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	2743	
+AT24C128BN-SH-T	from hqew, 福田区金佳辰电子商行	AT	09+	17000	SOP
+AT24C128B-PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	4500	
+AT24C128C-SSHM-T	from hqew, 福田区金佳辰电子商行	ATMEL	1308+/13	52000	SOP8
+AT24C16A-PU2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1161	
+AT24C256B-PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	3081	
+AT24C256B-PU	from hqew, 福田区金佳辰电子商行	AT	1132+	967	DIP
+AT24C256C-SSH-HL-T	from hqew, 福田区金佳辰电子商行	AT	12+	8000	SOP8
+AT24C256C-SSHL-T	from hqew, 福田区金佳辰电子商行	AT	12+	3000	SOP8
+AT24C256C-SSHL-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	4336	
+AT24C32AN-SU1.8	from hqew, 福田区金佳辰电子商行	ATMEL	10+	3145	
+AT24C512B-PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	5	
+AT24C512B-PU2.5	from hqew, 福田区金佳辰电子商行	ATMEL	10+	19	
+AT24C64CN-SH-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	707	
+AT25040AN-SU2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	10	
+AT25128B-SSHL-B	from hqew, 福田区金佳辰电子商行	ATMEL	10+	12104	
+AT25128B-SSHL-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	2079	
+AT26DF161-SU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1420	
+AT45DB041B-RC	from hqew, 福田区金佳辰电子商行	ATMEL	10+	845	
+AT45DB081-RC	from hqew, 福田区金佳辰电子商行	ATMEL	10+	317	
+AT87F51-24AC	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1600	
+AT88SC0104CA-SU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	268	
+AT89C4051-12SU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	407	
+AT89C4051-24PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1127	DIP
+AT89C51-24PI	from hqew, 福田区金佳辰电子商行	AT	1125+	3600	DIP
+AT89LV51-12QC	from hqew, 福田区金佳辰电子商行	ATMEL	10+	30	
+AT89S51-24PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	3	
+AT90S8515-8PI	from hqew, 福田区金佳辰电子商行	ATMEL	10+	240	
+AT93C46-10PI	from hqew, 福田区金佳辰电子商行	ATMEL	10+	30	
+AT93C46DN-SH-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	40000	
+AT93C46D-PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	745	
+AT93C66A-SU2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	5861	
+ATF1508AS-10JU84	from hqew, 福田区金佳辰电子商行	AT	1207+	20	PLCC84
+ATMEGA16L-8AUR	from hqew, 福田区金佳辰电子商行	ATMEL	1029+	4500	QFP
+ATMEGA32-16AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	15	
+ATMEGA48V-10MU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	2374	
+ATMEGA8515L-8AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	22	
+ATMEGA88PA-PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	110	
+ATMEGA88V-10AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	107	
+ATMEGA88V-10MU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1757	
+ATMEGA8L-8MU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1558	
+ATTINY24-20SSU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	2782	
+EPM7032AETC44-10N	from hqew, 福田区金佳辰电子商行	ALTERA	10+	35	TQFP44
+ICL7611DCPA	from hqew, 福田区金佳辰电子商行	ICL	93+	4	DIP
+LM1084IS-ADJ	from hqew, 福田区金佳辰电子商行	NS	10+	76	TO-263-3
+LM2941CSX	from hqew, 福田区金佳辰电子商行	NS	TO263	30	XM86RD
+LM317T	from hqew, 福田区金佳辰电子商行	NS	12+	223	SOT-23-5
+LM358N	from hqew, 福田区金佳辰电子商行	ST	11+	40	DIP
+LTC3202EMS/TRPBF(LTWL)	from hqew, 福田区金佳辰电子商行	LT	0932+	1000	MSOP8
+LTC4080EDD#PBF	from hqew, 福田区金佳辰电子商行	LT	06+	30	DFN10
+ME2108A30PG	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	780	SOT89-3
+ME4056SPG	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	5447	SOP8
+ME6201A30PG	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	3000	SOT-89
+ME6201A33PG	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	4000	SOT-89
+ME6201A50PG	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	2000	SOT-89
+ME7660CS1G	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	4735	SOP8
+MEM2306SG	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	2110	SOP-8
+OP07	from hqew, 福田区金佳辰电子商行	TI	11+	40	DIP
+SN74ALVC164245DLR	from hqew, 福田区金佳辰电子商行	TI	10+	70	SSOP48
+SN74LVC08PWR	from hqew, 福田区金佳辰电子商行	TI	0419+	2000	TSSOP
+STM32F103VCT6	from hqew, 福田区金佳辰电子商行	ST	12+	2	QFP100
+TA6932	from hqew, 福田区金佳辰电子商行	TM天微	2013+	869	SOP32
+TM1629C	from hqew, 福田区金佳辰电子商行	TM天微	2013+	35	SOP32
+TM1651	from hqew, 福田区金佳辰电子商行	TM天微	2013+	950	SOP16
+TM1668	from hqew, 福田区金佳辰电子商行	TM天微	2013+	126	SSOP24
+TM1804	from hqew, 福田区金佳辰电子商行	TM天微	2013+	190	DIP8
+TM1804	from hqew, 福田区金佳辰电子商行	TM天微	2013+	3900	SOP8
+TM1809	from hqew, 福田区金佳辰电子商行	TM天微	2013+	4070	SOP14
+TM1810-2	from hqew, 福田区金佳辰电子商行	TM天微	2013+	2590	SOT23-3
+TM1812	from hqew, 福田区金佳辰电子商行	TM天微	2013+	400	DIP16
+TM7707	from hqew, 福田区金佳辰电子商行	TM天微	2013+	49	SOP16
+TS912ID	from hqew, 福田区金佳辰电子商行	ST	08+	298	
+TWH8778	from hqew, 福田区金佳辰电子商行	Other	0532+	100	TO-220
+U2270B	from hqew, 福田区金佳辰电子商行	ATMEL	10+	2065	
+UZ1085L-ADJ	from hqew, 福田区金佳辰电子商行	UTC	VFAB	50	TO-263-3
+74HC165D	from hqew, 福田区金佳辰电子商行	NXP	10+	324	SOP
+74HC165D	from hqew, 福田区金佳辰电子商行	NXP	11+	85700	SOP
+AT24C02BN-SH-B	from hqew, 福田区金佳辰电子商行	ATMEL	10+	236	
+AT24C02C-SSHM-T	from hqew, 福田区金佳辰电子商行	ATMEL	12+	40000	
+AT24C02C-XHM-T	from hqew, 福田区金佳辰电子商行	ATMEL	12+	240000	TSSOP
+AT24C02C-XHM-T	from hqew, 福田区金佳辰电子商行	ATMEL	12+	200000	SOP
+AT24C02N-SI1.8	from hqew, 福田区金佳辰电子商行	ATMEL	10+	314	
+AT24C04B-PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	14	
+AT24C04N-SU1.8	from hqew, 福田区金佳辰电子商行	ATMEL	10+	6010	
+AT24C08AN-SI1.8	from hqew, 福田区金佳辰电子商行	ATMEL	10+	810	
+AT24C08AN-SU1.8	from hqew, 福田区金佳辰电子商行	ATMEL	10+	520	
+AT24C08AN-SU2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	47	
+AT24C08BN-SH-T	from hqew, 福田区金佳辰电子商行	AT	1006+	16000	SOP8
+AT24C08C-SSHM-T	from hqew, 福田区金佳辰电子商行	ATMEL	13+	40000	
+AT24C1024BW-SH-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	944	
+AT24C256BN-SU1.8	from hqew, 福田区金佳辰电子商行	ATMEL	10+	510	
+AT24C256B-PU	from hqew, 福田区金佳辰电子商行	AT	1132	2500	DIP
+AT24C256N-SI1.8	from hqew, 福田区金佳辰电子商行	ATMEL	10+	127	
+AT24C64D-SSHM-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	5678	
+AT25640AN-SU2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	2234	
+AT27C512R-70JC	from hqew, 福田区金佳辰电子商行	ATMEL	10+	2000	
+AT45DB011B-SU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	36	
+AT45DB0321C-TU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	11	
+AT45DB041D-SU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	823	
+AT45DB161D-SU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	99	
+AT49F8192AT-70TC	from hqew, 福田区金佳辰电子商行	ATMEL	10+	397	
+AT89C2051-12PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1402	DIP
+AT89C2051-24SU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	4440	
+AT89C4051-12PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	826	DIP
+AT89C55WD-24AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1055	
+AT89C55WD-24JU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	302	
+AT89S52-24AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1099	
+AT89S52-24PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	655	
+AT89S8253-24PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	689	
+AT91SAM7S256-AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1255	
+AT93C46DN-SH-T	from hqew, 福田区金佳辰电子商行	AT	12+	60000	SOP
+AT93C46-SU1.8	from hqew, 福田区金佳辰电子商行	ATMEL	10+	6388	
+AT93C46-TI1.8	from hqew, 福田区金佳辰电子商行	ATMEL	10+	2400	
+AT93C56A-SU2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	7851	
+AT93C56-SI2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	8033	
+AT93C66A-PU2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	300	
+AT94C46D-PU	from hqew, 福田区金佳辰电子商行	AT	1128	10000	DIP
+ATF1508AS-10JU84	from hqew, 福田区金佳辰电子商行	ATMEL	10+	353	
+ATF16V8B-15PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	2000	DIP
+ATMEGA16L-8PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	2000	
+ATMEGA32A-AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1600	
+ATMEGA48V-10AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	225	
+ATMEGA64A-AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	659	
+ATMEGA8-16AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	7500	
+ATMEGA88PA-MU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	9330	
+ATMEGA8A-PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	126	
+ATMEGA8L-8PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	5000	
+ATTINY13A-SSU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	20513	
+ATTINY26L-8SU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1093	
+DP83848IVV	from hqew, 福田区金佳辰电子商行	NS	12+	5000	TSSOP
+DS1720PY	from hqew, 福田区金佳辰电子商行	DS	1007+	4	DIP
+ISL6539IAZ-T	from hqew, 福田区金佳辰电子商行	Intersil	05+	540	SSOP
+L7805CV	from hqew, 福田区金佳辰电子商行	ST	12+	40	TO-220
+LF353MX	from hqew, 福田区金佳辰电子商行	NS	SOP8	7740	0936
+LM2596SX-5.0	from hqew, 福田区金佳辰电子商行	NS	1052	300	TO-263-3
+LM2901MX	from hqew, 福田区金佳辰电子商行	NS	10+	5304	SOP3.9
+LM2903MX	from hqew, 福田区金佳辰电子商行	NS	1018	3242	SOP-8
+LM2904MX	from hqew, 福田区金佳辰电子商行	NS	1012	10157	SOP-8
+LM393MX	from hqew, 福田区金佳辰电子商行	NS	10+	7874	SOP
+LP2981AIM5X-3.3 L04A	from hqew, 福田区金佳辰电子商行	NS	10+	1000	SOT23
+LT1763CS8-3.3	from hqew, 福田区金佳辰电子商行	LT	11+	40	SOP8
+LT1767EMS8/TRPBF LTLS	from hqew, 福田区金佳辰电子商行	LT	0913+	1000	MSOP8
+LT1767EMS8/TRPBF(LTLS)	from hqew, 福田区金佳辰电子商行	LT	0913+	1000	MSOP8
+ME2100A36M3G	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	3000	SOT-23-3
+ME2108A50M3G	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	9000	SOT-23-3
+ME2108C33M5G	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	2390	SOT-23-5
+ME6209A33PG	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	2000	SOT-89
+ME6211A33PG	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	6890	SOT-89
+ME7660CS1G	from hqew, 福田区金佳辰电子商行	南京微盟	12	2500	SOP8
+MEM2301XG	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	6000	SOT-23-3
+TLV320AIC23BIRHD	from hqew, 福田区金佳辰电子商行	TI	07+	40	QFN28
+TM0265R	from hqew, 福田区金佳辰电子商行	TM天微	2013+	131	DIP8
+TM1620	from hqew, 福田区金佳辰电子商行	TM天微	2013+	2387	SOP20
+TM1621	from hqew, 福田区金佳辰电子商行	TM天微	2013+	34	SSOP48
+TM1623	from hqew, 福田区金佳辰电子商行	TM天微	2013+	100	SOP32
+TM1627	from hqew, 福田区金佳辰电子商行	TM天微	2013+	15	SOP28
+TM1628	from hqew, 福田区金佳辰电子商行	TM天微	2013+	3848	SOP28
+TM1803	from hqew, 福田区金佳辰电子商行	TM天微	2013+	45	DIP8
+TM1803	from hqew, 福田区金佳辰电子商行	TM天微	2013+	5179	SOP8
+TM1808	from hqew, 福田区金佳辰电子商行	TM天微	2013+	20	DIP16
+TM1809	from hqew, 福田区金佳辰电子商行	TM天微	2013+	1875	DIP14
+TM1810-3	from hqew, 福田区金佳辰电子商行	TM天微	2013+	3020	SOT23-3
+TM1820	from hqew, 福田区金佳辰电子商行	TM天微	2013+	70	SSOP24
+TM1829	from hqew, 福田区金佳辰电子商行	TM天微	2013+	500	SOP8
+TM74HC595	from hqew, 福田区金佳辰电子商行	TM天微	2013+	80	SOP16
+TM7705	from hqew, 福田区金佳辰电子商行	TM天微	2013+	90	SOP16
+TM7711	from hqew, 福田区金佳辰电子商行	TM天微	2013+	199	SOP8
+TM8211	from hqew, 福田区金佳辰电子商行	TM天微	2013+	35	SOP8
+TMG0321	from hqew, 福田区金佳辰电子商行	TM天微	2013+	2764	DIP8
+AT24C01BN-SH-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	30000	
+AT24C02C-PUM	from hqew, 福田区金佳辰电子商行	ATMEL	10+	364	
+AT24C08AN-SI2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1535	
+AT24C08BN-SH-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	13280	
+AT24C128BN-SH-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	14898	
+AT24C128N-SI2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	9664	
+AT24C16B-PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	5235	
+AT24C256N-SU2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	248	
+AT24C32D-SSHM-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	21535	
+AT24C512BN-SH2.5-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	3232	
+AT25256B-SSHL-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	7058	
+AT27C512R-70JC	from hqew, 福田区金佳辰电子商行	AT	00+	700	PLCC32
+AT45DB161D-SU	from hqew, 福田区金佳辰电子商行	AT	12+	2000	SOP8
+AT89C2051-24PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	377	DIP
+AT89C55WD-24PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	200	
+AT89S51-24PU	from hqew, 福田区金佳辰电子商行	ATMEL	07/08+	530	DIP
+AT89S52-24JU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	3240	
+AT93C56-SC2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1500	
+ATMEGA162-16AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	740	
+ATMEGA169PV-8AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	30	
+ATMEGA16A-PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	237	
+ATMEGA64-16AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	30	
+ATMEGA88PA-AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	2500	
+ATMEGA8L-8AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	2500	
+C8051F021-GQR	from hqew, 福田区金佳辰电子商行	SILICON	10+	65	TQFP64
+DP83848CVV	from hqew, 福田区金佳辰电子商行	NS	12+	1600	QFP48
+FM24C16 SOP	from hqew, 福田区金佳辰电子商行	FM	10+	7700	
+K9F5608U0D-PCB0	from hqew, 福田区金佳辰电子商行	SAMSUNG	122	27	TSOP48
+L6562AD	from hqew, 福田区金佳辰电子商行	ST	10+	29	SOP8
+LM1117MP-3.3	from hqew, 福田区金佳辰电子商行	NS	12+	1975	SOT-223
+LM2941CSX	from hqew, 福田区金佳辰电子商行	NS	XM86RD	30	TO-263
+LM321MF	from hqew, 福田区金佳辰电子商行	NS	12+	3000	SOT-23-5
+LM4873MTE	from hqew, 福田区金佳辰电子商行	NS	01+	30	TSSOP28
+LP2981AIM5X-3.3	from hqew, 福田区金佳辰电子商行	NS	10+	1000	SOT23
+LTC1758-2EMS/TRPBF LTSM	from hqew, 福田区金佳辰电子商行	LT	0928+	1000	MSOP8
+LTC1758-2EMS/TRPBF(LTSM)	from hqew, 福田区金佳辰电子商行	LT	0928+	1000	MSOP8
+LTC3202EMS/TRPBF  LTWL	from hqew, 福田区金佳辰电子商行	LT	0932+	1000	MSOP8
+LTC3428EDD LBBG	from hqew, 福田区金佳辰电子商行	LT	09+	10	DFN
+ME2108A33PG	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	8000	SOT89-3
+ME2108A50PG	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	5000	SOT89-3
+ME4054M5G	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	12000	SOT-23-5
+MGA-68563 6C	from hqew, 福田区金佳辰电子商行	Other	10+	40	SOT363-6
+MIC4420CT	from hqew, 福田区金佳辰电子商行	MIC	0307	177	TO-220
+ML6652CH	from hqew, 福田区金佳辰电子商行	MIC	03+	2400	QFP
+SN74ALS00ADBR	from hqew, 福田区金佳辰电子商行	TI	0549+	2000	SSOP14
+TM1808	from hqew, 福田区金佳辰电子商行	TM天微	2013+	10	SOP16
+TM2291	from hqew, 福田区金佳辰电子商行	TM天微	2013+	1207	SOP16
+AT24C08A-PU2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	91	
+AT24C1024BW-SH2.5-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	61	
+AT24C128-PI2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	63	
+AT24C256BN-SH-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	101	
+AT24C32AN-SU2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	40000	
+AT24C32CN-SH-T	from hqew, 福田区金佳辰电子商行	ATMEL	10+	21262	
+AT24C512N-SI2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	279	
+AT25128AN-SU2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	30	
+AT27LV020A-15TI	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1560	
+AT29C020-12PC	from hqew, 福田区金佳辰电子商行	ATMEL	10+	406	
+AT45DB081B-RU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	1221	
+AT45DB321D-SU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	68	
+AT88SC0204CA-SU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	2325	
+AT89C2051-12SU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	21	
+AT89C55WD-24PU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	365	DIP
+AT89S51-24JI	from hqew, 福田区金佳辰电子商行	ATMEL	10+	799	
+AT93C66A-10PU2.7	from hqew, 福田区金佳辰电子商行	AT	11+	25600	DIP
+AT93C86A-SU2.7	from hqew, 福田区金佳辰电子商行	ATMEL	10+	8220	
+ATMEGA64L-8AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	518	
+ATMEGA8A-AU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	10000	
+ATTINY13A-SU	from hqew, 福田区金佳辰电子商行	ATMEL	10+	8843	
+FM1702NL	from hqew, 福田区金佳辰电子商行	FM	10+	38	
+LF353MX	from hqew, 福田区金佳辰电子商行	NS	0936	3902	SOP-8
+LM1458MX	from hqew, 福田区金佳辰电子商行	NS	1042+	1248	SOP8
+LM1458MX	from hqew, 福田区金佳辰电子商行	NS	10+	1346	SOP8
+LM2596SX-5.0	from hqew, 福田区金佳辰电子商行	NS	12+	300	TO-263
+LTC1757A-2EMS/TRBF(LTPM)	from hqew, 福田区金佳辰电子商行	LT	0925+	1000	MSOP8
+ME2108A33M3G	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	6000	SOT-23-3
+ME2108A36PG	from hqew, 福田区金佳辰电子商行	ME微盟	2013+	2000	SOT89-3
+MAX232CPE	from hqew, 福田区金佳辰电子商行	MAX	1104	25	DIP
+PQ025ENAHZPH	from hqew, 福田区金佳辰电子商行	SHARP	10+	3000	TO-252
+STC89C58RD+40I-PQFP44	from hqew, 福田区金佳辰电子商行	STC	10+	200	QFP44
+TM1640	from hqew, 福田区金佳辰电子商行	TM天微	2013+	1714	SOP28
+TMG0365	from hqew, 福田区金佳辰电子商行	TM天微	2013+	362	DIP8
+TMH0165	from hqew, 福田区金佳辰电子商行	TM天微	2013+	8	DIP8
