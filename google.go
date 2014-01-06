@@ -63,7 +63,7 @@ func main() {
 
 func isGet(secondDomain string) bool {
 	//根据url首先判断是否读取
-	url := strings.Join([]string{"http://", secondDomain, ".hqew.com/ic/ic.html"}, "")
+	url := strings.Join([]string{"http://", secondDomain, ".hqew.com/ic/ic.html?Page=1"}, "")
 	res, err := http.Get(url)
 	if err != nil {
 		log.Fatal(err)
