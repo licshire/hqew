@@ -41,7 +41,7 @@ func main() {
 	if isMatchStock {
 		page := getPage(body)
 		companyName, companyShortName := getCompanyName(body)
-		fileName := strings.Join([]string{args[1], "_", companyShortName, "_",
+		fileName := strings.Join([]string{"result/", args[1], "_", companyShortName, "_",
 			time.Now().Format("2006-01-02"), ".txt"}, "")
 		os.Remove(fileName)
 		fmt.Println(fileName)
