@@ -1,0 +1,2140 @@
+0603CG330J500NT (33PF 5%)	from hqew, 深威志电子	FengHua	07+	3700	603
+0805B121K500NT (120PF 10%)	from hqew, 深威志电子	风华	07+	3700	805
+1377020-2	from hqew, 深威志电子	AMP	3	4980	DIP-4
+2SA708C-Y	from hqew, 深威志电子	Samsung	92+	900	TO-92
+2SC2073	from hqew, 深威志电子	Fairchild	&nbsp;	710	TO-220
+6V/70mA-T3 C-2R	from hqew, 深威志电子	HARISON	04+	24794	DIP-2
+BH6111FV	from hqew, 深威志电子	ROHM	99+	10000	SSOP-20
+CRCW2010 360 5 RT4	from hqew, 深威志电子	VISHAY	00+	10000	2010
+ETQW-4(47UF/10V)	from hqew, 深威志电子	LANDSHUT	5	7172	AXIAL
+GP2A25	from hqew, 深威志电子	Sharp	07+	4515	
+KA2194D	from hqew, 深威志电子	Samsung	1	1765	SMD-24
+LA3410	from hqew, 深威志电子	Sanyo	03+	2099	DIP-16
+LA7951	from hqew, 深威志电子	SANYO	94+	1800	DIP-14
+MBRS340T3	from hqew, 深威志电子	ON SEMI	3	3000	SMD
+MC74HC138A	from hqew, 深威志电子	MOTOROLA	&nbsp;	1537	SOP-16()
+MLB201209Z601	from hqew, 深威志电子	原厂原包	03+	47990	CHIP
+M64892FP	from hqew, 深威志电子	Mitsubishi	1	3000	SOP-16P
+NJM4565LD	from hqew, 深威志电子	JRC	97	1557	SIP-8
+RLZC9391-TE11D	from hqew, 深威志电子	ROHM	02+	10000	CHIP
+S-8051ANB-NA-T1	from hqew, 深威志电子	SEIKO	07+	3900	TO-92
+S9015LT1(M6)	from hqew, 深威志电子	ON SEMI	05+	1700	TO-23
+SC552125CFBER	from hqew, 深威志电子	飞思卡尔	06+	3700	QFP
+SN74LS74ANS	from hqew, 深威志电子	TI	&nbsp;	831	SOP-14()
+SN74LVC1GU04DCKR	from hqew, 深威志电子	TI	05+	5300	SOT-353
+STC89C52RC-40I	from hqew, 深威志电子	STC	07+	3200	LQFP-40
+TA8184P	from hqew, 深威志电子	Toshiba	97+	1398	DIP-20
+TB2110FN	from hqew, 深威志电子	TOSHIBA	07+	2600	SSOP-24
+TC4516BF	from hqew, 深威志电子	Toshiba	03+	1048	SOP-16
+TC4520BF	from hqew, 深威志电子	Toshiba	9344HB	909	SOP5.2
+TC74AC32F	from hqew, 深威志电子	Toshiba	9903H	3780	SOP-14()
+TC74AC393FT	from hqew, 深威志电子	Toshiba	02+	1452	TSSOP-14
+TC74AC541FS	from hqew, 深威志电子	Toshiba	9615H	536	TSSOP-20
+TC9278F	from hqew, 深威志电子	TOSHIBA	95+	4459	SOP-20
+TK71725	from hqew, 深威志电子	TOKO	07+	14933	SOT23-5
+UPA2987G	from hqew, 深威志电子	NEC	9607CP	3795	SOP-16()
+0805CG200J500NT(20PF 5%)	from hqew, 深威志电子	风华	07+	4000	805
+11596-21	from hqew, 深威志电子	ROCKWELL	98+	7900	QFP-80
+11-F-CRK455K(455KHZ)	from hqew, 深威志电子	TOKO	07+	4938	DIP-2
+1555	from hqew, 深威志电子	NEC	06+	1986	SOP-8
+1N4004	from hqew, 深威志电子	科威	08+	2000	DIP
+1N4004(M4)	from hqew, 深威志电子	Toshiba	06+	1925	3216
+1N4142	from hqew, 深威志电子	POWER	7	2705	AXIAL
+1N5817D-0181	from hqew, 深威志电子	PANJIT	04+	4900	AXIAL
+2SA1300	from hqew, 深威志电子	Toshiba	&nbsp;	3000	TO-92
+2SC2714-Y	from hqew, 深威志电子	Toshiba	05+	2400	TO-23
+4.7uF/50V	from hqew, 深威志电子	国产	07+	1000	DIP
+49SM5H-14.31818(14.31818MHZ)	from hqew, 深威志电子	KONY	5	4790	CHIP
+74AC244	from hqew, 深威志电子	Fairchild	&nbsp;	560	SOIC-20(
+74RHC04	from hqew, 深威志电子	TOSHIBA	&nbsp;	15	SSOP-14
+74V123A	from hqew, 深威志电子	-	&nbsp;	22	TSSOP-16
+74VHC161	from hqew, 深威志电子	TOSHIBA	&nbsp;	22	SSOP-16
+74VHC245	from hqew, 深威志电子	TOSHIBA	&nbsp;	86	SOP-20
+74VHC574A	from hqew, 深威志电子	ST	00+	12	SOP-20
+74VHC74	from hqew, 深威志电子	TOSHIBA	&nbsp;	286	SSOP-14
+7812	from hqew, 深威志电子	National	&nbsp;	11	TO-220
+78L06	from hqew, 深威志电子	WS	07+	397	TO-92
+8768	from hqew, 深威志电子	ROHM	0107+	16	TSSOP-16
+9241	from hqew, 深威志电子	ST	&nbsp;	13	SOP-14
+93C66	from hqew, 深威志电子	ST	04+	45	DIP-8
+93LC46A	from hqew, 深威志电子	Microchip	03+	39	SOP-8(3.
+953B	from hqew, 深威志电子	Other	&nbsp;	17	SOP-8
+958A	from hqew, 深威志电子	Other	&nbsp;	16	SOP-8
+A617308S-12	from hqew, 深威志电子	AMIC	02+	833	SOJ-28
+AHCFM2-459BL(459KHZ)	from hqew, 深威志电子	TOKO	07+	3649	DIP-2
+AIC1642-30CX	from hqew, 深威志电子	AIC	05+	1000	SOT-89
+AJ7014A	from hqew, 深威志电子	ROHM	99	1015	ZIP-12
+AK93C65AF-E1	from hqew, 深威志电子	AKM旭化成	99+	7650	TSSOP-8
+AK93C65AV-L	from hqew, 深威志电子	AKM旭化成	99+	2340	TSSOP-8
+AN3115NS-CE1	from hqew, 深威志电子	PANASONIC	93	6000	SOP
+AT29LV512-15TC	from hqew, 深威志电子	ATMEL	04+	7753	TSOP-32
+B39182-B4107-Z810	from hqew, 深威志电子	EPCOS	99	3000	DCC6D
+BA3410AF-E2	from hqew, 深威志电子	ROHM	00+	7500	SOP-8
+BA3612AKV	from hqew, 深威志电子	ROHM	00+	771	QFP-48
+BA3630AKV	from hqew, 深威志电子	ROHM	00+	997	QFP-48
+BA6298FP-T1	from hqew, 深威志电子	ROHM	04+	1999	SOP-24
+BAP64-06	from hqew, 深威志电子	NXP	06+	1000	SOT-23
+BB202	from hqew, 深威志电子	PHILIS	6	2990	SOP
+BF904R	from hqew, 深威志电子	Philips	07+	1746	SOT-23
+BZX55C15ST	from hqew, 深威志电子	ST	08+	259870	DO-35
+BZX84C4V7LT1 (4.7V)	from hqew, 深威志电子	ON SEMI	03+	2840	TO-23
+CBG201209U102T	from hqew, 深威志电子	HF	04+	4000	805
+CL10B104KONC(100NF_0.1UF)	from hqew, 深威志电子	SAMSUNG	09+	3000	1608
+CMP-62H	from hqew, 深威志电子	BSE	7	1777	
+CS26LV32163HC-70	from hqew, 深威志电子	CHIPLUS	04+	27594	BGA-48
+CU1C100MABANU(10UF/16V)	from hqew, 深威志电子	SANYO	7	1497	AXIAL
+CU405B1F-1765	from hqew, 深威志电子	日本原装	95	948	SMD
+CVC06-200(6PIE-20PF)(10PF)	from hqew, 深威志电子	JISEUNG	7	1770	DIP-2(6)
+CVC06-200(6PIE-20PF)(20PF)	from hqew, 深威志电子	JISEUNG	5	2930	DIP-2(6)
+CX20490-31P10	from hqew, 深威志电子	SONY	03+	535	QFN
+CXA1102P	from hqew, 深威志电子	SONY	98	1492	DIP-16
+CXA2078Q	from hqew, 深威志电子	SONY	01+	1674	QFP-64P
+D8749H	from hqew, 深威志电子	INTEL	96+	587	DIP-40
+DSS306-55B221M100	from hqew, 深威志电子	MURATA	04+	9000	DIP-3
+EB202900100A (SAFC856.5MA70N-TC)	from hqew, 深威志电子	MURATA	01+	1509	SMD
+ECQ-V1H683JZ3(0.068UF/63V)	from hqew, 深威志电子	PANASONIC	05+	2000	DIP-2
+EFCHK25150S1(25.15MHZ)	from hqew, 深威志电子	PANASONIC	06+	1738	DIP-2
+ELM7S32EL	from hqew, 深威志电子	ELM	05+	6000	SOT-23
+ELM9842AA-S	from hqew, 深威志电子	ELM	02+	20000	SOT-89
+EOC88365-D2F(D2A)	from hqew, 深威志电子	SEIKO	07+	4000	
+ER3002	from hqew, 深威志电子	LITEON	02+	5405	DIP-2
+ESE102MHZ	from hqew, 深威志电子	PANASONIC	08+	2036	SMD
+FBG953	from hqew, 深威志电子	THOMPSON	0	775	BGA
+FDC6329L	from hqew, 深威志电子	Fairchild	04+	5580	SOT-163
+FMP-G2FS	from hqew, 深威志电子	SANKEN	04+	9230	TO-220
+FR107	from hqew, 深威志电子	MIC	08+	890	DO-41
+FS1110G	from hqew, 深威志电子	FRONTIER	07+	4685	QFN-32
+GLL4737	from hqew, 深威志电子	GENERAL	88+	10000	DO-213AB
+GP1A038RBK,GP1A040RBKAF	from hqew, 深威志电子	Sharp	09+	1978	
+HD404849B56TF XER-400	from hqew, 深威志电子	HITACHI	04+	13599	QFP-80
+HD74LV4051ATELL-E	from hqew, 深威志电子	Hitachi	02+	1295	TSSOP-16
+HEDS-9100#E00	from hqew, 深威志电子	Agilent	10	3017	DIP-5
+HEDS-9701H50	from hqew, 深威志电子	AVAGO/HP	10+	13240	ZIPER4
+HM91620B	from hqew, 深威志电子	HMC	93	500	DIP-24
+HSK120TR	from hqew, 深威志电子	HITACHI	05+	1960	SMD
+HZF5.1	from hqew, 深威志电子	Other	&nbsp;	500	SOD16
+ISL6528CB-T	from hqew, 深威志电子	Intersil	5	2000	SOP-8
+K4S161622D-TC80	from hqew, 深威志电子	Samsung	0	1700	TSOP-50
+KA2293D	from hqew, 深威志电子	Samsung	3	5117	TSOP-24
+KA2401	from hqew, 深威志电子	Samsung	93	4577	DIP-8
+KA3843A	from hqew, 深威志电子	Samsung	K736	698	DIP-8
+KA8321Q	from hqew, 深威志电子	SAMSUNG	9514	4200	QFP-60
+KA9258D	from hqew, 深威志电子	FAIRCHILD	04+	2000	28-SSOPH
+KA9413	from hqew, 深威志电子	Samsung	94	660	QFP
+KA9421	from hqew, 深威志电子	Samsung	96	1320	QFP
+KBR-457HS (457KHZ)	from hqew, 深威志电子	AVX	06+	6000	DIP-2
+KDS193-RTK	from hqew, 深威志电子	KEC	04+	1690	TO-23
+KF154	from hqew, 深威志电子	光宝	04+	30000	AXIAL
+KM68U1000CLT-8L	from hqew, 深威志电子	SAMSUNG	99+	680	TSOP-32
+KS5014BD-20	from hqew, 深威志电子	SAMSUNG	6	3300	SOP-28
+KSA940	from hqew, 深威志电子	Fairchild	05+	1000	TO-220
+KSC2073	from hqew, 深威志电子	Fairchild	07+	1000	TO-220
+KW4020.V3.0.R50M9	from hqew, 深威志电子	ZILOG	0	1800	SOP-28
+L14C1	from hqew, 深威志电子	FAIRCHILD	04+	2320	CAN-3TO-
+L9110S	from hqew, 深威志电子	台产	07+	11000	SOP-8
+LA2220	from hqew, 深威志电子	Sanyo	05+	5882	SIP-22
+LA3550M	from hqew, 深威志电子	Sanyo	95+	912	SOP-14P
+LA3610M	from hqew, 深威志电子	SANYO	97+	13595	SOP3.9mm
+LA4589W	from hqew, 深威志电子	SANOY	04+	2000	QFP-48
+LA5312V-TRM	from hqew, 深威志电子	SANYO	03+	2000	TSSOP-20
+LB1877V-TLM	from hqew, 深威志电子	SANYO	04+	8000	TSSOP
+LC7219	from hqew, 深威志电子	SANYO	6	1331	DIP-24
+LC7520	from hqew, 深威志电子	Sanyo	96	2246	DIP-28
+LF-H12S	from hqew, 深威志电子	NTK	04+	559	DIP-5
+LM339N	from hqew, 深威志电子	National	9236	658	DIP-14
+LM358DR	from hqew, 深威志电子	TEXAS	731	7500	SOP-8
+LM7000	from hqew, 深威志电子	Sanyo	04+	830	DIP-20
+LST3620	from hqew, 深威志电子	ST	98+	900	TQFP-100
+LT1932ZES6	from hqew, 深威志电子	LINEAR	4	1367	SOT-23
+LT2A03	from hqew, 深威志电子	LITEON	98+	11680	DO-15
+LT455FW	from hqew, 深威志电子	TOKEN	06+	1461	DIP-5
+MC14489BDWR2	from hqew, 深威志电子	Freescale	05+	2500	SOP-20
+MC74HC08A	from hqew, 深威志电子	ON SEMI	&nbsp;	918	SOP-14()
+MC74HC125A	from hqew, 深威志电子	MOTOROLA	&nbsp;	1010	SOP-14()
+MC74HC244ADWR2	from hqew, 深威志电子	ON SEMI	34	950	SOIC-20(
+MIP0253	from hqew, 深威志电子	Panasonic	03+	956	DIP-7
+ML8204	from hqew, 深威志电子	ST	04+	856	DIP-8
+MMBFJ113	from hqew, 深威志电子	Fairchild	07+	3000	SOT-23
+MMBT2222ALT1	from hqew, 深威志电子	ON SEMI	03+	2980	SOT-23
+MMTSA0050J104(0.1UF/50V)	from hqew, 深威志电子	SAMSUNG	7	5985	AXIAL
+M51011P	from hqew, 深威志电子	MITSUBISHI	03+	4800	DIP
+M5220P	from hqew, 深威志电子	MITSUBISHI	0	786	DIP-8
+M65830BP	from hqew, 深威志电子	Mitsubishi	96+	2821	DIP-24P
+M74HC540BL	from hqew, 深威志电子	ST	05+	895	DIP-20
+MAS3549F-A3	from hqew, 深威志电子	MICRONAS	07+	1433	QFP-64
+MAX1920EUT-T	from hqew, 深威志电子	MAXIM	04+	7858	SOT23-6
+NJL61H380AF3	from hqew, 深威志电子	JRC	5	2000	DIP-3
+NJM2118V	from hqew, 深威志电子	JRC	04+	575	TSOP-8
+NJM4565L	from hqew, 深威志电子	JRC	03+	3724	SIP8
+NJU3421AF	from hqew, 深威志电子	JRC	06+	2150	PQFP-44
+OZ972GN	from hqew, 深威志电子	Microchip	04+	2500	SOP-16
+P1201-04	from hqew, 深威志电子	HAMAMATSU	03+	1462	DIP-2
+P51XAG30KBBD	from hqew, 深威志电子	Philips	3	1500	QFP
+PCD5003H	from hqew, 深威志电子	Philips	97/98	3108	QFP-32
+PI5V330WX	from hqew, 深威志电子	PERICOM	04+	3580	SOP-16P
+PIC16C57-HSI/SO	from hqew, 深威志电子	Microchip	97+	3600	SOIC-28
+PMB2240FV1.6GEG	from hqew, 深威志电子	Infineon	00+	2500	QFP-48P
+PMB2332RV1.2	from hqew, 深威志电子	INFINEON	01+	3000	SOP-8
+PS154R	from hqew, 深威志电子	PANJIT	7	2568	DO-15
+PTC5357	from hqew, 深威志电子	原厂原包	04+	8000	
+RD7.5EST4(M)AB2	from hqew, 深威志电子	NEC	0	5000	DIP-2
+RPE131-927R103K50(0.01UF/50V)	from hqew, 深威志电子	MURATA	06+	3296	AXIAL
+RS-31	from hqew, 深威志电子	CITIZEN	05+	734	SMD
+S-29221AFJA-TB	from hqew, 深威志电子	SII	98+	4000	SOP-8
+S3C7235DA1-C0C5	from hqew, 深威志电子	SAMSUNG	03+	29600	
+S3P821AXZZ-TWRA	from hqew, 深威志电子	Samsung	03+	624	LQFP-80P
+S9013	from hqew, 深威志电子	国产	07+	720	to-92
+SBMW08K-D40G-2.5	from hqew, 深威志电子	SHINAN	94+	2000	SMD
+SF34S	from hqew, 深威志电子	FOI	05+	2378	DO-27
+SF82P	from hqew, 深威志电子	DII	7	1998	TO-220
+SH10945(32.768000KHZ 9.5  10.0-10.0(F))	from hqew, 深威志电子	SEIKO	06+	1000	SMD
+SHBB1.27-D6G	from hqew, 深威志电子	TOKO	02+	8000	DIP-7
+SLP23-472D	from hqew, 深威志电子	AEPA	00+	9525	DIP
+SM01-149	from hqew, 深威志电子	ASTEC	06+	500	
+SM8578BV	from hqew, 深威志电子	NP	00+	2800	SSOP-8
+SMD1210P050TSA	from hqew, 深威志电子	WICKMANN	05+	4000	1210
+SMM020450-8K25	from hqew, 深威志电子	DRALOGIC	07+	10000	SMD
+SMT-903	from hqew, 深威志电子	NEUMANN	00+	8276	SMD
+SN74LJ245APW	from hqew, 深威志电子	TI	EK90	1088	TSSOP-24
+SN74LV02APW	from hqew, 深威志电子	TI	F76	1075	SSOP-14
+SN74LV240APW	from hqew, 深威志电子	TI	CEH1	1078	TSSOP-20
+SOMC1601-103G	from hqew, 深威志电子	VISHAY/DALE	00+	2000	SOP-16
+ST7533	from hqew, 深威志电子	SEX	03+	3500	DIP
+ST90158M9LV	from hqew, 深威志电子	ST	03+	918	QFP-100
+STA013	from hqew, 深威志电子	ST	03+	10889	SOP-28
+STB101KBTBM	from hqew, 深威志电子	TAIYOYUDEN	00+	5000	DIP-3
+STM-B4020	from hqew, 深威志电子	SM	99+	1015	SMD
+STMP3520XXBAEA6	from hqew, 深威志电子	SIGMATEL	4	1512	FPBGA-14
+SUD50N03-07	from hqew, 深威志电子	VISHAY	05+	2500	TO-252
+TA8124F	from hqew, 深威志电子	Toshiba	06+	1976	SOP-16
+TA8161F	from hqew, 深威志电子	Toshiba	03+	2500	SOP-10
+TA8667F	from hqew, 深威志电子	TOSHIBA	975H3B	1928	SOP-24
+TC4066BF	from hqew, 深威志电子	Toshiba	97+	2555	SOP-14
+TC74HC240AF	from hqew, 深威志电子	TOSHIBA	00+	910	SOP-20()
+TC74HC40103AF	from hqew, 深威志电子	TOSHIBA	9532H	1651	SOP-16()
+TC74HC597AF	from hqew, 深威志电子	Toshiba	9811H	1156	SOP-16
+TC74VHC14FT	from hqew, 深威志电子	Toshiba	0526H	1739	TSSOP-14
+TC7S66F	from hqew, 深威志电子	TOSHIBA	05+	41980	SOT23-5
+TC9173P	from hqew, 深威志电子	Toshiba	97	2000	DIP-16
+TC9185P	from hqew, 深威志电子	TOSHIBA	6	2399	DIP-20
+TD6359N	from hqew, 深威志电子	Toshiba	95	5000	DIP-20
+TDA2822D	from hqew, 深威志电子	ST	93+	949	SOP-8
+TDA9800/V3	from hqew, 深威志电子	Philips	05+	1143	DIP-20
+TEA5757H,TEA5757H/V1	from hqew, 深威志电子	Philips	03+99+	1920	QFP-44P
+TEA5757HL	from hqew, 深威志电子	Philips	04+	8494	LQFP-48
+TMD2201A	from hqew, 深威志电子	Samsung	05+	5209	TQFP-80
+TMP87CP21CDF-4H74	from hqew, 深威志电子	TOSHIBA	04+	3588	LQFP-80
+TMS320DRE200GGU160	from hqew, 深威志电子	TI	05+	4280	BGA-144
+TPA6110A2DGN	from hqew, 深威志电子	TI	07+	3936	MSOP-8P
+TSF-86	from hqew, 深威志电子	TELEFILTER	05+	9995	CHIP
+TSM157JK	from hqew, 深威志电子	TOKO	04+	14944	SMD
+UDZS TE-17 5.1B	from hqew, 深威志电子	Rohm	03+	2995	603
+V238	from hqew, 深威志电子	Other	&nbsp;	1998	SOP-16
+VOU0967N30KRM	from hqew, 深威志电子	SAMSUNG	0	730	SMD
+XL1225	from hqew, 深威志电子	UTC	03+	4970	TO-92
+XL1255	from hqew, 深威志电子	UTC	03+	5500	TO-92
+0.22UF/50V	from hqew, 深威志电子	AVX	06+	616	A
+11575-11	from hqew, 深威志电子	ROCKWELL	98+	1832	QFP-80
+1N4001	from hqew, 深威志电子	MIC	06+	920	DO-41
+1N4007	from hqew, 深威志电子	MIC	07+	800	DO-41
+1N5270BRL(91V)	from hqew, 深威志电子	MOTOROLA	04+	3850	AXIAL
+2246T 2245T	from hqew, 深威志电子	韩国	05+	890	21mm7mm
+22UF/16V	from hqew, 深威志电子	CHANG	08+	1000	47
+2SA1244-Y	from hqew, 深威志电子	Toshiba	07+	571	SOT-252
+2SC2538	from hqew, 深威志电子	国产	07+	551	TO-92
+2SD1328-S	from hqew, 深威志电子	panasoinc	&nbsp;	1856	SOT23
+2SD1993-U(SZ)(TA)	from hqew, 深威志电子	Panasonic	2	6000	TO-220
+3.3M	from hqew, 深威志电子	chip	06+	2000	603
+300SS-681K(43FS-20)	from hqew, 深威志电子	TOKO	06+	20538	CHIP
+47NJ100	from hqew, 深威志电子	Other	&nbsp;	800	DIP
+5CBM-30-2703-001823	from hqew, 深威志电子	TOKO	05+	2810	CHIP
+74HC00D	from hqew, 深威志电子	PHILIPS	05+	827	SOP-14(3
+74HC374D	from hqew, 深威志电子	PHIL	07+	14600	SOP-20
+74LCX125	from hqew, 深威志电子	Fairchild	&nbsp;	1662	SSOP-14
+74VHC24O	from hqew, 深威志电子	TOSHIBA	&nbsp;	17	SSOP-20
+7702AC	from hqew, 深威志电子	TI	01+	42	SOP-8
+7824	from hqew, 深威志电子	TI	&nbsp;	17	TO-220
+7B373	from hqew, 深威志电子	BI	&nbsp;	11	SOP-14
+7LB179	from hqew, 深威志电子	TI	03+	14	SOP-8
+8030	from hqew, 深威志电子	Other	&nbsp;	27	SOP-8
+86.165MHZ	from hqew, 深威志电子	日本原装	95+	8090	SMD
+8A270UK	from hqew, 深威志电子	BI	9336	132	SOP-16
+8PIN	from hqew, 深威志电子	国产	&nbsp;	58	
+93LC66B	from hqew, 深威志电子	MIC	03+	23	SOP-8
+957B	from hqew, 深威志电子	JRC	03+	24	SOP-8
+9L05A	from hqew, 深威志电子	Motorola	02+	22	SOP-8
+ACB-T1H473ZFW	from hqew, 深威志电子	原厂原包	00+	20000	AXIAL
+ADSP-2185MKST-300	from hqew, 深威志电子	AD	02+/03+	1834	QFP-100
+AJ605A-E1MS	from hqew, 深威志电子	Nec/ALPS	96+	5000	SOP-14
+AM26LS31	from hqew, 深威志电子	TI	&nbsp;	773	SOP-16
+AM29F010B-55EE/EC	from hqew, 深威志电子	AMD	06+	1555	TSOP-32
+AN6472NFBP	from hqew, 深威志电子	Panasonic	96+	800	QFP-64
+ANCG11G57SAU001RD1	from hqew, 深威志电子	MURATA	2	2551	
+AX5326S-4	from hqew, 深威志电子	ASIC	7	6194	TSOP-20
+B57164-K 103-J 10K	from hqew, 深威志电子	SIEMENS	03+	995	DIP-2
+BA6235F	from hqew, 深威志电子	ROHM	92+	1998	SOP-8
+BA6280AF	from hqew, 深威志电子	ROHM	94+	2000	SOP-22
+BA6391FP-T1	from hqew, 深威志电子	ROHM	04+	8000	SOP-24
+BA7626	from hqew, 深威志电子	ROHM	06+/07+	3294	DIP-16
+BB202	from hqew, 深威志电子	philips	6	3000	603
+BU2305	from hqew, 深威志电子	ROHM	95+	1000	SOP-8
+BUX87P	from hqew, 深威志电子	Philips	97+	1100	TO-126
+CEM8207	from hqew, 深威志电子	CEM	07+	10000	SOP-8
+CEU540A	from hqew, 深威志电子	CET	6	2500	TO-252
+CSC2001K	from hqew, 深威志电子	CDIT	99+	20000	TO-92
+CTU-31R	from hqew, 深威志电子	SANKEN	00+	1333	TO-3P
+CTU-31S	from hqew, 深威志电子	SANKEN	00+	1223	TO-3P
+CVCN06-100(60-10PF)(10PF)	from hqew, 深威志电子	JISEUNG	3	6027	DIP-2(6)
+CX20187	from hqew, 深威志电子	SONY	95+	884	DIP-42
+CX-5F-3.579545MHZ	from hqew, 深威志电子	KINSEKI/京瓷	05+	39975	10pF3579
+CXA1081Q	from hqew, 深威志电子	SONY	01+	2290	QFP-32P
+CXP82712-112S	from hqew, 深威志电子	SONY	00+	1979	DIP-64
+D103M31Z5VF5TL5A(0.01uf/63V)	from hqew, 深威志电子	PHILIPS	05+	2445	DIP-2
+D36529XAA11ALC	from hqew, 深威志电子	DSP	4	1782	LQFP-100
+DF13A-2P-1.25DS	from hqew, 深威志电子	HIROSE	06+	28914	DIP-2
+DFC2R959P001HHA-TA2	from hqew, 深威志电子	MURATA	99	4766	CHIP()
+DG9232DQ-T1,DGT9232DQ-T1	from hqew, 深威志电子	VISHAY	03+	2498	MSOP-8
+DPX46/49-B12	from hqew, 深威志电子	原厂原包	04+	1448	
+ELM9330BA-S	from hqew, 深威志电子	ELM	03+	18000	SOT-23
+ELM9550B-S	from hqew, 深威志电子	ELM	07+	1990	SOT-23
+ELM9722CBAS-S	from hqew, 深威志电子	ELM	03+	3000	SOT-23
+ELM99302A-S	from hqew, 深威志电子	ELM	12	8900	SOT89-5
+EXC-FF76108LM	from hqew, 深威志电子	MATSUSHITA	05+	5923	DIP-3
+F5CH-935M00-L2LD-R	from hqew, 深威志电子	FUJITSU	6	3000	CHIP
+FDS6912A-NL	from hqew, 深威志电子	Fairchild	557	2500	SOP-8
+FHW1210IF220JST	from hqew, 深威志电子	风华	04+	4000	1210
+GD4070B	from hqew, 深威志电子	GS	02+	1295	DIP-14
+GD74LS164	from hqew, 深威志电子	GOLDSTAR	94	625	DIP-14
+GEO-TQ-307(18MHZ)	from hqew, 深威志电子	原厂原包	05+	3530	SMD
+GL7924	from hqew, 深威志电子	GS	6	1000	TO-220
+HD404849B65TF	from hqew, 深威志电子	HITACHI	07+	7335	QFP-80
+HT84036-0H	from hqew, 深威志电子	Holtek	99	13000	SOP-20
+HZM4.7NB2TL (4.7V)	from hqew, 深威志电子	Hitachi	03+	3000	TO-23
+IMC-1812	from hqew, 深威志电子	MURATA	95+	5100	CHIP
+IN5819	from hqew, 深威志电子	MIC	08+	1000	
+IR3N82	from hqew, 深威志电子	SHARP	9431	1816	SIP-9
+ISL485EIB-T	from hqew, 深威志电子	Intersil	4	2501	SOP-8
+KA8325Q	from hqew, 深威志电子	SAMSUNG	96+	7220	QFP-60
+KA9201	from hqew, 深威志电子	Samsung	06+	1800	SOP-28P
+KA9257-S	from hqew, 深威志电子	SAMSUNG	94+	3081	SIP-12
+KBR-800H(800KHZ)	from hqew, 深威志电子	AVX	06+	2800	DIP-2
+KS56C220-D5	from hqew, 深威志电子	SANSUNG	03+	641	QFP-64
+KS58514N	from hqew, 深威志电子	Samsung	96	693	DIP-18
+KS9820-09	from hqew, 深威志电子	SAMSUNG	7	714	QFP-48
+KV1310NT	from hqew, 深威志电子	TOKO	95/97	803	TO-92
+KV1470TLOO	from hqew, 深威志电子	TOKO	03+	4292	SOT-23
+L7805CV	from hqew, 深威志电子	ST国产	09+	1000	TO-220
+L9110H	from hqew, 深威志电子	国产	07+	1700	SOP-8
+LA2000	from hqew, 深威志电子	SANYO	0	1250	SIP-9
+LA2211	from hqew, 深威志电子	Sanyo	01+	2500	DIP-22
+LA4590W	from hqew, 深威志电子	Sanyo	95+	3750	SQFP-48
+LA6324M	from hqew, 深威志电子	Sanyo	05+	7010	SOP-14P
+LB8904M	from hqew, 深威志电子	SANYO	95	5183	SOP-30
+LC7060	from hqew, 深威志电子	Sanyo	96+	1919	DIP-42
+LC7582A	from hqew, 深威志电子	Sanyo	95+	2697	QFP
+LC78212	from hqew, 深威志电子	Sanyo	1	1518	DIP28
+LC7881M	from hqew, 深威志电子	Sanyo	98	2259	SOP-20
+LH28F800SUT-ZO	from hqew, 深威志电子	Sharp	98+	1370	TSSOP
+LM053A	from hqew, 深威志电子	TI	03+	1000	TSSOP-16
+LM4811MM	from hqew, 深威志电子	NS	06+	4913	MSOP-10
+LM4835MTX	from hqew, 深威志电子	NS	03+	6099	TSSOP-48
+LM8562	from hqew, 深威志电子	Sanyo	98+	1000	DIP-28
+LMV324I	from hqew, 深威志电子	TI	11+	631	SSOP-14
+LRCM04RC02T	from hqew, 深威志电子	TAIYOYUDEN	4	1000	SMD-6
+LS15A2-T	from hqew, 深威志电子	CITIZEN	03+	5000	SMD
+MBI1009	from hqew, 深威志电子	MACROBLOCK	04+	29745	SSOP-16
+MC152-15	from hqew, 深威志电子	TOKO	5	885	CHIP
+MC74F244	from hqew, 深威志电子	MOTOROLA	03+	1050	SOP-20()
+MC74HC133	from hqew, 深威志电子	MOTOROLA	&nbsp;	513	SOP-14()
+MC74HC273A	from hqew, 深威志电子	ON SEMI	&nbsp;	1302	SOP-20()
+MC74HC367	from hqew, 深威志电子	MOTOROLA	&nbsp;	762	SOP-16()
+MC74HC374A	from hqew, 深威志电子	MOTOROLA	09+	584	SOP-20()
+MC908GP16CBE	from hqew, 深威志电子	Freescale	06+	2160	DIP-42
+MF58RB-58.1125MHZ(58.1125MHZ)	from hqew, 深威志电子	TEW	05+	1195	DIP-3
+MKC1858(0.22uF/63V)	from hqew, 深威志电子	VISHAY	06+	4000	AXIAL
+MM1305BWBE	from hqew, 深威志电子	MITSUMI	0	14000	MSOP-8
+MMBD4148	from hqew, 深威志电子	FAIRCHILD	03+	113680	SOT-23
+MMX-E2A154KT(0.15UF/100V)	from hqew, 深威志电子	Hitachi	05+	990	SMD
+MMY-167-0.82UF -5(0.82UF/63V)	from hqew, 深威志电子	YUCHANG	5	550	DIP-2
+MX10FLCDPC	from hqew, 深威志电子	MACRONIX	02+	1510	DIP-40
+M65844P	from hqew, 深威志电子	Mitsubishi	96	2006	DIP-14
+MA165	from hqew, 深威志电子	PANASONIC	06+	12350	AXIAL
+MAS3549F-B4	from hqew, 深威志电子	MICRONAS	7	845	QFP-64
+MAX810LEUR-T	from hqew, 深威志电子	MAXIM	7	2180	SOT-23
+MAX857CUA	from hqew, 深威志电子	MAXIM	00+	25000	MSOP-8
+N82S129AN	from hqew, 深威志电子	Philips大S	91+	668	DIP-16
+NCP5661DT12RKG	from hqew, 深威志电子	ON SEMI	&nbsp;	610	TO-252-5
+NDS355AN	from hqew, 深威志电子	Fairchild	04+	9000	SOT-23
+NJM2113R	from hqew, 深威志电子	JRC	03+	16000	SOP-8
+NJU74HC74M	from hqew, 深威志电子	JRC	01+	4880	SOP-16
+NL17SZ32XV5T2	from hqew, 深威志电子	ON SEMI	04+	28000	SOT-353S
+NSBC114EPDXV6T1	from hqew, 深威志电子	ON SEMI	04+	15900	SOT-563
+PC817C	from hqew, 深威志电子	SHARP	10+	150821	DIP-4
+PCD50923H/C15/3	from hqew, 深威志电子	Philips	0	9000	QFP
+PCF8576CH	from hqew, 深威志电子	PHILIPS	02+	1696	QFP-64
+QA455EW	from hqew, 深威志电子	TOKEN	05+	3371	DIP
+RB521CS-30 T2R	from hqew, 深威志电子	Other	08+	5800	VMN2
+RFMR02003BHVF1	from hqew, 深威志电子	Motorola	2	1200	DIP-3
+RFMT-25-SM10	from hqew, 深威志电子	原厂原包	95+	4917	SOP-10
+RK-370CA-081150(TD439824)	from hqew, 深威志电子	馬步奇	10	732	2432MM
+RPE131-916R103K50(0.01UF/50V)	from hqew, 深威志电子	MURATA	06+	2000	AXIAL
+RS-20-T	from hqew, 深威志电子	CITIZEN	05+	1000	SMD
+RS-5 1.5K 1 K55	from hqew, 深威志电子	VISHAY	03+	700	DIP-2
+RXE065-2	from hqew, 深威志电子	PHILIPS	02+	6000	DIP-2
+S-29131AFJA-TB	from hqew, 深威志电子	EPSON	99+	3990	SOP-8P
+S325P7N	from hqew, 深威志电子	SAMSUNG	97	5211	DIP-4
+S-70L01AQS-008	from hqew, 深威志电子	HYUN	06+	14038	QFP-64
+S-70L01AQS-A02-01(C48173)	from hqew, 深威志电子	SEIKO	00+	3000	QFP
+S78DL05F	from hqew, 深威志电子	AUK	05+	5879	SOT-89
+S9013	from hqew, 深威志电子	Samsung	09+	980	TO-92L
+SA1638BE	from hqew, 深威志电子	Philips	97+	1250	LQFP-48P
+SA2007A	from hqew, 深威志电子	Sanyo	06+	2806	SOP-30
+SAS004	from hqew, 深威志电子	IRDETO	222	1265	QFP-100
+SB61L256AS-12	from hqew, 深威志电子	SBT	201	15498	SOJ-28
+SC34350CQ (D00082PQ)	from hqew, 深威志电子	TI/SIERRA	96+	2736	PQFP-132
+SC34380CQA-03	from hqew, 深威志电子	TI/SIERRA	96+	2640	QFP-144
+SC510070JDWE	from hqew, 深威志电子	freescale	549	36000	SOP-20
+SFDG60RE101	from hqew, 深威志电子	SAMSUNG	2	8000	SMD
+SFH881NF001	from hqew, 深威志电子	SAMSUNG	02+	4000	SMD
+SG-104D	from hqew, 深威志电子	KODENSHI	10+	9995	SMD-4
+SI3017-KSR	from hqew, 深威志电子	SII-IC	05+	2500	SOP
+SI3052-ZQ9R	from hqew, 深威志电子	SII-IC	04+	1250	QFP
+SKYLARK,ENCORDER	from hqew, 深威志电子	SKYLARK	03+	5893	QFP-128
+SLB15VR3-G	from hqew, 深威志电子	ROHM	5	3800	DIP-2
+SM5870CS	from hqew, 深威志电子	NPC	96	1485	SOP-28
+SMD2920P050TSA	from hqew, 深威志电子	WICKMANN	04+	4500	2920
+SN74LC04APW	from hqew, 深威志电子	TI	EFX6	1260	TSSOP-14
+SN74LV164APW	from hqew, 深威志电子	TI	CN11	983	TSSOP-14
+SN74LV273NS	from hqew, 深威志电子	TI	&nbsp;	934	SOP-20()
+SN74LX240A	from hqew, 深威志电子	TI	H64H	700	TSSOP-20
+SOMC-1603 1K 2 R61	from hqew, 深威志电子	VISHAY/DALE	00+	2000	SOP-16
+SOMC1603 33 2 R61	from hqew, 深威志电子	VISHAY	026+	2000	SOP-16
+SP4422ACU	from hqew, 深威志电子	SIPEX	1	4570	TSOP-8
+SRA860-SB860	from hqew, 深威志电子	台半	06+	1993	TO-220
+SST29VE010-200-4C-EH	from hqew, 深威志电子	SST	00+	2948	TSOP-32
+ST90T158M9LVT1/Q1	from hqew, 深威志电子	ST	02+	6258	TQFP-80
+STPS30L30CG-TR	from hqew, 深威志电子	ST	01+	1000	TO-263
+TA2032AF	from hqew, 深威志电子	TOSHIBA	96+	7200	QFP-64
+TA31147FN	from hqew, 深威志电子	Toshiba	97+	1916	SSOP-24
+TA7259F	from hqew, 深威志电子	Sanyo	6	700	TSOP-20
+TA7774FG	from hqew, 深威志电子	Toshiba	06+	2000	HSOP-16
+TA8157AFN	from hqew, 深威志电子	Toshiba	98+	1965	SSOP-24
+TC4052BF	from hqew, 深威志电子	TOSHIBA	9529HB	1565	SOP-16()
+TC4052BF	from hqew, 深威志电子	TOSHIBA	9512HB	1855	SOP-16()
+TC74AC08F	from hqew, 深威志电子	Toshiba	9614H	1940	SOP-14()
+TC74AC14FS	from hqew, 深威志电子	Toshiba	9650H	1014	TSSOP-14
+TC74AC393FS	from hqew, 深威志电子	Toshiba	740	1395	TSSOP-14
+TC74HC163AF	from hqew, 深威志电子	TOSHIBA	95+	1981	SOP-16()
+TC74HC241AF	from hqew, 深威志电子	Toshiba	9429H	1822	SOP-20
+TC74HC597AF	from hqew, 深威志电子	Toshiba	9345H	1042	SOP-16()
+TC74VHC238FS	from hqew, 深威志电子	TOSHIBA	9826	1198	TSSOP-16
+TC74VHC244F	from hqew, 深威志电子	TOSHIBA	&nbsp;	841	TSSOP-20
+TC74VHC244FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	831	TSSOP-20
+TCST1230	from hqew, 深威志电子	Vishay	04+	3258	DIP-4
+TDA1311A	from hqew, 深威志电子	Philips	05+	1960	DIP-8
+TDA8004T	from hqew, 深威志电子	Philips	03+	1000	SOP-28
+TL431ACZ	from hqew, 深威志电子	ST	04+	4986	TO-92
+TLV5535IPW	from hqew, 深威志电子	TI	04+	2320	TSSOP-28
+TMP87CM21DF-1A92	from hqew, 深威志电子	Toshiba	99+	993	QFP-80
+TMP87CP21CDF-5FR9	from hqew, 深威志电子	TOSHIBA	05+	3000	LQFP-80
+TMS320DRE201GGU160	from hqew, 深威志电子	TI	05+	1040	BGA-144
+UPC666GS	from hqew, 深威志电子	NEC	99	3030	TSOP-36
+VA733	from hqew, 深威志电子	VA	03+	2005	TO-92
+W2EG-08	from hqew, 深威志电子	OMRON	04+	19915	4MM
+W91510N	from hqew, 深威志电子	Winbond	97+	3113	DIP-18
+WKP101MCPEF0K(100P)	from hqew, 深威志电子	DRALORIC	00+	1000	DIP-2
+WSC-1 0.25 1% R86	from hqew, 深威志电子	VISHAY/DALE	0	1995	2010
+X5043S8-2.7	from hqew, 深威志电子	XICOR	08+	1998	SOP
+X-TAL-ST5000-16-SMD	from hqew, 深威志电子	原厂原包	5	668	CHIP
+Z86L8208SSCR50M9TR	from hqew, 深威志电子	ZILOG	0	1800	SOP-28
+04-6239-0240-01-800	from hqew, 深威志电子	KYOCERA	07+	1994	SMD
+1N4001(M1)	from hqew, 深威志电子	Toshiba	07+	2000	3216
+1N5818	from hqew, 深威志电子	Other	06+	500	DO-41
+1N5819 / IN5819	from hqew, 深威志电子	MIC	11+	1790	DO-
+2SA1273	from hqew, 深威志电子	KEC	03+	1000	TO-92L
+74F244PC	from hqew, 深威志电子	NS	02+	6976	DIP-20
+74VHC161	from hqew, 深威志电子	TOSHIBA	&nbsp;	11	SOP-16
+7705BC	from hqew, 深威志电子	TI	00+	14	SOP-8
+78L05	from hqew, 深威志电子	CS国产	&nbsp;	10	TO-92
+78L05A	from hqew, 深威志电子	TI	05+	10	SOP-8
+78L12ABUTR	from hqew, 深威志电子	ST	08+	240	SOT-89
+AD26-00002A(CLQ102)	from hqew, 深威志电子	SUMIDA	00+	1000	CHIP
+AS998BN	from hqew, 深威志电子	ASTEC	02+	1994	DIP-8P
+AS998N	from hqew, 深威志电子	ASTEC	02+	3998	DIP-8
+BA3840KV	from hqew, 深威志电子	ROHM	97+	2952	QFP-48
+BA6251	from hqew, 深威志电子	ROHM	95+	1400	DIP-16
+BQ2002PN	from hqew, 深威志电子	TI	97+	5454	DIP-8P
+CFU450F	from hqew, 深威志电子	MURATA	06+	8037	DIP-3
+CVC06-100(6PIE-20PF)(10PF)	from hqew, 深威志电子	JISEUNG	7	2194	DIP-2(6)
+CXP5086H	from hqew, 深威志电子	SONY	5	800	QFP-64
+ECQU1H104JL3	from hqew, 深威志电子	Panasonic	05+	2000	DIP-2
+ES1AV	from hqew, 深威志电子	SANKEN	05+	10978	DIP-2
+FNC-105(57N1)FNC105	from hqew, 深威志电子	日本原装	06+	566	SIP-12
+FS1025G	from hqew, 深威志电子	FrontierSili	05+	1968	FLBGA-22
+GD74HC74	from hqew, 深威志电子	LG	96	940	DIP-14
+GP2A231LRSA	from hqew, 深威志电子	SHARP	09+	3500	
+HD404849B32TF WARP-VER20	from hqew, 深威志电子	HITACHI	07+	9944	QFP-80
+HZM5.1NB3TR (5.1V)	from hqew, 深威志电子	Hitachi	02+	3000	TO-23
+IC-PST3428UL	from hqew, 深威志电子	MITSUMI	4	3000	SOT-343
+KA2295Q	from hqew, 深威志电子	Samsung	95	900	QFP
+KDA0316LD	from hqew, 深威志电子	SAMSUNG	99	2657	SOP-20
+KST2222A-MTF	from hqew, 深威志电子	KEC	04+	8127	SOT-23
+LA1267	from hqew, 深威志电子	SANYO	06+	865	DIP-24
+LA2110	from hqew, 深威志电子	Sanyo	02+	9106	ZIP-16
+LA3373	from hqew, 深威志电子	Sanyo	05+	5325	DIP-16
+LC7867E	from hqew, 深威志电子	Sanyo	94+	2099	QFP-64P
+LC9943C	from hqew, 深威志电子	Sanyo	9943	5299	DIP-18
+LH27-00134A	from hqew, 深威志电子	TOKO	5	9247	SMD
+LT1212MH (12A/600V)	from hqew, 深威志电子	ST	2	1085	TO-220
+MB89538APFM-G-470	from hqew, 深威志电子	FUJITSU	5	727	QFP
+MC74AC244	from hqew, 深威志电子	ON SEMI	&nbsp;	940	SOIC-20(
+MC74HC158A	from hqew, 深威志电子	MOTOROLA	&nbsp;	752	SOP-16()
+MC74HC241A	from hqew, 深威志电子	MOTOROLA	&nbsp;	556	SOP-20()
+MC74HC27	from hqew, 深威志电子	MOTOROLA	&nbsp;	1649	SOP-14()
+MM3111	from hqew, 深威志电子	MITSUMI	04+	3000	SMD
+MML-E2A334KT(0.33UF/100V)	from hqew, 深威志电子	Hitachi	05+	990	SMD
+M5238AL	from hqew, 深威志电子	Mitsubishi	01+	4000	ZIP8P
+MA3051-M(TX)(5.1V)	from hqew, 深威志电子	Panasonic	03+	3000	TO-23
+NJM2872F28-TE1	from hqew, 深威志电子	JRC	2	3000	SOT-23
+NJU4053BD	from hqew, 深威志电子	JRC	96+	1025	DIP-16
+NJU4053BV	from hqew, 深威志电子	JRC	93	903	SSOP-16
+PBP202	from hqew, 深威志电子	LITEON	07+	6000	DIP-4
+PMB2307RV1.1GEG	from hqew, 深威志电子	Infineon	00+	3000	TSSOP-16
+PR3007-T	from hqew, 深威志电子	VISHAY/LITEO	05+	1173	AXIAL
+PX1N4003	from hqew, 深威志电子	SILITEK	04+	3000	AXIAL
+RLZC9426-TE11D	from hqew, 深威志电子	ROHM	02+	50000	CHIP
+RS401L-S	from hqew, 深威志电子	RECTRON	91+	1996	DIP-4
+S-70L01AQS-002	from hqew, 深威志电子	HYUN	07+	950	QFP-64
+S7812D	from hqew, 深威志电子	AUK	02+	2033	D-PAK
+SLA7026M	from hqew, 深威志电子	SanKen	03+	1460	ZIP-18
+SM01-149(QFF1E 0.18A)	from hqew, 深威志电子	ASTEC	6	500	
+SM5166AV-E2	from hqew, 深威志电子	NPC	0	3000	TSSOP-16
+SMT4-03E	from hqew, 深威志电子	FUJITSU	04+	3986	SMD
+SN74HA00	from hqew, 深威志电子	TI	&nbsp;	1270	TSSOP-14
+SN74LS86ANS	from hqew, 深威志电子	TI	&nbsp;	539	SOP-14()
+SP4425CU(T/R)	from hqew, 深威志电子	SIPEX	01+	5825	SOP-8
+SST39VF400A-70-4C-B3K	from hqew, 深威志电子	SST	4	1888	BGA-48
+ST6041Q6/II	from hqew, 深威志电子	ST	9301	5639	SMD-52
+STMP3520B144E-TA6	from hqew, 深威志电子	SIGMATEL	537	1512	BGA-144
+T491B475M025AT(4.7UF/25V)	from hqew, 深威志电子	KEMET	08+	2000	SMD
+TA2041F	from hqew, 深威志电子	TOSHIBA	97	3992	SOP-24
+TA8153FN	from hqew, 深威志电子	Toshiba	97+	995	SSOP-24
+TC4516	from hqew, 深威志电子	Toshiba	9328HB	1058	SOP-16
+TC74HC4052AFT	from hqew, 深威志电子	TOSHIBA	9849H	1324	TSSOP-16
+TC74VHC14FT	from hqew, 深威志电子	TOSHIBA	0546H	2000	TSSOP-14
+TC74VHC238FS	from hqew, 深威志电子	TOSHIBA	28	1998	TSSOP-16
+TC9318FA-013	from hqew, 深威志电子	Toshiba	98+	2699	TQFP
+TDFS8A2450T13AP	from hqew, 深威志电子	TOKO	04+	10000	CHIP
+TK11821MTL	from hqew, 深威志电子	TOKO	6	3000	SMD
+TMP47C860F-G125	from hqew, 深威志电子	Toshiba	93	1767	QFP-64P
+TMP87PP21F	from hqew, 深威志电子	Toshiba	00+	796	QFP-80
+TSM255GHTR	from hqew, 深威志电子	SAMWON	02+	758	SMD
+UTC1062A	from hqew, 深威志电子	UTC	03+	7550	SOP-16
+VC-3R0A26-0663	from hqew, 深威志电子	FUJITSU/TOWA	02+	19144	SMD
+VCO-191-915U	from hqew, 深威志电子	VARIL	96+	7255	SMD
+W78LE51P-24	from hqew, 深威志电子	Winbond	05+	678	PLCC-44
+W83783S	from hqew, 深威志电子	WINBOND	05+	700	SOP-24
+0805F104M500NT(0.1UF_100NF)	from hqew, 深威志电子	风华	07+	4000	805
+1N5231B	from hqew, 深威志电子	国产	06+	600	DO-41
+2SA940	from hqew, 深威志电子	Fairchild	&nbsp;	945	TO-220
+32CS-380NB-R10M-P3	from hqew, 深威志电子	TOKO	06+	49385	CHIP
+6.3V/60mA,2.6PIE	from hqew, 深威志电子	ALPS	07+	23628	DIP-2(2.
+74LCX125MTC	from hqew, 深威志电子	Fairchild	&nbsp;	1655	TSSOP-14
+74VHC11	from hqew, 深威志电子	TOSHIBA	&nbsp;	25	SSOP-14
+74VHCT138A	from hqew, 深威志电子	TOSHIBA	&nbsp;	40	SOP-16
+75LV02A	from hqew, 深威志电子	TI	&nbsp;	21	SSOP-14
+7B473UK	from hqew, 深威志电子	BI	01+	11	SOP-14(3
+8L12A	from hqew, 深威志电子	TI	05+	77	SOP-8
+95AF	from hqew, 深威志电子	Other	&nbsp;	50	SOP-8
+AN7379NSH	from hqew, 深威志电子	PANASONIC	4	3600	SSOP-24
+AX5317S-4	from hqew, 深威志电子	原厂原包	7	3306	SOP-20
+BA3442AKS	from hqew, 深威志电子	ROHM	96+	1000	QFP-56
+BA5204F	from hqew, 深威志电子	ROHM	06+	2138	SOP-16
+BCX71H	from hqew, 深威志电子	Philips	06+	2727	SOT-23
+BF998B-GS08	from hqew, 深威志电子	Philips	04+	1650	SOT-143
+BU1362FS	from hqew, 深威志电子	ROHM	5	2340	SOP-16
+CSL-U501D4S	from hqew, 深威志电子	CHINASEMI	07+	33686	DIP-2
+CU1A220MABANU(22UF/10V)	from hqew, 深威志电子	SANYO	7	1500	AXIAL
+CXP5098H	from hqew, 深威志电子	SONY	01+	1560	QFP-64
+D36529XAA11BLC	from hqew, 深威志电子	DSP	04+	11894	LQFP-100
+DMBT2222A(1P)	from hqew, 深威志电子	DCC	7	2900	SOT-23
+EUA5212QIR1	from hqew, 深威志电子	KENDEN	6	2500	SSOP
+F561K33Y5PR6TK7	from hqew, 深威志电子	BC	146	999	DIP-2
+FDS6875	from hqew, 深威志电子	Fairchild	08+	500	SOP-8
+FPX036S(3.575945MHZ)	from hqew, 深威志电子	FOX	06+	1995	SMD
+HEDS-9897	from hqew, 深威志电子	Agilent	05+	19992	1.7mm
+HT1621	from hqew, 深威志电子	HOLTEK	07+	1000	
+ICL7126RCPL	from hqew, 深威志电子	INTERSIL	5	762	DIP-40
+KA9270	from hqew, 深威志电子	Samsung	95/96	880	DIP-20
+KS9820-03	from hqew, 深威志电子	SAMSUNG	07+	868	QFP-48
+LA4538M	from hqew, 深威志电子	SANYO	99+	1809	SOP-14
+LG9110S/L9110S	from hqew, 深威志电子	LG	11+	16010	SOP-8
+LM2903S	from hqew, 深威志电子	ST	04+	1234	SOP-8
+LMV321IDBVR	from hqew, 深威志电子	TI	549	3000	SOT-23
+MBR760	from hqew, 深威志电子	GS	1	659	TO-220
+MC74F244DW	from hqew, 深威志电子	MOTOROLA	97+	10292	SOP-20()
+MMBD1202	from hqew, 深威志电子	PYUNGCHANG	07+	9995	SOT-23
+MX23L6411TC-10	from hqew, 深威志电子	MXIC	4	768	TSSOP
+NAND256W3A0AN6	from hqew, 深威志电子	ST	05+	611	TSOP
+NC7WB66K8X	from hqew, 深威志电子	Fairchild	5	1360	VSOP-8
+NJM2360M	from hqew, 深威志电子	JRC	95	2000	SOP-8
+PMB2405FV1.5GEG	from hqew, 深威志电子	INFINEON	00+	2500	TQFP-48
+PS2101	from hqew, 深威志电子	PHISON	05+	5500	LQFP-128
+PWA220-010	from hqew, 深威志电子	SAMSUNG	12	3709	QFP-100
+RS104X100	from hqew, 深威志电子	OHIRA	04+	5756	
+S-80820ANNP-DNJ	from hqew, 深威志电子	SEIKO	9699	14900	SC82AB
+S9014LT1(L6)	from hqew, 深威志电子	ON SEMI	05+	2200	TO-23
+SEDS-9895	from hqew, 深威志电子	AVAGO	11+	23700	ZIP-4
+SHBB1.27-S7G	from hqew, 深威志电子	TOKO	7	6995	SIP-9
+SMC88104DOM	from hqew, 深威志电子	SEIKO	07+	9931	
+SN74F27DR	from hqew, 深威志电子	TI	951	39300	SOP-14(3
+T21U8A-21.4MHz	from hqew, 深威志电子	TELLURIAN	06+	6430	SMD
+TA7371F	from hqew, 深威志电子	Toshiba	2	1800	SOP-8
+TA7765AF	from hqew, 深威志电子	TOSHIBA	7	6000	SOP-16
+TC74AC00F	from hqew, 深威志电子	TOSHIBA	9708H	1529	SOP-14()
+TC74HC4002AF	from hqew, 深威志电子	TOSHIBA	9719H	2183	SOP-14
+TC74V153APW	from hqew, 深威志电子	TOSHIBA	03+	963	TSSOP-16
+TLV5590EA	from hqew, 深威志电子	TI	97+	1500	SOP-14
+UPD6323C	from hqew, 深威志电子	NEC	96+	921	DIP-16
+YMU762-0203A-BSN	from hqew, 深威志电子	YAMA	2003	760	QFP
+0.022UF/630V (069-03422355T2-104)	from hqew, 深威志电子	VISHAY	04+	500	DIP-2
+0.1 k/100V	from hqew, 深威志电子	Other	&nbsp;	25	
+0603CG330J500NT (33PF 5％)	from hqew, 深威志电子	FengHua	07+	3700	603
+1000MFD/25V	from hqew, 深威志电子	Other	&nbsp;	15	
+100uF/16V	from hqew, 深威志电子	Other	&nbsp;	25	
+11DQ10	from hqew, 深威志电子	Other	0+	50	DO-41
+1A/250V	from hqew, 深威志电子	fuses	08+	150	
+1N4148	from hqew, 深威志电子	ST	07+	86	DO-35
+1N5822	from hqew, 深威志电子	MIC	09+	480	DO-201AD
+2200uF/10V	from hqew, 深威志电子	Other	05+	96	
+24C02AN-SN27	from hqew, 深威志电子	ATMEL	&nbsp;	108	SOP8
+24C04W6	from hqew, 深威志电子	ST	03+	17	SOP-8
+2577S12FP	from hqew, 深威志电子	IR	TO220	38	
+27L4AI	from hqew, 深威志电子	ST	&nbsp;	28	SOP-14
+2901	from hqew, 深威志电子	ST	&nbsp;	37	SOP-14
+2KBP10M	from hqew, 深威志电子	HB	06+	98	DIP-4
+2N5401	from hqew, 深威志电子	国半	98+	94	TO-92
+2SA1015	from hqew, 深威志电子	TOSHIBA	05+	40	TO-92
+2SA1598	from hqew, 深威志电子	Sanyo	03+	11	ITO-220
+2SA1668	from hqew, 深威志电子	SANKEN	&nbsp;	50	TO-220Fa
+2SB1366 KB1366	from hqew, 深威志电子	KEC	6	197	TO-220
+2SC1623	from hqew, 深威志电子	Nec	04+	12	SOT-23
+2SC1846-R	from hqew, 深威志电子	Panasonic	00+	31	TO-126
+2SC2028	from hqew, 深威志电子	FUJITSU	07+	40	TO-126
+2SC2500	from hqew, 深威志电子	Toshiba	03+	14	TO-92L
+2SC2538	from hqew, 深威志电子	Mitsubishi	04+	451	TO-92
+2SC4388	from hqew, 深威志电子	-	05+	88	TO-247
+2SC9013-H	from hqew, 深威志电子	KEC	10+	100	TO-92
+2SC9018	from hqew, 深威志电子	Samsung	03+	17	TO-92
+2SJ108	from hqew, 深威志电子	Toshiba	11+	100	TO-92
+2SJ501	from hqew, 深威志电子	Other	&nbsp;	102	SOT-23
+2SK736	from hqew, 深威志电子	NEC	05+	70	TO-220
+2SK906	from hqew, 深威志电子	Other	&nbsp;	10	TO-3P
+31DQ04	from hqew, 深威志电子	IR	03+	195	Axial-10
+3300uF/16V	from hqew, 深威志电子	CHENG	08+	96	10 21
+33NJA/400V	from hqew, 深威志电子	Other	&nbsp;	14	
+393	from hqew, 深威志电子	ROHM	&nbsp;	37	SOP-8
+4256AW6	from hqew, 深威志电子	ST	&nbsp;	56	SOP-8
+431I	from hqew, 深威志电子	ST	03+	340	SOP-8
+470UF/25V	from hqew, 深威志电子	CHANG	8	400	8 14 20
+4816P-001-470	from hqew, 深威志电子	BOURNS	92	179	SOP-16
+4816P-002-822	from hqew, 深威志电子	BOURNS	91	250	SOP-16
+562S400004-B	from hqew, 深威志电子	FARADAY	02+	40	PLCC-80
+7.2 k	from hqew, 深威志电子	Other	&nbsp;	38	
+74ACT08	from hqew, 深威志电子	MOTOROLA	&nbsp;	38	
+74ACT74	from hqew, 深威志电子	Other	&nbsp;	17	
+74CU244	from hqew, 深威志电子	TI	&nbsp;	42	SSOP-20
+74F08	from hqew, 深威志电子	FAIRCHILD	&nbsp;	59	SOP-14
+74F138	from hqew, 深威志电子	FAIRCHILD	&nbsp;	44	SOP-16(3
+74F269	from hqew, 深威志电子	Fairchild	&nbsp;	13	SOIC-24(
+74HC04	from hqew, 深威志电子	Other	&nbsp;	71	
+74HC112D	from hqew, 深威志电子	Philips	&nbsp;	23	SOP-16(3
+74HC138D	from hqew, 深威志电子	PHILIPS	&nbsp;	20	SOP-16(3
+74HC138D	from hqew, 深威志电子	Philips	&nbsp;	26	SOP-16(3
+74HC165	from hqew, 深威志电子	TI	&nbsp;	19	
+74HC1G08GW	from hqew, 深威志电子	PHILIPS	&nbsp;	350	SOT-353
+74HC221A	from hqew, 深威志电子	National	0	19	SOP
+74HC259D	from hqew, 深威志电子	Philips	&nbsp;	18	SOP-16(3
+74HC32D	from hqew, 深威志电子	Philips	&nbsp;	29	SOP-14(3
+74HC4017A	from hqew, 深威志电子	TOSHIBA	&nbsp;	14	SOP-16
+74HC4O6OD	from hqew, 深威志电子	Other	&nbsp;	36	
+74HC74A	from hqew, 深威志电子	MOTO	&nbsp;	40	SOP-14
+74HCI165M	from hqew, 深威志电子	TI	&nbsp;	30	
+74LC244A	from hqew, 深威志电子	TI	&nbsp;	46	SSOP-20
+74LCV16244	from hqew, 深威志电子	ON SEMI	&nbsp;	34	SSOP-48
+74LCX125	from hqew, 深威志电子	Fairchild	&nbsp;	273	TSSOP-14
+74LS05A	from hqew, 深威志电子	TI	05+	27	SSOP-14
+74LS164	from hqew, 深威志电子	TI	09+	342	DIP
+74LVC14ADB	from hqew, 深威志电子	PHILIPS	&nbsp;	14	SSOP-14
+74LVC244ADB	from hqew, 深威志电子	PHILIPS	5	34	SSOP-20
+74LVC32ADB	from hqew, 深威志电子	Philips	03+	17	SSOP-14
+74LVK125	from hqew, 深威志电子	Other	&nbsp;	12	
+74LVT08D	from hqew, 深威志电子	Philips	&nbsp;	67	SOP-14(3
+74LVT74D	from hqew, 深威志电子	PHILIPS	&nbsp;	18	SOP-14(3
+A452B	from hqew, 深威志电子	TI	&nbsp;	18	SOP-8
+AD8017	from hqew, 深威志电子	AD	0	34	SOP-8
+ALVCH16245	from hqew, 深威志电子	TI	&nbsp;	28	SSOP-48
+AM2716B-455DC	from hqew, 深威志电子	AMD	85+	180	DIP-24
+AN7912T	from hqew, 深威志电子	Panasonic	&nbsp;	39	TO-220
+AP112	from hqew, 深威志电子	AI	01+	100	SSOP-16
+AT24C128	from hqew, 深威志电子	ATMEL	&nbsp;	29	SOP-8
+AT24C16N-S1	from hqew, 深威志电子	AT	98+	49	SOP-8
+AT89S52-24JU	from hqew, 深威志电子	ATMEL	933	145	PLCC-44
+AT93C46-SC2.7	from hqew, 深威志电子	ATMEL	09+	10	DIP-8
+AVC16245	from hqew, 深威志电子	TI	&nbsp;	75	SSOP-48
+BA5204	from hqew, 深威志电子	BEC	&nbsp;	10	DIP-16
+BA6208	from hqew, 深威志电子	ROHM	03+	100	SIP-9
+BA6235	from hqew, 深威志电子	Rohm	&nbsp;	13	DIP-8
+BD237	from hqew, 深威志电子	Philips	02+	15	TO-126
+BTB-IMSA-9161B-19Z900	from hqew, 深威志电子	原厂原包	6	194	DIP-19p
+C1846-R	from hqew, 深威志电子	Panasonic	&nbsp;	31	TO-126
+CAT2822M	from hqew, 深威志电子	CAT	4	10	SOP-8
+CD4017BE	from hqew, 深威志电子	TI	06+	40	DIP-16
+CD4046BD	from hqew, 深威志电子	TI	2010+	200	DIP-16
+CD4098BE	from hqew, 深威志电子	ST	08+	24	DIP16
+CD74HC08M	from hqew, 深威志电子	TI	&nbsp;	189	SOP-14
+CD74HC132M	from hqew, 深威志电子	TI	&nbsp;	13	SOP-14(3
+CD74HC173M	from hqew, 深威志电子	TI	&nbsp;	13	SOP-16(3
+CD74HC259M	from hqew, 深威志电子	TI	&nbsp;	27	SOP-16(3
+CD74HCT157M	from hqew, 深威志电子	TI	&nbsp;	36	SOP-16(3
+CDRH127-220MC	from hqew, 深威志电子	SUMIDA	03+	23	SMD
+CVC06-200(6PIE-20PF)(10PF)	from hqew, 深威志电子	JISEUNG	7	1770	DIP-2( 6
+D401A	from hqew, 深威志电子	NEC	&nbsp;	10	TO-220
+DAC1210LCJ-1	from hqew, 深威志电子	National	96+	11	DIP-24
+DG9232DQ-T1，DGT9232DQ-T1	from hqew, 深威志电子	VISHAY	03+	2498	MSOP-8
+DM74F04	from hqew, 深威志电子	National	00+	30	SOP-14
+DM74F373N	from hqew, 深威志电子	National	04+	50	DIP
+DM74F74	from hqew, 深威志电子	NS	&nbsp;	42	SOP-14(3
+DM74LS156N	from hqew, 深威志电子	National	9352	96	DIP-16
+DRE200GGU160	from hqew, 深威志电子	TI	06+	4300	BGA-144
+DS2Y-S-DC5V	from hqew, 深威志电子	NAIS/Panason	07+	20	DIP-8
+DS34LV86TM	from hqew, 深威志电子	NS	&nbsp;	101	SOP-16
+DS90LV031A-TM	from hqew, 深威志电子	NS	03+	23	SOP-16
+DSIE-S-DC24V(AG231444)	from hqew, 深威志电子	NAIS	7	10	DIP-6
+E13003	from hqew, 深威志电子	Fairchild	05+	26	TO-220
+E13003T2	from hqew, 深威志电子	Fairchild	&nbsp;	50	TO-220
+F711389PCM	from hqew, 深威志电子	TI	3	120	QFP-160
+FDS6890A	from hqew, 深威志电子	Fairchild	07+	10	SO-8
+FDV303	from hqew, 深威志电子	Fairchild	05+	10	SO-6
+GFB60N03	from hqew, 深威志电子	National/FAI	06+	326	SOT-263
+HCF4099BE	from hqew, 深威志电子	ST	06+	15	DIP
+HCNW4506	from hqew, 深威志电子	Agilent	205	14	DIP-8
+HD16120FP	from hqew, 深威志电子	Hitachi	05+	27	SOP-16(
+HD64F2218UTF24V	from hqew, 深威志电子	RENESAS	4	80	QFP
+HD74HC138P	from hqew, 深威志电子	Hitachi	&nbsp;	14	DIP-16
+HD74LS04P	from hqew, 深威志电子	Hitachi	&nbsp;	11	DIP-14
+HD74LS11P	from hqew, 深威志电子	日立	08+	16	DIP14
+HD74LS374P	from hqew, 深威志电子	Hitachi	01+	19	DIP-20
+HEF4011BP	from hqew, 深威志电子	Philips	08+	15	DIP-14
+HM6116LP-3	from hqew, 深威志电子	Hitachi	06+	26	DIP-24
+ICL7660CBA	from hqew, 深威志电子	Intersil	5	140	SOP-8
+IDT79RC32V332-100DH	from hqew, 深威志电子	IDT	05+	15	QFP
+IRFD120	from hqew, 深威志电子	IR	99+	10	DIP
+IRFD213	from hqew, 深威志电子	IR/哈里斯/仙	6	95	DIP-4
+IRFU3911	from hqew, 深威志电子	IR/FSC	06+	70	TO-251
+IRLML5103TR	from hqew, 深威志电子	IR	&nbsp;	100	SOT-23
+J5027-R	from hqew, 深威志电子	FAIRCHILD	05+	14	TO-220
+J5027-R	from hqew, 深威志电子	Fairchild	&nbsp;	14	TO-220
+K4S641632K-UC60	from hqew, 深威志电子	Samsung	08+	14	TSOP-54
+KA7805	from hqew, 深威志电子	Fairchild	08+	464	TO-252
+KIA339F	from hqew, 深威志电子	KEC	&nbsp;	38	SOP-14
+KPD1803H	from hqew, 深威志电子	Ky-semi	&nbsp;	10	4.2
+L7818CV	from hqew, 深威志电子	ST	09+	20	TO-220
+LA1861M	from hqew, 深威志电子	SANYO	95	400	TSOP-36
+LA4140	from hqew, 深威志电子	Sanyo	&nbsp;	12	SIP-10
+LA4508	from hqew, 深威志电子	Sanyo	3B4	12	SIP-14
+LA9230M	from hqew, 深威志电子	Sanyo	96+	497	QFP-64P
+LC04A	from hqew, 深威志电子	TI	&nbsp;	198	SSOP14
+LC66516B(B4006-0063)	from hqew, 深威志电子	Sanyo	5	200	DIP-64
+LF411ACN	from hqew, 深威志电子	National	&nbsp;	20	DIP-8
+LF444CN	from hqew, 深威志电子	National	05+	10	DIP
+LH52256N-90TL	from hqew, 深威志电子	SHARP	91+	104	SOP
+LH52256N-90TLS	from hqew, 深威志电子	SHARP	91+	25	SOP
+LH532HB9	from hqew, 深威志电子	SHARP	91+	28	SOP-28
+LM1084IT-ADJ	from hqew, 深威志电子	National	3	30	TO-220
+LM1812N	from hqew, 深威志电子	National	05+	12	DIP-18
+LM1876TF，LM1876T	from hqew, 深威志电子	National	09+	11	TA15B
+LM2576HVT-5.0	from hqew, 深威志电子	NS	07+	84	TO-220(
+LM2576T-12	from hqew, 深威志电子	National	&nbsp;	42	TO-220
+LM2576T-ADJ	from hqew, 深威志电子	NS	09+	20	TO-220
+LM2902	from hqew, 深威志电子	ST	03+	10	SOP-14(3
+LM293	from hqew, 深威志电子	TI	05+	11	SOP-8
+LM317T	from hqew, 深威志电子	ST	09+	39	TO-220
+LM324	from hqew, 深威志电子	Samsung	&nbsp;	16	DIP-14
+LM339	from hqew, 深威志电子	TI	&nbsp;	35	SOP-14
+LM3478MM	from hqew, 深威志电子	National	04+	38	MSSOP-8
+LM358	from hqew, 深威志电子	TI	&nbsp;	117	SOP-8
+LM358	from hqew, 深威志电子	ST	98+	65	SOP
+LM358N	from hqew, 深威志电子	National	&nbsp;	37	DIP-8
+LM6511IM	from hqew, 深威志电子	National	03+	15	SOP-8
+LRFMS-5-SM6	from hqew, 深威志电子	原厂原包	95+	335	SOP-6
+LS125	from hqew, 深威志电子	TI	&nbsp;	37	SSOP-14
+LS4051-224SJI	from hqew, 深威志电子	SL	08+	50	DIP SOP
+LVC16244A	from hqew, 深威志电子	PHILIPS	&nbsp;	24	SSOP-48
+LVC244A	from hqew, 深威志电子	PHILIPS	&nbsp;	37	SSOP-20
+LVC32A	from hqew, 深威志电子	PHILIPS	&nbsp;	17	SSOP-14
+LW053A	from hqew, 深威志电子	TI	&nbsp;	12	SSOP-16
+MC14008BCP	from hqew, 深威志电子	MOTOROLA	89+	10	DIP-16
+MC14052B	from hqew, 深威志电子	ON SEMI	&nbsp;	18	SOP-16(
+MC14541B	from hqew, 深威志电子	ON SEMI	&nbsp;	15	SOP-14
+MC33035P	from hqew, 深威志电子	ON SEMI	08+	15	DIP-24
+MC33174D	from hqew, 深威志电子	ON SEMI	&nbsp;	43	SOP-14
+MC34014P	from hqew, 深威志电子	Motorola	97+	18	DIP
+MC74AC20D	from hqew, 深威志电子	MOTOROLA	&nbsp;	29	SOP-14
+MC74HC00AF	from hqew, 深威志电子	ON SEMI	&nbsp;	119	SOP-14(
+MC74HC03A	from hqew, 深威志电子	Motorola	&nbsp;	468	SOP-14(
+MC74HC04AD	from hqew, 深威志电子	ON SEMI	04+	13	SOP-14(3
+MC74HC11	from hqew, 深威志电子	MOTOROLA	&nbsp;	20	SOP-14(
+MC74HC133	from hqew, 深威志电子	MOTOROLA	&nbsp;	513	SOP-14(
+MC74HC138A	from hqew, 深威志电子	ON SEMI	&nbsp;	79	SOP-16(3
+MC74HC138A	from hqew, 深威志电子	MOTOROLA	&nbsp;	1537	SOP-16(
+MC74HC139AF	from hqew, 深威志电子	MOTOROLA	&nbsp;	33	SOP-16(
+MC74HC164AM	from hqew, 深威志电子	ON SEMI	&nbsp;	44	SOP-14(3
+MC74HC244AF	from hqew, 深威志电子	MOTOROLA	&nbsp;	26	SOP-20(
+MC74HC32A	from hqew, 深威志电子	Motorola	00+	19	SOP-14
+MC74HC367	from hqew, 深威志电子	MOTOROLA	&nbsp;	762	SOP-16(
+MC74HC374A	from hqew, 深威志电子	MOTOROLA	09+	584	SOP-20(
+MC74HC4050	from hqew, 深威志电子	MOTOROLA	&nbsp;	74	SOP-16(
+MC74HC574A	from hqew, 深威志电子	MOTOROLA	&nbsp;	204	SOP-20(
+MC74HC74AM	from hqew, 深威志电子	ON SEMI	&nbsp;	255	SOP-14(3
+MC74VHC1GT126DF1	from hqew, 深威志电子	ON SEMI	03+	41	SOT-353
+MCBS374T1A	from hqew, 深威志电子	Freescale	5	40	SOP-16
+MIC2550BML	from hqew, 深威志电子	MICREL	2003	220	QFN-16
+MIC5209-3.0	from hqew, 深威志电子	MICREL	&nbsp;	150	SOP
+MM1468	from hqew, 深威志电子	MITSUMI	4	50	DIP-8
+MM74HC251M	from hqew, 深威志电子	Fairchild	&nbsp;	28	SOP-16(3
+MM74HC339N	from hqew, 深威志电子	Fairchild	&nbsp;	21	DIP-16
+MPC860ENZQ50D4	from hqew, 深威志电子	Freescale	06+	347	BGA
+MPS2222A	from hqew, 深威志电子	ON SEMI	&nbsp;	50	TO-92
+MVT904032/CX/DP1S	from hqew, 深威志电子	CARLINK	02+	312	DIP
+MX27C4096PC-12	from hqew, 深威志电子	MXIC	00+	10	DIP-40
+M5M5256DFP-70LL	from hqew, 深威志电子	ReneSas	02+	80	SOP-28
+M74HC08	from hqew, 深威志电子	ST	04+	30	SOP-14(3
+M74HC165	from hqew, 深威志电子	ST	&nbsp;	42	SOP-16(3
+M74HC166	from hqew, 深威志电子	ST	&nbsp;	136	SOP-16
+M74HC257	from hqew, 深威志电子	ST	&nbsp;	27	SOP-16(3
+M74HC595B1	from hqew, 深威志电子	ST	07+	13	DIP-16
+M74HCT14	from hqew, 深威志电子	ST	&nbsp;	11	SOP-14
+MAX802LCPA	from hqew, 深威志电子	MAX	92+	10	DIP
+MAX870	from hqew, 深威志电子	MAXIM	03+	30	STO23-5
+MAX870EUK-T	from hqew, 深威志电子	MAXIM	06+	50	SOT-23-5
+N5534A	from hqew, 深威志电子	Philips	07+	150	SOP-8
+NBC3111	from hqew, 深威志电子	Panasonic	03+	272	SOP
+NE5532P	from hqew, 深威志电子	TI	08+	18	DIP-8
+NJM082	from hqew, 深威志电子	JRC	00+	70	SOP-8
+NJM2060D	from hqew, 深威志电子	JRC	&nbsp;	25	DIP-14
+NJM2904M	from hqew, 深威志电子	JRC	9706	500	SOP-8
+NJM311	from hqew, 深威志电子	JRC	&nbsp;	14	SOP-8
+NJU39610FM2	from hqew, 深威志电子	JRC	9	19	PLCC-28P
+PALCE16V8H-25JC	from hqew, 深威志电子	LATTICE	&nbsp;	100	PLCC-20
+PBL3717A	from hqew, 深威志电子	ST	02+	27	DIP-16
+PC817	from hqew, 深威志电子	Sharp	&nbsp;	80	DIP-4
+PIC16C55A-20I/SO	from hqew, 深威志电子	MIC	07+	25	SOIC
+PIC18F6620-I/PT	from hqew, 深威志电子	MICROCHIP	08+	29	QFP
+PMB1.22205S	from hqew, 深威志电子	ST	&nbsp;	43	SSOP-20
+PT2253A	from hqew, 深威志电子	PTC	01+	53	DIP-16
+RFT3100	from hqew, 深威志电子	TI	01+	300	MLP
+RK-370CA-081150(TD439824)	from hqew, 深威志电子	馬步奇	10	732	24 32MM
+S93C66	from hqew, 深威志电子	SEIKO	01+	34	SOP-8
+SC16C550IB48	from hqew, 深威志电子	Philips	03+	18	QFP
+SI4133G	from hqew, 深威志电子	BT	&nbsp;	35	SSOP-24
+SI4463DY	from hqew, 深威志电子	Siliconix	05+	43	SOP-8
+SI4812	from hqew, 深威志电子	Vishay	05+	101	SO-8
+SI-8023(SI8023)	from hqew, 深威志电子	SANKEN	1514	478	ZIP-10
+SML-015A	from hqew, 深威志电子	Other	&nbsp;	23	SMD
+SN74AC04M	from hqew, 深威志电子	TI	&nbsp;	19	SOP-14
+SN74ACT32	from hqew, 深威志电子	TI	&nbsp;	31	SOP-14(3
+SN74ACT32	from hqew, 深威志电子	TI	&nbsp;	29	SOP-14
+SN74ALS00ANS	from hqew, 深威志电子	TI	&nbsp;	11	SOP-14(
+SN74ALS05ANS	from hqew, 深威志电子	TI	&nbsp;	23	SOP-14(
+SN74ALS139	from hqew, 深威志电子	TI	&nbsp;	39	SOP-16
+SN74ALS139NS	from hqew, 深威志电子	TI	&nbsp;	27	SOP-16(
+SN74F10D	from hqew, 深威志电子	TI	&nbsp;	14	SOP-14(3
+SN74F11	from hqew, 深威志电子	TI	&nbsp;	49	SOP-14
+SN74F32	from hqew, 深威志电子	TI	&nbsp;	134	SOP-14(3
+SN74F32	from hqew, 深威志电子	FAIRCHILD	&nbsp;	10	SOP-14(3
+SN74F38	from hqew, 深威志电子	TI	&nbsp;	47	SOP-14
+SN74F74	from hqew, 深威志电子	TI	&nbsp;	277	SOP-14(3
+SN74HC03	from hqew, 深威志电子	TI	&nbsp;	15	SOP-14
+SN74HC05NS	from hqew, 深威志电子	TI	&nbsp;	33	SOP-14(
+SN74HC08	from hqew, 深威志电子	TI	&nbsp;	10	SOP-14
+SN74HC132N	from hqew, 深威志电子	TI	03+	15	DIP
+SN74HC138	from hqew, 深威志电子	TI	&nbsp;	21	SOP-16
+SN74HC139ANS	from hqew, 深威志电子	TI	&nbsp;	83	SOP-16(
+SN74HC245NSR	from hqew, 深威志电子	TI	&nbsp;	22	SOP-20
+SN74HC573AN	from hqew, 深威志电子	TI	&nbsp;	15	DIP-20
+SN74HCT04	from hqew, 深威志电子	TI	04+	18	SOP-14(3
+SN74HCT165M	from hqew, 深威志电子	TI	&nbsp;	30	SOP-16(3
+SN74HCT245DW	from hqew, 深威志电子	TI	&nbsp;	33	SOIC-20(
+SN74HCT374DW	from hqew, 深威志电子	TI	&nbsp;	19	SOIC-20(
+SN74LC00ADB	from hqew, 深威志电子	TI	&nbsp;	40	SSOP-14
+SN74LC08ADB	from hqew, 深威志电子	TI	&nbsp;	115	SSOP-14
+SN74LC125ADB	from hqew, 深威志电子	TI	00+	81	SSOP-14
+SN74LC14APW	from hqew, 深威志电子	TI	&nbsp;	10	TSSOP-14
+SN74LC32APW	from hqew, 深威志电子	TI	&nbsp;	10	TSSOP-14
+SN74LC373APW	from hqew, 深威志电子	TI	&nbsp;	18	TSSOP-20
+SN74LC86ADB	from hqew, 深威志电子	TI	&nbsp;	215	SSOP-14
+SN74LJ245APW	from hqew, 深威志电子	TI	EK90	1088	TSSOP-24
+SN74LS244A	from hqew, 深威志电子	TI	&nbsp;	50	SSOP
+SN74LS86ANS	from hqew, 深威志电子	TI	&nbsp;	539	SOP-14(
+SN74LV00APW	from hqew, 深威志电子	TI	05+	19	TSSOP-14
+SN74LV04APW	from hqew, 深威志电子	TI	&nbsp;	57	TSSOP-14
+SN74LV139APW	from hqew, 深威志电子	TI	&nbsp;	65	TSSOP-16
+SN74LV244ANS	from hqew, 深威志电子	TI	&nbsp;	15	SOP-20(
+SN74LV245APW	from hqew, 深威志电子	TI	&nbsp;	27	TSSOP-20
+SN74LV393APW	from hqew, 深威志电子	TI	&nbsp;	10	TSSOP-14
+SN74LVC240ADBR	from hqew, 深威志电子	TI	03+	14	SSOP-20
+SN74LVTH125	from hqew, 深威志电子	TI	&nbsp;	269	SOP-14(3
+SN74LVTH244ADW	from hqew, 深威志电子	TI	&nbsp;	27	SOIC-20(
+SN74S1051PW	from hqew, 深威志电子	TI	&nbsp;	16	TSSOP-16
+SN74S175D	from hqew, 深威志电子	TI	03+	100	SOP-16
+SN75175N	from hqew, 深威志电子	TI	08+	29	DIP-16
+SN75176BP	from hqew, 深威志电子	TI	07+	15	DIP-8
+SN75LVDS32D	from hqew, 深威志电子	TI	&nbsp;	10	SOP-16(3
+SO2278T	from hqew, 深威志电子	SMK	93+	45	SOP-16
+SST39VF1601-70-4C-EKE	from hqew, 深威志电子	SST	08+	10	TSOP-48
+STMP3410L	from hqew, 深威志电子	SIGMATEL	04+	460	TQFP-100
+T90FJM-RUV	from hqew, 深威志电子	SCM/TEMIC	6	138	TQFP
+TA8157AFN	from hqew, 深威志电子	Toshiba	06+	16	SSOP-24
+TC4052BP	from hqew, 深威志电子	Toshiba	9809	23	DIP-16
+TC544000F-12	from hqew, 深威志电子	Toshiba	91+	81	SOP-32
+TC74AC00F	from hqew, 深威志电子	TOSHIBA	&nbsp;	74	SOP-14(
+TC74AC32F	from hqew, 深威志电子	Toshiba	9903H	3780	SOP-14(
+TC74HC40103AF	from hqew, 深威志电子	TOSHIBA	9532H	1651	SOP-16(
+TC74HC4066AF	from hqew, 深威志电子	TOSHIBA	&nbsp;	18	SOP-14(
+TC74HC540AP	from hqew, 深威志电子	Toshiba	01+	60	DIP-10
+TC74HCU04AF	from hqew, 深威志电子	TOSHIBA	&nbsp;	17	SOP-14(
+TC74LCX125FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	370	TSSOP-14
+TC74LCX157FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	14	TSSOP-16
+TC74LCX245	from hqew, 深威志电子	TOSHIBA	&nbsp;	11	SSOP-20
+TC74LCX245FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	10	TSSOP-20
+TC74V245FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	11	TSSOP-20
+TC74VHC00FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	54	TSSOP-14
+TC74VHC08FT	from hqew, 深威志电子	TOSHIBA	06+	83	TSSOP-14
+TC74VHC138AF	from hqew, 深威志电子	Toshiba	01+	26	SOP-16
+TC74VHC175FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	16	TSSOP-16
+TC74VHC238FS	from hqew, 深威志电子	TOSHIBA	9826	1198	TSSOP-16
+TC74VHC373FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	15	TSSOP-20
+TC74VHC374F	from hqew, 深威志电子	TOSHIBA	&nbsp;	17	SOP-20(
+TC74VHC573F	from hqew, 深威志电子	TOSHIBA	&nbsp;	179	SOP-20
+TC74VHC74F	from hqew, 深威志电子	TOSHIBA	&nbsp;	10	SOP-14(
+TC74VHCT04AF	from hqew, 深威志电子	TOSHIBA	&nbsp;	12	SOP-14(
+TC74VHCT14AFT	from hqew, 深威志电子	TOSHIBA	&nbsp;	15	TSSOP-14
+TC74VHCT244AF	from hqew, 深威志电子	TOSHIBA	&nbsp;	122	SOP-20(
+TC74VHCT245AF	from hqew, 深威志电子	TOSHIBA	9812	418	SOP-20(
+TC9215P	from hqew, 深威志电子	Toshiba	00+	336	DIP-16
+TCD1208P	from hqew, 深威志电子	Toshiba	02+	20	CDIP-22
+TD62083AFN	from hqew, 深威志电子	Toshiba	06+	40	SSOP-18
+TD9351W	from hqew, 深威志电子	Toshiba	93+	200	SOP-16
+TDA2003	from hqew, 深威志电子	ST	&nbsp;	16	TO-220-5
+TDA2005	from hqew, 深威志电子	ST	&nbsp;	14	ZIP-11
+TDA2030	from hqew, 深威志电子	ST	02+	21	TO-220-5
+TDA5210	from hqew, 深威志电子	INFINEON	03+	293	TSSOP-28
+TDA8541	from hqew, 深威志电子	Philips	2002	100	SOP-8
+TIP42C	from hqew, 深威志电子	Fairchild	11+	12	TO-220
+TL074CN	from hqew, 深威志电子	TI	06+	27	DIP-14
+TL780-15C	from hqew, 深威志电子	TI	&nbsp;	196	TO-220
+TLC4545ID	from hqew, 深威志电子	TI	03+	19	MSOP-8P
+TLP521-1	from hqew, 深威志电子	Toshiba	09+	51	DIP-4
+TLP621	from hqew, 深威志电子	Toshiba	02+	17	DIP-4
+TMP47C451BNNB24	from hqew, 深威志电子	Toshiba	99+	18	DIP-30
+TMP47C451BNNB27	from hqew, 深威志电子	Toshiba	99+	18	DIP-30
+TNY264PN	from hqew, 深威志电子	POWER	05+	50	DIP-7
+TOP249Y	from hqew, 深威志电子	POWER	02+	16	TO-220
+TYA1413P	from hqew, 深威志电子	Motorola	9549	46	DIP-16
+UD61464DC	from hqew, 深威志电子	ZMD	9552	200	DIP-18
+ULN2004AN	from hqew, 深威志电子	TI	&nbsp;	19	DIP-16
+UPC339G	from hqew, 深威志电子	NEC	00+	22	SOP-14P
+UPD7503GF	from hqew, 深威志电子	NEC	9027	300	QFP-64
+UT61M256JC-15	from hqew, 深威志电子	UTRON	9820	25	SOJ-28
+VD5026-4	from hqew, 深威志电子	Winbond	05+	16	DIP-18
+VHC157	from hqew, 深威志电子	Other	&nbsp;	21	TSSOP-16
+VHCT04	from hqew, 深威志电子	TOSHIBA	&nbsp;	61	SSOP-14
+W2465S-70CC	from hqew, 深威志电子	Winbond	01+	14	SOP-28
+W83877ATF	from hqew, 深威志电子	Winbond	5	500	QFP-100
+WY303	from hqew, 深威志电子	WYC	06+	83	
+XTR101AP	from hqew, 深威志电子	BB	2	25	DIP-14
+XTR115UA	from hqew, 深威志电子	TI/BB	04+	60	SOP-8
+0805CG200J500NT(20PF 5％)	from hqew, 深威志电子	风华	07+	4000	805
+104627	from hqew, 深威志电子	TI	&nbsp;	39	SOP-16
+1N4735	from hqew, 深威志电子	国产	07+	80	DO-41
+1N4744	from hqew, 深威志电子	Other	&nbsp;	218	
+2.2K	from hqew, 深威志电子	Other	&nbsp;	111	
+2021380	from hqew, 深威志电子	Other	&nbsp;	15	SOP-8
+20LC20  MUR4030	from hqew, 深威志电子	-	&nbsp;	20	TO-247
+2246T 2245T	from hqew, 深威志电子	韩国	05+	890	21mm 7mm
+24C02	from hqew, 深威志电子	ATMEL	&nbsp;	40	DIP
+24C02N	from hqew, 深威志电子	ATMEL	99	11	SOP-8
+25C026	from hqew, 深威志电子	ST	04+	19	SOP-8
+273J/630V	from hqew, 深威志电子	国产	06+	500	DIP-2
+2843B	from hqew, 深威志电子	Motorola	03+	55	SOP-8
+2902	from hqew, 深威志电子	ST	&nbsp;	10	SOP-14
+2903	from hqew, 深威志电子	ST	&nbsp;	14	SOP-8
+29EE010-90-4C-PHE	from hqew, 深威志电子	SST	&nbsp;	29	DIP
+2A333J	from hqew, 深威志电子	Other	&nbsp;	18	
+2N5191	from hqew, 深威志电子	ON SEMI	03+	10	TO-126
+2N5401-Y	from hqew, 深威志电子	Fairchild	11+	200	TO-92
+2SA1598	from hqew, 深威志电子	SANYO	03+	11	TO-3P
+2SB1020A	from hqew, 深威志电子	TOSHIBA	&nbsp;	23	TO-220
+2SC1145	from hqew, 深威志电子	汤姆逊	03+	10	TO-92M
+2SC2482	from hqew, 深威志电子	Toshiba	03+	21	TO-92
+2SC3356	from hqew, 深威志电子	NEC	05+	18	SOT-23
+2SC458B	from hqew, 深威志电子	Toshiba	04+	35	TO-92
+2SC495	from hqew, 深威志电子	Toshiba	2005	54	TO126
+2SC5242	from hqew, 深威志电子	Toshiba	0	15	TO-3P
+2SC557B	from hqew, 深威志电子	Philips	04+	20	TO-92
+2SC9015	from hqew, 深威志电子	Toshiba	01+	82	TO-92
+2SC945	from hqew, 深威志电子	NEC	05+	26	TO-92
+2SD667C	from hqew, 深威志电子	Hitachi	09+	450	TO-92L
+2SD987	from hqew, 深威志电子	NEC	07+	30	TO-220
+2SK1358	from hqew, 深威志电子	Toshiba	03+	12	TO-3P
+2SK1385	from hqew, 深威志电子	FUJITSU	06+	30	TO-3P
+2SK1672	from hqew, 深威志电子	SANYO	03+	20	TO 252
+2SK216	from hqew, 深威志电子	Hitachi	03+	100	TO-220
+2SK905	from hqew, 深威志电子	FUJITSU	&nbsp;	10	TO-3P
+323381	from hqew, 深威志电子	PHIL	02+	34	SOP-8
+330UF/50V	from hqew, 深威志电子	RUBYCON国产	07+	147	10 21
+3DA150B	from hqew, 深威志电子	国产	&nbsp;	54	TO-3P
+4816P-002-102	from hqew, 深威志电子	BOURNS	92	220	SOP-16
+4-Mar	from hqew, 深威志电子	PHILIPS	&nbsp;	91	SOP-8
+562S400003	from hqew, 深威志电子	FARADAY	9547	12	PLCC-80
+596S	from hqew, 深威志电子	Other	07+	24	TO-92
+74ABT125C	from hqew, 深威志电子	Fairchild	&nbsp;	29	SOP-14(3
+74ABT126C	from hqew, 深威志电子	Fairchild	&nbsp;	13	SOP-14(3
+74AC244	from hqew, 深威志电子	Fairchild	&nbsp;	560	SOIC-20(
+74ACT05M	from hqew, 深威志电子	Other	&nbsp;	14	
+74ACT174	from hqew, 深威志电子	Fairchild	&nbsp;	17	SOP-16
+74ACTQ244	from hqew, 深威志电子	Fairchild	&nbsp;	11	SOIC-20(
+74ALS38B	from hqew, 深威志电子	TI	&nbsp;	10	SOP-14
+74F04	from hqew, 深威志电子	fairchild	&nbsp;	208	SOP-14
+74F08	from hqew, 深威志电子	Fairchild	&nbsp;	64	SOP-14(3
+74F112	from hqew, 深威志电子	Fairchild	&nbsp;	30	SOP-16(3
+74F174	from hqew, 深威志电子	Fairchild	&nbsp;	55	SOP-16(3
+74F273AD	from hqew, 深威志电子	PHILIPS	&nbsp;	35	SOIC-20(
+74F32	from hqew, 深威志电子	FAIRCHILD	&nbsp;	34	SOP-14(3
+74F373	from hqew, 深威志电子	Fairchild	&nbsp;	53	SOIC-20(
+74HC00	from hqew, 深威志电子	TI	&nbsp;	24	
+74HC00M	from hqew, 深威志电子	Other	&nbsp;	42	
+74HC03A	from hqew, 深威志电子	MOTO	&nbsp;	429	SOP-14
+74HC03D	from hqew, 深威志电子	PHILIPS	&nbsp;	23	SOP-14
+74HC109D	from hqew, 深威志电子	Philips	&nbsp;	31	SOP-16(3
+74HC123D	from hqew, 深威志电子	PHILIPS	&nbsp;	15	SOP-16
+74HC123P	from hqew, 深威志电子	Hitachi	06+	13	SOP-16(3
+74HC125A	from hqew, 深威志电子	MOTO	&nbsp;	86	SOP-14
+74HC138A	from hqew, 深威志电子	ON SEMI	&nbsp;	42	SOP-16(
+74HC14D	from hqew, 深威志电子	PHILIPS	05+	131	SOP-14(3
+74HC14D	from hqew, 深威志电子	Other	&nbsp;	135	
+74HC20D	from hqew, 深威志电子	Other	&nbsp;	17	
+74HC27	from hqew, 深威志电子	MOTO	&nbsp;	40	SOP-14
+74HC273A	from hqew, 深威志电子	ON SEMI	&nbsp;	40	SOP-20
+74HC32D	from hqew, 深威志电子	PHILIPS	&nbsp;	48	SOP-14
+74HC373PW	from hqew, 深威志电子	PHILIPS	&nbsp;	15	TSSOP-20
+74HC4060D	from hqew, 深威志电子	Philips	&nbsp;	46	SOP-16(3
+74HC74A	from hqew, 深威志电子	Other	&nbsp;	183	
+74HCT04D	from hqew, 深威志电子	Philips	04+	21	SOP-14(3
+74HCT04D	from hqew, 深威志电子	PHILIPS	&nbsp;	19	SOP-14
+74HCT157M	from hqew, 深威志电子	Other	&nbsp;	36	
+74HCT373	from hqew, 深威志电子	TI	00+	47	SOP
+74HE11D	from hqew, 深威志电子	Other	&nbsp;	10	
+74LCX245MSA	from hqew, 深威志电子	Fairchild	&nbsp;	40	SSOP-20
+74LMV824M	from hqew, 深威志电子	National	03+	17	SOP-14(3
+74LS157N	from hqew, 深威志电子	Philips	00+	25	DIP-16
+74LV00A	from hqew, 深威志电子	Other	&nbsp;	44	
+74LV08A	from hqew, 深威志电子	TI	&nbsp;	177	SSOP-14
+74LVC16373A	from hqew, 深威志电子	Philips	03+	50	03
+74LVT04D	from hqew, 深威志电子	Philips	04+	44	SOP-14(3
+74LVT04D	from hqew, 深威志电子	PHILIPS	04+	21	SOP-14
+74LVT08D	from hqew, 深威志电子	PHILIPS	07+	36	SOP-14
+74LVT125D	from hqew, 深威志电子	Philips	&nbsp;	25	SOP-14(3
+74LVTH16245	from hqew, 深威志电子	FAIRCHILD	&nbsp;	10	SSOP-48
+A1758	from hqew, 深威志电子	JRC	02+	10	SOP-8
+A5817SEP	from hqew, 深威志电子	ALLEGRO	9544	10	PLCC-44
+ADE7755	from hqew, 深威志电子	国产	05+	13	SSOP-24
+AIC1117-33PY	from hqew, 深威志电子	AIC	06+	28	SOT-223
+AJ1-XO-05-612-PPX-D	from hqew, 深威志电子	ASTEC	04+	24	
+AJ1-XO-05-613-PPX-D	from hqew, 深威志电子	ASTEC	03+	24	
+AMS1117-5.0	from hqew, 深威志电子	AMS	5	10	SOT-89
+AN7008K	from hqew, 深威志电子	Panasonic	99+	18	DIP-22
+AN7226	from hqew, 深威志电子	Panasonic	03+	17	DIP-18
+AN7824	from hqew, 深威志电子	Panasonic	&nbsp;	10	TO-220
+ASM708RESA	from hqew, 深威志电子	ALLIANCE	02+	300	SOP8
+AT24C16N-SI-2.7	from hqew, 深威志电子	ATMEL	98+	14	SOP8
+AT24C64	from hqew, 深威志电子	AT	&nbsp;	20	SOP
+AT49BV322D-70TU	from hqew, 深威志电子	ATMEL	824	30	TSOP
+B340A	from hqew, 深威志电子	DIODES INC	04+	335	SMA
+BA6296FP	from hqew, 深威志电子	ROHM	5	18	SOP
+BC549B	from hqew, 深威志电子	Philips	&nbsp;	200	TO-92
+BD535	from hqew, 深威志电子	ST	99+	20	TO-220
+BF10C	from hqew, 深威志电子	BF	11	10	ZIP-4
+BF721T1	from hqew, 深威志电子	ON SEMI	07+	50	SOT223
+BISS0001	from hqew, 深威志电子	HS国产	10+	200	DIP-16
+BU208A	from hqew, 深威志电子	国产	712	10	TO-3
+C1815	from hqew, 深威志电子	科威	&nbsp;	33	TO-92
+C844G	from hqew, 深威志电子	Other	&nbsp;	25	SOP-14
+CD4043BE	from hqew, 深威志电子	TI	07+	15	DIP
+CD74AC04M	from hqew, 深威志电子	TI	04+	20	SOP-14(3
+CD74HC109M	from hqew, 深威志电子	TI	&nbsp;	32	SOP-16(3
+CD74HC299M	from hqew, 深威志电子	TI	&nbsp;	15	SOIC-20(
+CD74HC670M	from hqew, 深威志电子	TI	&nbsp;	16	SOP-16(3
+CD74HCT175M	from hqew, 深威志电子	TI	&nbsp;	12	SOP-16(3
+CD74HCT259M	from hqew, 深威志电子	TI	&nbsp;	27	SOP-14
+CD90-24640-3TR	from hqew, 深威志电子	0	0	169	0
+CDC329A	from hqew, 深威志电子	TI	&nbsp;	10	SOP-16
+CN3056	from hqew, 深威志电子	CN如韵	07+	50	QFN-10
+CS3842A	from hqew, 深威志电子	Philips	9124	44	DIP-8
+CS8414-CS	from hqew, 深威志电子	CRYSTAL	04+	20	SOP-28
+CX4510	from hqew, 深威志电子	CX	06+	10	SOP8 DIP
+CX9162B-3.3	from hqew, 深威志电子	CX	06+	10	SOT-89
+CY2071ASL-237	from hqew, 深威志电子	CYPRESS	&nbsp;	20	SOP-8
+D10XB60	from hqew, 深威志电子	SHINDENGEN	04+	50	SIP-4
+D6571E11BQC	from hqew, 深威志电子	DSP	98+	334	QFP-80
+DDX-4100	from hqew, 深威志电子	APOGEE	03+	231	QFP-128
+DG441DJ	from hqew, 深威志电子	HARRIS	07+	40	DIP-16P
+DM74F153	from hqew, 深威志电子	NSC	94+	50	SOP-20
+DM74F157A	from hqew, 深威志电子	NS	&nbsp;	121	SOP-16(
+DS1233	from hqew, 深威志电子	Dallas	08+	10	SOT-232
+DS1E-S-DC24V	from hqew, 深威志电子	NAIS	07+	10	DIP-8
+DS2502	from hqew, 深威志电子	Dallas	08+	72	TO-92
+DS34C86TM	from hqew, 深威志电子	National	03+	105	SOP-16(3
+DS75365N(SN75365N)	from hqew, 深威志电子	National	91+	44	DIP-16
+DS90PLV031A	from hqew, 深威志电子	TM	&nbsp;	23	SOP-16
+ECQU2A334ML (0.33uf/275V)	from hqew, 深威志电子	Panasonic	05+	250	DIP-2
+EP2C8Q208C8	from hqew, 深威志电子	ALTERA	06+	20	QFP
+FDS9431A	from hqew, 深威志电子	FCS	05+	20	SOP
+FM1073B-G	from hqew, 深威志电子	FORTEMEDIA	04+	16	QFP
+FMX12S	from hqew, 深威志电子	SanKen	2	10	TO-220F
+FR460	from hqew, 深威志电子	IR	&nbsp;	14	TO-252
+GP1A038RBK，GP1A040RBKAF	from hqew, 深威志电子	Sharp	09+	1978	
+GP2A220	from hqew, 深威志电子	Sharp	07+	220	
+HC4051A	from hqew, 深威志电子	TOSHIBA	&nbsp;	65	SSOP-16
+HD155080TF	from hqew, 深威志电子	HITACHI	4	270	TQFP-64
+HD404849B25TF	from hqew, 深威志电子	HITACHI	7	54	QFP-80
+HD404849B43TF	from hqew, 深威志电子	HITACHI	07+	128	QFP-80
+HD6473802H	from hqew, 深威志电子	Renesas	06+	65	QFP
+HEF4066BP	from hqew, 深威志电子	Philips	08+	15	DIP-14
+HEF4069UBT	from hqew, 深威志电子	Philips	09+	20	SOP-14
+HEF4795BT	from hqew, 深威志电子	Philips	00+	20	SOP-16(3
+IL4208	from hqew, 深威志电子	Siemens	&nbsp;	47	DIP-6
+INA121P	from hqew, 深威志电子	BB	08+	106	DIP-8
+IR3310S	from hqew, 深威志电子	IR	415	10	SMD220-5
+IS62LV1024LL-70T	from hqew, 深威志电子	ICSI	04+	30	TSOP-32
+K1500E70	from hqew, 深威志电子	国产	04+	19	TO-92-2
+K1672	from hqew, 深威志电子	Other	4	20	TO-252
+KA9258BDTF	from hqew, 深威志电子	SAMSUNG	0	300	28-SSOPH
+KM23V64000ATY-01	from hqew, 深威志电子	SAMSUNG	7	445	TSOP-48
+KS57C0002-DA	from hqew, 深威志电子	SAMSUNG	96+	22	SOP-32
+KS58012	from hqew, 深威志电子	Samsung	&nbsp;	405	DIP-22
+KTD1302	from hqew, 深威志电子	KEC	04+	200	TO-92
+L4940V12	from hqew, 深威志电子	ST	04+	35	TO-220
+L4963	from hqew, 深威志电子	ST	SOP20	21	98
+L6203	from hqew, 深威志电子	ST	04+	68	ZIP-11
+L64724-75	from hqew, 深威志电子	LSI	05+	20	QFP-100
+LA2232	from hqew, 深威志电子	Sanyo	94	352	DIP-24
+LA4165	from hqew, 深威志电子	Other	&nbsp;	13	SOP-24
+LA5512	from hqew, 深威志电子	Sanyo	&nbsp;	11	DIP-4
+LC7074	from hqew, 深威志电子	Sanyo	05+	335	DIP-18
+LG245A	from hqew, 深威志电子	TI	&nbsp;	24	SSOP-24
+LH532HBH	from hqew, 深威志电子	LSILOGIG	+	68	SOP-32
+LM293A	from hqew, 深威志电子	Philips	03+	11	SOP-8
+LM2940	from hqew, 深威志电子	National	&nbsp;	17	TO-220
+LM317LZ	from hqew, 深威志电子	Other	&nbsp;	75	TO-92
+LM319M	from hqew, 深威志电子	NS	&nbsp;	20	SOP-14
+LM335AZ	from hqew, 深威志电子	National	02+	18	TO-92
+LM3444MM/NOPB	from hqew, 深威志电子	NS	10+	200	MSOP10
+LM348N	from hqew, 深威志电子	National	06+	10	SOP
+LM358	from hqew, 深威志电子	TI	&nbsp;	13	DIP-8
+LM385M-1.2	from hqew, 深威志电子	National	05+	51	SOP-8
+LM393N	from hqew, 深威志电子	National	&nbsp;	14	DIP-8
+LMC6484IM	from hqew, 深威志电子	National	00+	12	SOP-14(3
+LT1422	from hqew, 深威志电子	Liteon	518	50	SOP-8
+LVC16244	from hqew, 深威志电子	ON SEMI	00+	34	TSSOP
+MBR40100CT	from hqew, 深威志电子	VISHAY	&nbsp;	47	TO-220
+MC14051B	from hqew, 深威志电子	MOTOROLA	&nbsp;	15	SOP-16
+MC14051BCP	from hqew, 深威志电子	Motorola	&nbsp;	20	DIP-16
+MC14051BF	from hqew, 深威志电子	ON SEMI	&nbsp;	33	SOP-16
+MC1496P	from hqew, 深威志电子	ON SEMI	&nbsp;	20	DIP-14
+MC33039P	from hqew, 深威志电子	Motorola	02+	21	DIP-8
+MC33152	from hqew, 深威志电子	Motorola	03+	38	SOP-8(3.
+MC74AC245DW	from hqew, 深威志电子	ON SEMI	&nbsp;	11	SOIC-20(
+MC74ACT00	from hqew, 深威志电子	ON SEMI	&nbsp;	156	SOP-14
+MC74ACT00M	from hqew, 深威志电子	ON SEMI	&nbsp;	169	SOP-14(3
+MC74ACT08	from hqew, 深威志电子	MOTOROLA	&nbsp;	39	SOP-14(3
+MC74ACT244	from hqew, 深威志电子	MOTOROLA	&nbsp;	368	SOP-20(
+MC74F244DW	from hqew, 深威志电子	MOTOROLA	97+	10292	SOP-20(
+MC74HC04A	from hqew, 深威志电子	ON SEMI	02+	144	SOP-14(
+MC74HC08A	from hqew, 深威志电子	ON SEMI	&nbsp;	918	SOP-14(
+MC74HC10	from hqew, 深威志电子	MOTOROLA	&nbsp;	42	SOP-14(
+MC74HC153	from hqew, 深威志电子	MOTOROLA	&nbsp;	217	SOP-16(
+MC74HC174AF	from hqew, 深威志电子	MOTOROLA	&nbsp;	107	SOP-14(
+MC74HC20	from hqew, 深威志电子	MOTOROLA	&nbsp;	492	SOP-14(
+MC74HC573ADW	from hqew, 深威志电子	ON SEMI	99+	22	SOIC-20(
+MC74HC595A	from hqew, 深威志电子	ON SEMI	&nbsp;	31	SOP-16(3
+MC74LCX125DT	from hqew, 深威志电子	ON SEMI	&nbsp;	15	TSSOP-14
+MC74LS74A	from hqew, 深威志电子	MOTOROLA	&nbsp;	13	SOP-14(3
+MC7812CT	from hqew, 深威志电子	Motorola	&nbsp;	10	TO-220
+MC7905CT	from hqew, 深威志电子	ON SEMI	03+	30	TO-220
+MCR100-6	from hqew, 深威志电子	Motorola	05+	60	TO-92
+MD74F157A	from hqew, 深威志电子	National	00+	176	SOP-14
+MJ11016	from hqew, 深威志电子	ON SEMI	03+	63	TO-3
+MJD45H11G	from hqew, 深威志电子	ON SEMI	09+	10	DPAK
+ML4835CP	from hqew, 深威志电子	Microlinear	&nbsp;	10	DIP-20
+MM74HC132M	from hqew, 深威志电子	Fairchild	&nbsp;	19	SOP-14(3
+MM74HC32N	from hqew, 深威志电子	Fairchild	&nbsp;	20	DIP-14
+MM74HC4040M	from hqew, 深威志电子	FAIRCHILD	&nbsp;	12	SOP-16
+MMSZ5231	from hqew, 深威志电子	Other	&nbsp;	198	SOD-123
+MT8816AP	from hqew, 深威志电子	MITEL	09+	170	PLCC-44
+MX27C512DC-45	from hqew, 深威志电子	MXIC	98+	30	DIP-28
+M27C1001-15XF1	from hqew, 深威志电子	ST	9614	54	DIP32
+M5229P	from hqew, 深威志电子	MITSUBISHI	03+	98	DIP-20
+M54670P	from hqew, 深威志电子	MITSUBISHI	99+	10	DIP-32(
+M5M5256BFP-10LL	from hqew, 深威志电子	MIT	94+	12	SOP
+M66333FP	from hqew, 深威志电子	MUH	94+	63	SOP-48
+MAX1771CSA	from hqew, 深威志电子	MAXIM	45	100	SOP-8
+MAX232CWE	from hqew, 深威志电子	MAXIM	08+	10	SOP
+MAX232ESE	from hqew, 深威志电子	MAXIM	08+	10	SOP
+MAX235CPG	from hqew, 深威志电子	MAXIM	315	10	DIP-24
+MAX4051ACSE	from hqew, 深威志电子	MAXIM	07+	50	SOP-16
+MAX538BCSA	from hqew, 深威志电子	MAXIM	524	61	SOP-8
+MAX705CSA	from hqew, 深威志电子	MAXIM	&nbsp;	99	SOP-8
+NC7S00M5X	from hqew, 深威志电子	Other	06+	99	SOT23-5
+NEC2501	from hqew, 深威志电子	NEC	&nbsp;	40	DIP-4
+NJM2068D	from hqew, 深威志电子	JRC	04+	10	DIP-8
+NJM2701D	from hqew, 深威志电子	JRC	4	150	DIP-14
+NJM555	from hqew, 深威志电子	JRC	04+	13	SOP-8
+NJU4066B	from hqew, 深威志电子	JRC	00+	36	SOP-14
+OP07	from hqew, 深威志电子	TI	04+	43	DIP
+PAL16R4ACNL	from hqew, 深威志电子	MMI	++	37	PLCC-20
+PC74HCT00P	from hqew, 深威志电子	Philips	00+	94	DIP-14
+PC817	from hqew, 深威志电子	Sharp	06+	58	DIP-4
+PT2262	from hqew, 深威志电子	PTC	08+	40	DIP-18
+PT2272-M6	from hqew, 深威志电子	PTC	08+	40	DIP-18
+REF02CSA-W	from hqew, 深威志电子	MAXIM	04+	16	SOP-8
+RM063-201	from hqew, 深威志电子	合资	04+	200	
+S03013F	from hqew, 深威志电子	SMK	95+	36	SOP
+S1G	from hqew, 深威志电子	JGD	2000	231	SOP-8
+S29AL008D70BFI020	from hqew, 深威志电子	SPANSION	08+	350	BGA
+S29GL032N90TFI040	from hqew, 深威志电子	SPANSION	08+	15	TSOP48
+S8050	from hqew, 深威志电子	科威	06+	90	TO-92
+SA6225600T3	from hqew, 深威志电子	Other	93+	20	SOP-28
+SAB-C501G-1RN	from hqew, 深威志电子	SIEMENS	92+	30	PLCC-44
+SBL1040CFP	from hqew, 深威志电子	LT	09+	19	TO-220F
+SI-8201L	from hqew, 深威志电子	SanKen	03+	53	DIP-4
+SI9433	from hqew, 深威志电子	SI	03+	33	SOP-8
+SJ501	from hqew, 深威志电子	Other	&nbsp;	102	
+SN74ABT125D	from hqew, 深威志电子	TI	&nbsp;	62	SOP-14(3
+SN74ABT16373A	from hqew, 深威志电子	TI	&nbsp;	18	SSOP-48
+SN74ABT241ADW	from hqew, 深威志电子	TI	&nbsp;	22	SOIC-20(
+SN74AC20M	from hqew, 深威志电子	TI	04+	55	SOP-14(3
+SN74AC20M	from hqew, 深威志电子	TI	&nbsp;	56	SOP-14(3
+SN74ACT374DW	from hqew, 深威志电子	TI	&nbsp;	14	SOIC-20(
+SN74ALS1035NS	from hqew, 深威志电子	TI	&nbsp;	48	SOP-14(
+SN74ALS139D	from hqew, 深威志电子	TI	&nbsp;	41	SOP-16(3
+SN74ALS153D	from hqew, 深威志电子	TI	&nbsp;	69	SOP-16(3
+SN74ALS153NS	from hqew, 深威志电子	TI	&nbsp;	35	SOP-16(
+SN74ALS191ANS	from hqew, 深威志电子	TI	&nbsp;	152	SOP-16(
+SN74CBTD3384DW	from hqew, 深威志电子	TI	&nbsp;	15	SOIC-24(
+SN74DCT244NS	from hqew, 深威志电子	TI	&nbsp;	30	SOP-20(
+SN74F00D	from hqew, 深威志电子	TI	&nbsp;	28	SOP-14(3
+SN74F02	from hqew, 深威志电子	TI	&nbsp;	43	SOP-14
+SN74F02D	from hqew, 深威志电子	TI	03+	31	SOP-14
+SN74F04	from hqew, 深威志电子	TI	04+	76	SOP-14
+SN74F11	from hqew, 深威志电子	TI	&nbsp;	60	SOP-14(3
+SN74F257D	from hqew, 深威志电子	TI	&nbsp;	24	SOP-16
+SN74HC00N	from hqew, 深威志电子	TI	1	10	DIP
+SN74HC04	from hqew, 深威志电子	TI	05+	69	SOP-14
+SN74HC08ANS	from hqew, 深威志电子	TI	&nbsp;	28	SOP-14(
+SN74HC08N	from hqew, 深威志电子	TI	&nbsp;	15	DIP-14
+SN74HC21	from hqew, 深威志电子	TI	&nbsp;	111	SOP-14
+SN74HC237M	from hqew, 深威志电子	TI	&nbsp;	71	SOP-16(3
+SN74HC240DW	from hqew, 深威志电子	TI	&nbsp;	32	SOIC-20(
+SN74HC259D	from hqew, 深威志电子	TI	&nbsp;	48	SOP-16(3
+SN74HC32	from hqew, 深威志电子	TI	&nbsp;	15	SOP-14(3
+SN74HC32	from hqew, 深威志电子	TI	&nbsp;	13	SOP-14
+SN74HC374DW	from hqew, 深威志电子	TI	09+	35	SOIC-20(
+SN74HC377DW	from hqew, 深威志电子	TI	&nbsp;	14	SOIC-20(
+SN74HCT04	from hqew, 深威志电子	TI	&nbsp;	11	SOP-14
+SN74LC00APW	from hqew, 深威志电子	TI	&nbsp;	14	TSSOP-14
+SN74LC08APW	from hqew, 深威志电子	TI	&nbsp;	108	TSOP-14
+SN74LC139APW	from hqew, 深威志电子	TI	&nbsp;	40	TSSOP-16
+SN74LC157ADB	from hqew, 深威志电子	TI	&nbsp;	255	SSOP-16
+SN74LC244ADB	from hqew, 深威志电子	TI	&nbsp;	40	SSOP-20
+SN74LC244APW	from hqew, 深威志电子	TI	&nbsp;	42	TSSOP-20
+SN74LC245APW	from hqew, 深威志电子	TI	&nbsp;	11	TSSOP-20
+SN74LS04D	from hqew, 深威志电子	TI	04+	224	SOP-14
+SN74LS123NS	from hqew, 深威志电子	TI	&nbsp;	433	SOP-16(
+SN74LS125ANS	from hqew, 深威志电子	TI	&nbsp;	230	SOP-14
+SN74LS14N	from hqew, 深威志电子	TI	&nbsp;	10	DIP-14
+SN74LS193N	from hqew, 深威志电子	TI	&nbsp;	15	DIP16
+SN74LS20NS	from hqew, 深威志电子	TI	05+	308	SOP-14(
+SN74LV02APW	from hqew, 深威志电子	TI	&nbsp;	20	TSSOP-14
+SN74LV123APW	from hqew, 深威志电子	TI	03+	100	TSSOP-16
+SN74LV138ANSR	from hqew, 深威志电子	TI	&nbsp;	14	SOP-16
+SN74LV138APW	from hqew, 深威志电子	TI	&nbsp;	109	TSSOP-16
+SN74LV138APWR	from hqew, 深威志电子	TI	04+	223	TSSOP-16
+SN74LV14A	from hqew, 深威志电子	TI	&nbsp;	17	SOP-14
+SN74LV157ANSR	from hqew, 深威志电子	TI	&nbsp;	35	SOP-16(
+SN74LV574APWR	from hqew, 深威志电子	TI	&nbsp;	10	TSSOP-20
+SN74LV74APW	from hqew, 深威志电子	TI	06+	123	TSSOP-14
+SN74LVC244ADW	from hqew, 深威志电子	TI	&nbsp;	10	SOIC-20(
+SN74LVC245AN	from hqew, 深威志电子	TI	&nbsp;	48	DIP-20
+SN74LVT125D	from hqew, 深威志电子	TI	&nbsp;	12	SOP-14(3
+SN74LVTH125NS	from hqew, 深威志电子	TI	&nbsp;	259	SOP-14(
+SN74LVTH244ANS	from hqew, 深威志电子	TI	&nbsp;	25	SOP-20(
+SN74LX125DB	from hqew, 深威志电子	TI	&nbsp;	37	SSOP-14
+SN75C189	from hqew, 深威志电子	TI	&nbsp;	50	SOP-14
+ST-1KLA	from hqew, 深威志电子	Kodenshi	&nbsp;	110	4.2
+STC12C5A60S2	from hqew, 深威志电子	STC	&nbsp;	15	PLCC
+STI5518DVC	from hqew, 深威志电子	ST	4	48	QFP-208L
+TA8111AP	from hqew, 深威志电子	Toshiba	&nbsp;	11	DIP-16
+TA8132AF	from hqew, 深威志电子	Toshiba	00+	56	SOP-24
+TC4052BF	from hqew, 深威志电子	TOSHIBA	9529HB	1565	SOP-16(
+TC74AC14FS	from hqew, 深威志电子	Toshiba	9650H	1014	TSSOP-14
+TC74AC244FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	13	TSSOP-20
+TC74HC07AP	from hqew, 深威志电子	Toshiba	00+	10	DIP
+TC74HC4040AF	from hqew, 深威志电子	TOSHIBA	&nbsp;	13	SOP-16(
+TC74HC4052AFT	from hqew, 深威志电子	TOSHIBA	9849H	1324	TSSOP-16
+TC74HC4066AFT	from hqew, 深威志电子	TOSHIBA	&nbsp;	48	TSSOP-14
+TC74HC597AF	from hqew, 深威志电子	Toshiba	9345H	507	SOP-16(
+TC74LCX04FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	16	TSSOP-14
+TC74LCX541FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	13	TSSOP-20
+TC74LVX08FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	448	TSSOP-14
+TC74V540FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	44	TSSOP-20
+TC74VHC02FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	21	TSSOP-14
+TC74VHC04F	from hqew, 深威志电子	TOSHIBA	&nbsp;	14	SOP-14(
+TC74VHC05FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	12	TSSOP-14
+TC74VHC11FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	25	TSSOP-14
+TC74VHC126FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	11	TSSOP-14
+TC74VHC139FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	17	TSSOP-16
+TC74VHC14FT	from hqew, 深威志电子	Toshiba	0526H	1739	TSSOP-14
+TC74VHC153FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	16	TSSOP-16
+TC74VHC21FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	15	TSSOP-14
+TC74VHC273FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	32	TSSOP-20
+TC74VHC32F	from hqew, 深威志电子	TOSHIBA	&nbsp;	18	SOP-14(
+TC74VHC393F	from hqew, 深威志电子	TOSHIBA	&nbsp;	29	SOP-14
+TC74VHC540FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	17	TSSOP-20
+TC74VHC541F	from hqew, 深威志电子	TOSHIBA	&nbsp;	10	SOP-20
+TC74VHC574FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	12	TSSOP-20
+TC74VHCT00AFT	from hqew, 深威志电子	TOSHIBA	&nbsp;	11	TSSOP-14
+TC74VHCT245AFT	from hqew, 深威志电子	Toshiba	03+	25	TSSOP-20
+TC74VHCT245AFT	from hqew, 深威志电子	TOSHIBA	&nbsp;	25	TSSOP-20
+TC9149P	from hqew, 深威志电子	Toshiba	249	30	DIP-16
+TCST1210	from hqew, 深威志电子	Vishay	05+	90	5.00mm
+TD62003AP	from hqew, 深威志电子	Toshiba	96+	23	DIP-18
+TD62083AF	from hqew, 深威志电子	Toshiba	&nbsp;	18	SOP-18
+TDA16833	from hqew, 深威志电子	Infineon	99+	107	DIP-8
+TDA2009A	from hqew, 深威志电子	ST	&nbsp;	10	ZIP-15
+TDA2822M	from hqew, 深威志电子	ST	03+	55	DIP-8
+TDA7266	from hqew, 深威志电子	ST	09+	15	ZIP
+TDA7266SA	from hqew, 深威志电子	ST	09+	15	ZIP
+TDA8563T	from hqew, 深威志电子	Philips	04+	35	SOP-8
+TIL300	from hqew, 深威志电子	TAOS	0	10	DIP-8
+TJA1050	from hqew, 深威志电子	Philips	05+	24	SOP-8
+TL1431Q	from hqew, 深威志电子	TI	03+	26	SOP-8
+TL431	from hqew, 深威志电子	National	&nbsp;	12	TO-92
+TL431C	from hqew, 深威志电子	TI	03+	76	SOP-8
+TLC3704C	from hqew, 深威志电子	TI	02+	12	SOP-14(3
+TLC5510INSR	from hqew, 深威志电子	TI	04+	98	SMD
+TLP250	from hqew, 深威志电子	Toshiba	&nbsp;	20	DIP-8
+TLP421-1	from hqew, 深威志电子	TOSHIBA	06+	20	DIP-4
+TLP521-4	from hqew, 深威志电子	Toshiba	09+	14	DIP
+TMP47C870N-H507	from hqew, 深威志电子	Toshiba	4	208	DIP-64
+TWL2203	from hqew, 深威志电子	TI	2001	405	QFP-48
+UC2854BDW	from hqew, 深威志电子	UC	00+	22	SOP-16
+UC2854BN	from hqew, 深威志电子	TI	&nbsp;	10	DIP-16
+UC3842BD	from hqew, 深威志电子	ON SEMI	&nbsp;	10	SOP-14
+UDN2916B	from hqew, 深威志电子	Allegro	04+	15	DIP
+UPA2987G	from hqew, 深威志电子	NEC	9607CP	3795	SOP-16(
+UPC1458	from hqew, 深威志电子	NEC	04+	10	SOP-8
+UPC251C	from hqew, 深威志电子	Other	&nbsp;	238	DIP
+UPD17012GF-053-3BE	from hqew, 深威志电子	NEC	95+	451	QFP
+UPD43257AGU_10LL	from hqew, 深威志电子	NEC	94+	271	SOP-28
+VD5026	from hqew, 深威志电子	VD	06+	195	DIP-18
+YPPD-J016E_2300KCF007C-F	from hqew, 深威志电子	LG	06+	42	
+Z53C8003VSC	from hqew, 深威志电子	ZILOG	97+98+	25	PLCC44
+10uF/160V	from hqew, 深威志电子	Other	&nbsp;	33	
+13003	from hqew, 深威志电子	Fairchild	05+	14	TO-126
+13005D	from hqew, 深威志电子	国产	&nbsp;	20	TO-220
+1N4745A(1W/16V)	from hqew, 深威志电子	ON SEMI	10+	100	DO-41
+1N4755A	from hqew, 深威志电子	ONTC	06+	142	TCOM
+1N5401	from hqew, 深威志电子	MIC	09+	225	DO-27
+1N5408	from hqew, 深威志电子	DC	04+	250	DO-27
+1SV101	from hqew, 深威志电子	Toshiba	&nbsp;	17	DIP
+2200uF/10V	from hqew, 深威志电子	CH	08+	146	10 20
+2230	from hqew, 深威志电子	MITSUBISHI	9014B	100	SOP8
+224 M	from hqew, 深威志电子	Other	&nbsp;	18	
+224M	from hqew, 深威志电子	TEM	0	18	0
+24C01W6	from hqew, 深威志电子	ST	&nbsp;	12	SOP-8
+2N06LH5	from hqew, 深威志电子	Other	&nbsp;	10	TO-263
+2N3019	from hqew, 深威志电子	Motorola	99+	28	TO-39
+2N6487	from hqew, 深威志电子	ON SEMI	03+	49	TO-220
+2SA1385	from hqew, 深威志电子	Sanyo	&nbsp;	40	TO-252
+2SA1385-Z	from hqew, 深威志电子	NEC	&nbsp;	10	TO-252
+2SA1480E	from hqew, 深威志电子	Sanyo	02+	98	TO-220
+2SA812	from hqew, 深威志电子	Nec	1	12	SOT-23
+2SB511	from hqew, 深威志电子	Hitachi	00+	25	TO-220
+2SB649A	from hqew, 深威志电子	国产	03+	50	TO-126
+2SB764	from hqew, 深威志电子	SAN	03+	100	TO-92M
+2SC1473	from hqew, 深威志电子	Panasonic	04+	189	TO-92
+2SC1815	from hqew, 深威志电子	Toshiba	99+	223	TO-92
+2SC9012	from hqew, 深威志电子	KEC	04+	74	SOT-23
+2SD1259	from hqew, 深威志电子	Panasonic	&nbsp;	10	TO-252
+2SD798	from hqew, 深威志电子	国产	07+	10	TO-220
+2SJ602	from hqew, 深威志电子	NEC	05+	24	to-220
+2SK1284	from hqew, 深威志电子	Sanyo	03+	20	TO-252
+2SK2221	from hqew, 深威志电子	Hitachi	05+	11	TO-3P
+2SK2372	from hqew, 深威志电子	NEC	01+	98	TO-3P
+2SK2996	from hqew, 深威志电子	Toshiba	07+	10	TO-220F
+3.9uH	from hqew, 深威志电子	Other	&nbsp;	15	805
+30NJS/50V	from hqew, 深威志电子	Other	&nbsp;	18	
+34W02	from hqew, 深威志电子	CSI	24	15	SMD
+3793-A	from hqew, 深威志电子	JRC	&nbsp;	111	SOP-8
+40P	from hqew, 深威志电子	台湾/国产	05+	28	DIP-40
+47N60C3	from hqew, 深威志电子	Infineon	05+	60	TO-247
+47N60C3	from hqew, 深威志电子	Infineon	04+	76	TO-247
+47uF/400V	from hqew, 深威志电子	CAPXON	07+	50	16 25
+4816P-001-220	from hqew, 深威志电子	BOURNS	92	171	SOP-16
+4816P-002-472	from hqew, 深威志电子	BOURNS	00+	70	SOP-16
+4N26	from hqew, 深威志电子	Fairchild	&nbsp;	23	DIP-6
+68NJA/630V	from hqew, 深威志电子	Other	&nbsp;	13	
+6N136	from hqew, 深威志电子	东芝/仙童	06+	18	DIP-8
+74ABT126C	from hqew, 深威志电子	FAIRCHILD	&nbsp;	12	SOP-14(3
+74AC373	from hqew, 深威志电子	Fairchild	&nbsp;	20	SOIC-20(
+74ACT04	from hqew, 深威志电子	Other	&nbsp;	21	
+74ACT161	from hqew, 深威志电子	Fairchild	&nbsp;	58	SOP-16(3
+74ACT258	from hqew, 深威志电子	Fairchild	&nbsp;	56	SOP-16(3
+74F132	from hqew, 深威志电子	Fairchild	&nbsp;	11	SOP-14(3
+74F138	from hqew, 深威志电子	Fairchild	&nbsp;	46	SOP-16(3
+74F157D	from hqew, 深威志电子	NS	00+	11	SOP-14
+74F244	from hqew, 深威志电子	FAIRCHILD	&nbsp;	16	SOP-20
+74HC00D	from hqew, 深威志电子	PHILIPS	&nbsp;	52	SOP-14
+74HC03D	from hqew, 深威志电子	Philips	05+	27	SOP-14(3
+74HC07A	from hqew, 深威志电子	TI	09+	101	SOP-14
+74HC08M	from hqew, 深威志电子	TI	&nbsp;	201	SOP-14(3
+74HC08M	from hqew, 深威志电子	Other	&nbsp;	26	
+74HC11D	from hqew, 深威志电子	PHILIPS	&nbsp;	10	SOP-14(3
+74HC138D	from hqew, 深威志电子	PHILIPS	&nbsp;	24	SOP-16
+74HC14	from hqew, 深威志电子	Other	&nbsp;	50	
+74HC174A	from hqew, 深威志电子	仙童	617	20	DIP-16
+74HC20D	from hqew, 深威志电子	Philips	&nbsp;	49	SOP-14(3
+74HC21A	from hqew, 深威志电子	TOSHIBA	&nbsp;	87	SOP-14
+74HC241A	from hqew, 深威志电子	MOTO	&nbsp;	113	SOP-20
+74HC259	from hqew, 深威志电子	Other	&nbsp;	49	
+74HC373DB	from hqew, 深威志电子	PHILIPS	&nbsp;	15	SSOP-20
+74HC373P	from hqew, 深威志电子	Hitachi	10+	10	DIP
+74LV14A	from hqew, 深威志电子	Other	&nbsp;	15	
+74LV244A	from hqew, 深威志电子	TI	&nbsp;	69	SSOP-20
+74LVC04AD	from hqew, 深威志电子	Philips	04+	54	SOP-14(3
+74LVC109DB	from hqew, 深威志电子	PHILIPS	&nbsp;	53	SSOP-16
+74LVC245ADB	from hqew, 深威志电子	PHILIPS	05+	30	SSOP-20
+74LVT08D	from hqew, 深威志电子	PHILIPS	&nbsp;	74	SOP-14
+74LVT14D	from hqew, 深威志电子	PHILIPS	&nbsp;	67	SOP-14
+74LVT245D	from hqew, 深威志电子	PHILIPS	&nbsp;	23	SOIC-20(
+A1015GR	from hqew, 深威志电子	东芝/仙童	07+	150	TO-92
+A9CB(KM23V64000ATY-01)	from hqew, 深威志电子	HYUN	99+	480	TSOP-48
+AC244	from hqew, 深威志电子	TI	&nbsp;	20	SOIC-20(
+ACM3225-102-2P-T001	from hqew, 深威志电子	TDK	7	13	SMD
+AD7775BJR	from hqew, 深威志电子	AD	99	30	SOP-28
+ADE7755ARS	from hqew, 深威志电子	AD	05+	25	SOP-24L
+AM26LS31CN	from hqew, 深威志电子	TI	&nbsp;	11	DIP-8
+AMS1117-3.3	from hqew, 深威志电子	国产	07+	29	SOT-223
+AN6650	from hqew, 深威志电子	Panasonic	&nbsp;	27	DIP-8
+AN7025K	from hqew, 深威志电子	Panasonic	99+	24	DIP-22
+AN7086S	from hqew, 深威志电子	Panasonic	95+	103	SOP-24
+AN7108	from hqew, 深威志电子	Panasonic	&nbsp;	14	DIP-16
+AN7812	from hqew, 深威志电子	Toshiba	06+	30	TO-220
+AP1117	from hqew, 深威志电子	BCD	06+	200	SOT-223
+AP1117E18A	from hqew, 深威志电子	ALPHA	02+	449	SOT-232
+AT24C02BN-SU1.8	from hqew, 深威志电子	ATMEL	05+	38	SOP-8
+AT270612R-15RC	from hqew, 深威志电子	ATMEL	95+	25	SOP-28
+AT27C512R-15RC	from hqew, 深威志电子	ATMEL	9517	20	SOP28
+AT49LV001NT-12JC	from hqew, 深威志电子	ATMEL	9951	32	PLCC-32
+AT89C2051-24PI	from hqew, 深威志电子	Atmel	06+	17	DIP-20
+AT93C46-10PC	from hqew, 深威志电子	ATMEL	99+	48	DIP-8
+ATMEGA162V-8AU	from hqew, 深威志电子	AT	&nbsp;	96	QFP44
+B7104	from hqew, 深威志电子	EPCOS	2005	200	QFN
+BA1602L	from hqew, 深威志电子	ROHM	01+	18	ZIP-18
+BCR10AM	from hqew, 深威志电子	三凌/PH	03+	10	TO-220
+BSP-15A	from hqew, 深威志电子	EQUATOR	252	12	BGA
+BT136-600E	from hqew, 深威志电子	Philips	05+	30	TO-220
+BTA06-600B	from hqew, 深威志电子	ST	05+	20	TO-220
+BU406	from hqew, 深威志电子	Fairchild	&nbsp;	10	TO-220
+C339G	from hqew, 深威志电子	NEC	&nbsp;	32	SOP-14
+CD4010	from hqew, 深威志电子	ST	06+	50	DIP-16
+CD4013BE	from hqew, 深威志电子	TI	&nbsp;	10	DIP-14
+CIC7331E	from hqew, 深威志电子	CIC	8439	23	SIP-9
+CIMAX-TM2.0	from hqew, 深威志电子	SCM	04+	59	QFP-128
+CVC06-100(6PIE-20PF)(10PF)	from hqew, 深威志电子	JISEUNG	7	2194	DIP-2( 6
+CVC06-200(6PIE-20PF)(20PF)	from hqew, 深威志电子	JISEUNG	5	2930	DIP-2( 6
+CX-5F-3.579545MHZ	from hqew, 深威志电子	KINSEKI/京瓷	05+	39975	10pF 357
+CX77140-13	from hqew, 深威志电子	SKYWORKS	04+	186	QFN
+CX81300-14	from hqew, 深威志电子	Conexant	4	260	QFP
+CX9162-3.3	from hqew, 深威志电子	CX	06+	10	SOT-89
+CXK58267AM-12L	from hqew, 深威志电子	SONY	95+	26	SOP-28
+D15P05	from hqew, 深威志电子	Other	&nbsp;	10	TO-252
+D882Q	from hqew, 深威志电子	NEC	02+	26	TO-126
+DB104	from hqew, 深威志电子	ST	03+	23	DIP-4
+DDX-2060	from hqew, 深威志电子	TRIPATR	2003	169	SSOP-64
+DFC2R959P001HHA-TA2	from hqew, 深威志电子	MURATA	99	4766	CHIP(  )
+DG409DY	from hqew, 深威志电子	INTERSIL	&nbsp;	16	SOP-16
+DM74F240	from hqew, 深威志电子	NS	&nbsp;	486	SOP-20(
+DS1302	from hqew, 深威志电子	Dallas	803	50	SOP-8
+DS34C87TM	from hqew, 深威志电子	NS	&nbsp;	139	SOP-16
+DS34LV87TM	from hqew, 深威志电子	NS	&nbsp;	28	SOP-16
+EL-1KL3	from hqew, 深威志电子	Kodenshi	03+	82	4.2
+EM84510FP	from hqew, 深威志电子	EMC	03+	225	DIP-16
+ES4318F	from hqew, 深威志电子	ESS	1	149	QFP
+ET1109	from hqew, 深威志电子	Vishay	&nbsp;	10	DIP-4
+EUA5212	from hqew, 深威志电子	KENDEN	07+	20	SSOP-24
+FAN8082	from hqew, 深威志电子	Fairchild	03+	249	DIP-8
+FC130SA09490(DB490406)	from hqew, 深威志电子	马步奇/MABUC	10	198	20 25MM
+FDFS2P102	from hqew, 深威志电子	Fairchild	08+	30	SOP-8
+FQP70N10	from hqew, 深威志电子	仙童	&nbsp;	38	TO-220
+G3B-15AH-TP	from hqew, 深威志电子	NIHON	99	486	SMD
+G40N60UFD	from hqew, 深威志电子	Fairchild	06+	15	TO-3P
+GP150N50A	from hqew, 深威志电子	ST	09+	21	TO-220
+HA11741	from hqew, 深威志电子	HITACHI	1998	30	DIP
+HC373	from hqew, 深威志电子	TI	05+	12	SOIC-20(
+HC4051A	from hqew, 深威志电子	ON SEMI	03+	75	TSSOP-16
+HCF40107	from hqew, 深威志电子	ST	732	10	DIP-8
+HCF4541BEY	from hqew, 深威志电子	ST	05+	70	DIP-14
+HCTLS14	from hqew, 深威志电子	S	05+	30	SOP-14
+HD64F2218UTF24	from hqew, 深威志电子	RENESAS	04+	80	QFP
+HD74HC245P	from hqew, 深威志电子	日立	09+	150	DIP
+HD74HCOOP	from hqew, 深威志电子	HITACHI	06+	15	DIP
+HD74LS175P	from hqew, 深威志电子	Hitachi	94+	10	DIP-16
+HD74LV123A	from hqew, 深威志电子	HITACHI	&nbsp;	29	TSSOP-16
+HEF4795BT	from hqew, 深威志电子	PHILIPS	&nbsp;	20	SOP-16
+HGTG40N60B3	from hqew, 深威志电子	Fairchild	05+	10	TO-3P
+HM62L864LFP-12	from hqew, 深威志电子	HITACHI	94+	20	SOP-32
+HT1621B	from hqew, 深威志电子	HOLTEK	03+	20	SOP-18
+HT7533	from hqew, 深威志电子	HT	&nbsp;	40	SOT-89
+IR2130S	from hqew, 深威志电子	IR	05+	30	SOP-28
+IR3310	from hqew, 深威志电子	IR	&nbsp;	10	TO-252
+IR3310S	from hqew, 深威志电子	IR	415H	10	SMD220-5
+IRF4905S	from hqew, 深威志电子	IR	03+	96	TO-263
+IRF640	from hqew, 深威志电子	IR	614	50	TO-220
+IS61LV25616AL-10T	from hqew, 深威志电子	ISSI	2006	64	TSOP
+JC050A1(HBS050YG-ANT)	from hqew, 深威志电子	TYCO	03+	30	
+KA78L05AZTA	from hqew, 深威志电子	Fairchild	09+	160	TO-92
+KIA393F	from hqew, 深威志电子	KEC	02+	29	SOP-8P
+KS8721B	from hqew, 深威志电子	KENDIN	03+	14	SOP-48
+KS9820-07	from hqew, 深威志电子	SAMSUNG	06+	366	QFP-48
+KSE13003T2	from hqew, 深威志电子	Fairchild	03+	100	TO-220
+KSM93272 (RYTR1017024)	from hqew, 深威志电子	Philips	+	13	DIP-28
+L7805CV	from hqew, 深威志电子	ST	07+	220	TO-220
+L7812CV	from hqew, 深威志电子	ST	09+	10	TO-220
+L7824CV	from hqew, 深威志电子	ST	07+	50	TO-220
+LA4627	from hqew, 深威志电子	Sanyo	05+	397	DIP-14
+LA7053	from hqew, 深威志电子	SANYO	01+	20	SIP-9
+LA71750EM-MPB-E	from hqew, 深威志电子	SANYO	5	150	QFP-100
+LB1673M-TP-T1	from hqew, 深威志电子	Sanyo	6	393	SOP
+LC00A	from hqew, 深威志电子	TI	&nbsp;	55	SSOP-14
+LC139A	from hqew, 深威志电子	TI	&nbsp;	47	SSOP-14
+LC32A	from hqew, 深威志电子	TI	&nbsp;	11	SSOP-14
+LC78213	from hqew, 深威志电子	Sanyo	93+	298	DIP-30
+LC8991	from hqew, 深威志电子	Sanyo	1	218	DIP-8
+LCX245	from hqew, 深威志电子	FCS	&nbsp;	40	SSOP-20
+LH1191	from hqew, 深威志电子	AT&T	03+	44	DIP-6
+LH1520AB	from hqew, 深威志电子	AT&T	01+	58	DIP-8
+LH5160N-10L	from hqew, 深威志电子	SHARP	01+	78	SSOP-48
+LH532HBJ	from hqew, 深威志电子	SHARP	91+	10	SOP-28
+LM258	from hqew, 深威志电子	TI	10+	100	SOP-8
+LM324	from hqew, 深威志电子	ST	&nbsp;	42	SOP-14
+LM339	from hqew, 深威志电子	TI	&nbsp;	11	DIP-14
+LM340T5 7805	from hqew, 深威志电子	National	00+	24	TO-220
+LM348	from hqew, 深威志电子	Other	&nbsp;	10	SOP-10
+LM348M	from hqew, 深威志电子	Narional	&nbsp;	10	DIP
+LM35DZ	from hqew, 深威志电子	NS	&nbsp;	30	TO-92
+LM386	from hqew, 深威志电子	国产	6	182	DIP-8
+LS2051-224SJI	from hqew, 深威志电子	SL	08+	25	DIP SOP
+LTE-324	from hqew, 深威志电子	LITEON	03+	500	DIP-3
+LV674A	from hqew, 深威志电子	TI	&nbsp;	10	TSSOP-20
+LW053A	from hqew, 深威志电子	TI	AJ59	12	TSSOP-16
+MB3771PF-G-BND-JN-ER	from hqew, 深威志电子	FUJITSU	&nbsp;	45	SOP-8
+MB838000-20	from hqew, 深威志电子	FIJI	94+	20	SOP-48
+MBM29F020TC-90	from hqew, 深威志电子	FUJITSU	2	32	PLCC
+MBR30150CT	from hqew, 深威志电子	IR	&nbsp;	19	TO-220
+MBRF1645	from hqew, 深威志电子	GI	01+	70	TO-220F
+MC14053BCP	from hqew, 深威志电子	Motorola	06+	22	DIP-16
+MC3302D	from hqew, 深威志电子	ON SEMI	9	49	SOP-14
+MC34017-1P	from hqew, 深威志电子	Motorola	9112	27	DIP-8
+MC34063A	from hqew, 深威志电子	国产	07+	17	DIP-8
+MC74AC138	from hqew, 深威志电子	ON SEMI	05+	74	SOP-16(3
+MC74AC20	from hqew, 深威志电子	MOTOROLA	&nbsp;	30	SOP-14(3
+MC74AC244	from hqew, 深威志电子	MOTOROLA	&nbsp;	391	SOIC-20(
+MC74ACT08	from hqew, 深威志电子	MOTOROLA	&nbsp;	37	SOP-14
+MC74ACT138M	from hqew, 深威志电子	ON SEMI	&nbsp;	17	SOP-16(3
+MC74ACT541DW	from hqew, 深威志电子	ON SEMI	&nbsp;	28	SOIC-20(
+MC74ACT74	from hqew, 深威志电子	ON SEMI	&nbsp;	15	SOP-14(3
+MC74F244	from hqew, 深威志电子	MOTOROLA	03+	1050	SOP-20(
+MC74HC125A	from hqew, 深威志电子	MOTOROLA	&nbsp;	1010	SOP-14(
+MC74HC153	from hqew, 深威志电子	MOTOROLA	&nbsp;	22	SOP-16(3
+MC74HC161AM	from hqew, 深威志电子	ON SEMI	&nbsp;	47	SOP-16(3
+MC74HC244ADWR2	from hqew, 深威志电子	ON SEMI	34	950	SOIC-20(
+MC74HC373AF	from hqew, 深威志电子	MOTOROLA	&nbsp;	20	SOP-20(
+MC74HC534A	from hqew, 深威志电子	MOTOROLA	&nbsp;	114	SOP-20(
+MC74HC573A	from hqew, 深威志电子	ON SEMI	&nbsp;	155	SOP-20(
+MC74HC74A	from hqew, 深威志电子	MOTOROLA	&nbsp;	95	SOP-14(
+MC74HC74AD	from hqew, 深威志电子	ON SEMI	&nbsp;	14	SOP-14
+MC74LCX16244DT	from hqew, 深威志电子	MOTOROLA	&nbsp;	15	TSSOP-48
+MC74LS74A	from hqew, 深威志电子	MOTOROLA	&nbsp;	10	SOP-14(3
+MHSST650-FS-80C51FBDG-L	from hqew, 深威志电子	INTEL	9348	162	PLCC-44
+MJD44H11G	from hqew, 深威志电子	ON SEMI	08+	10	TO-252
+MJE13005-2	from hqew, 深威志电子	Fairchild	04+	50	TO-220
+MM74HC132M	from hqew, 深威志电子	Fairchild	&nbsp;	18	SOP-14
+MM74HC32M	from hqew, 深威志电子	Fairchild	&nbsp;	28	SOP-14(3
+MMUN2211LT1	from hqew, 深威志电子	ON SEMI	03+	97	SOT-23
+MSM3000 (CD90-24640-3)	from hqew, 深威志电子	QUALCOMM	202	326	BGA
+M16JZ47	from hqew, 深威志电子	Toshiba	05+	44	TO-220F
+M74HC04	from hqew, 深威志电子	ST	05+	68	SOP-14
+M74HC157	from hqew, 深威志电子	ST	&nbsp;	80	SOP-16(3
+M74HC157	from hqew, 深威志电子	ST	&nbsp;	73	SOP-16
+M74HC161	from hqew, 深威志电子	ST	&nbsp;	19	SOP-16(3
+M74HC4050BP	from hqew, 深威志电子	Mitsubishi	&nbsp;	15	DIP-16
+M74HC4538	from hqew, 深威志电子	ST	&nbsp;	19	SOP-14(3
+M74HC595	from hqew, 深威志电子	ST	&nbsp;	135	SOP-16(3
+M74HC595	from hqew, 深威志电子	ST	&nbsp;	115	SOP-16
+MAX1488ECPD	from hqew, 深威志电子	MAX	9918	200	DIP
+MAX202CSE	from hqew, 深威志电子	MAX	09+	50	SOP
+MAX202EESE	from hqew, 深威志电子	MAXIM	&nbsp;	51	SOP-16
+MAX813L	from hqew, 深威志电子	MAXIM	02+	10	DIP-8
+N28F001BXT-120	from hqew, 深威志电子	INTEL	00+	25	PLCC-32
+NJM2068	from hqew, 深威志电子	JRC	&nbsp;	10	SOP-8
+NJM2396F08	from hqew, 深威志电子	JRC	06+	50	TO-220F
+NJM2904	from hqew, 深威志电子	JRC	&nbsp;	49	DIP
+OPA111AM	from hqew, 深威志电子	BB	02+	30	CAN
+OPA132U	from hqew, 深威志电子	BB	03+	21	SOP-8
+P4NB50FP	from hqew, 深威志电子	ST	&nbsp;	19	TO-220F
+PAL16R8ACNL	from hqew, 深威志电子	MMI	&nbsp;	38	PLCC-20
+PBL3717/2	from hqew, 深威志电子	ERICSSON	95+	66	DIP-16
+PCD3311CP	from hqew, 深威志电子	Philips	&nbsp;	44	DIP-14
+PCD3312CT	from hqew, 深威志电子	Philips	6552	300	SOP-8
+PCF8574ATD	from hqew, 深威志电子	Philips	99/00+	75	SMD16
+PN2907A	from hqew, 深威志电子	ON SEMI	03+	42	TO-92
+PT3208	from hqew, 深威志电子	FS	06+	198	
+RC02R	from hqew, 深威志电子	JRC	&nbsp;	15	SOP-6
+RDT.0269T	from hqew, 深威志电子	原厂原包	6	355	SOP-8
+RHRP8120	from hqew, 深威志电子	FAIRCHILD	09+	76	TO-220
+S02778T	from hqew, 深威志电子	SMK	95+	45	SOP-16
+S20LC20U	from hqew, 深威志电子	日本新电源	02+	142	TO-3P
+S8550	from hqew, 深威志电子	TOSHIBA	05+	13	TO-92
+SC427054FN	from hqew, 深威志电子	Motorola	00+	24	PLCC-44
+SI4133G-BT	from hqew, 深威志电子	SILICON	&nbsp;	37	TSSOP-24
+SII1162CS48	from hqew, 深威志电子	SII-IC	03+	326	TSSOP-48
+SMD075	from hqew, 深威志电子	RAYC	06+	13	SMD
+SN54HC24J	from hqew, 深威志电子	TI	06+	15	DIP
+SN74ABT240ADW	from hqew, 深威志电子	TI	&nbsp;	49	SOIC-20(
+SN74ACT04	from hqew, 深威志电子	TI	&nbsp;	43	SOP-14
+SN74ACT08	from hqew, 深威志电子	TI	&nbsp;	37	SOP-14
+SN74ALS04BNSR	from hqew, 深威志电子	TI	04+	126	SOP-14(
+SN74ALS09NS	from hqew, 深威志电子	TI	&nbsp;	10	SOP-14(
+SN74ALS1035	from hqew, 深威志电子	TI	&nbsp;	57	SOP-14
+SN74ALS244C-1NS	from hqew, 深威志电子	TI	&nbsp;	10	SOP-20(
+SN74ALS273NS	from hqew, 深威志电子	TI	&nbsp;	41	SOP-20(
+SN74ALS32NS	from hqew, 深威志电子	TI	&nbsp;	16	SOP-14(
+SN74ALS639A	from hqew, 深威志电子	TI	&nbsp;	40	SOP-20
+SN74ALS639ANS	from hqew, 深威志电子	TI	&nbsp;	292	SOP-20(
+SN74ALVCH16245DGGR	from hqew, 深威志电子	TI	00+	28	TSSOP-48
+SN74AVC16245DGGR	from hqew, 深威志电子	TI	03+	75	TSSOP-48
+SN74F02	from hqew, 深威志电子	TI	05+	45	SOP-14(3
+SN74F240DW	from hqew, 深威志电子	TI	&nbsp;	19	SOIC-20(
+SN74HC00D	from hqew, 深威志电子	TI	&nbsp;	42	SOP-14(3
+SN74HC02	from hqew, 深威志电子	TI	&nbsp;	32	SOP-14(3
+SN74HC125	from hqew, 深威志电子	TI	&nbsp;	30	SOP-14(3
+SN74HC138	from hqew, 深威志电子	TI	&nbsp;	21	SOP-16(3
+SN74HC14N	from hqew, 深威志电子	TI	04+	15	DIP-14
+SN74HC164N	from hqew, 深威志电子	TI	&nbsp;	12	DIP-14
+SN74HC21NS	from hqew, 深威志电子	TI	&nbsp;	97	SOP-14(
+SN74HC244ANS	from hqew, 深威志电子	TI	&nbsp;	10	SOP-20(
+SN74HC273ANS	from hqew, 深威志电子	TI	&nbsp;	15	SOP-20(
+SN74HC273DW	from hqew, 深威志电子	TI	&nbsp;	74	SOIC-20(
+SN74HCT541N	from hqew, 深威志电子	TI	00+	100	DIP-20
+SN74LC04APW	from hqew, 深威志电子	TI	&nbsp;	20	TSSOP-14
+SN74LC32ADB	from hqew, 深威志电子	TI	&nbsp;	12	SSOP-14
+SN74LG245APW	from hqew, 深威志电子	TI	&nbsp;	13	TSSOP-24
+SN74LS125AN	from hqew, 深威志电子	TI	&nbsp;	10	DIP-14
+SN74LS30	from hqew, 深威志电子	TI	&nbsp;	19	SOP-14
+SN74LS37NS	from hqew, 深威志电子	TI	&nbsp;	39	SOP-14(
+SN74LS86AN	from hqew, 深威志电子	TI	&nbsp;	15	DIP-14
+SN74LV00ANSR	from hqew, 深威志电子	TI	&nbsp;	11	SOP-14(
+SN74LV04APW	from hqew, 深威志电子	TI	&nbsp;	194	SSOP-14
+SN74LV04D	from hqew, 深威志电子	TI	&nbsp;	44	
+SN74LV14APW	from hqew, 深威志电子	TI	&nbsp;	109	TSSOP-14
+SN74LV157APW	from hqew, 深威志电子	TI	&nbsp;	36	TSSOP-16
+SN74LV240APW	from hqew, 深威志电子	TI	&nbsp;	13	TSSOP-20
+SN74LV244APW	from hqew, 深威志电子	TI	&nbsp;	65	TSSOP-20
+SN74LV273APW	from hqew, 深威志电子	TI	&nbsp;	13	TSSOP-20
+SN74LV273NS	from hqew, 深威志电子	TI	&nbsp;	934	SOP-20(
+SN74LV32APW	from hqew, 深威志电子	TI	&nbsp;	36	TSSOP-14
+SN74LV373ANS	from hqew, 深威志电子	TI	&nbsp;	34	SOP-20(
+SN74LV74ADBR	from hqew, 深威志电子	TI	&nbsp;	11	SSOP-14
+SN74LX245BPW	from hqew, 深威志电子	TI	&nbsp;	22	TSSOP-20
+SN74VHC573APW	from hqew, 深威志电子	TI	&nbsp;	178	TSSOP-20
+SN751178	from hqew, 深威志电子	TI	02+	21	DIP-16
+SN75C189	from hqew, 深威志电子	TI	&nbsp;	50	SOP-14(3
+STI5518BVC	from hqew, 深威志电子	ST	4	39	QFP
+STP60NF06	from hqew, 深威志电子	ST	05+	100	TO-220
+STW28NK60Z	from hqew, 深威志电子	ST	06+	25	TO-247
+T1023	from hqew, 深威志电子	Pulse	&nbsp;	21	SOP-16
+TA8635H	from hqew, 深威志电子	NEC	91+	50	SOP
+TC081CP	from hqew, 深威志电子	TI	00+	42	DIP-8
+TC74AC00F	from hqew, 深威志电子	TOSHIBA	9708H	1529	SOP-14(
+TC74AC32F	from hqew, 深威志电子	TOSHIBA	&nbsp;	82	SOP-14(
+TC74HC00AF-EL	from hqew, 深威志电子	Toshiba	04+	270	SOP-14(
+TC74HC07AP	from hqew, 深威志电子	Toshiba	00+	20	DIP-14
+TC74HC08AF	from hqew, 深威志电子	TOSHIBA	&nbsp;	26	SOP-14(
+TC74HC139AF	from hqew, 深威志电子	TOSHIBA	&nbsp;	253	SOP-16(
+TC74HC163AF	from hqew, 深威志电子	TOSHIBA	&nbsp;	405	SOP-16(
+TC74HC240AF	from hqew, 深威志电子	TOSHIBA	00+	910	SOP-20(
+TC74HC32AF	from hqew, 深威志电子	TOSHIBA	03+	441	SOP-14(
+TC74HC4017AF	from hqew, 深威志电子	Toshiba	&nbsp;	90	SOP-16(
+TC74HCU04AF-EL	from hqew, 深威志电子	Toshiba	04+	98	SOP-14(
+TC74LCX125FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	371	SSOP-14
+TC74LCX257FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	11	TSSOP-16
+TC74VHC138FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	28	TSSOP-16
+TC74VHC14FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	26	TSSOP-14
+TC74VHC238FS	from hqew, 深威志电子	TOSHIBA	28	1998	TSSOP-16
+TC74VHC374FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	13	TSSOP-20
+TC74VHC393FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	28	TSSOP-14
+TC74VHC573FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	150	TSSOP-20
+TC74VHCT240AFT	from hqew, 深威志电子	TOSHIBA	&nbsp;	13	TSSOP-20
+TC90A65F	from hqew, 深威志电子	Toshiba	3	200	QFP
+TD62003AP	from hqew, 深威志电子	Toshiba	00+	12	DIP-16
+TDA1175	from hqew, 深威志电子	ST	97+	25	DIP-16
+TDA2822	from hqew, 深威志电子	UTC	08+	49	DIP
+TDA7052	from hqew, 深威志电子	Philips	01+	90	DIP-8
+TDA8574T	from hqew, 深威志电子	Philips	99/00+	20	TSSOP-20
+TEA5757H，TEA5757H/V1	from hqew, 深威志电子	Philips	03+99+	1920	QFP-44P
+TGM-040P3	from hqew, 深威志电子	Halo	&nbsp;	16	SOP-8
+TIP42C	from hqew, 深威志电子	Fairchild	08+	10	TO-220
+TL052C	from hqew, 深威志电子	TI	05+	10	SOP-8
+TL494CN	from hqew, 深威志电子	TI	&nbsp;	10	DIP-16
+TL7702BI	from hqew, 深威志电子	TI	&nbsp;	39	SOP-8
+TLC1549CP	from hqew, 深威志电子	TI	&nbsp;	10	DIP-8
+TLP504A	from hqew, 深威志电子	Toshiba	03+	71	DIP-8
+TMP47C400RN-JB24	from hqew, 深威志电子	Toshiba	99	12	DIP-42
+TMP47C855F-KB17	from hqew, 深威志电子	Toshiba	03+	200	QFP
+TMP82C55AM-2	from hqew, 深威志电子	Toshiba	9526	39	SOP-40(7
+TNY812	from hqew, 深威志电子	ST	&nbsp;	24	TO-220AB
+TSC820CPL	from hqew, 深威志电子	TELEDYNE	90+	412	DIP-40
+TSC821CPL	from hqew, 深威志电子	TELEDYNE	90+	312	DIP-40
+TSOP34838	from hqew, 深威志电子	Vishay	05+	30	DIP-3
+UA741CN	from hqew, 深威志电子	ST	&nbsp;	35	DIP-8
+UA79M05	from hqew, 深威志电子	Fairchild	&nbsp;	42	TO-220
+UC17071	from hqew, 深威志电子	N/A	93	54	BGA
+UC3825DW	from hqew, 深威志电子	TI	02+	12	SOP-16(
+UC3843B	from hqew, 深威志电子	ON SEMI	05+	33	SOP-8
+ULN2801A	from hqew, 深威志电子	ST	99+	10	DIP-18
+UM61L3232AF-7	from hqew, 深威志电子	UMC	97+	25	PQFP
+UPC1270H	from hqew, 深威志电子	NEC	91	482	SIP-12
+UPC4074G	from hqew, 深威志电子	NEC	06+	17	SOP-14
+UPD1708AG-024-00	from hqew, 深威志电子	NEC	91+	300	QFP-52
+UPD4044G	from hqew, 深威志电子	Other	&nbsp;	49	SOP-16
+VC-3R0A23-0967/1750B VCO (800 to 2000 MH	from hqew, 深威志电子	FUJITSU/TOWA	02+	575	CHIP
+VIPER22A	from hqew, 深威志电子	ST	6	62	DIP-8
+W24010AJ-35	from hqew, 深威志电子	WINBOND	99+	18	SOJ-32
+W24257S-70LL	from hqew, 深威志电子	WINBOND	04+	72	SOP-28
+W2465S-70LL	from hqew, 深威志电子	Winbond	04+	32	SOP-28
+W39L040P-70B	from hqew, 深威志电子	Winbond	05+	180	PLCC-32
+W986416DH-7	from hqew, 深威志电子	Winbond	03+	20	TSOP
+WSC-1 0.25 1％ R86	from hqew, 深威志电子	VISHAY/DALE	0	1995	2010
+XC9536	from hqew, 深威志电子	XILINX	00+	187	QFP
+XC9536	from hqew, 深威志电子	XILINX	&nbsp;	20	PLCC
+XEROX90	from hqew, 深威志电子	XEROX	&nbsp;	49	DIP-8
+YPPD-J014C	from hqew, 深威志电子	LG	06+	64	
+YWE750	from hqew, 深威志电子	CX	07+	11	SOP-20
+0805B121K500NT (120PF 10％)	from hqew, 深威志电子	风华	07+	3700	805
+1000UF/50V	from hqew, 深威志电子	PANASONIC	06+	200	12.5 25
+1000UF/50V	from hqew, 深威志电子	Other	05+	200	16 25
+104628	from hqew, 深威志电子	TI	&nbsp;	72	SOP-16
+1N4148	from hqew, 深威志电子	ST	06+	30	DO-35
+20N60C3	from hqew, 深威志电子	INFINEON	0	57	TO-220
+22UF/16V	from hqew, 深威志电子	CHANG	08+	1000	4 7
+24C02W6	from hqew, 深威志电子	ST	5	37	SOP-8
+24LC256I	from hqew, 深威志电子	Other	06+	12	SOP-8
+24LC32A	from hqew, 深威志电子	MICROCHIP	05+	13	
+27.0MHZ	from hqew, 深威志电子	Other	6	16	5 7
+2931A	from hqew, 深威志电子	NEC	&nbsp;	38	SOP-8
+2N0807	from hqew, 深威志电子	Infineon	08+	15	TO-263
+2N6490	from hqew, 深威志电子	ON/ST/ISC	06+	10	TO-220AB
+2SA1292	from hqew, 深威志电子	国产	802	21	TO-3PB
+2SA1480-E	from hqew, 深威志电子	Sanyo	&nbsp;	86	TO-126
+2SC1843	from hqew, 深威志电子	NEC	03+	30	TO-92
+2SC2216	from hqew, 深威志电子	TOSHIBA	07+	172	TO-92
+2SC2236-Y	from hqew, 深威志电子	Toshiba	03+	180	TO-92L
+2SC2240	from hqew, 深威志电子	Toshiba	02+	53	TO-92
+2SC2411	from hqew, 深威志电子	ROHM	&nbsp;	100	SOT-23-3
+2SC2411K	from hqew, 深威志电子	ROHM	&nbsp;	100	SOT-23
+2SC2911	from hqew, 深威志电子	Sanyo	05+	50	TO-126
+2SC4382	from hqew, 深威志电子	SanKen	08+	50	TO-220
+2SC4549	from hqew, 深威志电子	NEC	&nbsp;	98	TO-220F
+2SC5200	from hqew, 深威志电子	Toshiba	05+	10	TO-3PL
+2SC9014	from hqew, 深威志电子	Samsung	&nbsp;	53	TO-92
+2SD1302	from hqew, 深威志电子	0	05+	110	TO-92
+2SD1816S	from hqew, 深威志电子	Sanyo	06+	418	TO-251
+2SK2391	from hqew, 深威志电子	TOSHIBA	&nbsp;	15	TO-220
+2SK2843	from hqew, 深威志电子	Toshiba	03+	98	TO-220F
+3.3uF/250V	from hqew, 深威志电子	Other	&nbsp;	28	
+330UF/250V	from hqew, 深威志电子	NICHICON	06+	35	18 35
+33174	from hqew, 深威志电子	ST	&nbsp;	77	SOP-14
+3DD325	from hqew, 深威志电子	0	00+	10	TO-220
+3N3K/S	from hqew, 深威志电子	Other	&nbsp;	33	
+4816P-001-100	from hqew, 深威志电子	BOURNS	06+	150	SOP-16
+5164KV	from hqew, 深威志电子	NPC	04+	11	TSSOP-16
+6.3V/60mA，2.6PIE	from hqew, 深威志电子	ALPS	07+	23628	DIP-2( 2
+60N03S	from hqew, 深威志电子	AP	06+	80	TO263
+6N136	from hqew, 深威志电子	Philips	9220	50	DIP-8
+74AC157	from hqew, 深威志电子	Fairchild	&nbsp;	13	SOP-16(3
+74AC175	from hqew, 深威志电子	Fairchild	&nbsp;	14	SOP-16(3
+74ACT00	from hqew, 深威志电子	Fairchild	&nbsp;	19	SOP-14(3
+74ACT32	from hqew, 深威志电子	Other	&nbsp;	30	
+74ACT74	from hqew, 深威志电子	Fairchild	&nbsp;	17	SOP-14(3
+74ALS244C	from hqew, 深威志电子	TI	&nbsp;	29	SOP-20
+74F04	from hqew, 深威志电子	Other	&nbsp;	27	
+74F132	from hqew, 深威志电子	FAIRCHILD	&nbsp;	12	SOP-14
+74F240	from hqew, 深威志电子	NS	&nbsp;	99	SOP-20
+74HC00A	from hqew, 深威志电子	ON SEMI	&nbsp;	11	
+74HC123D	from hqew, 深威志电子	Other	&nbsp;	13	
+74HC132M	from hqew, 深威志电子	Other	&nbsp;	20	
+74HC164N	from hqew, 深威志电子	Other	&nbsp;	50	
+74HC20D	from hqew, 深威志电子	PHILIPS	&nbsp;	39	SOP-14
+74HC244D	from hqew, 深威志电子	PHILIPS	&nbsp;	44	SOIC-20(
+74HC30D	from hqew, 深威志电子	PHILIPS	&nbsp;	16	SOP-14(3
+74HC541	from hqew, 深威志电子	HARRIS	99+	15	SOIC-20(
+74HCT03D	from hqew, 深威志电子	Philips	05+	19	SOP-14(3
+74HCT161D	from hqew, 深威志电子	Philips	&nbsp;	13	SOP-14(3
+74HCT541N	from hqew, 深威志电子	Philips	40	99	DIP-20
+74HCT541N	from hqew, 深威志电子	Philips	&nbsp;	18	DIP-20
+74LCX16374	from hqew, 深威志电子	ON SEMI	&nbsp;	14	SSOP-48
+74LV14A	from hqew, 深威志电子	TI	&nbsp;	124	SSOP-14
+74LVC04AD	from hqew, 深威志电子	PHILIPS	&nbsp;	49	SOP-14
+74LVC16244ADGG	from hqew, 深威志电子	PHILIPS	&nbsp;	81	TSSOP-48
+74LVC74A	from hqew, 深威志电子	Other	&nbsp;	148	TSSOP-14
+74LVT16245BDL	from hqew, 深威志电子	PHILIPS	&nbsp;	10	SSOP-48
+74LVTH125	from hqew, 深威志电子	FAIRCHILD	&nbsp;	11	SOP-14
+74LVTH125	from hqew, 深威志电子	Fairchild	&nbsp;	315	SOP-14(3
+74LX125A	from hqew, 深威志电子	TI	&nbsp;	37	SSOP-14
+A176B	from hqew, 深威志电子	TI	&nbsp;	10	SOP-8
+A277308-70	from hqew, 深威志电子	AMIC	9850	10	DIP-28
+AB235120101	from hqew, 深威志电子	NEC	95+	150	SOP-28
+AJ1-XO-03-780-PPX-D	from hqew, 深威志电子	CARLING	01+	24	DIP-6
+AN2131QC	from hqew, 深威志电子	CYPRESS	4	10	QFP-100
+AN7161NFP	from hqew, 深威志电子	PANSONIC	09+	11	DIP-12
+AOD448	from hqew, 深威志电子	AOD	06+	249	TO-252
+AQY210EH	from hqew, 深威志电子	NAIS	08+	45	DIP-4
+AT24C16AN	from hqew, 深威志电子	ATMEL	O2+	15	SOP8
+AT93C46	from hqew, 深威志电子	ATMEL	08+	24	DIP-8
+AT93C46-SC2.7	from hqew, 深威志电子	ATMEL	2001	100	SOP
+AT93C66-PI27	from hqew, 深威志电子	ATMEL	04+	119	SOP-8
+ATMEGA48V-10PU	from hqew, 深威志电子	ATMEL	10+	10	DIP-28
+ATMEGA8515-16AU	from hqew, 深威志电子	ATMEL	0714+	19	QFP-44
+BA15218N	from hqew, 深威志电子	ROHM	03+	315	SIP-8
+BAT54S	from hqew, 深威志电子	Philips	&nbsp;	38	SOT-23
+BC817	from hqew, 深威志电子	ON SEMI	&nbsp;	104	SOT23
+BC817-40	from hqew, 深威志电子	国产	&nbsp;	12	SOT-23
+BCP55	from hqew, 深威志电子	Toshiba	02+	415	SOT-223
+BD442	from hqew, 深威志电子	ON SEMI	03+	11	TO-126
+BDX78	from hqew, 深威志电子	ST	&nbsp;	40	TO-220
+BPX-65	from hqew, 深威志电子	Vishay	05+	18	DIP-2(
+BSW68A	from hqew, 深威志电子	Philips	&nbsp;	200	TO-46
+BTA06-600CW	from hqew, 深威志电子	ST	06+	20	TO-220
+BTS555	from hqew, 深威志电子	Infineon/Sie	03+	67	TO-3P
+BU4053BCF	from hqew, 深威志电子	ROHM	2003	315	SOP-16
+BU406D	from hqew, 深威志电子	Philips	&nbsp;	13	TO-220
+BU9831F	from hqew, 深威志电子	NEC	95+	63	SOP-8
+BYT28-300	from hqew, 深威志电子	Philips	99+	11	TO-220
+BYV10-60	from hqew, 深威志电子	ST	04+	40	DO-41
+BZW50-150B	from hqew, 深威志电子	ST	00+	52	AG
+C114	from hqew, 深威志电子	Toshiba	&nbsp;	10	TO-92
+C4574G	from hqew, 深威志电子	ROHM	&nbsp;	15	SOP-14
+C844G	from hqew, 深威志电子	NEC	00+	25	SOP-14P
+CA3262E	from hqew, 深威志电子	HARRIS	00+	10	DIP-16
+CD4040BE	from hqew, 深威志电子	TI	06+	10	DIP-16
+CD74ACT05M	from hqew, 深威志电子	TI	04+	14	SOP-14(3
+CD74HC132E	from hqew, 深威志电子	Harris	9422	25	DIP-16
+CD74HC175M	from hqew, 深威志电子	TI	&nbsp;	45	SOP-16(3
+CD74HC244M	from hqew, 深威志电子	TI	&nbsp;	25	SOIC-20(
+CD74HC541M	from hqew, 深威志电子	TI	&nbsp;	29	SOIC-20(
+CMS1621	from hqew, 深威志电子	CMS	08+	200	
+CMS1621	from hqew, 深威志电子	CMS	02+	30	
+CNX62A	from hqew, 深威志电子	Philips	9239	32	DIP-6
+CVCN06-100(60-10PF)(10PF)	from hqew, 深威志电子	JISEUNG	3	6027	DIP-2( 6
+CXK58257M-10L	from hqew, 深威志电子	SONY	06+	32	SOP-28
+CY7C63001A-PC	from hqew, 深威志电子	Cypress	38	20	DIP-20
+CY7C63723C-SXC	from hqew, 深威志电子	CYPRESS	08+	18	SOP-18
+D325	from hqew, 深威志电子	Sanken	&nbsp;	16	TO-220
+D540003	from hqew, 深威志电子	MACOM	03+	16	SOP-8
+DA1085	from hqew, 深威志电子	ST	&nbsp;	87	SOP-8
+DA108S	from hqew, 深威志电子	ST	03+	87	SOP-8
+DFF4N60	from hqew, 深威志电子	德爱	06+	50	TO-220F
+DG408DY	from hqew, 深威志电子	NEF	&nbsp;	10	SOP-16
+DG408DY	from hqew, 深威志电子	APT	&nbsp;	13	SOP-16
+DM74ALS273WM	from hqew, 深威志电子	NS	&nbsp;	12	SOIC-20(
+DM74F74	from hqew, 深威志电子	National	&nbsp;	21	SOP-14(
+DS2003CN	from hqew, 深威志电子	National	9252	14	DIP-16
+DS2E-S-DC24V	from hqew, 深威志电子	MATSUSHITA	07+	21	DIP-8
+DS34LV87-TM	from hqew, 深威志电子	National	03+	28	SOP-16(3
+DS90LV028ATM	from hqew, 深威志电子	National	04+	10	SOP-8
+ESS4318F	from hqew, 深威志电子	ESS	1	149	PQFP-208
+EV1527	from hqew, 深威志电子	国产	06+	70	SMD
+FM1373B-G	from hqew, 深威志电子	Fortemedia	06+	46	QFP-48
+FR207	from hqew, 深威志电子	HG/B牌	3	100	DIP
+FT232RL	from hqew, 深威志电子	FTDI	11+	200	SOP
+G20N60RUFD	from hqew, 深威志电子	Fairchild	07+	20	TO-247
+G3NA-210B	from hqew, 深威志电子	欧姆龙	01+	30	
+G6CN-2D	from hqew, 深威志电子	OMRON	02+	19	DIP-8
+GEFORCE2MXTM	from hqew, 深威志电子	NVIDIA	3	24	BGA
+GFB70N03	from hqew, 深威志电子	National/GEN	06+	283	SOT-263
+GFB75N03	from hqew, 深威志电子	National/FAI	06+	264	SOT-263
+HD12134AF	from hqew, 深威志电子	HITACHI	94+	45	SOP-16
+HD74HC125P	from hqew, 深威志电子	Hitachi	04+	15	DIP-14
+HD74HC32P	from hqew, 深威志电子	Hitachi	&nbsp;	19	DIP
+HD74LS245P	from hqew, 深威志电子	Hitachi	03+	20	DIP-20
+HD74LV4051ATELL-E	from hqew, 深威志电子	Hitachi	02+	1295	TSSOP-16
+HDF4HC138P	from hqew, 深威志电子	HITACHI	00+	50	DIP-16
+HEF4040BT	from hqew, 深威志电子	Philips	503	111	SOP-16
+HEF4051BP	from hqew, 深威志电子	Philips	&nbsp;	25	DIP-16
+HEF4093BP	from hqew, 深威志电子	Philips	135	21	DIP-14
+HH4-2355-02	from hqew, 深威志电子	CANON	93	10	SOP-24
+HY1417LP	from hqew, 深威志电子	HYNIX	&nbsp;	10	SOP-16
+ICL8069CCBA	from hqew, 深威志电子	Intersil	05+	200	SOP-8
+ICS2694M	from hqew, 深威志电子	ICS	92+	26	SOP-12
+IR2110S	from hqew, 深威志电子	IR	06+	46	SOP-16
+IRF3710S	from hqew, 深威志电子	IR	2	10	D2-Pak
+IRF640N	from hqew, 深威志电子	IR	842P	85	TO-220AB
+IRF7403	from hqew, 深威志电子	IR	05+	56	SO-8
+IRF840FI	from hqew, 深威志电子	ST	03+	14	TO-220F
+IRF9513	from hqew, 深威志电子	IR	725	15	TO-220
+IRFD9213	from hqew, 深威志电子	IR	04+	10	DIP-4
+IRFU3411	from hqew, 深威志电子	IR	03+	41	TO251
+K1113	from hqew, 深威志电子	HITACHI	&nbsp;	200	TO-251
+KLT21	from hqew, 深威志电子	Motorola	03+	19	SOP-8
+KM416C256BLJ-6	from hqew, 深威志电子	SEC	97+	176	SOJ-40
+KM416C256BLJ-7	from hqew, 深威志电子	SEC	97+	17	SOJ-40
+L14C1	from hqew, 深威志电子	FAIRCHILD	04+	2320	CAN-3 TO
+L4963W	from hqew, 深威志电子	ST	01+	16	DIP-18
+L4978D	from hqew, 深威志电子	ST	05+	300	SOP-16
+L6386D	from hqew, 深威志电子	ST	&nbsp;	67	SOP-14
+L7806CV	from hqew, 深威志电子	ST	&nbsp;	11	TO-220
+L7812CV	from hqew, 深威志电子	ST	10+	10	TO-220
+L7815CV	from hqew, 深威志电子	ST	07+	21	TO-220
+L7915CV	from hqew, 深威志电子	ST	07+	17	TO-220
+L9110	from hqew, 深威志电子	国产	07+	45	DIP-8
+LA1816	from hqew, 深威志电子	SANYO	02+	98	DIP-24
+LA2205	from hqew, 深威志电子	Sanyo	93	440	SIP-16
+LAG665	from hqew, 深威志电子	Mitsubishi	&nbsp;	17	SOP-28
+LC244A	from hqew, 深威志电子	TI	&nbsp;	86	SSOP-20
+LC7821	from hqew, 深威志电子	Sanyo	3	220	SDIP-30
+LCS245	from hqew, 深威志电子	FAIRCHILD	&nbsp;	42	SSOP-20
+LCV16244	from hqew, 深威志电子	MOTO	&nbsp;	15	SSOP-48
+LCX08	from hqew, 深威志电子	TOSHIBA	&nbsp;	46	SSOP-14
+LF356N	from hqew, 深威志电子	National	&nbsp;	24	DIP-8
+LM236AZ-5.0	from hqew, 深威志电子	NSC	08+	101	TO-92
+LM258P	from hqew, 深威志电子	TI	&nbsp;	10	DIP-8
+LM293A	from hqew, 深威志电子	TI	05+	15	SOP-8
+LM2940T-5.0	from hqew, 深威志电子	National	00+	11	TO-220
+LM311	from hqew, 深威志电子	National	03+	18	DIP
+LM339N	from hqew, 深威志电子	TI	&nbsp;	19	DIP-14
+LM358P，LM358D	from hqew, 深威志电子	TI	11+	218	DIP-8
+LM386	from hqew, 深威志电子	NS	11+	200	SOP
+LM393	from hqew, 深威志电子	TI	05+	98	SOP-8
+LM4766T	from hqew, 深威志电子	National	01+	16	ZIP-11
+LPC47M133-NC	from hqew, 深威志电子	SMSC	3	360	QFP-128
+LT455EW	from hqew, 深威志电子	TOKEN	06+	133	DIP-5
+LTV814	from hqew, 深威志电子	LITEON	00+	18	DIP-4
+LVC109	from hqew, 深威志电子	PHILIPS	&nbsp;	53	SSOP-16
+LVC245A	from hqew, 深威志电子	PHILIPS	&nbsp;	40	SSOP-20
+LVX4245	from hqew, 深威志电子	TOSHIBA	&nbsp;	14	SSOP-24
+LXH245A	from hqew, 深威志电子	TI	05+	40	SSOP-20
+MB838000B	from hqew, 深威志电子	FUJITSU	94+	63	SOP-48
+MBR20100CT	from hqew, 深威志电子	国产/ON	10+	20	TO-220AB
+MC145028DW	from hqew, 深威志电子	Motorola	03+	15	SOP-  )
+MC33174	from hqew, 深威志电子	ST	04+	27	SOP-14(3
+MC44BS373CAEF	from hqew, 深威志电子	FREESCALE	06+	10	SOP-16
+MC68HC711E9CFN2	from hqew, 深威志电子	Motorola/Fre	05+	14	PLCC-52
+MC74AC244	from hqew, 深威志电子	ON SEMI	&nbsp;	940	SOIC-20(
+MC74AC253M	from hqew, 深威志电子	ON SEMI	&nbsp;	31	SOP-16(3
+MC74ACT04	from hqew, 深威志电子	ON SEMI	&nbsp;	20	SOP-14
+MC74ACT04D	from hqew, 深威志电子	ON SEMI	04+	28	SOP-14(3
+MC74HC00AD	from hqew, 深威志电子	ON SEMI	&nbsp;	58	SOP-14(3
+MC74HC02	from hqew, 深威志电子	ON SEMI	04+	21	SOP-14(3
+MC74HC04A	from hqew, 深威志电子	ON SEMI	&nbsp;	198	SOP-14(3
+MC74HC158A	from hqew, 深威志电子	MOTOROLA	&nbsp;	752	SOP-16(
+MC74HC161A	from hqew, 深威志电子	ON SEMI	&nbsp;	44	SOP-16
+MC74HC241A	from hqew, 深威志电子	MOTOROLA	&nbsp;	556	SOP-20(
+MC74HC27	from hqew, 深威志电子	MOTOROLA	&nbsp;	1649	SOP-14(
+MC74HC273A	from hqew, 深威志电子	ON SEMI	&nbsp;	1302	SOP-20(
+MC74HC4046A	from hqew, 深威志电子	ON SEMI	05+	47	SOP-16
+MC74HC4046AD	from hqew, 深威志电子	ON SEMI	&nbsp;	45	SOP-16
+MC74HC4052	from hqew, 深威志电子	MOTOROLA	&nbsp;	11	SOP-16(
+MC74HC4052	from hqew, 深威志电子	Motorola	&nbsp;	14	SOP-16
+MC74HC86AF	from hqew, 深威志电子	MOTOROLA	&nbsp;	72	SOP-14(
+MC74LCX16244DT	from hqew, 深威志电子	ON SEMI	&nbsp;	32	TSSOP-48
+MC74LCX16374DT	from hqew, 深威志电子	ON SEMI	&nbsp;	12	TSSOP-48
+MCP3202-BI/SN	from hqew, 深威志电子	MICROCHICP	824	10	SOP-8
+MIC5209-3.3	from hqew, 深威志电子	MICREL	05+	436	SOP-8
+MJE172	from hqew, 深威志电子	ON SEMI	08+	10	TO-126
+MJM555	from hqew, 深威志电子	JRC	&nbsp;	13	SOP-8
+MM74HC08M	from hqew, 深威志电子	Fairchild	04+	26	SOP-14(3
+MM74HC393N	from hqew, 深威志电子	Fairchild	&nbsp;	21	DIP-14
+MM74HC4040M	from hqew, 深威志电子	Fairchild	&nbsp;	13	SOP-16(3
+MPSA06	from hqew, 深威志电子	科威	04+	490	TO-92
+MX27C512DC-15	from hqew, 深威志电子	MXIC	98+	10	PDIP-28
+M1971	from hqew, 深威志电子	Other	&nbsp;	17	SOP-10
+M26C201-90K1	from hqew, 深威志电子	ST	3	32	PLCC-32
+M27C256B-12FI	from hqew, 深威志电子	ST	00+	256	DIP
+M27C4001	from hqew, 深威志电子	ST	3	12	PLCC-32
+M38207M8-055FP	from hqew, 深威志电子	Mitsubishi	3	128	QFP
+M62320FP	from hqew, 深威志电子	Mitsubishi	&nbsp;	12	SOP-16
+M74HC166	from hqew, 深威志电子	ST	&nbsp;	150	SOP-16(3
+M74HC4020B1	from hqew, 深威志电子	ST	&nbsp;	10	DIP-16
+M74HC4066	from hqew, 深威志电子	ST	&nbsp;	90	SOP-14
+MAX406BEPA	from hqew, 深威志电子	MAXIM	9244	31	DIP-8
+MAX4674EGE	from hqew, 深威志电子	MAXIM	05+	240	QFN
+NCP140	from hqew, 深威志电子	ON SEMI	2	10	SOT
+NE2060	from hqew, 深威志电子	JRC	&nbsp;	13	SOP-14
+NEC2501-1(HE)	from hqew, 深威志电子	NEC	00+	193	DIP4
+NEC2501-1.K	from hqew, 深威志电子	Other	5	40	DIP-4
+NJM2624D	from hqew, 深威志电子	JRC	06+	500	DIP-16
+NJM353D	from hqew, 深威志电子	JRC	4	294	DIP-8
+NL17SZ32XV5T2	from hqew, 深威志电子	ON SEMI	04+	28000	SOT-353
+OP07CP	from hqew, 深威志电子	TI	&nbsp;	15	DIP-8
+OPA111BM	from hqew, 深威志电子	BB	&nbsp;	10	TO99
+PBDF107	from hqew, 深威志电子	Other	01+	54	DIP-4
+PC111	from hqew, 深威志电子	SHARP	01+	70	DIP-6
+PC814	from hqew, 深威志电子	Sharp	07+	11	DIP-4
+PCA9555	from hqew, 深威志电子	Philips	06+	16	SSOP
+PXT2907A	from hqew, 深威志电子	NXP	&nbsp;	500	SOT-89
+QX2301L30E	from hqew, 深威志电子	国产	05+	50	SOT-89
+QX2301L33E	from hqew, 深威志电子	国产	05+	50	SOT-89
+QX2301L33E(RT9261 XC638X)	from hqew, 深威志电子	QUANXIN	06+	155	SOT-89 T
+QX2301L36E	from hqew, 深威志电子	国产	05+	50	SOT-89
+R2882	from hqew, 深威志电子	RDC	07+	32	QFP-208
+R2S15102NR	from hqew, 深威志电子	Other	&nbsp;	10	
+RD15HVF1	from hqew, 深威志电子	MIT	067AC	16	TO-220
+RKBCA	from hqew, 深威志电子	ON SEMI	&nbsp;	101	SOP
+RP5C15	from hqew, 深威志电子	RICOH	00+	27	DIP-18
+RP65C02G	from hqew, 深威志电子	RICOH	+	25	PDIP-40
+S29AL016M90TF101	from hqew, 深威志电子	SPANSION	05+	250	TSOP-48
+S2L40	from hqew, 深威志电子	新电元	&nbsp;	200	Axial-7
+S7235A2	from hqew, 深威志电子	SEIKO	+	15	DIP-28
+S93C46	from hqew, 深威志电子	ST	00+	48	SOP-8
+SDDJA10600	from hqew, 深威志电子	ALPS	02+	52	
+SFH203FA	from hqew, 深威志电子	OSRAM	05+	10	4
+SI9420	from hqew, 深威志电子	SI	05+	40	SOP-8
+SI9945A	from hqew, 深威志电子	Other	&nbsp;	270	SOP-8
+SK8050SD	from hqew, 深威志电子	SANKEN	03+	10	TO-263-5
+SKYLARK，ENCORDER	from hqew, 深威志电子	SKYLARK	03+	5893	QFP-128
+SM5856A1F	from hqew, 深威志电子	NPC	04+	270	TQFP-44P
+SN74ABT125	from hqew, 深威志电子	TI	&nbsp;	59	SOP-14(3
+SN74ABT244ADW	from hqew, 深威志电子	TI	&nbsp;	40	SOIC-20(
+SN74ABT373NSR	from hqew, 深威志电子	TI	CXLLA	178	SOP-20(
+SN74ABT573ADW	from hqew, 深威志电子	TI	&nbsp;	13	SOIC-20(
+SN74ACT04D	from hqew, 深威志电子	TI	04+	44	SOP-14(3
+SN74AHCT16244DL	from hqew, 深威志电子	TI	&nbsp;	20	TSSOP-48
+SN74ALS05A	from hqew, 深威志电子	TI	04+	27	SOP-14(
+SN74ALS157A	from hqew, 深威志电子	TI	&nbsp;	13	SOP-16
+SN74ALS157AD	from hqew, 深威志电子	TI	&nbsp;	14	SOP-16(3
+SN74ALS645A	from hqew, 深威志电子	TI	&nbsp;	20	SOP-14
+SN74CU244DB	from hqew, 深威志电子	TI	&nbsp;	40	SSOP-20
+SN74F244DW	from hqew, 深威志电子	TI	&nbsp;	23	SOIC-20(
+SN74F38	from hqew, 深威志电子	TI	&nbsp;	49	SOP-14(3
+SN74F74	from hqew, 深威志电子	TI	&nbsp;	16	SOP-14
+SN74HC03D	from hqew, 深威志电子	TI	&nbsp;	18	SOP-14(3
+SN74HC04N	from hqew, 深威志电子	TI	06+	15	DIP-14
+SN74HC05	from hqew, 深威志电子	TI	04+	28	SOP-14(3
+SN74HC08M	from hqew, 深威志电子	TI	&nbsp;	13	SOP-14
+SN74HC11ANS	from hqew, 深威志电子	TI	&nbsp;	10	SOP-14(
+SN74HC161D	from hqew, 深威志电子	TI	&nbsp;	16	SOP-16(3
+SN74HC165M	from hqew, 深威志电子	TI	&nbsp;	23	SOP-16(3
+SN74HC166D	from hqew, 深威志电子	TI	&nbsp;	17	SOP-16(3
+SN74HC174N	from hqew, 深威志电子	TI	&nbsp;	26	DIP-16
+SN74HC373N	from hqew, 深威志电子	TI	&nbsp;	15	DIP-20
+SN74HCU04	from hqew, 深威志电子	TI	&nbsp;	12	SOP-14(3
+SN74LC04ADB	from hqew, 深威志电子	TI	&nbsp;	198	SSOP-14
+SN74LS00N	from hqew, 深威志电子	TI	&nbsp;	20	DIP-14
+SN74LS04	from hqew, 深威志电子	TI	04+	14	SOP-14(3
+SN74LS05N	from hqew, 深威志电子	TI	&nbsp;	20	DIP-14
+SN74LS123N	from hqew, 深威志电子	TI	06+	15	DIP-14
+SN74LS194AN	from hqew, 深威志电子	TI	&nbsp;	15	DIP-16
+SN74LS244	from hqew, 深威志电子	TI	&nbsp;	49	SOP-16
+SN74LS244N	from hqew, 深威志电子	TI	03+	10	DIP-20
+SN74LS244NS	from hqew, 深威志电子	TI	&nbsp;	13	SOP-20(
+SN74LS245N	from hqew, 深威志电子	TI	06+	15	DIP-20
+SN74LS74ANS	from hqew, 深威志电子	TI	&nbsp;	831	SOP-14(
+SN74LV08APW	from hqew, 深威志电子	TI	&nbsp;	172	TSSOP-14
+SN74LV139APWR	from hqew, 深威志电子	TI	04+	380	TSSOP-16
+SN74LV139APWR	from hqew, 深威志电子	TI	03+	65	TSSOP-16
+SN74LV164APW	from hqew, 深威志电子	TI	CN11	983	TSSOP-14
+SN74LV273	from hqew, 深威志电子	TI	&nbsp;	40	SOP-20
+SN74LVC00A	from hqew, 深威志电子	TI	05+	44	SOP-14(3
+SN74LVTH125	from hqew, 深威志电子	TI	&nbsp;	22	SOP-14
+SN74LVTH16244ADGGR	from hqew, 深威志电子	TI	&nbsp;	22	TSSOP-48
+SN74LVTH273DW	from hqew, 深威志电子	TI	&nbsp;	23	SOIC-20(
+SN75174N	from hqew, 深威志电子	TI	&nbsp;	39	DIP-16
+SP809EK-3-1	from hqew, 深威志电子	SIPEX	&nbsp;	10	SOT23-3
+SPX1587AT-L-2.5	from hqew, 深威志电子	SIPEX	01+	56	TO-263
+SR560	from hqew, 深威志电子	HG/JF	03+	50	DO27
+TA31002P	from hqew, 深威志电子	Toshiba	01+	46	DIP-8
+TA8132AN	from hqew, 深威志电子	Toshiba	01+	98	DIP-24
+TA8207K	from hqew, 深威志电子	UTC	00+	14	SIP-12
+TC35123F	from hqew, 深威志电子	Toshiba	00+	18	SOP-14
+TC4011BP	from hqew, 深威志电子	Toshiba	&nbsp;	21	DIP-14
+TC4052BF	from hqew, 深威志电子	TOSHIBA	9512HB	1855	SOP-16(
+TC4052BF	from hqew, 深威志电子	TOSHIBA	&nbsp;	346	SOP-16(
+TC4066BP	from hqew, 深威志电子	TOSHIBA	05+	20	DIP
+TC74AC08F	from hqew, 深威志电子	Toshiba	9614H	1940	SOP-14(
+TC74AC74F	from hqew, 深威志电子	TOSHIBA	&nbsp;	13	SOP-14(
+TC74HC123AF	from hqew, 深威志电子	TOSHIBA	&nbsp;	98	SOP-16(
+TC74HC163AF	from hqew, 深威志电子	TOSHIBA	95+	1981	SOP-16(
+TC74HC21AF	from hqew, 深威志电子	TOSHIBA	&nbsp;	78	SOP-14(
+TC74HC590AF	from hqew, 深威志电子	TOSHIBA	&nbsp;	12	SOP-16(
+TC74LCX540FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	24	TSSOP-20
+TC74VHC04F	from hqew, 深威志电子	TOSHIBA	&nbsp;	62	SOP-14
+TC74VHC04FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	64	TSSOP-14
+TC74VHC14F	from hqew, 深威志电子	TOSHIBA	&nbsp;	19	SOP-14
+TC74VHC161FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	21	TSSOP-16
+TC74VHC245FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	31	TSSOP-20
+TC74VHC32FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	44	TSSOP-14
+TC74VHC541FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	10	TSSOP-20
+TC74VHC74FT	from hqew, 深威志电子	TOSHIBA	&nbsp;	283	TSSOP-14
+TC74VHCT04AFT	from hqew, 深威志电子	TOSHIBA	&nbsp;	60	TSSOP-14
+TC74VHCT138AF	from hqew, 深威志电子	Toshiba	01+	394	SOP-16(
+TC74VHCT138AFT	from hqew, 深威志电子	TOSHIBA	&nbsp;	26	TSSOP-16
+TC74VHCT373AFT	from hqew, 深威志电子	TOSHIBA	&nbsp;	14	TSSOP-20
+TC9149P	from hqew, 深威志电子	Toshiba	&nbsp;	10	DIP-16
+TC9164AN	from hqew, 深威志电子	TOSHIBA	97+	392	DIP-28
+TC9164N	from hqew, 深威志电子	TOSHIBA	970+	397	DIP-28
+TD62004AP	from hqew, 深威志电子	Toshiba	94+	23	DIP-16
+TD62064AP	from hqew, 深威志电子	Toshiba	91+	26	DIP-16
+TD74HC00A	from hqew, 深威志电子	Toshiba	97+	106	SOP-14
+TDA228M	from hqew, 深威志电子	ST	99+	14	DIP-8
+TEA3717	from hqew, 深威志电子	ST	01+	14	DIP
+TL026CP	from hqew, 深威志电子	TI	00+	30	DIP-8
+TL054CN	from hqew, 深威志电子	TI	&nbsp;	49	DIP-14
+TL072CN	from hqew, 深威志电子	TI	08+	300	DIP
+TL081CP	from hqew, 深威志电子	TI	06+	35	DIP-8
+TL084CN	from hqew, 深威志电子	ST	06+	28	DIP-14
+TL1451ACN	from hqew, 深威志电子	TI	01+	20	DIP-16
+TLC3704C	from hqew, 深威志电子	TI	&nbsp;	13	SOP-14
+TSA606	from hqew, 深威志电子	Philip	01+	77	SOP
+TSC80C31-25CA	from hqew, 深威志电子	TEMIC	00+	10	DIP-40
+TZBX4N100AD110	from hqew, 深威志电子	MURATA	6	193	DIP-3
+UC3842	from hqew, 深威志电子	ST	92+	24	DIP-8
+UC3842BN	from hqew, 深威志电子	ON SEMI	10+	45	DIP-8
+ULN2003	from hqew, 深威志电子	ST	&nbsp;	50	SOP-16
+ULN2003A	from hqew, 深威志电子	TI	&nbsp;	77	SOP-16
+ULN2003AG	from hqew, 深威志电子	Toshiba	09+	10	DIP-16
+UM6164DS-12	from hqew, 深威志电子	UM	2	49	SOJ
+UM61L64S32DU	from hqew, 深威志电子	UMC	3	49	
+UPC1458G2-E2	from hqew, 深威志电子	NEC	04+	284	SOP-8
+VIPER22A	from hqew, 深威志电子	ST	08+	40	DIP-8
+VP0610T	from hqew, 深威志电子	VISHAY	&nbsp;	30	SOT-23
+W5386	from hqew, 深威志电子	WS	0	10	0
+WT7525	from hqew, 深威志电子	WELTREND	&nbsp;	12	DIP-14
+XTR101AP	from hqew, 深威志电子	TI/BB	06+	25	DIP-14
+YPPD-J014A 2300KCF005B-F	from hqew, 深威志电子	LG	6	328	
+YPPD-J016B_2300KCF007A-F	from hqew, 深威志电子	LG	07+	143	
+YPPD-J023_2300KCF010A-F	from hqew, 深威志电子	LG	06+	19	
+YSS903-M	from hqew, 深威志电子	YAMAHA	9840	40	SOP-28
+ZY15	from hqew, 深威志电子	FAGOR	2010	300	DO-15
