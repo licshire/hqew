@@ -15,34 +15,22 @@ import (
 
 func main() {
 	base_url := ""
-	//var pageNumber int64 = 0
 	args := os.Args
 	//fmt.Println(args)
 	//fmt.Println(len(args))
 	if len(args) == 1 {
-		//base_url = "http://jlddz88.hqew.com/ic/ic.html"
 		base_url = "http://www.hqew.com/"
-
 	} else {
-		base_url_sub := []string{"http://", args[1], ".hqew.com/ic/ic.html"}
-		base_url = strings.Join(base_url_sub, "")
-		//if len(args) == 3 {
-		//pageNumberString := args[2]
-		//pageNumber, _ = strconv.ParseInt(pageNumberString, 10, 0)
-		//}
+		base_url = "http://" + args[1] + ".hqew.com/ic/ic.html"
+		//fmt.Println(base_url)
 	}
 
-	//fmt.Println(get_second_domain(base_url))
-	//test := 19792 % 30
-	//fmt.Printf("%s", test)
-	//body, _, _ := getBody("http://jlddz88.hqew.com/ic/ic.html")
-
-	body, isMatchStock, _ := getBody(strings.Join([]string{base_url, "?Page=1"}, ""))
+	body, isMatchStock, _ := getBody(base_url + "?Page=1")
 	if isMatchStock {
 		page := getPage(body)
 		companyName, companyShortName := getCompanyName(body)
-		fileName := strings.Join([]string{"result/", args[1], "_", companyShortName, "_",
-			time.Now().Format("2006-01-02"), ".txt"}, "")
+		//fileName := strings.Join([]string{"result/", args[1], "_", companyShortName, "_",time.Now().Format("2006-01-02"), ".txt"}, "")
+		fileName := "result/" + args[1] + "_" + companyShortName + "_" + time.Now().Format("2006-01-02") + ".txt"
 		os.Remove(fileName)
 		fmt.Println(fileName)
 		f, _ := os.Create(fileName)
@@ -67,9 +55,8 @@ func main() {
 		//将公司名和公司链接写入hqew_list.txt
 		f_hqew_list, _ := os.OpenFile("hqew_list.txt", os.O_APPEND, 0666)
 		w_hqew_list := bufio.NewWriter(f_hqew_list)
-		line_hqew_list := strings.Join([]string{
-			time.Now().Format("2006-01-02"),
-			companyName, base_url, "\r\n"}, "\t")
+		//line_hqew_list := strings.Join([]string{time.Now().Format("2006-01-02"),companyName, base_url, "\r\n"}, "\t")
+		line_hqew_list := time.Now().Format("2006-01-02") + companyName + base_url + "\r\n"
 		fmt.Println(line_hqew_list)
 		w_hqew_list.WriteString(line_hqew_list)
 
@@ -102,8 +89,7 @@ func getBody(url string) (string, bool, error) {
 		}
 
 		//判断该页面是否包含型号列表
-		isMatch, _ := regexp.MatchString(
-			`<tr class="tr0"><td class="c1".*</td></tr>`, body)
+		isMatch, _ := regexp.MatchString(`<tr class="tr0"><td class="c1".*</td></tr>`, body)
 		if isMatch {
 			return body, true, nil
 		} else {
@@ -158,7 +144,7 @@ func getSecondDomain(url string) string {
 
 //根据网页源文件 获取 型号表的内容。以<tr>开头,以</tr>结尾
 func writeFile(str string, w *bufio.Writer) {
-	_, companyName := getCompanyName(str)
+	_, companyShortName := getCompanyName(str)
 	//fmt.Println(companyName)
 	myExp, _ := regexp.Compile(`<tr class="tr0"><td class="c1".*</td></tr>`)
 	trsSlice := myExp.FindAllString(str, -1)
@@ -215,9 +201,11 @@ func writeFile(str string, w *bufio.Writer) {
 				//warehouseString := warehouseSlice[1]
 				var desc string
 				if stockStatus == false {
-					desc = strings.Join([]string{"from hqew, ", companyName}, "")
+					//desc = strings.Join([]string{"from hqew, ", companyName}, "")
+					desc = "from hqew, " + companyShortName
 				} else {
-					desc = strings.Join([]string{"from hqew, 现货 ", companyName}, "")
+					//desc = strings.Join([]string{"from hqew, 现货 ", companyName}, "")
+					desc = "from hqew, 现货, " + companyShortName
 				}
 
 				line := strings.Join([]string{
