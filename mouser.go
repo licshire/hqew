@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"io/ioutil"
-	"log"
+	//"log"
 	"net/http"
 	"os"
 	"regexp"
@@ -19,8 +19,8 @@ func main() {
 	var base_url string = "http://www.mouser.com/Optoelectronics/_/N-5g5v/"
 	var fileName string = "mouser/Optoelectronics.txt"
 	var totalPage int64 = 4166
-
-	var i int64 = 0
+	//默认为0
+	var i int64 = 571
 
 	f, _ := os.OpenFile(fileName, os.O_APPEND, 0666)
 	defer f.Close()
@@ -33,13 +33,17 @@ func main() {
 		//var url string = "http://www.mouser.com/Optoelectronics/_/N-5g5v/?No=25"
 		res, err := http.Get(url)
 		if err != nil {
-			log.Fatal(err)
-			fmt.Println("connect error")
+			fmt.Println("connect error 1")
+			//log.Fatal(err)
+			time.Sleep(30000 * time.Millisecond)
+			continue
 		}
 		bodyByte, err := ioutil.ReadAll(res.Body)
 		if err != nil {
-			log.Fatal(err)
-			fmt.Println("connect error")
+			fmt.Println("connect error 2")
+			time.Sleep(30000 * time.Millisecond)
+			continue
+			//log.Fatal(err)
 		}
 		res.Body.Close()
 		body := string(bodyByte)

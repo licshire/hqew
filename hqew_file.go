@@ -77,13 +77,13 @@ func getBody(url string) (string, bool, error) {
 	if strings.Contains(url, ".hqew.com/ic/ic.html") {
 		res, err := http.Get(url)
 		if err != nil {
-			log.Fatal(err)
 			fmt.Println("connect error")
+			log.Fatal(err)
 		}
 		robots, err := ioutil.ReadAll(res.Body)
 		if err != nil {
-			log.Fatal(err)
 			fmt.Println("connect error")
+			log.Fatal(err)
 		}
 		res.Body.Close()
 		body := string(robots)
