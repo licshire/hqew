@@ -13,6 +13,8 @@ import (
 	"time"
 )
 
+//爬虫hqew二级网站, 将型号，厂家，DC，封装，描述（是否现货）存入txt文件
+// .\hqew.exe SECOND.DOMAIN
 func main() {
 	base_url := ""
 	args := os.Args

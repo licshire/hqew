@@ -1,0 +1,421 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w",
+				"WriteString	int, error ƒ"
+			],
+			[
+				"sea",
+				"search	string ν"
+			],
+			[
+				"sear",
+				"search_sub	string ν"
+			],
+			[
+				"get",
+				"getMiddleString	string ƒ"
+			],
+			[
+				"re",
+				"Replace	string ƒ"
+			],
+			[
+				"my",
+				"mySlice	[]string ν"
+			],
+			[
+				"pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"fun",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"com",
+				"companyName	string ν"
+			],
+			[
+				"base",
+				"base_url_sub	string ν"
+			],
+			[
+				"p",
+				"Println	n int, err error ƒ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hqew.go",
+			"settings":
+			{
+				"buffer_size": 8107,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "hqew_file.go",
+			"settings":
+			{
+				"buffer_size": 7976,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mouser.go",
+			"settings":
+			{
+				"buffer_size": 1867,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "google.go",
+			"settings":
+			{
+				"buffer_size": 2735,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "octopart.go",
+			"settings":
+			{
+				"buffer_size": 1666,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/GoSublime/GoSublime.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View: Toggle Minimap"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"//SERVER-RC/AppServ/www/detail.php",
+		"//SERVER-RC/AppServ/www/add_new_scontact.php",
+		"//SERVER-RC/AppServ/www/define.php",
+		"//SERVER-RC/AppServ/www/index2.php",
+		"//SERVER-RC/AppServ/www/PDF.php",
+		"/C/Go/hqew/octopart.go",
+		"/C/Go/hqew/hqew_list_all.txt",
+		"/C/Go/hqew/hqew_list.txt",
+		"/C/Go/hqew/hqew.go",
+		"//server-rc/AppServ/www/insert_parts.php",
+		"//SERVER-RC/AppServ/www/Functions_RC.php",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"//SERVER-RC/AppServ/www/Functions_brand.php",
+		"/C/Go/bin/src/hqew/hqew.go",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/go2.sublime-build",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"//SERVER-RC/AppServ/www/go/hqew.go",
+		"//SERVER-RC/AppServ/www/go/hqew.sublime-project",
+		"/C/Go/rc/main.go",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/GO.sublime-build",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/GoSublime/GoSublime.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/GoSublime/CHANGELOG.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"octopart.com",
+			"octoparts",
+			"mpn",
+			"YPY1111C",
+			"hotchip-hqew",
+			"mzxkj",
+			"kq100",
+			"\":\n",
+			"env"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hqew.go",
+					"settings":
+					{
+						"buffer_size": 8107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "hqew_file.go",
+					"settings":
+					{
+						"buffer_size": 7976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mouser.go",
+					"settings":
+					{
+						"buffer_size": 1867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "google.go",
+					"settings":
+					{
+						"buffer_size": 2735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "octopart.go",
+					"settings":
+					{
+						"buffer_size": 1666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								88
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://C:\\Go\\bin\\src\\hqew":
+	{
+		"height": 360.0
+	},
+	"output.9o://C:\\Go\\hqew":
+	{
+		"height": 379.0
+	},
+	"output.9o://C:\\Go\\rc":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 304.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"detai",
+				"detail.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true
+}

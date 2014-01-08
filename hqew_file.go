@@ -13,6 +13,9 @@ import (
 	"time"
 )
 
+//爬虫hqew二级网站, 将型号，厂家，DC，封装，描述（是否现货）存入txt文件
+//从file中读取二级域名
+// .\hqew_file.exe
 func main() {
 	dat, _ := ioutil.ReadFile("hqew_list_file.txt")
 

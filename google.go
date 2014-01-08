@@ -12,6 +12,8 @@ import (
 	"time"
 )
 
+//从google网站搜索 获取hqew二级域名，并判断是否有型号列表。是则存入hqew_list_all.txt文件
+// .\google.exe
 func main() {
 	//var url string = "https://www.google.com.hk/search?num=100&newwindow=1&safe=strict&site=&source=hp&q=site%3Ahqew.com+ic.html+%E8%AF%A2%E4%BB%B7&oq=site%3Ahqew.com+ic.html+%E8%AF%A2%E4%BB%B7&gs_l=hp.3...4851.13830.0.14017.31.29.2.0.0.0.124.1515.28j1.29.0....0...1c.1j4.32.hp..26.5.391.PwcfajwGLH8"
 	//var url string = "https://www.google.com.hk/search?q=site:hqew.com+ic.html+%E8%AF%A2%E4%BB%B7&num=100&newwindow=1&safe=strict&ei=O-fIUs7UCMTJiAeD-4DADQ&start=100&sa=N&biw=1096&bih=576"
