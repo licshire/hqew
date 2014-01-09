@@ -49,6 +49,17 @@ func main() {
 		fmt.Println("before http.get(url)")
 		res, err := http.Get(url)
 		fmt.Println("after http.get(url)")
+		fmt.Println(res.StatusCode)
+
+		if res.StatusCode != 200 {
+			fmt.Println("connect error 0")
+			wLog.WriteString(res.Status + "\t" + "connect error 0\t" + time.Now().Format("2006-01-02 15:04:05") + "\r\n")
+			wLog.Flush()
+			//log.Fatal(err)
+			time.Sleep(30000 * time.Millisecond)
+			continue
+		}
+		//os.Exit(1)
 		if err != nil {
 			fmt.Println("connect error 1")
 			wLog.WriteString("connect error 1\t" + time.Now().Format("2006-01-02 15:04:05") + "\r\n")
