@@ -1,0 +1,100 @@
+LS013B7DH03	Sharp Microelectronics
+LHUV-0395-0500	Philips Lumileds
+LHUV-0405-0650	Philips Lumileds
+LHUV-0425-0600	Philips Lumileds
+LHUV-0410-0650	Philips Lumileds
+LHUV-0400-0500	Philips Lumileds
+LHUV-0420-0650	Philips Lumileds
+LXCL-EYW4	Philips Lumileds
+LXZ1-6565	Philips Lumileds
+MATCHBOX DEMO	OSRAM Opto Semiconductors
+LHUV-0390-0450	Philips Lumileds
+XPEBRD-L1-0000-00801	Cree, Inc.
+LHUV-0415-0650	Philips Lumileds
+STP16CPC26TTR	STMicroelectronics
+LHUV-0385-0250	Philips Lumileds
+LHUV-0380-0200	Philips Lumileds
+6A11-A0121-020.0-0	3M Electronic Solutions Division
+STLUX385A	STMicroelectronics
+SFH 7776	OSRAM Opto Semiconductors
+LXZ2-2790-3	Philips Lumileds
+CXA2540-0000-000N00U427F	Cree, Inc.
+LCG H9RM-LXLZ-1-0-350-R18-Z	OSRAM Opto Semiconductors
+LXH1-FWRB	Philips Lumileds
+LXK0-PR04-0008	Philips Lumileds
+L1T2-4070000000000	Philips Lumileds
+LS013B7DH03	Sharp Microelectronics
+LHUV-0395-0500	Philips Lumileds
+LHUV-0405-0650	Philips Lumileds
+LHUV-0425-0600	Philips Lumileds
+LHUV-0410-0650	Philips Lumileds
+LHUV-0400-0500	Philips Lumileds
+LHUV-0420-0650	Philips Lumileds
+LXCL-EYW4	Philips Lumileds
+LXZ1-6565	Philips Lumileds
+MATCHBOX DEMO	OSRAM Opto Semiconductors
+LHUV-0390-0450	Philips Lumileds
+XPEBRD-L1-0000-00801	Cree, Inc.
+LHUV-0415-0650	Philips Lumileds
+STP16CPC26TTR	STMicroelectronics
+LHUV-0385-0250	Philips Lumileds
+LHUV-0380-0200	Philips Lumileds
+6A11-A0121-020.0-0	3M Electronic Solutions Division
+STLUX385A	STMicroelectronics
+SFH 7776	OSRAM Opto Semiconductors
+LXZ2-2790-3	Philips Lumileds
+CXA2540-0000-000N00U427F	Cree, Inc.
+LCG H9RM-LXLZ-1-0-350-R18-Z	OSRAM Opto Semiconductors
+LXH1-FWRB	Philips Lumileds
+LXK0-PR04-0008	Philips Lumileds
+L1T2-4070000000000	Philips Lumileds
+LS013B7DH03	Sharp Microelectronics
+LHUV-0395-0500	Philips Lumileds
+LHUV-0405-0650	Philips Lumileds
+LHUV-0425-0600	Philips Lumileds
+LHUV-0410-0650	Philips Lumileds
+LHUV-0400-0500	Philips Lumileds
+LHUV-0420-0650	Philips Lumileds
+LXCL-EYW4	Philips Lumileds
+LXZ1-6565	Philips Lumileds
+MATCHBOX DEMO	OSRAM Opto Semiconductors
+LHUV-0390-0450	Philips Lumileds
+XPEBRD-L1-0000-00801	Cree, Inc.
+LHUV-0415-0650	Philips Lumileds
+STP16CPC26TTR	STMicroelectronics
+LHUV-0385-0250	Philips Lumileds
+LHUV-0380-0200	Philips Lumileds
+6A11-A0121-020.0-0	3M Electronic Solutions Division
+STLUX385A	STMicroelectronics
+SFH 7776	OSRAM Opto Semiconductors
+LXZ2-2790-3	Philips Lumileds
+CXA2540-0000-000N00U427F	Cree, Inc.
+LCG H9RM-LXLZ-1-0-350-R18-Z	OSRAM Opto Semiconductors
+LXH1-FWRB	Philips Lumileds
+LXK0-PR04-0008	Philips Lumileds
+L1T2-4070000000000	Philips Lumileds
+LS013B7DH03	Sharp Microelectronics
+LHUV-0395-0500	Philips Lumileds
+LHUV-0405-0650	Philips Lumileds
+LHUV-0425-0600	Philips Lumileds
+LHUV-0410-0650	Philips Lumileds
+LHUV-0400-0500	Philips Lumileds
+LHUV-0420-0650	Philips Lumileds
+LXCL-EYW4	Philips Lumileds
+LXZ1-6565	Philips Lumileds
+MATCHBOX DEMO	OSRAM Opto Semiconductors
+LHUV-0390-0450	Philips Lumileds
+XPEBRD-L1-0000-00801	Cree, Inc.
+LHUV-0415-0650	Philips Lumileds
+STP16CPC26TTR	STMicroelectronics
+LHUV-0385-0250	Philips Lumileds
+LHUV-0380-0200	Philips Lumileds
+6A11-A0121-020.0-0	3M Electronic Solutions Division
+STLUX385A	STMicroelectronics
+SFH 7776	OSRAM Opto Semiconductors
+LXZ2-2790-3	Philips Lumileds
+CXA2540-0000-000N00U427F	Cree, Inc.
+LCG H9RM-LXLZ-1-0-350-R18-Z	OSRAM Opto Semiconductors
+LXH1-FWRB	Philips Lumileds
+LXK0-PR04-0008	Philips Lumileds
+L1T2-4070000000000	Philips Lumileds

@@ -18,13 +18,28 @@ import (
 func main() {
 	var base_url string = "http://www.mouser.com/Optoelectronics/_/N-5g5v/"
 	var fileName string = "mouser/Optoelectronics.txt"
+	var fileNameLog string = "mouser/log.txt"
 	var totalPage int64 = 4166
 	//默认为0
-	var i int64 = 571
+	var i int64 = 1576
+
+	args := os.Args
+	if len(args) == 2 {
+		noString := args[1]
+		noInt64, _ := strconv.ParseInt(noString, 10, 0)
+		i = noInt64 / 25
+	} else {
+		fmt.Println("please input .\\mouser.exe noNumber ")
+		os.Exit(1)
+		//fmt.Println(base_url)
+	}
+	fmt.Println(i)
+	//os.Exit(1)
 
 	f, _ := os.OpenFile(fileName, os.O_APPEND, 0666)
-	defer f.Close()
 	w := bufio.NewWriter(f)
+	fLog, _ := os.OpenFile(fileNameLog, os.O_APPEND, 0666)
+	wLog := bufio.NewWriter(fLog)
 
 	for i <= totalPage {
 		url_sub := strconv.FormatInt(i*25, 10)
@@ -34,16 +49,26 @@ func main() {
 		res, err := http.Get(url)
 		if err != nil {
 			fmt.Println("connect error 1")
+			wLog.WriteString("connect error 1\t" + time.Now().Format("2006-01-02 15:04:05") + "\r\n")
+			wLog.Flush()
 			//log.Fatal(err)
 			time.Sleep(30000 * time.Millisecond)
 			continue
 		}
 		bodyByte, err := ioutil.ReadAll(res.Body)
 		if err != nil {
-			fmt.Println("connect error 2")
-			time.Sleep(30000 * time.Millisecond)
-			continue
-			//log.Fatal(err)
+			for {
+				fmt.Println("connect error 2")
+				wLog.WriteString("connect error 2\t" + time.Now().Format("2006-01-02 15:04:05") + "\r\n")
+				wLog.Flush()
+				time.Sleep(30000 * time.Millisecond)
+				bodyByte, err = ioutil.ReadAll(res.Body)
+				if err == nil {
+					break
+				}
+				//log.Fatal(err)
+			}
+
 		}
 		res.Body.Close()
 		body := string(bodyByte)
@@ -53,7 +78,7 @@ func main() {
 		//fmt.Println(body)
 
 		oneLineSlice := strings.Split(body, "SearchResultsRow")
-
+		var number int64 = 0
 		for _, oneLine := range oneLineSlice {
 			//fmt.Println(onePart)
 			onePartSlice := strings.Split(oneLine, "</a><br />")
@@ -66,17 +91,33 @@ func main() {
 
 				brand := getMiddleString(onePartSlice[2], `">`, "</a>")
 				fmt.Println(model, "\t", brand)
-				w.WriteString(model + "\t" + brand + "\r\n")
+				_, err := w.WriteString(model + "\t" + brand + "\r\n")
+				if err != nil {
+					fmt.Println("write to file error 1")
+					wLog.WriteString("write to file error 1\t" + time.Now().Format("2006-01-02 15:04:05") + "\r\n")
+					wLog.Flush()
+					continue
+				}
+				number++
 			}
-
 			//fmt.Println("\n")
 		}
-		fmt.Println(url)
+		fmt.Println(url, "\t", time.Now().Format("2006-01-02 15:04:05"))
+		wLog.WriteString(url + "\t" + time.Now().Format("2006-01-02 15:04:05") + "\t" + "获取型号" + strconv.FormatInt(number, 10) + "\r\n")
 		i++
+
+		err2 := w.Flush()
+		if err2 != nil {
+			fmt.Println("write to file error 2")
+			wLog.WriteString("write to file error 2\t" + time.Now().Format("2006-01-02 15:04:05") + "\r\n")
+			continue
+		}
+		wLog.Flush()
 		time.Sleep(5000 * time.Millisecond)
 	}
-	w.Flush()
 	//fmt.Println(stocksSlice)
+	defer f.Close()
+	defer fLog.Close()
 }
 
 //给定一个字符串str0，提取两个字符串str1,str2之间的字符串

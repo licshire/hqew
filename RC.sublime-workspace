@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"pa",
+				"ParseInt	i int64, err error ƒ"
+			],
+			[
+				"p",
+				"ParseInt	i int64, err error ƒ"
+			],
+			[
+				"stock",
+				"stocksSlice	[]string ν"
+			],
+			[
+				"print",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"f",
+				"FormatInt	string ƒ"
+			],
+			[
 				"w",
 				"WriteString	int, error ƒ"
 			],
@@ -42,10 +62,6 @@
 			[
 				"base",
 				"base_url_sub	string ν"
-			],
-			[
-				"p",
-				"Println	n int, err error ƒ"
 			]
 		]
 	},
@@ -63,7 +79,7 @@
 			"file": "hqew_file.go",
 			"settings":
 			{
-				"buffer_size": 7976,
+				"buffer_size": 8062,
 				"line_ending": "Windows"
 			}
 		},
@@ -71,23 +87,7 @@
 			"file": "mouser.go",
 			"settings":
 			{
-				"buffer_size": 1867,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "google.go",
-			"settings":
-			{
-				"buffer_size": 2735,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "octopart.go",
-			"settings":
-			{
-				"buffer_size": 1666,
+				"buffer_size": 3338,
 				"line_ending": "Windows"
 			}
 		}
@@ -124,12 +124,15 @@
 	},
 	"file_history":
 	[
+		"/C/Go/hqew/octopart.go",
+		"/C/Go/hqew/google.go",
+		"/C/Go/hqew/test.go",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/GoSublime/9o.md",
 		"//SERVER-RC/AppServ/www/detail.php",
 		"//SERVER-RC/AppServ/www/add_new_scontact.php",
 		"//SERVER-RC/AppServ/www/define.php",
 		"//SERVER-RC/AppServ/www/index2.php",
 		"//SERVER-RC/AppServ/www/PDF.php",
-		"/C/Go/hqew/octopart.go",
 		"/C/Go/hqew/hqew_list_all.txt",
 		"/C/Go/hqew/hqew_list.txt",
 		"/C/Go/hqew/hqew.go",
@@ -164,6 +167,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ParseInt",
+			"15:23:12",
 			"octopart.com",
 			"octoparts",
 			"mpn",
@@ -180,6 +185,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"08:23:12"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -190,7 +196,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -205,8 +211,8 @@
 						"selection":
 						[
 							[
-								86,
-								86
+								222,
+								438
 							]
 						],
 						"settings":
@@ -215,7 +221,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 162.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -225,15 +231,15 @@
 					"file": "hqew_file.go",
 					"settings":
 					{
-						"buffer_size": 7976,
+						"buffer_size": 8062,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								177,
-								177
+								2758,
+								2766
 							]
 						],
 						"settings":
@@ -243,7 +249,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 162.0,
+						"translation.y": 1675.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -253,15 +259,15 @@
 					"file": "mouser.go",
 					"settings":
 					{
-						"buffer_size": 1867,
+						"buffer_size": 3338,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								146,
-								146
+								622,
+								622
 							]
 						],
 						"settings":
@@ -270,61 +276,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "google.go",
-					"settings":
-					{
-						"buffer_size": 2735,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								112,
-								112
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "octopart.go",
-					"settings":
-					{
-						"buffer_size": 1666,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								88,
-								88
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 432.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -369,11 +321,15 @@
 	},
 	"output.9o://C:\\Go\\hqew":
 	{
-		"height": 379.0
+		"height": 251.0
 	},
 	"output.9o://C:\\Go\\rc":
 	{
 		"height": 100.0
+	},
+	"output.9o://C:\\Users\\Administrator\\AppData\\Roaming\\Sublime Text 2\\Packages\\GoSublime":
+	{
+		"height": 118.0
 	},
 	"output.GoSublime-output":
 	{
@@ -389,7 +345,7 @@
 	},
 	"replace":
 	{
-		"height": 0.0
+		"height": 62.0
 	},
 	"save_all_on_build": false,
 	"select_file":

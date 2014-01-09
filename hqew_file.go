@@ -20,13 +20,14 @@ func main() {
 	dat, _ := ioutil.ReadFile("hqew_list_file.txt")
 
 	secondDomainSlice := strings.Split(string(dat), "\r\n")
-	fmt.Print(secondDomainSlice)
+	//fmt.Print(secondDomainSlice)
 	for _, secondDomain := range secondDomainSlice {
 
 		base_url_sub := []string{"http://", secondDomain, ".hqew.com/ic/ic.html"}
 		base_url := strings.Join(base_url_sub, "")
 
 		body, isMatchStock, _ := getBody(strings.Join([]string{base_url, "?Page=1"}, ""))
+		fmt.Println(isMatchStock)
 		if isMatchStock {
 			page := getPage(body)
 			companyName, companyShortName := getCompanyName(body)
@@ -106,16 +107,19 @@ func getBody(url string) (string, bool, error) {
 
 //根据body内容 获取页码数
 func getPage(body string) int {
-	stocksExp := regexp.MustCompile(
-		`找到<i id="ctl00_cph_Content_pager2_spantotal">(.*)</i>条结果`)
+	stocksExp := regexp.MustCompile(`找到<i id="ctl00_cph_Content_pager2_spantotal">(.*)</i>条结果`)
 	stocksSlice := stocksExp.FindStringSubmatch(body)
 	//fmt.Println(stocksSlice[1])
-	stocks, _ := strconv.ParseInt(stocksSlice[1], 10, 0)
-	//fmt.Println(stocksSlice)
-	if stocks%30 == 0 {
-		return int(stocks / 30)
+	if len(stocksSlice) >= 2 {
+		stocks, _ := strconv.ParseInt(stocksSlice[1], 10, 0)
+		//fmt.Println(stocksSlice)
+		if stocks%30 == 0 {
+			return int(stocks / 30)
+		} else {
+			return int(stocks/30) + 1
+		}
 	} else {
-		return int(stocks/30) + 1
+		return 1
 	}
 }
 

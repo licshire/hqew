@@ -1,0 +1,12 @@
+M0	from hqew, 北京华芯微特科技	synwit	SWM1200	10000	LQFP32
+M0	from hqew, 北京华芯微特科技	synwit	SWM1200	10000	SSOP28
+SW-M1200	from hqew, 北京华芯微特科技	synwit	SWM1200	10000	SSOP28
+SWM12LQ32RA	from hqew, 北京华芯微特科技	SynWit	SWM1200	10000	LQFP32
+MCU SW-M1200	from hqew, 北京华芯微特科技	synwit	SWM1200	10000	LQFP32
+M0 SW-M1200	from hqew, 北京华芯微特科技	synwit	SWM1200	10000	SSOP28
+SW-M1200 LPC	from hqew, 北京华芯微特科技	synwit	SWM1200	10000	SSOP28
+SW-M1200 LPC	from hqew, 北京华芯微特科技	synwit	SWM1200	10000	LQFP32
+SWM12LQ32FA	from hqew, 北京华芯微特科技	SynWit	SWM1200	10000	LQFP32
+SWM12SS28FA	from hqew, 北京华芯微特科技	SynWit	SWM1200	10000	SSOP28
+cortex	from hqew, 北京华芯微特科技	synwit	SWM1200	10000	SSOP28
+SWM12SS28RA	from hqew, 北京华芯微特科技	SynWit	SWM1200	10000	SSOP28
