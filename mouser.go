@@ -46,7 +46,9 @@ func main() {
 		url := base_url + "?No=" + url_sub
 
 		//var url string = "http://www.mouser.com/Optoelectronics/_/N-5g5v/?No=25"
+		fmt.Println("before http.get(url)")
 		res, err := http.Get(url)
+		fmt.Println("after http.get(url)")
 		if err != nil {
 			fmt.Println("connect error 1")
 			wLog.WriteString("connect error 1\t" + time.Now().Format("2006-01-02 15:04:05") + "\r\n")
@@ -55,7 +57,9 @@ func main() {
 			time.Sleep(30000 * time.Millisecond)
 			continue
 		}
+		fmt.Println("before ioutil.ReadAll(res.Body)")
 		bodyByte, err := ioutil.ReadAll(res.Body)
+		fmt.Println("after ioutil.ReadAll(res.Body)")
 		if err != nil {
 			for {
 				fmt.Println("connect error 2")
@@ -70,6 +74,7 @@ func main() {
 			}
 
 		}
+		fmt.Println("res.Body.Close")
 		res.Body.Close()
 		body := string(bodyByte)
 		if len(body) != 0 {
