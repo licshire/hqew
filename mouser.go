@@ -17,8 +17,8 @@ import (
 // .\mouser.exe
 func main() {
 	var base_url string = "http://www.mouser.com/Optoelectronics/_/N-5g5v/"
-	var fileName string = "mouser/Optoelectronics.txt"
-	var fileNameLog string = "mouser/log.txt"
+	var fileName string = "Optoelectronics.txt"
+	var fileNameLog string = "log.txt"
 	var totalPage int64 = 4166
 	//默认为0
 	var i int64 = 1576
@@ -36,9 +36,9 @@ func main() {
 	fmt.Println(i)
 	//os.Exit(1)
 
-	f, _ := os.OpenFile(fileName, os.O_APPEND, 0666)
+	f, _ := os.OpenFile(fileName, os.O_CREATE|os.O_APPEND|os.O_RDWR, 0660)
 	w := bufio.NewWriter(f)
-	fLog, _ := os.OpenFile(fileNameLog, os.O_APPEND, 0666)
+	fLog, _ := os.OpenFile(fileNameLog, os.O_CREATE|os.O_APPEND|os.O_RDWR, 0660)
 	wLog := bufio.NewWriter(fLog)
 
 	for i <= totalPage {
@@ -145,4 +145,5 @@ func getMiddleString(str0, str1, str2 string) string {
 	} else {
 		return mySlice[1]
 	}
+	return ""
 }
