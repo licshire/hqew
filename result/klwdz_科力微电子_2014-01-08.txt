@@ -1,0 +1,3194 @@
+02CZ2.7 X 2.7X	from hqew, 科力微电子	TOSHIBA	98+	3000	SOT-23-3
+0603X105K250CT(0603 105K)	from hqew, 科力微电子	华新	02+	12000	O6O3
+2SC1623 L5	from hqew, 科力微电子	国产	13+	123000	SOT-23
+2SC1623 L6	from hqew, 科力微电子	CJ	13+	90000	SOT-323
+78L09	from hqew, 科力微电子	国产	13+	40000	SOT-89-3
+78M05	from hqew, 科力微电子	UTC	&nbsp;	5080	TO-252-2
+78M08 78M08	from hqew, 科力微电子	国产	13+	10000	TO-252
+AO3405	from hqew, 科力微电子	AO	13+	48000	SOT-23
+BAT54RALT1G B6	from hqew, 科力微电子	ZOWIE	10+	18000	SOT-23
+BC817-25-6B	from hqew, 科力微电子	西门子	08+	48000	SOT-23
+BC817-25W-6B	from hqew, 科力微电子	国产	13+	738000	SOT-323
+BC847LT1G 1F	from hqew, 科力微电子	ON SEMI	99+	6000	SOT-23
+BC857A 3EW	from hqew, 科力微电子	PH	07+	45000	SOT-23
+BC857C 3GW	from hqew, 科力微电子	PH	10+	6000	SOT-23
+BC858A 3J	from hqew, 科力微电子	国产	12+	24000	SOT-323
+BC858A-3J	from hqew, 科力微电子	国产	01+	138000	D400R
+BZX84 C3V3 Z14	from hqew, 科力微电子	PH	11+	15000	SOT-23
+BZX84 C8V2 Z7W	from hqew, 科力微电子	PH	11+	15000	SOT-23
+BZX84C8V2LT1 Z7	from hqew, 科力微电子	LRC	01+	3000	SOT-23
+BZX84J B30 SN	from hqew, 科力微电子	PH	08+	9000	SOD-323
+CR0402FF1503G(0402-150KF)	from hqew, 科力微电子	丽智	13+	160000	0402
+CR0402JF0103G(0402-10K)	from hqew, 科力微电子	丽智	13+	40670000	0402
+CR0402JF0160G(0402-16R)	from hqew, 科力微电子	丽智	13+	300000	0402
+CR0402JF01R0G(0402-1R)	from hqew, 科力微电子	丽智	13+	1760000	0402
+CR0402JF0202G(0402-2K)	from hqew, 科力微电子	丽智	13+	3830000	0402
+CR0402JF0304G(0402-300K)	from hqew, 科力微电子	丽智	13+	290000	0402
+CR0402JF0391G(0402-390R)	from hqew, 科力微电子	丽智	13+	610000	0402
+CR0402JF0432G(0402-4.3K)	from hqew, 科力微电子	丽智	13+	160000	0402
+EVM3E3X50B54(3X3 50K )	from hqew, 科力微电子	PANASONIC	10+	12000	33
+FR1M	from hqew, 科力微电子	TK	10+	10000	SMA
+HK16081N5S T(0603 1.5NH)	from hqew, 科力微电子	太诱	99+	4000	0603
+LBAT54CLT1G-5C	from hqew, 科力微电子	LRC	&nbsp;	27000	SOT-89
+LBC817-40LT1G-6C	from hqew, 科力微电子	LRC	&nbsp;	6000	SOT-23
+MMBD4148A-5H	from hqew, 科力微电子	CJ	&nbsp;	1665000	SOT-23
+MMBT9014D-1L	from hqew, 科力微电子	ST	&nbsp;	81000	SOT-23
+MMBTA92 A92	from hqew, 科力微电子	国产	13+	115000	SOT-89
+MMDT4403 K2T	from hqew, 科力微电子	CJ	13+	9000	SOT-363
+NLV32T 2R2J PF(1210 2.2UH)	from hqew, 科力微电子	TDK	06+	2000	1210
+RB160L 73	from hqew, 科力微电子	国产	11+	69000	SOD-123
+SD103AW S3	from hqew, 科力微电子	国产	13+	126000	SOD-123
+SI2304DS	from hqew, 科力微电子	VISHAY	13+	207000	SOT-23
+SS8550W Y2	from hqew, 科力微电子	国产	13+	447000	SOT-323
+T491C106M020AS(20V/10UF/C)	from hqew, 科力微电子	基美	99+	19000	C
+TAJB335M016RAC(16V 3.3UF B)	from hqew, 科力微电子	AVX	00+	2000	B
+TCSCSOJ106KAAR(6.3V/10UF/A)	from hqew, 科力微电子	SAMSUNG	01+	4000	A
+TFDU4202 TR1	from hqew, 科力微电子	国产东芝	03+	3000	
+TLZ18A GS08	from hqew, 科力微电子	VISHAY	03+	2500	LL34
+TMCOGA106MLRH(4V/10UF/A)	from hqew, 科力微电子	日立	00+	96000	A
+TPSY227M010P0200(10V/220UF/D)	from hqew, 科力微电子	AVX	10+	3000	SOT-23
+VJ0603Y152JXBTMM(0603 152J)	from hqew, 科力微电子	VISHAY	05+	4000	603
+VJ1812X823KXBT(1812 823K)	from hqew, 科力微电子	VISHAY	01+	244000	1812
+XC637213331PR 2332	from hqew, 科力微电子	TOREX	00+	600	SOT-89
+ZMM13V	from hqew, 科力微电子	HL	13+	152500	LL-34
+02C20 X 20X	from hqew, 科力微电子	TOSHIBA	98+	6000	SOT-23-3
+02CZ12 12Y	from hqew, 科力微电子	TOSHIBA	98+	3000	SOT-23-3
+02CZ2.2 X 2.2X	from hqew, 科力微电子	TOSHIBA	98+	6000	SOT-23-3
+02CZ5.6 Y 5.6Y	from hqew, 科力微电子	TOSHIBA	98+	9000	SOT-23-3
+0402A101KXBAC31(0402 100P)	from hqew, 科力微电子	VISHAY	02+	50000	O4O2
+0603 1.8NH	from hqew, 科力微电子	西门子	01+	30000	0603
+0603N270J500LT(0603 27P)	from hqew, 科力微电子	华新	02+	4000	O6O3
+10MCS226KCTER(10V/22UF/C)	from hqew, 科力微电子	黑金刚	01+	28800	C
+13005 AK	from hqew, 科力微电子	CJ	10+	280	TO-220
+1N4007LT1G	from hqew, 科力微电子	国产ON	13+	60000	SOD-323
+1N5817LT1G	from hqew, 科力微电子	国产ON	13+	237000	SOD-323
+1N5819WS SL A	from hqew, 科力微电子	国产	13+	3000	SOT-323
+2AS1587 CL	from hqew, 科力微电子	CJ	13+	90000	SOT-323
+2N3906S ZA	from hqew, 科力微电子	KEC	13+	6726000	SOT-23
+2N7002 702	from hqew, 科力微电子	CJ	11+	3000	SOT-23
+2SA1213 NY	from hqew, 科力微电子	国产	13+	277000	SOT-89-3
+2SA1797 AGQ	from hqew, 科力微电子	国产	13+	40000	SOT-89
+2SB1386 BHR	from hqew, 科力微电子	国产	13+	36000	SOT-89
+2SD2098 DJR	from hqew, 科力微电子	国产	13+	37000	SOT-89
+2SK3018 KN	from hqew, 科力微电子	CJ	13+	45000	SOT-323
+3DD13002	from hqew, 科力微电子	CJ	13+	2500	TO-252-2
+78L05 78L05	from hqew, 科力微电子	国产	13+	261000	SOT-89
+78L05 78L05	from hqew, 科力微电子	国产	13+	111000	SOT-23-3
+78L08 78L08	from hqew, 科力微电子	国产	13+	13000	SOT-89
+78L10	from hqew, 科力微电子	国产	13+	40000	SOT-89-3
+78L12	from hqew, 科力微电子	国产	13+	40000	SOT-89-3
+78M08	from hqew, 科力微电子	UTC	&nbsp;	5080	TO-252-2
+78M15	from hqew, 科力微电子	UTC	&nbsp;	80	TO-252-2
+9015W M6	from hqew, 科力微电子	国产	13+	201000	SOT-323
+ABV54 06B5003 TA	from hqew, 科力微电子	西门子	08+	6000	SOT-23
+AO3400	from hqew, 科力微电子	AO	13+	39000	SOT-23
+AO3401	from hqew, 科力微电子	AO	13+	339000	SOT-23
+AVL18S03300LC120(0603 18V)	from hqew, 科力微电子	AMOTECH	04+	12000	
+B240A B240A	from hqew, 科力微电子	国产东芝	13+	144000	SMA
+BAS16 5D	from hqew, 科力微电子	国产	13+	687000	SOT-23
+BAS21 JS	from hqew, 科力微电子	CJ	12+	36000	SOT-23
+BAS40 06 46	from hqew, 科力微电子	西门子	07+	3000	SOT-23
+BAT17 04 54S	from hqew, 科力微电子	西门子	&nbsp;	1900	SOT-23
+BAT54CW 43T	from hqew, 科力微电子	PH	04+	18000	SOT-323
+BAT54S HL44	from hqew, 科力微电子	国产	13+	342000	SOT-23
+BAT54S L44	from hqew, 科力微电子	ST	13+	3000	SOT-23
+BAT68 04 84	from hqew, 科力微电子	西门子	01+	3000	SOT-23
+BAV70 A4	from hqew, 科力微电子	CJ	13+	3000	SOT-23
+BAV70 A4W	from hqew, 科力微电子	国产	13+	105000	SOT-23
+BAV99 A7	from hqew, 科力微电子	西门子	06+	12000	SOT-23
+BAV99U A7S	from hqew, 科力微电子	西门子	06+	240000	SOT-363
+BC807 16 5AW	from hqew, 科力微电子	PH	09+	123000	SOT-23
+BC807 25 5BS	from hqew, 科力微电子	西门子	11+	84000	SOT-23
+BC807 25 5BW	from hqew, 科力微电子	国产	13+	681000	SOT-23
+BC807 40 5C	from hqew, 科力微电子	国产	13+	192000	SOT-23
+BC807-25W 5B	from hqew, 科力微电子	国产	12+	333000	SOT-323
+BC807-40-5CS	from hqew, 科力微电子	西门子	08+	15000	SOT-23
+BC817 25 B5003 6B	from hqew, 科力微电子	西门子	08+	3000	SOT-23
+BC846BW 1B	from hqew, 科力微电子	国产	13+	231000	SOT-323
+BC847BT 1F	from hqew, 科力微电子	西门子	08+	3000	SOT-523
+BC856BW 3BT	from hqew, 科力微电子	PH	05+	6000	SOT-323
+BC857A 3ES	from hqew, 科力微电子	西门子	04+	12000	SOT-23
+BC857C H3G	from hqew, 科力微电子	国产	12+	72000	SOT-23
+BSS84 12W	from hqew, 科力微电子	PH	08+	3000	SOT-23
+BT169D	from hqew, 科力微电子	AUK	11+	81000	SOT-23
+BZT52C5V1S	from hqew, 科力微电子	国产	13+	135000	SOD-323
+BZX84 C11 Z9P	from hqew, 科力微电子	PH	04+	3000	SOT-23
+BZX84 C5V1 Z2P	from hqew, 科力微电子	PH	04+	9600	SOT-23
+BZX84 C6V2 Z4W	from hqew, 科力微电子	PH	11+	60000	SOT-23
+BZX84 C6V8 Z5W	from hqew, 科力微电子	PH	11+	9000	SOT-23
+BZX84 C9V1 Z8W	from hqew, 科力微电子	Other	07+	42000	SOT-23
+BZX84C 20 B1A	from hqew, 科力微电子	PH	99+	3000	SOT-23
+BZX84-C13-Y3W	from hqew, 科力微电子	NXP	&nbsp;	52000	SMA
+BZX84-C16-Y5W	from hqew, 科力微电子	NXP	&nbsp;	90000	SOT-23
+BZX84-C2V4-WT3	from hqew, 科力微电子	NXP	&nbsp;	3000	SOD-323
+BZX84C5V1 Z2	from hqew, 科力微电子	CJ	13+	90000	SOT-23
+BZX84C6V2 Z4	from hqew, 科力微电子	CJ	11+	3000	SOT-23
+C0402X5R104K100NY(0402 104K)	from hqew, 科力微电子	EY	&nbsp;	10000	O4O2
+C1815 HF	from hqew, 科力微电子	CJ	13+	1284000	SOT-23
+C3216X5R1C106MT000N(1206 106M)	from hqew, 科力微电子	TDK	05+	2000	O8O5
+CB1608 100(0603 100R)	from hqew, 科力微电子	ZHF	&nbsp;	8000	0603
+CB2012 310(0805 31R)	from hqew, 科力微电子	ZHF	&nbsp;	4000	0805
+CB3216 601(1206 600R)	from hqew, 科力微电子	ZHF	&nbsp;	28000	1206
+CH1608H47NJ(0603 47NH)	from hqew, 科力微电子	ZHF	&nbsp;	4000	0603
+CH1608H47NJ(0603 47NH)	from hqew, 科力微电子	ZHF	&nbsp;	4000	0603
+CI1608B1R8K(0603 1.8R)	from hqew, 科力微电子	ZHF	&nbsp;	4000	0603
+CI2012B4R7K(0805 4.7UH)	from hqew, 科力微电子	ZHF	&nbsp;	32000	0805
+CJ6562	from hqew, 科力微电子	CJ	11+	500	TO-220
+CJ78L15 78L15	from hqew, 科力微电子	CJ	13+	43000	TO-92
+CJB772	from hqew, 科力微电子	CJ	13+	78000	SOT-89
+CJP07N60	from hqew, 科力微电子	CJ	12+	500	TO-220
+CJP10N60	from hqew, 科力微电子	CJ	11+	500	TO-220
+CR0402FF1000G(0402-100RF)	from hqew, 科力微电子	丽智	13+	280000	0402
+CR0402FF1502G(0402-15KF)	from hqew, 科力微电子	丽智	13+	160000	0402
+CR0402FF1802G(0402-18KF)	from hqew, 科力微电子	丽智	13+	300000	0402
+CR0402FF2000G(0402-200RF)	from hqew, 科力微电子	丽智	13+	200000	0402
+CR0402FF20R0G(0402-20RF)	from hqew, 科力微电子	丽智	13+	70000	0402
+CR0402FF24R9G(0402-24.9RF)	from hqew, 科力微电子	丽智	13+	300000	0402
+CR0402FF3301G(0402-3.3KF)	from hqew, 科力微电子	丽智	13+	100000	0402
+CR0402FF37R4G(0402-37.4RF)	from hqew, 科力微电子	丽智	13+	60000	0402
+CR0402FF3902G(0402-39KF)	from hqew, 科力微电子	丽智	13+	100000	0402
+CR0402FF3920G(0402-392RF)	from hqew, 科力微电子	丽智	13+	160000	0402
+CR0402FF4301G(0402-4.3KF)	from hqew, 科力微电子	丽智	13+	440000	0402
+CR0402FF4700G(0402-470RF)	from hqew, 科力微电子	丽智	13+	70000	0402
+CR0402FF4750G(0402-475RF)	from hqew, 科力微电子	丽智	13+	300000	0402
+CR0402FF4993G(0402-499KF)	from hqew, 科力微电子	丽智	13+	100000	0402
+CR0402FF5100G(0402-510RF)	from hqew, 科力微电子	丽智	13+	420000	0402
+CR0402FF5101G(0402-5.1KF)	from hqew, 科力微电子	丽智	13+	270000	0402
+CR0402FF51R0G(0402-51RF)	from hqew, 科力微电子	丽智	13+	80000	0402
+CR0402FF5601G(0402-5.6KF)	from hqew, 科力微电子	丽智	13+	10000	0402
+CR0402FF56R0G(0402-56RF)	from hqew, 科力微电子	丽智	13+	100000	0402
+CR0402FF7152G(0402-71.5KF)	from hqew, 科力微电子	丽智	13+	40000	0402
+CR0402FF7501G(0402-7.5KF)	from hqew, 科力微电子	丽智	13+	110000	0402
+CR0402FF7502G(0402-75KF)	from hqew, 科力微电子	丽智	13+	230000	0402
+CR0402FF80R6G(0402-80.6RF)	from hqew, 科力微电子	丽智	13+	130000	0402
+CR0402JF0000G(0402-0R)	from hqew, 科力微电子	丽智	13+	1250000	0402
+CR0402JF0104G(0402-100K)	from hqew, 科力微电子	丽智	13+	8210000	0402
+CR0402JF0121G(0402-120R)	from hqew, 科力微电子	丽智	13+	1530000	0402
+CR0402JF0152G(0402-1.5K)	from hqew, 科力微电子	丽智	13+	40000	0402
+CR0402JF0153G(0402-15K)	from hqew, 科力微电子	丽智	13+	1150000	0402
+CR0402JF0162G(0402-1.6K)	from hqew, 科力微电子	丽智	13+	90000	0402
+CR0402JF0181G(0402-180R)	from hqew, 科力微电子	丽智	13+	40000	0402
+CR0402JF0183G(0402-18K)	from hqew, 科力微电子	丽智	13+	190000	0402
+CR0402JF0184G(0402-180K)	from hqew, 科力微电子	丽智	13+	240000	0402
+CR0402JF0240G(0402-24R)	from hqew, 科力微电子	丽智	13+	1220000	0402
+CR0402JF0301G(0402-300R)	from hqew, 科力微电子	丽智	13+	2390000	0402
+CR0402JF0302G(0402-3K)	from hqew, 科力微电子	丽智	13+	300000	0402
+CR0402JF0330G(0402-33R)	from hqew, 科力微电子	丽智	13+	1510000	0402
+CR0402JF0332G(0402-3.3K)	from hqew, 科力微电子	丽智	13+	2890000	0402
+CR0402JF0361G(0402-360R)	from hqew, 科力微电子	丽智	13+	1140000	0402
+CR0402JF0390G(0402-39R)	from hqew, 科力微电子	丽智	13+	140000	0402
+CR0402JF0430G(0402-43R)	from hqew, 科力微电子	丽智	13+	420000	0402
+CR0402JF0431G(0402-430R)	from hqew, 科力微电子	丽智	13+	160000	0402
+CR0402JF0434G(0402-430K)	from hqew, 科力微电子	丽智	13+	290000	0402
+CR0402JF0470G(0402-47R)	from hqew, 科力微电子	丽智	13+	220000	0402
+CR0402JF0561G(0402-560R)	from hqew, 科力微电子	丽智	13+	640000	0402
+CR0402JF0750G(0402-75R)	from hqew, 科力微电子	丽智	13+	5620000	0402
+CVR 32A 104SW2(3*3 100K)	from hqew, 科力微电子	京瓷	00+	10000	33
+ES1J	from hqew, 科力微电子	国产东芝	13+	2000	DO-214
+ES2D	from hqew, 科力微电子	-	&nbsp;	5000	SMB
+FDN302P NL	from hqew, 科力微电子	FAIRCHILD	13+	12000	SOT-23
+FDN306P NL	from hqew, 科力微电子	FAIRCHILD	13+	21000	SOT-23
+FDN352AP NL	from hqew, 科力微电子	FAIRCHILD	13+	15000	SOT-23
+FDN358P NL	from hqew, 科力微电子	FAIRCHILD	13+	3000	SOT-23
+FK2125TZ700C500T(0805 70R)	from hqew, 科力微电子	太诱	01+	360000	O8O5
+FK2125Z700C850T	from hqew, 科力微电子	太诱	01+	6000	O8O5
+G1A-SOT-23	from hqew, 科力微电子	国产	&nbsp;	3522000	SOT-23
+GRM31CR60J106KC01L(1206 106K)	from hqew, 科力微电子	村田	01+	1000	1206
+GRM42 6X7R105K16D530(1206 105K)	from hqew, 科力微电子	村田	03+	437000	12O6
+HK1005 27NJ T(0402 27NH)	from hqew, 科力微电子	太诱	02+	50000	0402
+HK16081N0S T(0603 1NH)	from hqew, 科力微电子	太诱	00+	4000	0603
+HVC133TRF P3	from hqew, 科力微电子	日立	00+	192000	SOD-523
+HZ0805E601R 00(0805 600R)	from hqew, 科力微电子	STEWARD	00+	8000	0805
+IR24VDC50A(0805 24V)	from hqew, 科力微电子	MICRO	00+	6000	O8O5
+ISC1812 220UH10％T/R(1812 220UH)	from hqew, 科力微电子	VISHAY	08+	196000	1812
+LBZX84C3V0LT1G-Z13	from hqew, 科力微电子	LRC	&nbsp;	3000	SOD-123
+LGHK1608R15J TD(0603 150NH)	from hqew, 科力微电子	太诱	01+	4000	0603
+MBR0530LT3G	from hqew, 科力微电子	国产ON	13+	12000	SOD-123
+MBR0540LT1G	from hqew, 科力微电子	国产ON	13+	3000	SOD-323
+MBR0540LT3G	from hqew, 科力微电子	国产ON	13+	570000	SOD-123
+MLF2012A4R7KT000(0805-4.7R)	from hqew, 科力微电子	TDK	00+	2000	0805
+MMBD4148-5D	from hqew, 科力微电子	ST	&nbsp;	270000	SOD-323
+MMBD4148CC D5	from hqew, 科力微电子	CJ	13+	3000	SOT-23
+MMBD6100LT1-513M	from hqew, 科力微电子	ZOWIE	&nbsp;	6000	SOT-23
+MMBT2222ALT1G	from hqew, 科力微电子	ON SEMI	13+	321000	SOT-23
+MMBT3904 T1A	from hqew, 科力微电子	国产	&nbsp;	147000	S0T-23
+MMBT3904-A7W	from hqew, 科力微电子	NXP	&nbsp;	6000	SOT-23
+MMBT3906 H2A	from hqew, 科力微电子	国产	13+	408000	SOT-23
+MMBT3906T 3N	from hqew, 科力微电子	国产	13+	99000	SOT-523
+MMBT5401 H2LB	from hqew, 科力微电子	国产	13+	15000	SOT-23
+MMBTA42 A42	from hqew, 科力微电子	国产	13+	114000	SOT-89
+MMBTSC1623L-1G	from hqew, 科力微电子	ST	&nbsp;	426000	SOT-23
+MMST2907A 2F	from hqew, 科力微电子	国产	13+	27000	SOT-323
+MMST5401 2L	from hqew, 科力微电子	国产	13+	357000	SOD-323
+NETBPS1R222K410H5Q	from hqew, 科力微电子	太诱	00+	8000	
+NTC T475M16TRA(16V/4.7UF/A)	from hqew, 科力微电子	NTC	04+	4000	A
+PESD5V0S1UB-N2	from hqew, 科力微电子	NXP	&nbsp;	3000	SOT-23
+PMBS3904 T04	from hqew, 科力微电子	PH	11+	240000	SOT-23
+PMBS3906 T2A	from hqew, 科力微电子	国产	13+	480000	SOT-323
+PMST3904 T1A	from hqew, 科力微电子	PH	09+	6000	SOT-323
+PXT3906 2A	from hqew, 科力微电子	国产	13+	98000	SOT-89-3
+RB161M 30	from hqew, 科力微电子	ROHM	11+	102000	SOD-123
+RLS4148 A2	from hqew, 科力微电子	国产ROHM	13+	129000	SOD-323
+RS1J	from hqew, 科力微电子	国产东芝	13+	64000	DO-214
+RVG3A08 222VM TQ(3*3 2.2K)	from hqew, 科力微电子	村田	00+	10000	33
+RVG3A08-222VM-TQ(3*3-2.2K)	from hqew, 科力微电子	村田	00+	10000	33
+S8050	from hqew, 科力微电子	CJ	13+	238000	TO-92
+S8550	from hqew, 科力微电子	CJ	13+	96000	TO-92
+S9018 J8	from hqew, 科力微电子	CJ	13+	45000	SOT-323
+SI2305DS	from hqew, 科力微电子	VISHAY	13+	183000	SOT-23
+SI2306DS	from hqew, 科力微电子	VISHAY	13+	237000	SOT-23
+SI2307DS	from hqew, 科力微电子	VISHAY	13+	63000	SOT-23
+SI2309DS	from hqew, 科力微电子	VISHAY	13+	27000	SOT-23
+SMB3904B5003-C1A	from hqew, 科力微电子	西门子	&nbsp;	9000	SOT-89
+SS8550 Y2	from hqew, 科力微电子	CJ	13+	456000	SOT-323
+T491A105M016AS4002(16V/1UF/A)	from hqew, 科力微电子	基美	00+	18000	A
+T491C336M006SA(6.3V/33UF/C)	from hqew, 科力微电子	基美	03+	500	C
+T491C685M025AS7280(25V/6.8UF/C)	from hqew, 科力微电子	基美	06+	18000	C
+T520V157M006AS(6.3V/150UF/D)	from hqew, 科力微电子	基美	02+	30000	D
+T520V157M006SA(6.3V/150UF/V)	from hqew, 科力微电子	基美	02+	1000	V
+TA 016TCMS4R7M AR(16V/4.7UF/A)	from hqew, 科力微电子	仙童	01+	6000	A
+TAJB685M010RNJ(10V/6.8UF/B)	from hqew, 科力微电子	AVX	01+	4000	B
+TAJC156K016RNJ(16V/15UF/C)	from hqew, 科力微电子	AVX	00+	500	C
+TAJC336K006R(6.3V/33UF/C)	from hqew, 科力微电子	AVX	00+	3000	C
+TAJD226M025RNJ(25V/22UF/D)	from hqew, 科力微电子	AVX	99+	500	D
+TAJD336M016SNJ(16V/33UF/D)	from hqew, 科力微电子	AVX	02+	60000	D
+TBPS0R683H455H5Q(0402 68K)	from hqew, 科力微电子	太诱	00+	10000	0402
+TBPS1R104J475H5Q(0603 100K)	from hqew, 科力微电子	太诱	01+	116000	0603
+TC7S00F E1	from hqew, 科力微电子	TOSHIBA	99+	3000	SOT-353
+TCSCNOJ336MBAR(6.3V/33UF/B)	from hqew, 科力微电子	SAMSUNG	01+	2000	B
+TEMSVA0J226M8R(6.3V/22UF/A)	from hqew, 科力微电子	NEC	04+	2000	A
+TEMSVC1C336M12R(16V/33UF/C)	from hqew, 科力微电子	NEC	04+	31500	C
+TEMSVCOJ107M12R(6.3/100UF/C)	from hqew, 科力微电子	NEC	01+	500	C
+TEMSVP1C105M8R(16V/1UF/P)	from hqew, 科力微电子	NEC	04+	3000	P
+TK11228AMTL P28	from hqew, 科力微电子	TOKO	99+	500	
+TK11823MTL D23	from hqew, 科力微电子	TOKO	99+	3800	
+TMCJ1C105MTRF(16V/1UF/J)	from hqew, 科力微电子	日立	00+	40000	J
+TMCMAOG106MTR(4V/10UF/A)	from hqew, 科力微电子	日立	02+	2000	A
+TMCMAOG336MTR(4V/33UF/A)	from hqew, 科力微电子	日立	00+	8000	A
+TMCPOJ225KTR(6.3V/2.2UF/P)	from hqew, 科力微电子	日立	99+	3000	P
+TP0202T T1 P3P	from hqew, 科力微电子	VISHAY	00+	69000	SOT-23
+TPSD336K020R0200(20V/33UF/D)	from hqew, 科力微电子	AVX	00+	26980	D
+TPSD336K020R0200(20V/33UF/D)	from hqew, 科力微电子	AVX	99+	26980	D
+TPSD336M020R020(20V/33UF/D)	from hqew, 科力微电子	AVX	00+	500	D
+TSM1C475ASSR(16V/4.7UF/A)	from hqew, 科力微电子	韩产	00+	1102000	A
+TZB4Z060AB10R00(4*4-6P)	from hqew, 科力微电子	村田	11+	2500	34
+US2M	from hqew, 科力微电子	国产东芝	12+	27000	SMB
+VJ0402G104KXGCL(0402 104K)	from hqew, 科力微电子	VISHAY	02+	50000	O4O2
+VJ0603Y152JXBTMM(0603 152J)	from hqew, 科力微电子	VISHAY	05+	4000	O6O3
+VJ0603Y182JXAAC00(0603 182J)	from hqew, 科力微电子	VISHAY	00+	4000	603
+VJ0805U224MXXAT54(0805 224M)	from hqew, 科力微电子	VISHAY	00+	60000	O8O5
+VJ0805U474ZXJTM(0805 474Z)	from hqew, 科力微电子	VISHAY	01+	3000	O8O5
+VJ0805Y103JXAAR(0805 103J)	from hqew, 科力微电子	VISHAY	01+	265500	O8O5
+VJ0806Y104KXXPML(0805 104K)	from hqew, 科力微电子	VISHAY	01+	50000	805
+VJ1206Y124JXAT(1206 124J)	from hqew, 科力微电子	VISHAY	00+	18000	1206
+VJ1206Y154JXBMT54(1206 154J)	from hqew, 科力微电子	VISHAY	01+	3000	1206
+VJ1206Y334KXJT(1206 334K)	from hqew, 科力微电子	VISHAY	01+	9000	1206
+VJ1210Y104KXBTMM(1210 104K)	from hqew, 科力微电子	VISHAY	04+	3000	1210
+VJ1210Y472MXC M	from hqew, 科力微电子	VISHAY	00+	12000	
+VJ1812A472FFBAT(1812 222J)	from hqew, 科力微电子	VISHAY	01+	2000	1812
+VJ1812Y104JXCT005T(1812 104J)	from hqew, 科力微电子	VISHAY	01+	146000	1812
+VJ1812Y334KXBT023Z(1812 334K)	from hqew, 科力微电子	VISHAY	01+	20000	1812
+VJ1812Y824KBAT3L(1812 824K)	from hqew, 科力微电子	VISHAY	01+	414000	1812
+VJ9039Y333KXAMR69(0805 333K)	from hqew, 科力微电子	VISHAY	00+	10000	O8O5
+VJ9362Y223JXGAT(1825 223J)	from hqew, 科力微电子	VISHAY	00+	21000	1825
+XC6372B331PR 233B	from hqew, 科力微电子	TOREX	01+	9000	SOT-89
+ZMM22V	from hqew, 科力微电子	HL	13+	65000	LL-34
+ZMM30V	from hqew, 科力微电子	HL	13+	120000	LL-34
+ZMM3V0	from hqew, 科力微电子	HL	13+	57500	LL-34
+ZMM3V6	from hqew, 科力微电子	通用	13+	12500	LL-34
+ZMM3V9	from hqew, 科力微电子	通用	13+	40000	LL-34
+ZMM4V3	from hqew, 科力微电子	HL	13+	2500	LL-34
+ZMM5V1	from hqew, 科力微电子	HL	13+	147500	LL-34
+ZMM6V8	from hqew, 科力微电子	通用	13+	2500	LL-34
+02CZ16 Y 16Y	from hqew, 科力微电子	TOSHIBA	98+	6000	SOT-23-3
+0603 2.7NH	from hqew, 科力微电子	西门子	00+	6000	0603
+0603 33NXJBC(0603 33NH)	from hqew, 科力微电子	线艺	06+	6000	O6O3
+1563000	from hqew, 科力微电子	国产	13+	1644000	SOT-23
+1N4148WS W2	from hqew, 科力微电子	国产	13+	90000	SOD-323
+1N5817WS SJ	from hqew, 科力微电子	国产	13+	294000	SOD-323
+1SS193 F3	from hqew, 科力微电子	国产	13+	324000	SOT-23
+2N7002 72NVD	from hqew, 科力微电子	PH	02+	15000	SOT-23
+2SA1013	from hqew, 科力微电子	国产	09+	3000	TO-92
+2SC1623 HL6	from hqew, 科力微电子	国产	13+	54000	SOT-23
+2SC1623 L6	from hqew, 科力微电子	国产	13+	270000	SOT-23
+2SC2873 MY	from hqew, 科力微电子	国产	13+	33100	SOT-89-3
+2SC4672 DKQ	from hqew, 科力微电子	国产	13+	60000	SOT-89
+2SC4672 DKQ	from hqew, 科力微电子	CJ	13+	65000	SOT-89
+2SC4672 DKR	from hqew, 科力微电子	CJ	13+	48000	SOT-89
+2SC4672 DKR	from hqew, 科力微电子	国产	13+	35000	SOT-89
+2SD1898 DF	from hqew, 科力微电子	CJ	13+	1000	SOT-89
+2SD882 D882	from hqew, 科力微电子	国产	13+	419000	SOT-89
+2SK3018W KN	from hqew, 科力微电子	ROHM	13+	105000	SOT-323
+78L08	from hqew, 科力微电子	国产	13+	40000	SOT-89-3
+78M09	from hqew, 科力微电子	UTC	&nbsp;	5080	TO-252-2
+984FB 6R8M P3	from hqew, 科力微电子	TOKO	04+	3000	
+A1015 BA	from hqew, 科力微电子	CJ	13+	828000	SOT-23
+AO3404	from hqew, 科力微电子	AO	13+	27000	SOT-23
+B45194E2157M409V10(10V 150UF D)	from hqew, 科力微电子	西门子	03+	880000	D
+B45197A3476K409(16V/47UF/D)	from hqew, 科力微电子	西门子	04+	16500	D
+B5817W SJ	from hqew, 科力微电子	CJ	12+	306000	SOD-123
+BAR64 02W M	from hqew, 科力微电子	西门子	00+	790000	SOD-523
+BAS16 A6	from hqew, 科力微电子	国产	13+	2337000	SOT-23
+BAT42W S7	from hqew, 科力微电子	CJ	13+	51000	SOD-123
+BAT54 KL1	from hqew, 科力微电子	国产	13+	99000	SOT-23
+BAT54S L44	from hqew, 科力微电子	国产	13+	60000	SOT-23
+BAT64 02W M	from hqew, 科力微电子	西门子	12+	733000	SOD-523
+BAT64 05 65S	from hqew, 科力微电子	西门子	08+	6000	SOT-23
+BAT68 04 84	from hqew, 科力微电子	西门子	01+	3000	SOT-23
+BAV70 A4T	from hqew, 科力微电子	PH	12+	9000	SOT-23
+BAVR64 02W E6327 M	from hqew, 科力微电子	西门子	00+	3000	SOD-523
+BC807 16 5AW	from hqew, 科力微电子	PH	09+	123000	SOT-23
+BC807 25 5B	from hqew, 科力微电子	CJ	13+	45000	SOT-23
+BC807 40LT1G 5C	from hqew, 科力微电子	ON SEMI	04+	3000	SOT-23
+BC807-25-5BS	from hqew, 科力微电子	西门子	08+	132000	SOT-23
+BC817 25 6B	from hqew, 科力微电子	CJ	13+	27000	SOT-23
+BC817 40 6C	from hqew, 科力微电子	CJ	13+	3000	SOT-23
+BC817K-25-6B	from hqew, 科力微电子	CJ	13+	123000	SOT-23
+BC846A 1A	from hqew, 科力微电子	国产	13+	90000	SOT-23
+BC847AW 1E	from hqew, 科力微电子	国产	12+	585000	SOT-323
+BC847AW 1ET	from hqew, 科力微电子	PH	10+	15000	SOT-23
+BC849BW 2BT	from hqew, 科力微电子	PH	00+	6000	SOT-323
+BC856A 3AW	from hqew, 科力微电子	PH	11+	9000	SOT-23
+BC857A 3ET	from hqew, 科力微电子	PH	09+	81000	SOT-23
+BCP56 16 BCP56	from hqew, 科力微电子	PH	10+	4000	SOT-223
+BFR92A P2W	from hqew, 科力微电子	PH	&nbsp;	9000	SOT-23
+BSN20	from hqew, 科力微电子	PH	13+	15000	SOT-23
+BZT52C12	from hqew, 科力微电子	国产	13+	216000	SOD-123
+BZT52C18S	from hqew, 科力微电子	国产	13+	87000	SOD-323
+BZT52C7V5S	from hqew, 科力微电子	国产	13+	231000	SOD-323
+BZX584C6V8 Z5	from hqew, 科力微电子	CJ	09+	24000	SOD-523
+BZX84 C18 DF	from hqew, 科力微电子	PH	08+	3000	SOD-323
+BZX84 C3V9 WB3	from hqew, 科力微电子	PH	08+	15000	SOT-23
+BZX84C2V7LT1 Z12	from hqew, 科力微电子	ZOWIE	00+	27000	SOT-23
+BZX84-C4V3-WB6	from hqew, 科力微电子	NXP	&nbsp;	6000	SOT-23
+BZX84C5V6 56W	from hqew, 科力微电子	PH	00+	3000	SOT-23
+BZX84-C5V6-ZBW	from hqew, 科力微电子	NXP	&nbsp;	90000	SOT-23
+BZX84C6V8LT1 Z5	from hqew, 科力微电子	ZOWIE	01+	15000	SOT-23
+BZX884 B3V0 A3	from hqew, 科力微电子	PH	08+	10000	SOD-882
+C945 C945	from hqew, 科力微电子	CJ	02+	18000	SOT-23
+CB2012 101/0A5(0805 100R)	from hqew, 科力微电子	ZHF	&nbsp;	4000	0805
+CB2012 310(0805 31R)	from hqew, 科力微电子	ZHF	&nbsp;	4000	0805
+CB321609B601(1206 600R)	from hqew, 科力微电子	ZHF	&nbsp;	8000	1206
+CI1608B1R8K(0603 1.8R)	from hqew, 科力微电子	ZHF	&nbsp;	4000	0603
+CI2012B4R7K(0805 4.7UH)	from hqew, 科力微电子	ZHF	&nbsp;	32000	0805
+CI2012C6R8K(0805 6.8R)	from hqew, 科力微电子	ZHF	&nbsp;	4000	0805
+CI3216C100K(1206 10UH)	from hqew, 科力微电子	ZHF	&nbsp;	16000	1206
+CI3216C100K(1206 10UH)	from hqew, 科力微电子	ZHF	&nbsp;	16000	1206
+CJ2312 S12	from hqew, 科力微电子	CJ	13+	30000	SOT-23
+CJ3401 R1	from hqew, 科力微电子	CJ	13+	93000	SOT-23
+CJ3420 R20	from hqew, 科力微电子	CJ	13+	30000	SOT-23
+CJP75N80	from hqew, 科力微电子	CJ	11+	500	TO-220
+CL05B104KPEC(0402 104K)	from hqew, 科力微电子	SAMSUNG	04+	10000	O4O2
+CR0402FF1001G(0402-1KF)	from hqew, 科力微电子	丽智	13+	460000	0402
+CR0402FF1002G(0402-10KF)	from hqew, 科力微电子	丽智	13+	650000	0402
+CR0402FF1003G(0402-100KF)	from hqew, 科力微电子	丽智	13+	1130000	0402
+CR0402FF1101G(0402-1.1KF)	from hqew, 科力微电子	丽智	13+	90000	0402
+CR0402FF1603G(0402-160KF)	from hqew, 科力微电子	丽智	13+	300000	0402
+CR0402FF2001G(0402-2KF)	from hqew, 科力微电子	丽智	13+	1220000	0402
+CR0402FF2002G(0402-20KF)	from hqew, 科力微电子	丽智	13+	300000	0402
+CR0402FF2202G(0402-22KF)	from hqew, 科力微电子	丽智	13+	850000	0402
+CR0402FF2400G(0402-240RF)	from hqew, 科力微电子	丽智	13+	270000	0402
+CR0402FF2402G(0402-24KF)	from hqew, 科力微电子	丽智	13+	130000	0402
+CR0402FF2490G(0402-249RF)	from hqew, 科力微电子	丽智	13+	70000	0402
+CR0402FF2702G(0402-27KF)	from hqew, 科力微电子	丽智	13+	100000	0402
+CR0402FF2703G(0402-270KF)	from hqew, 科力微电子	丽智	13+	100000	0402
+CR0402FF3001G(0402-3KF)	from hqew, 科力微电子	丽智	13+	80000	0402
+CR0402FF3010G(0402-301RF)	from hqew, 科力微电子	丽智	13+	450000	0402
+CR0402FF30R0G(0402-30RF)	from hqew, 科力微电子	丽智	13+	120000	0402
+CR0402FF3300G(0402-330RF)	from hqew, 科力微电子	丽智	13+	130000	0402
+CR0402FF3303G(0402-330KF)	from hqew, 科力微电子	丽智	13+	60000	0402
+CR0402FF3323G(0402-332KF)	from hqew, 科力微电子	丽智	13+	60000	0402
+CR0402FF39R0G(0402-39RF)	from hqew, 科力微电子	丽智	13+	40000	0402
+CR0402FF4423G(0402-442KF)	from hqew, 科力微电子	丽智	13+	320000	0402
+CR0402FF4531G(0402-4.53KF)	from hqew, 科力微电子	丽智	13+	40000	0402
+CR0402FF4701G(0402-4.7KF)	from hqew, 科力微电子	丽智	13+	160000	0402
+CR0402FF4702G(0402-47KF)	from hqew, 科力微电子	丽智	13+	270000	0402
+CR0402FF49R9G(0402-49.9RF)	from hqew, 科力微电子	丽智	13+	50000	0402
+CR0402FF5102G(0402-51KF)	from hqew, 科力微电子	丽智	13+	490000	0402
+CR0402FF5490G(0402-549RF)	from hqew, 科力微电子	丽智	13+	40000	0402
+CR0402FF5600G(402-560RF)	from hqew, 科力微电子	丽智	13+	180000	0402
+CR0402FF6201G(0402-6.2KF)	from hqew, 科力微电子	丽智	13+	260000	0402
+CR0402FF62R0G(0402-62RF)	from hqew, 科力微电子	丽智	13+	70000	0402
+CR0402FF6800G(0402-680RF)	from hqew, 科力微电子	丽智	13+	130000	0402
+CR0402FF6801G(0402-6.8KF)	from hqew, 科力微电子	丽智	13+	60000	0402
+CR0402FF69R8G(0402-69.8RF)	from hqew, 科力微电子	丽智	13+	130000	0402
+CR0402FF7500G(0402-750RF)	from hqew, 科力微电子	丽智	13+	220000	0402
+CR0402FF9101G(0402-9.1KF)	from hqew, 科力微电子	丽智	13+	150000	0402
+CR0402JF0100G(0402-10R)	from hqew, 科力微电子	丽智	13+	4360000	0402
+CR0402JF0101G(0402-100R)	from hqew, 科力微电子	丽智	13+	9680000	0402
+CR0402JF0102G(0402-1K)	from hqew, 科力微电子	丽智	13+	3810000	0402
+CR0402JF0105G(0402-1M)	from hqew, 科力微电子	丽智	13+	850000	0402
+CR0402JF0111G(0402-110R)	from hqew, 科力微电子	丽智	13+	270000	0402
+CR0402JF0113G(0402-11K)	from hqew, 科力微电子	丽智	13+	1460000	0402
+CR0402JF0122G(0402-1.2K)	from hqew, 科力微电子	丽智	13+	380000	0402
+CR0402JF0130G(0402-13R)	from hqew, 科力微电子	丽智	13+	400000	0402
+CR0402JF0133G(0402-13K)	from hqew, 科力微电子	丽智	13+	1480000	0402
+CR0402JF0151G(0402-150R)	from hqew, 科力微电子	丽智	13+	950000	0402
+CR0402JF0161G(0402-160R)	from hqew, 科力微电子	丽智	13+	500000	0402
+CR0402JF0182G(0402-1.8K)	from hqew, 科力微电子	丽智	13+	540000	0402
+CR0402JF0200G(0402-20R)	from hqew, 科力微电子	丽智	13+	110000	0402
+CR0402JF0203G(0402-20K)	from hqew, 科力微电子	丽智	13+	4700000	0402
+CR0402JF0221G(0402-220R)	from hqew, 科力微电子	丽智	13+	3190000	0402
+CR0402JF0222G(0402-2.2K)	from hqew, 科力微电子	丽智	13+	3700000	0402
+CR0402JF0225G(0402-2.2M)	from hqew, 科力微电子	丽智	13+	50000	0402
+CR0402JF0271G(0402-270R)	from hqew, 科力微电子	丽智	13+	990000	0402
+CR0402JF0272G(0402-2.7K)	from hqew, 科力微电子	丽智	13+	40000	0402
+CR0402JF0274G(0402-270K)	from hqew, 科力微电子	丽智	13+	190000	0402
+CR0402JF02R0G(0402-2R)	from hqew, 科力微电子	丽智	13+	90000	0402
+CR0402JF02R2G(0402-2.2R)	from hqew, 科力微电子	丽智	13+	190000	0402
+CR0402JF0303G(0402-30K)	from hqew, 科力微电子	丽智	13+	1650000	0402
+CR0402JF0331G(0402-330R)	from hqew, 科力微电子	丽智	13+	490000	0402
+CR0402JF0394G(0402-390K)	from hqew, 科力微电子	丽智	13+	490000	0402
+CR0402JF03R0G(0402-3R)	from hqew, 科力微电子	丽智	13+	20000	0402
+CR0402JF0820G(0402-82R)	from hqew, 科力微电子	丽智	13+	1500000	0402
+CVR 32A 104SW2(3*3 100K)	from hqew, 科力微电子	京瓷	00+	10000	33
+ES1J	from hqew, 科力微电子	国产东芝	12+	26000	DO-214
+F0805B3R00FW7RM07	from hqew, 科力微电子	AVX	02+	3000	O8O5
+FDN301P NL	from hqew, 科力微电子	FAIRCHILD	13+	18000	SOT-23
+FDN304P NL	from hqew, 科力微电子	FAIRCHILD	13+	24000	SOT-23
+GL1005D102TF(0402 1000R)	from hqew, 科力微电子	顺络	02+	10000	O4O2
+GL1005D102TF(0402 1000R)	from hqew, 科力微电子	顺络	02+	10000	O4O2
+GRM188R60J106ME47D(0603 106M)	from hqew, 科力微电子	村田	05+	4000	O6O3
+GRM40Y5V334Z16U530(0805 334Z)	from hqew, 科力微电子	村田	00+	24000	O8O5
+GZ1608D8000TF(0603 80R)	from hqew, 科力微电子	顺络	08+	4000	O6O3
+GZ2012D221T(0805 220R)	from hqew, 科力微电子	顺络	09+	8000	1812
+HF50ACB453215 T	from hqew, 科力微电子	TDK	01+	1000	1812
+HHM1012	from hqew, 科力微电子	TDK	00+	228000	1206
+HI2012 1BR15JNT(0805 150NH)	from hqew, 科力微电子	台产	00+	20000	0805
+HK1608R10J T(0603 100NH)	from hqew, 科力微电子	太诱	01+	3000	O6O3
+HY3C	from hqew, 科力微电子	国产	13+	81000	SOT-23
+HY3C	from hqew, 科力微电子	国产	13+	81000	SOT-23
+HZ0805E601R 00(0805 600R)	from hqew, 科力微电子	STEWARD	00+	8000	O8O5
+KTA1663 HY	from hqew, 科力微电子	国产	13+	40000	SOT-89
+KTC4375 GY	from hqew, 科力微电子	国产	13+	70000	SOT-89
+KTC4379 UY	from hqew, 科力微电子	CJ	13+	22000	SOT-89-3
+KTN2907AS RTK/PS ZH	from hqew, 科力微电子	KEC	11+	573000	SOT-23
+LBMT2907ALT1G-2F	from hqew, 科力微电子	LRC	&nbsp;	9000	SOD-123
+LGHK16082N7S T(0603 2.7UH)	from hqew, 科力微电子	太诱	01+	4000	O6O3
+LL4148	from hqew, 科力微电子	国产	13+	1200000	ll-44
+MBR0520LT3G	from hqew, 科力微电子	国产ON	13+	72000	SOD-123
+MLF2012A4R7KT000(0805 4.7UF)	from hqew, 科力微电子	TDK	00+	4000	0805
+MMBT3904 1AM	from hqew, 科力微电子	CJ	13+	2412000	SOT-23
+MMBT3904-W04	from hqew, 科力微电子	国产	&nbsp;	3000	SOD-723
+MMBT3906 3E	from hqew, 科力微电子	国产	13+	60000	SOT-523
+MMBT4403K-2TK	from hqew, 科力微电子	仙童	&nbsp;	3000	SOT-23
+MMBTA44 3D	from hqew, 科力微电子	CJ	13+	87000	SOT-23
+MMBTSA1015-BA	from hqew, 科力微电子	国产	&nbsp;	93000	SOT-23
+MMDT2222A 7 K1PS2	from hqew, 科力微电子	美台	05+	24000	SOT-363
+MMDT3904 K6N	from hqew, 科力微电子	CJ	13+	156000	SOT-363
+M7	from hqew, 科力微电子	-	&nbsp;	100000	SMA
+NLV32T-4R7J-PF(1210-4.7UH)	from hqew, 科力微电子	TDK	09+	2000	1210
+NTC T336M16TRD(16V/33UF/D)	from hqew, 科力微电子	NTC	00+	5500	D
+NTC T336M6.3TRC(6.3V/33UF/C)	from hqew, 科力微电子	NTC	00+	7000	C
+NTC T475M10TRA 13(6.3V/4.7UF/A)	from hqew, 科力微电子	NTC	00+	9000	A
+PXT2222A 1P	from hqew, 科力微电子	国产	13+	100000	SOT-89-3
+RCR1525SI-M05	from hqew, 科力微电子	RCR	&nbsp;	99000	SOT-23
+RH03AYA13W02A(4*4 1K)	from hqew, 科力微电子	ALPS	00+	750	44
+RH03AYA13W02A(4*4-1K)	from hqew, 科力微电子	ALPS	00+	750	44
+S8550M.D-5D	from hqew, 科力微电子	国产	&nbsp;	2000	DO-214
+S9013W J3	from hqew, 科力微电子	CJ	13+	15000	SOT-323
+S9018 HJ8H	from hqew, 科力微电子	国产	13+	3000	SOT-23
+SDNT1608X104J4250HT	from hqew, 科力微电子	顺络	06+	4000	O6O3
+SI2301DS	from hqew, 科力微电子	VISHAY	13+	684700	SOT-23
+SI2308DS	from hqew, 科力微电子	VISHAY	13+	30000	SOT-23
+SS26	from hqew, 科力微电子	国产东芝	13+	3000	SMA
+SS8050 Y1	from hqew, 科力微电子	CJ	13+	5100000	SOT-23
+SS8550 Y2	from hqew, 科力微电子	CJ	13+	819000	SOT-23
+SS8550 Y2	from hqew, 科力微电子	国产	13+	5772000	SOT-23
+T491A105M020AS(20V/1UF/A)	from hqew, 科力微电子	基美	05+	20000	A
+T491A475M016AS(16V/4.7UF/A)	from hqew, 科力微电子	基美	04+	4000	A
+T491B106M010AS7280(10V/10UF/B)	from hqew, 科力微电子	基美	00+	8000	B
+T491C106K020AS(20V/10UF/C)	from hqew, 科力微电子	基美	99+	8000	C
+T491C106M020AS(20V/10UF/C)	from hqew, 科力微电子	基美	06+	500	C
+T491C336K010AS(10V/33UF/C)	from hqew, 科力微电子	基美	99+	2000	C
+T491D476M016AS(16V/47UF/D)	from hqew, 科力微电子	基美	00+	500	D
+TA 035TCMS100K DIR(35V/10UF/D)	from hqew, 科力微电子	仙童	01+	1000	D
+TA010TCMS220MC1R(10V/22UF/C)	from hqew, 科力微电子	日产	99+	500	C
+TAJA335M006RNJ(6.3V/3.3UF/A)	from hqew, 科力微电子	AVX	01+	2000	A
+TAJA335M006RNJ(6.3V/3.3UF/A)	from hqew, 科力微电子	AVX	00+	2000	A
+TAJB226M006RNJ(6.3V/22UF/B)	from hqew, 科力微电子	AVX	00+	4000	B
+TAJC685M016RNJ(16V/6.8UF/C)	from hqew, 科力微电子	AVX	00+	500	C
+TBPS1R222K410H5Q(0603 222K)	from hqew, 科力微电子	太诱	01+	8000	0603
+TBPS1R471J410H5Q	from hqew, 科力微电子	太诱	02+	2883	0603
+TEESVC0J227M12R(6.3V 220UF C)	from hqew, 科力微电子	NEC	04+	500	C
+TEMSVA0G226M8R(4V/22UF/A)	from hqew, 科力微电子	NEC	00+	4000	A
+TEMSVA0J106M8R(6.3V/10UF/A)	from hqew, 科力微电子	NEC	04+	10000	A
+TEMSVA0J106M8R(6.3V/10UF/A)	from hqew, 科力微电子	NEC	99+	18000	A
+TEMSVA1A475K8R(10V/4.7UF/A)	from hqew, 科力微电子	NEC	04+	2000	A
+TEMSVA20G226M8R(4V/22UF/A)	from hqew, 科力微电子	NEC	03+	8000	A
+TEMSVAOJ156M8R(6.3V/15UF/A)	from hqew, 科力微电子	NEC	99+	22000	A
+TK11228AM 28P	from hqew, 科力微电子	TOKO	00+	2600	
+TK11230MTL P3	from hqew, 科力微电子	TOKO	95+	5200	
+TMCM1AA475MLRH(10V/4.7UF/A)	from hqew, 科力微电子	日立	00+	240000	A
+TMCMA1A475MTR(10V/4.7UF/A)	from hqew, 科力微电子	日立	00+	26000	A
+TMCMA1A475MTR(10V/4.7UF/A)	from hqew, 科力微电子	日立	02+	56000	A
+TMCOGA106MLRH(4V/10UF/A)	from hqew, 科力微电子	日立	01+	4000	A
+TMCPOJ225KTR(6.3V/2.2UF/P)	from hqew, 科力微电子	日立	00+	246000	P
+TZB4Z060AB10R00(4*4 6P)	from hqew, 科力微电子	村田	11+	2500	34
+TZB4Z060AB10R00(4*4 6P)	from hqew, 科力微电子	村田	11+	2500	44
+TZMB15 GS08	from hqew, 科力微电子	VISHAY	03+	18000	LL34
+UPC78L08T E1 BGH2	from hqew, 科力微电子	NEC	96+	1000	SOT-89
+VJ0603A101KXATM(0603 101K)	from hqew, 科力微电子	VISHAY	00+	4000	O6O3
+VJ0603Y182JXAAC00(0603 182J)	from hqew, 科力微电子	VISHAY	00+	4000	O6O3
+VJ0805A102GXATM(0805 102G)	from hqew, 科力微电子	VISHAY	02+	363000	0805
+VJ0805A102GXATM(0805 102G)	from hqew, 科力微电子	VISHAY	02+	363000	O8O5
+VJ0805Y103JXAAR(0805 103J)	from hqew, 科力微电子	VISHAY	01+	265500	805
+VJ0805Y104JXXTM(0805 104J)	from hqew, 科力微电子	VISHAY	01+	3000	O8O5
+VJ1210Y104KFBTM(1210 104K)	from hqew, 科力微电子	VISHAY	01+	3000	1210
+VJ1812Y104KXCT(1812 104K)	from hqew, 科力微电子	VISHAY	01+	221000	1812
+VJ2220Y105KXAT005TM(2220 105K)	from hqew, 科力微电子	VISHAY	01+	186000	2220
+VJ2220Y105MXBT(2220 105M)	from hqew, 科力微电子	VISHAY	01+	104000	2220
+VJ9921Y104MXAMR14(1210 104M)	from hqew, 科力微电子	VISHAY	00+	160000	1210
+XC6373A270PR AC7Z	from hqew, 科力微电子	TOREX	99+	500	SOT-89
+ZMM27V	from hqew, 科力微电子	HL	13+	17500	LL-34
+ZMM2V0	from hqew, 科力微电子	HL	13+	2500	LL-34
+ZMM2V7	from hqew, 科力微电子	HL	13+	17500	LL-34
+02CZ4.7 X 4.7X	from hqew, 科力微电子	TOSHIBA	98+	3000	SOT-23-3
+04532X7R2E104KT000A(1812 104K)	from hqew, 现货 科力微电子	TDK	03+	6000	1812
+0603 104K/16V	from hqew, 现货 科力微电子	华新	&nbsp;	4000	O6O3
+0603CS 33NXJBC(0603 33NH)	from hqew, 现货 科力微电子	线艺	05+	8000	0603
+0603CS 3N9XKBG(0603 3.9NH)	from hqew, 现货 科力微电子	线艺	04+	174000	0603
+0805 103K	from hqew, 科力微电子	-	02+	8000	O8O5
+0805 27P	from hqew, 现货 科力微电子	-	02+	180000	O8O5
+0805B333K240NT(0805 333K)	from hqew, 现货 科力微电子	风华	02+	2500	O8O5
+0805HT R15TGBC(0805 150NH)	from hqew, 现货 科力微电子	线艺	00+	639900	0805
+1008CS 391XJBC(1008 390UH)	from hqew, 现货 科力微电子	线艺	00+	4000	1008
+1008HS 151TKBC(1008 150NH)	from hqew, 现货 科力微电子	线艺	97+	42000	1008
+10V/100UF/C	from hqew, 现货 科力微电子	基美	05+	2000	C
+10V/3.3UF/P	from hqew, 现货 科力微电子	NEC	05+	15000	P
+1206 106M	from hqew, 现货 科力微电子	TDK	&nbsp;	82000	1206
+1206 682K	from hqew, 现货 科力微电子	华新	01+	4000	1206
+1812 104K	from hqew, 现货 科力微电子	TDK	03+	6000	1812
+1825Y474MXBMT00(1825 474M)	from hqew, 现货 科力微电子	VISHAY	01+	13000	1825
+1N4002 M2	from hqew, 现货 科力微电子	星海	11+	12000	DO-214
+1N4448WS T5	from hqew, 现货 科力微电子	CJ	13+	90000	SOD-323
+1N5818W SK	from hqew, 科力微电子	国产	13+	93000	SOD-123
+1N5818WS SK	from hqew, 现货 科力微电子	国产	13+	15000	SOD-323
+1SS181 A3	from hqew, 现货 科力微电子	国产	12+	675000	SOT-23
+1SS187 D3	from hqew, 现货 科力微电子	CJ	13+	90000	SOT-23
+1SS353 C	from hqew, 现货 科力微电子	ROHM	99+	5600	SOD-523
+1SV314 V6	from hqew, 现货 科力微电子	TOSHIBA	02+	8000	SOD-723
+2225U475MXXAT00(2225 475M)	from hqew, 现货 科力微电子	VISHAY	01+	9000	2225
+2301 S1	from hqew, 现货 科力微电子	国产	12+	300000	SOT-23
+255D227X0004V2T(4V/220UF/V)	from hqew, 现货 科力微电子	VISHAY	05+	1400	V
+293D225X96R3A2T(6.3V/2.2UF/A)	from hqew, 现货 科力微电子	VISHAY	04+	2000	A
+2N3904S ZC	from hqew, 现货 科力微电子	KEC	13+	6123000	SOT-23
+2N7002 7EAA	from hqew, 现货 科力微电子	PH	03+	3000	SOT-23
+2N7002 7EQA	from hqew, 现货 科力微电子	PH	03+	3000	SOT-23
+2PD601AS ZS	from hqew, 现货 科力微电子	PH	05+	3000	SOT-23
+2SA1037K FQ	from hqew, 现货 科力微电子	罗姆	99+	3000	SOT-23
+2SA1622-6-TL-M6	from hqew, 科力微电子	国产	13+	6000	SOT-323
+2SA1797 AGQ	from hqew, 现货 科力微电子	国产	12+	2000	SOT-89
+2SA1797 AGQK	from hqew, 现货 科力微电子	国产	12+	41000	SOT-89
+2SA812 M6	from hqew, 现货 科力微电子	CJ	13+	594000	SOT-23
+2SA812 M6H	from hqew, 现货 科力微电子	国产	13+	24000	SOT-23
+2SA812 T1B M7	from hqew, 现货 科力微电子	NEC	01+	9000	SOT-23
+2SB1188 BCQ	from hqew, 现货 科力微电子	国产	13+	39000	SOT-89
+2SB1386 BHR	from hqew, 现货 科力微电子	CJ	13+	40000	SOT-89
+2SB1386 BHR	from hqew, 现货 科力微电子	CJ	12+	10000	SOT-89
+2SC1621 T1B B3	from hqew, 现货 科力微电子	NEC	99+	78000	SOT-23
+2SC1622A T1B D17	from hqew, 现货 科力微电子	NEC	00+	3000	SOT-23
+2SC2412K BS	from hqew, 现货 科力微电子	罗姆	99+	3000	SOT-23
+2SC2412K.R HBR	from hqew, 现货 科力微电子	国产	05+	3000	SOT-23
+2SC2712 LG	from hqew, 现货 科力微电子	CJ	12+	54000	SOT-23
+2SC3052 LF	from hqew, 现货 科力微电子	国产	12+	141000	SOT-23
+2SC3265 EY	from hqew, 现货 科力微电子	国产	13+	270000	SOT-23
+2SC4173 T1 B13	from hqew, 现货 科力微电子	NEC	94+	174000	SOT-323
+2SC4784YA 08TR YA	from hqew, 现货 科力微电子	日立	00+	51000	SOT-323
+2SC5345 ZR	from hqew, 现货 科力微电子	AUK	00+	3000	SOT-23
+2SD1766	from hqew, 现货 科力微电子	CJ	13+	20000	SOT-89
+2SD2150 CFR	from hqew, 科力微电子	CJ	13+	40000	SOT-89
+2SD2150 CFR	from hqew, 现货 科力微电子	国产	13+	35000	SOT-89
+2SD2150 CFRN	from hqew, 现货 科力微电子	国产	13+	41000	SOT-89
+2SD596 DV5	from hqew, 现货 科力微电子	国产	13+	321000	SOT-23
+2SD965 D965Q	from hqew, 现货 科力微电子	国产	12+	2000	SOT-89
+2SK2463 KC	from hqew, 现货 科力微电子	ROHM	00+	1000	SOT-89
+2SK3018 T1B G25	from hqew, 现货 科力微电子	NEC	01+	3000	SOT-323
+2SK3019 KN	from hqew, 现货 科力微电子	国产	13+	39000	SOT-523
+4MCS106MATER(4V/10UF/A)	from hqew, 现货 科力微电子	黑金刚	00+	2000	A
+593D337X06R3E2T(6.3V/330UF/D)	from hqew, 现货 科力微电子	VISHAY	03+	111600	D
+595D227X0010R2T(10V 220UF R)	from hqew, 现货 科力微电子	VISHAY	01+	600	R
+6.3V/220UF/D	from hqew, 现货 科力微电子	基美	02+	1000	D
+6.3V/3.3UF/J	from hqew, 现货 科力微电子	NEC	02+	16000	J
+6.3V/4.7UF/P	from hqew, 现货 科力微电子	NEC	03+	3000	P
+78L05	from hqew, 现货 科力微电子	国产	13+	255000	SOT-23
+78L05	from hqew, 科力微电子	国产	13+	170000	SOT-89-3
+78L06 78L06	from hqew, 现货 科力微电子	国产	09+	113000	SOT-89
+78L15 78L15	from hqew, 现货 科力微电子	国产	12+	40000	SOT-89
+78M05	from hqew, 科力微电子	UTC	&nbsp;	5025	TO-252-2
+78M05 78M05	from hqew, 现货 科力微电子	国产	13+	25000	TO-252
+78M06	from hqew, 科力微电子	UTC	&nbsp;	5080	TO-252-2
+78M12	from hqew, 科力微电子	UTC	&nbsp;	80	TO-252-2
+79L08	from hqew, 科力微电子	国产	13+	20000	SOT-89-3
+8050.D-Y1	from hqew, 现货 科力微电子	国产	&nbsp;	210000	SOT-89-3
+A44	from hqew, 科力微电子	CJ	12+	2000	SOT-89
+A700D107M006AT(6.3V/100UF/D)	from hqew, 现货 科力微电子	基美	05+	1340	D
+A92	from hqew, 现货 科力微电子	国产/中性	12+	40000	SOT-89
+AO3407	from hqew, 科力微电子	AO	13+	3000	SOT-23
+B0530W SE	from hqew, 现货 科力微电子	CJ	12+	705000	SOD-123
+B45197A2157M509(10V 150UF E)	from hqew, 现货 科力微电子	西门子	03+	213200	E
+B772 B772	from hqew, 科力微电子	CJ	13+	81000	SOT-89
+BAR64 PDS	from hqew, 现货 科力微电子	西门子	97+	3000	SOT-23
+BAS16X	from hqew, 科力微电子	国产	13+	240000	SOD-523
+BAS316 A6	from hqew, 现货 科力微电子	国产	12+	144000	SOD-323
+BAT54 L4P	from hqew, 现货 科力微电子	PH	99+	27000	SOT-23
+BAT54RALT1 B6	from hqew, 现货 科力微电子	ZOWIE	00+	12000	SOT-23
+BAT64 05 B5003 65	from hqew, 科力微电子	西门子	08+	3000	SOT-23
+BAT64-05-65S	from hqew, 现货 科力微电子	西门子	08+	84000	SOT-23
+BAV99 A7	from hqew, 现货 科力微电子	国产	13+	3093000	SOT-23
+BAV99 A7W	from hqew, 现货 科力微电子	国产	13+	1437000	SOD-523
+BAV99W A7T	from hqew, 现货 科力微电子	PH	11+	6000	SOT-323
+BAW TLT	from hqew, 科力微电子	PH	06+	3000	SOT-323
+BAW56 A1	from hqew, 科力微电子	西门子	00+	9000	SOT-23
+BAW56 A1	from hqew, 现货 科力微电子	国产	13+	2340000	SOT-23
+BB535 S	from hqew, 现货 科力微电子	西门子	99+	3000	SOD-323
+BBB5 P5	from hqew, 现货 科力微电子	PH	98+	3000	SOD-323
+BC17 40 6C	from hqew, 科力微电子	西门子	10+	3000	SOT-23
+BC807 16 5A	from hqew, 现货 科力微电子	国产	12+	177000	SOT-23
+BC807 25 5B	from hqew, 现货 科力微电子	国产	12+	168000	SOT-23
+BC807 40LT1G 5C	from hqew, 科力微电子	ON SEMI	03+	3000	SOT-23
+BC817 25 6B	from hqew, 现货 科力微电子	国产	12+	207000	SOT-23
+BC817 25LT1 6B	from hqew, 现货 科力微电子	ON SEMI	03+	6000	SOT-23
+BC817 40 6C	from hqew, 现货 科力微电子	国产	13+	225000	SOT-23
+BC817-40W 6C	from hqew, 现货 科力微电子	国产	12+	84000	SOT-323
+BC818 16W 6ES	from hqew, 现货 科力微电子	西门子	04+	3000	SOT-323
+BC846 1B	from hqew, 现货 科力微电子	CJ	11+	174000	SOT-23
+BC846A 1AW	from hqew, 现货 科力微电子	PH	09+	3000	SOT-23
+BC846B 1B	from hqew, 现货 科力微电子	国产	13+	33000	SOT-23
+BC847A 1E	from hqew, 科力微电子	西门子	04+	3000	SOT-23
+BC847A 1EW	from hqew, 现货 科力微电子	国产	12+	486000	SOT-23
+BC847AW 1E	from hqew, 科力微电子	国产	13+	405000	SOT-323
+BC847B 1FW	from hqew, 现货 科力微电子	PH	11+	12000	SOT-23
+BC847B 1FW	from hqew, 现货 科力微电子	国产	12+	624000	SOT-23
+BC847BT 1F	from hqew, 科力微电子	PH	07+	3000	SOT-23
+BC847C 1G	from hqew, 现货 科力微电子	国产	12+	183000	SOT-23
+BC847W 1HT	from hqew, 现货 科力微电子	PH	00+	126000	SOT-323
+BC848AW 1J	from hqew, 现货 科力微电子	国产	12+	30000	SOT-323
+BC848C 1L	from hqew, 现货 科力微电子	国产	12+	606000	SOT-23
+BC856 3B	from hqew, 现货 科力微电子	CJ	11+	126000	SOT-23
+BC856BT 1B	from hqew, 科力微电子	西门子	07+	3000	SOT-523
+BC857 3F	from hqew, 现货 科力微电子	CJ	13+	495000	SOT-23
+BC857AW 3E	from hqew, 现货 科力微电子	国产	12+	153000	SOT-323
+BC857BT 3F	from hqew, 现货 科力微电子	西门子	08+	168000	SOT-523
+BC857BW 3F	from hqew, 现货 科力微电子	国产	13+	147000	SOT-323
+BC857C 3G	from hqew, 科力微电子	国产	12+	456000	SOT-323
+BC857C 3G	from hqew, 现货 科力微电子	国产	13+	657000	SOT-323
+BC858B 3KW	from hqew, 现货 科力微电子	PH	09+	1020000	SOT-23
+BC858B 3KW	from hqew, 现货 科力微电子	PH	08+	1032000	SOT-23
+BCW61D BDP	from hqew, 现货 科力微电子	PH	97+	3000	SOT-23
+BCX19 U1	from hqew, 现货 科力微电子	CJ	13+	45000	SOT-23
+BCX52 AG	from hqew, 现货 科力微电子	CJ	13+	40000	SOT-89
+BCX53 AH	from hqew, 现货 科力微电子	CJ	11+	70000	SOT-89
+BCX53 AL	from hqew, 现货 科力微电子	CJ	13+	60000	SOT-89
+BCX54 BD	from hqew, 现货 科力微电子	CJ	13+	20000	SOT-89-3
+BCX56 BH	from hqew, 科力微电子	国产	13+	40000	SOT-89
+BLA3216A102SG4TQM0 07(1206 1000R)	from hqew, 现货 科力微电子	村田	00+	4000	1206
+BLM11B471SBPTM00 03 (0603 470R)	from hqew, 现货 科力微电子	村田	00+	132000	O6O3
+BLM15AG601SN1D(0402 600R)	from hqew, 科力微电子	村田	00+	10000	0402
+BLM18BD102SN1D(0603 1000R)	from hqew, 现货 科力微电子	村田	03+	4000	0603
+BLM18BD102SN1D(0603-1000R)	from hqew, 现货 科力微电子	村田	03+	4000	O6O3
+BZT52C11	from hqew, 现货 科力微电子	国产	13+	54000	SOD-123
+BZT52C11 WG	from hqew, 现货 科力微电子	CJ	13+	273000	SOD-123
+BZT52C11S WG	from hqew, 现货 科力微电子	CJ	13+	135000	SOD-323
+BZT52C18S WL	from hqew, 现货 科力微电子	CJ	13+	3000	SOD-323
+BZT52C18T	from hqew, 现货 科力微电子	国产	13+	66000	SOD-523
+BZT52C2V4S WX	from hqew, 现货 科力微电子	CJ	13+	180000	SOD-323
+BZT52C2V7 W1	from hqew, 现货 科力微电子	CJ	13+	351000	SOD-123
+BZT52C2V7S W1	from hqew, 现货 科力微电子	CJ	13+	297000	SOD-323
+BZT52C36	from hqew, 现货 科力微电子	国产	13+	30000	SOD-123
+BZT52C36S	from hqew, 现货 科力微电子	国产	13+	30000	SOD-323
+BZT52C3V9 W5	from hqew, 现货 科力微电子	CJ	13+	396000	SOD-123
+BZT52C3V9S	from hqew, 现货 科力微电子	国产	13+	108000	SOD-323
+BZT52C47	from hqew, 现货 科力微电子	国产	13+	63000	SOD-123
+BZT52C47 WV	from hqew, 现货 科力微电子	CJ	13+	3000	SOD-123
+BZT52C4V3S	from hqew, 现货 科力微电子	国产	13+	36000	SOD-323
+BZT52C4V7S	from hqew, 现货 科力微电子	国产	13+	42000	SOD-323
+BZT52C5V6 W9	from hqew, 现货 科力微电子	CJ	13+	429000	SOD-123
+BZT52C5V6S	from hqew, 现货 科力微电子	国产	13+	123000	SOD-323
+BZT52C6V2S	from hqew, 现货 科力微电子	国产	13+	231000	SOD-323
+BZT52C6V8T	from hqew, 现货 科力微电子	国产	13+	126000	SOD-523
+BZT52C8V2S WD	from hqew, 现货 科力微电子	CJ	13+	873000	SOD-323
+BZX84 C10 Z9P	from hqew, 现货 科力微电子	PH	95+	2990	SOT-23
+BZX84 C2V4 WT3	from hqew, 现货 科力微电子	PH	11+	327000	SOT-23
+BZX84 C3V9 WB3	from hqew, 现货 科力微电子	PH	08+	243000	SOT-23
+BZX84 C4V3 WB6	from hqew, 科力微电子	PH	08+	18000	SOT-23
+BZX84 C5V1 Z2W	from hqew, 科力微电子	PH	11+	78000	SOT-23
+BZX84C 15V 3VT	from hqew, 现货 科力微电子	PH	00+	2800	SOT-23
+BZX84C 2V8 18D	from hqew, 现货 科力微电子	PH	00+	15000	SOT-23
+BZX84C 4.3V 4.3M	from hqew, 现货 科力微电子	PH	00+	3000	SOT-23
+BZX84-C11-Y1W	from hqew, 科力微电子	NXP	&nbsp;	6000	SOT-23
+BZX84J B13 SB	from hqew, 科力微电子	PH	08+	3000	SOD-323
+C0816X7R0J224MTB09N	from hqew, 科力微电子	TDK	01+	50000	
+C1206C221F2GAC7800(1206 221J)	from hqew, 现货 科力微电子	AVX	00+	8000	1206
+C2012 R12J(0805 120NH)	from hqew, 现货 科力微电子	SAGAMI	03+	3000	O8O5
+C2012X5R1C225MT(0805 225M)	from hqew, 现货 科力微电子	TDK	05+	2000	0805
+C3216Y5V1C225ZT0K9N(1206 225Z)	from hqew, 现货 科力微电子	TDK	01+	180000	1206
+C3225X5R1A226KT000N(1210 226K)	from hqew, 现货 科力微电子	TDK	03+	1000	1210
+CB2012 100(0805 10R)	from hqew, 科力微电子	ZHF	&nbsp;	12000	0805
+CB2012 100(0805 10R)	from hqew, 科力微电子	ZHF	&nbsp;	12000	0805
+CB3216 601(1206 600R)	from hqew, 科力微电子	ZHF	&nbsp;	28000	1206
+CB321609B601(1206 600R)	from hqew, 科力微电子	ZHF	&nbsp;	8000	1206
+CC0805HX7R103K(0805 103K)	from hqew, 现货 科力微电子	TDK	98+	12000	O8O5
+CCR25.0MUC6AT(1210 25M)	from hqew, 现货 科力微电子	TDK	01+	4041	1210
+CI2012C6R8K(0805 6.8R)	from hqew, 科力微电子	ZHF	&nbsp;	4000	0805
+CJ2302S S2U	from hqew, 现货 科力微电子	CJ	13+	33000	SOT-23
+CJ2307 S7	from hqew, 现货 科力微电子	CJ	11+	15000	SOT-23
+CJ78L08 78L08	from hqew, 现货 科力微电子	CJ	13+	19000	TO-92
+CJ78L09	from hqew, 现货 科力微电子	CJ	13+	33000	SOT-89-3
+CJ78L18 78L18	from hqew, 现货 科力微电子	CJ	13+	60000	SOT-89
+CJ78M09	from hqew, 现货 科力微电子	CJ	13+	5000	TO-252
+CJ78M15	from hqew, 现货 科力微电子	CJ	13+	12500	TO-252
+cj79l05 79L05	from hqew, 科力微电子	CJ	13+	1000	TO-92
+CJ79L15	from hqew, 科力微电子	CJ	13+	10000	SOT-89
+CJP04N60	from hqew, 科力微电子	CJ	11+	500	TO-220
+CJP05N60	from hqew, 科力微电子	CJ	12+	500	TO-220
+CKCA43COG1H270KT010N(8P4C 27P)	from hqew, 现货 科力微电子	TDK	05+	60000	8P4C
+CL05B104KPEC(0402 104K)	from hqew, 科力微电子	SAMSUNG	04+	10000	O4O2
+CM32X7R105K50AT(1210 105K)	from hqew, 现货 科力微电子	京瓷	05+	2000	1210
+CR0402FF1021G(0402-1.02KF)	from hqew, 科力微电子	丽智	13+	500000	0402
+CR0402FF1542G(0402-15.4KF)	from hqew, 科力微电子	丽智	13+	600000	0402
+CR0402FF1801G(0402-1.8KF)	from hqew, 科力微电子	丽智	13+	40000	0402
+CR0402FF2200G(0402-220RF)	from hqew, 科力微电子	丽智	13+	300000	0402
+CR0402FF3000G(0402-300RF)	from hqew, 科力微电子	丽智	13+	100000	0402
+CR0402FF75R0G(0402-75RF)	from hqew, 科力微电子	丽智	13+	240000	0402
+CR0402JF0112G(0402-1.1K)	from hqew, 科力微电子	丽智	13+	290000	0402
+CR0402JF0123G(0402-12K)	from hqew, 科力微电子	丽智	13+	2150000	0402
+CR0402JF0124G(0402-120K)	from hqew, 科力微电子	丽智	13+	4640000	0402
+CR0402JF0150G(0402-15R)	from hqew, 科力微电子	丽智	13+	2890000	0402
+CR0402JF0204G(0402-200K)	from hqew, 科力微电子	丽智	13+	640000	0402
+CR0402JF0220G(0402-22R)	from hqew, 科力微电子	丽智	13+	4820000	0402
+CR0402JF0223G(0402-22K)	from hqew, 科力微电子	丽智	13+	1400000	0402
+CR0402JF0241G(0402-240R)	from hqew, 科力微电子	丽智	13+	390000	0402
+CR0402JF0242G(0402-2.4K)	from hqew, 现货 科力微电子	丽智	13+	540000	0402
+CR0402JF0334G(0402-330K)	from hqew, 科力微电子	丽智	13+	260000	0402
+CR0402JF0363G(0402-36K)	from hqew, 科力微电子	丽智	13+	250000	0402
+CR0402JF0392G(0402-3.9K)	from hqew, 科力微电子	丽智	13+	3580000	0402
+CR0402JF03R3G(0402-3.3R)	from hqew, 科力微电子	丽智	13+	240000	0402
+CR0402JF0681G(0402-680R)	from hqew, 现货 科力微电子	丽智	13+	880000	0402
+CR0402JF0752G(0402-7.5K)	from hqew, 现货 科力微电子	丽智	13+	80000	0402
+CR0402JF0821G(0402-820R)	from hqew, 现货 科力微电子	丽智	13+	90000	0402
+CR0402JF0822G(0402-8.2K)	from hqew, 现货 科力微电子	丽智	13+	270000	0402
+CR0402JF0911G(0402-910R)	from hqew, 现货 科力微电子	丽智	13+	10000	0402
+CR0402JF0912G(0402-9.1K)	from hqew, 现货 科力微电子	丽智	13+	580000	0402
+CVOG471MADANT(4V/470UF/D)	from hqew, 现货 科力微电子	SANYO	00+	1170	D
+DSS24	from hqew, 科力微电子	星海	13+	6000	SOD-123
+DTC143TKA 03	from hqew, 科力微电子	ROHM	04+	26100	SOT-23-3
+DTZTT113.3A SI	from hqew, 现货 科力微电子	ROHM	99+	3000	SOD-323
+ECHU1H561JX5(0805 561J)	from hqew, 现货 科力微电子	PANASONIC	00+	3000	0805
+ECRJA020E11X(4*4 20P)	from hqew, 现货 科力微电子	PANASONIC	02+	44100	4 4
+ECST1AV476R(10V/47UF/D)	from hqew, 现货 科力微电子	PANASONIC	00+	1500	D
+ECST1AX156R S(10V/15UF/B)	from hqew, 现货 科力微电子	日产	99+	2000	B
+ECST1AY475TR(10V/4.7UF/A)	from hqew, 现货 科力微电子	PANASONIC	04+	2000	A
+ECST1CY475KR(16V/4.7UF/A)	from hqew, 现货 科力微电子	PANASONIC	03+	1964	A
+ES1G	from hqew, 现货 科力微电子	国产东芝	12+	2000	SMA
+F0805B3R00FW7RM07	from hqew, 科力微电子	AVX	02+	3000	O8O5
+FBM-11-160808-601(0603 600R)	from hqew, 现货 科力微电子	太诱	06+	4000	0603
+FDN308P NL	from hqew, 现货 科力微电子	FAIRCHILD	11+	27000	SOT-23
+FK2125Z700C850T	from hqew, 现货 科力微电子	太诱	01+	6000	0805
+G1A-SOT-23	from hqew, 现货 科力微电子	国产	&nbsp;	2418000	SOT-23
+GM6206 2.8V 73	from hqew, 现货 科力微电子	TOREX	12+	3000	SOT-23
+GM6206 3.0V 65Z5	from hqew, 现货 科力微电子	TOREX	12+	3000	SOT-23
+GRM32DR71C106KA01L(1206 106K)	from hqew, 现货 科力微电子	村田	01+	1000	12O6
+GRM40Y5V334Z16(0603 334Z)	from hqew, 科力微电子	村田	&nbsp;	3000	O6O3
+GZ2012D601TF(0805 600R)	from hqew, 科力微电子	顺络	09+	4000	O6O3
+GZL12L	from hqew, 现货 科力微电子	通用	02+	5000	LL34
+HA17431VLP EL 4PM	from hqew, 现货 科力微电子	日立	04+	3000	SOT-153
+HHM1010	from hqew, 科力微电子	TDK	99+	2000	1201
+HHM1301	from hqew, 科力微电子	TDK	00+	114000	1210
+HI2012 1RB27JNT(0805 270NH)	from hqew, 科力微电子	台产	00+	20000	0805
+HVC300A7TRU O	from hqew, 科力微电子	日立	02+	8000	SOD-723
+HVC355BTRF	from hqew, 现货 科力微电子	日立	02+	1170	SOD-523
+HZK5BTR	from hqew, 现货 科力微电子	日立	03+	2500	LL34
+HZM3.3NB1TL 331	from hqew, 现货 科力微电子	日立	98+	2900	SOT-23
+IC PST9143NR 432K	from hqew, 现货 科力微电子	MITSUMI	02+	2950	SOT-153
+KDS121E RTY B3	from hqew, 现货 科力微电子	KEC	03+	3000	SOT-523
+KRC103S	from hqew, 科力微电子	KEC	12+	24000	SOT-23
+KTA1001 KY	from hqew, 现货 科力微电子	国产	12+	1000	SOT-89
+KTA1664Y RY	from hqew, 现货 科力微电子	KEC	00+	863	SOT-89
+KTC3265 EY	from hqew, 现货 科力微电子	CJ	13+	129000	SOT-23
+KTC4375 GY	from hqew, 现货 科力微电子	CJ	13+	27000	SOT-89
+LBAT54CLT1G-5C	from hqew, 现货 科力微电子	LRC	&nbsp;	3000	SOT-23
+LBC817 40LT1G 6C	from hqew, 现货 科力微电子	LRC	11+	195000	SOT-23
+LBZX84 C3V3LT1G Z14	from hqew, 现货 科力微电子	LRC	&nbsp;	9000	SOT-23
+LBZX84C10 Z9	from hqew, 现货 科力微电子	国产	13+	135000	SOT-23
+LBZX84C4V7 Z1	from hqew, 现货 科力微电子	国产	13+	60000	SOT-23
+LBZX84C7V5 Z6	from hqew, 现货 科力微电子	国产	13+	141000	SOT-23
+LBZX84C7V5LT1 Z6	from hqew, 现货 科力微电子	LRC	10+	9000	SOT-23
+LFBK32164W601 T(1206 600R)	from hqew, 现货 科力微电子	太诱	01+	360000	1206
+LFLK212582NM T(0805 82NH)	from hqew, 现货 科力微电子	太诱	01+	692000	0805
+LGHK1608N2J T (0603 8.2NH)	from hqew, 现货 科力微电子	太诱	02+	28000	O6O3
+LL1005 FH10NJ(0402 10NH)	from hqew, 现货 科力微电子	TOKO	02+	160000	0402
+LL1608 F10NJ(0603 10NH)	from hqew, 现货 科力微电子	TOKO	00+	8000	0603
+LL1608 F1N2S(0603 1.2NH)	from hqew, 现货 科力微电子	TOKO	00+	104000	0603
+LL1608 FH10NK(0603 10NH)	from hqew, 现货 科力微电子	TOKO	00+	20000	0603
+LL1608 FH4N7K(0603 4.7NH)	from hqew, 现货 科力微电子	TOKO	99+	48000	0603
+LL1608 FH4N7S(0603 4.7NH)	from hqew, 现货 科力微电子	TOKO	04+	4000	0603
+LL2012 F6N8J(0805 6.8NH)	from hqew, 现货 科力微电子	TOKO	99+	404000	0805
+LL20R F5N6S(0805 5.6NH)	from hqew, 现货 科力微电子	TOKO	99+	4000	0805
+LM5Z10 0L	from hqew, 现货 科力微电子	国产	13+	12000	SOD-523
+LM5Z15 0T	from hqew, 现货 科力微电子	国产	13+	99000	SOD-523
+LM5Z18 0W	from hqew, 现货 科力微电子	国产	13+	66000	SOD-523
+LM5Z5V1 0A	from hqew, 现货 科力微电子	国产	13+	234000	SOD-523
+LM5Z7V5 0G	from hqew, 现货 科力微电子	国产	13+	129000	SOD-523
+LMSZ5231BT1G	from hqew, 现货 科力微电子	国产	13+	117000	SOD-123
+LMSZ5241BT1G	from hqew, 现货 科力微电子	国产	13+	30000	SOD-123
+LMSZ5243BT1G	from hqew, 现货 科力微电子	国产	13+	87000	SOD-123
+LNZX84C2V7LT1 Z12	from hqew, 现货 科力微电子	LRC	00+	3000	SOT-23
+LQH4N471K04M00 01(1812 470NH)	from hqew, 现货 科力微电子	村田	00+	2000	1812
+LQP11A2N2C00T1M00 01(0603 2.2NH)	from hqew, 现货 科力微电子	村田	00+	4000	0603
+MAZT802H08S0 8.3Z	from hqew, 现货 科力微电子	PANASONIC	01+	224000	SOT-423
+MBR20200CT AK	from hqew, 现货 科力微电子	CJ	10+	50	TO-220
+MGFI4532E101KT(1812 100UH)	from hqew, 现货 科力微电子	台产	03+	68000	1812
+MJD122	from hqew, 现货 科力微电子	CJ	12+	2500	TO-252
+MJE13001AO	from hqew, 现货 科力微电子	国产	13+	60000	SOT-23
+MLF1608S18NJT00-PF(0603-18NH)	from hqew, 现货 科力微电子	TDK	00+	4000	0603
+MLF2012A4R7KT000(0805-4.7UH)	from hqew, 科力微电子	TDK	00+	4000	0805
+MLG1608B2N2DT000(0603 2.2NH)	from hqew, 现货 科力微电子	TDK	01+	8000	0603
+MLG1608B2N7ST000(0603-2.7NH)	from hqew, 科力微电子	TDK	12+	4000	0603
+MLG1608B3N9ST000(0603 3.9NH)	from hqew, 现货 科力微电子	TDK	00+	88000	0603
+MLK1005S33NJT000A(0402 33NH)	from hqew, 现货 科力微电子	TDK	05+	10000	0402
+MMBD4148CC-D5	from hqew, 科力微电子	国产	&nbsp;	855000	SOD-123
+MMBD4148SE D4	from hqew, 现货 科力微电子	国产	12+	171000	SOT-23
+MMBD6100LT1 5BW	from hqew, 现货 科力微电子	ZOWIE	00+	3000	SOT-23
+MMBT2222A 1P	from hqew, 现货 科力微电子	CJ	13+	87000	SOT-23
+MMBT3904 7AW	from hqew, 现货 科力微电子	PH	07+	3000	SOT-23
+MMBT3904 H1A	from hqew, 现货 科力微电子	国产	13+	1272000	SOT-23
+MMBT3904T 1N	from hqew, 科力微电子	CJ	13+	297000	SOT-523
+MMBT3906 2A	from hqew, 现货 科力微电子	CJ	13+	807000	SOT-23
+MMBT4401LT1G 2X	from hqew, 现货 科力微电子	ON SEMI	11+	186000	SOT-23
+MMBT4403 2T	from hqew, 现货 科力微电子	国产	12+	555000	SOT-23
+MMBT5401 2L	from hqew, 科力微电子	国产	&nbsp;	99000	SOD-323
+MMBT9014D 1L	from hqew, 现货 科力微电子	ST	11+	84000	SOT-23
+MMBTA42 1D	from hqew, 现货 科力微电子	ST	11+	33000	SOT-23
+MMBTA44 3D	from hqew, 现货 科力微电子	国产	13+	594000	SOT-23
+MMST2222A 1P	from hqew, 现货 科力微电子	国产	12+	96000	SOT-323
+MMST2222A K3P	from hqew, 现货 科力微电子	国产	12+	27000	SOT-323
+M1	from hqew, 现货 科力微电子	TK	05+	5000	SMA
+M2520T1R5J(2520 1.5UH)	from hqew, 现货 科力微电子	太诱	03+	2000	2520
+M2520T47NJ(2520 47NH)	from hqew, 现货 科力微电子	太诱	03+	6000	2520
+M51943BML 43BY	from hqew, 现货 科力微电子	三菱	97+	6000	SOT-89
+MAX111 TX 1B	from hqew, 现货 科力微电子	PANASONIC	99+	3000	SOD-523
+NDC652P 652	from hqew, 现货 科力微电子	仙童	98+	6000	SOT-163
+NETBPS1R104G439E5Q	from hqew, 科力微电子	太诱	00+	4000	
+NETBPS1R471J410H5Q(0603 470R)	from hqew, 现货 科力微电子	太诱	01+	160000	0603
+NETBPS1R560J295H5QX(0603 56R)	from hqew, 现货 科力微电子	太诱	01+	20000	0603
+NHE220 IFP	from hqew, 现货 科力微电子	TOTTORI	01+	3000	SOT-143
+NK2301A	from hqew, 现货 科力微电子	国产	12+	141000	SOT-23
+NL453232T 100K(4532 10UH)	from hqew, 现货 科力微电子	TDK	93+	500	4532
+NLH252018T 010J(2520 0.01UH)	from hqew, 现货 科力微电子	TDK	00+	28000	2520
+NLV32JR47J PF (1210 470NH)	from hqew, 现货 科力微电子	TDK	06+	20000	1210
+NLV32JR47J PF(1210 470NH)	from hqew, 现货 科力微电子	TDK	06+	20000	1210
+NLV32T 331J PF(1210 330UH)	from hqew, 现货 科力微电子	TDK	06+	140000	1210
+NOJD107M006RWJ(6.3V/100UF/D)	from hqew, 现货 科力微电子	AVX	05+	1505500	D
+NSPC333G16TRB2(1206 333G 16V)	from hqew, 现货 科力微电子	PANASONIC	00+	3000	1206
+NTC T335K25TRB(25V/3.3UF/B)	from hqew, 现货 科力微电子	NTC	00+	24000	B
+NTH5G1M35A472J04TH	from hqew, 现货 科力微电子	村田	00+	12000	0603
+PAS621R S VA6RT	from hqew, 现货 科力微电子	法拉	04+	14252000	-
+PDTA144EE 07	from hqew, 现货 科力微电子	PH	00+	3000	SOT-523
+PDTC124EE 02	from hqew, 现货 科力微电子	PH	00+	60000	SOT-423
+PDTC143EE 02	from hqew, 现货 科力微电子	PH	03+	6000	SOT-523
+PFEK2125T256AL T	from hqew, 现货 科力微电子	太诱	00+	153000	0805
+PFWCC450J3 TC	from hqew, 现货 科力微电子	村田	00+	2000	1812
+PIC16C57T XT SO193	from hqew, 科力微电子	MIC	05+	1600	
+PMBD914 P5D	from hqew, 现货 科力微电子	PH	03+	3000	SOT-23
+PMBF170 KX	from hqew, 现货 科力微电子	PH	03+	3000	SOT-23
+PMBT2222A W1P	from hqew, 现货 科力微电子	PH	13+	2082000	SOT-23
+PMBT3904 T1A	from hqew, 现货 科力微电子	国产	13+	2559000	SOT-23
+PMBT4401 W2X	from hqew, 现货 科力微电子	国产	12+	354000	SOT-23
+PMBZ5226B P8A	from hqew, 现货 科力微电子	PH	99+	66000	SOT-23
+PXT2222A	from hqew, 科力微电子	CJ	13+	56000	SOT-89
+PXT8550 Y2	from hqew, 现货 科力微电子	国产	13+	216000	SOT-89-3
+R3MH321C T1 A32CDD	from hqew, 现货 科力微电子	理光	00+	6000	SOT-89
+RB501V 40 4	from hqew, 现货 科力微电子	CJ	12+	174000	SOD-323
+RB520S 30 B	from hqew, 现货 科力微电子	CJ	11+	468000	SOD-523
+RB521G 30 F	from hqew, 科力微电子	CJ	13+	2256000	SOD-723
+RB521S 30 C	from hqew, 现货 科力微电子	国产	13+	624000	SOD-523
+RB717F 3E	from hqew, 现货 科力微电子	CJ	13+	42000	SOT-323
+RB731U D3D	from hqew, 现货 科力微电子	ROHM	99+	3000	SOT-363
+RB751V 40 5	from hqew, 现货 科力微电子	CJ	11+	60000	SOD-323
+RC2302 A2SHB	from hqew, 现货 科力微电子	RCR	11+	3000	SOT-23
+RC6206 332MP 3D00	from hqew, 现货 科力微电子	RCR	05+	3000	SOT-23-3
+RCR1525SI M05	from hqew, 现货 科力微电子	RCR	11+	27000	SOT-23
+RD10S T1 101	from hqew, 现货 科力微电子	NEC	96+	8332	SOD-323
+RD12UM T1	from hqew, 现货 科力微电子	NEC	08+	9000	SOD-523
+RD5.6UJ T1	from hqew, 现货 科力微电子	NEC	08+	18000	SOD-523
+RH5VL40AA T1 D07F	from hqew, 现货 科力微电子	理光	96+	1000	SOT-89
+RH5VL40AA T1 D0FK	from hqew, 现货 科力微电子	理光	97+	1000	SOT-89
+RLS4148 A	from hqew, 现货 科力微电子	ROHM	13+	225000	SOD-523
+RLZ5248B TE 11C	from hqew, 现货 科力微电子	ROHM	95+	2500	LL34
+RLZTE 11 10A	from hqew, 现货 科力微电子	ROHM	00+	7500	LL34
+RLZTE 11 18A	from hqew, 现货 科力微电子	ROHM	00+	2500	LL34
+RLZTE 11 18B	from hqew, 现货 科力微电子	ROHM	99+	2500	LL34
+RLZTE 11 3.6A	from hqew, 现货 科力微电子	ROHM	03+	20000	LL34
+RLZTE 11 6.2B	from hqew, 现货 科力微电子	ROHM	04+	2500	LL34
+RN1105 XE	from hqew, 现货 科力微电子	TOSHIBA	02+	15000	SOT-523
+RN1106 XF	from hqew, 现货 科力微电子	TOSHIBA	02+	3000	SOT-523
+RN1904 XD	from hqew, 现货 科力微电子	TOSHIBA	02+	96000	SOT-363
+RT1P441C T12 2 P3	from hqew, 现货 科力微电子	三菱	99+	1195	SOT-23
+S8550D	from hqew, 现货 科力微电子	国产	12+	187000	T0-92
+S8550M.D HY4D	from hqew, 现货 科力微电子	国产	13+	396000	SOT-23
+S8550M.D-B9D	from hqew, 科力微电子	国产	&nbsp;	6000	SOT-23
+S9015	from hqew, 现货 科力微电子	CJ	11+	108000	TO-92
+S9015 HM6C	from hqew, 现货 科力微电子	国产	13+	3000	SOT-23
+S9015 M6	from hqew, 现货 科力微电子	CJ	13+	195000	SOT-23
+SC0037S04FEL E5	from hqew, 现货 科力微电子	国产东芝	02+	2500	SOT-153
+SD103AWS B3	from hqew, 现货 科力微电子	国产	13+	51000	SOD-323
+SD103AWS S4	from hqew, 现货 科力微电子	CJ	13+	3000	SOD-323
+SI2301DS	from hqew, 现货 科力微电子	VISHAY	12+	82300	SOT-23
+SI2302DS	from hqew, 现货 科力微电子	VISHAY	13+	189000	SOT-23
+SI2303DS	from hqew, 现货 科力微电子	VISHAY	12+	33000	SOT-23
+SI2303DS	from hqew, 科力微电子	VISHAY	13+	102000	SOT-23
+SI2307DS	from hqew, 现货 科力微电子	VISHAY	12+	60000	SOT-23
+SI2309DS	from hqew, 现货 科力微电子	VISHAY	12+	30000	SOT-23
+SI3443 432A	from hqew, 现货 科力微电子	SI	99+	1500	SOT-163
+SK22	from hqew, 现货 科力微电子	星海	11+	3000	DO-214
+SK24	from hqew, 现货 科力微电子	国产东芝	12+	76000	DO-214
+SK24	from hqew, 现货 科力微电子	星海	11+	12000	DO-214
+SK36	from hqew, 现货 科力微电子	星海	11+	27000	SMB
+SLF7032 681MR16 2(7032 680UH)	from hqew, 现货 科力微电子	TDK	04+	2000	7032
+SMV1201 98 VC1	from hqew, 现货 科力微电子	AI	98+	2800	SOT-23
+SN7002 SSG	from hqew, 现货 科力微电子	西门子	09+	21000	SOT-23
+SS14	from hqew, 现货 科力微电子	国产东芝	13+	930000	DO-214
+SS24	from hqew, 科力微电子	星海	13+	20000	DO-214
+SS32	from hqew, 现货 科力微电子	国产东芝	13+	248000	DO-214
+SS34	from hqew, 现货 科力微电子	国产东芝	13+	172000	DO-214
+SS8050	from hqew, 现货 科力微电子	CJ	11+	1000	TO-92
+SS8050 Y1	from hqew, 科力微电子	国产	13+	4836000	SOT-23
+SS8550 HY2D	from hqew, 现货 科力微电子	国产	13+	441000	SOT-23
+STC3MD20(3*4 10P)	from hqew, 科力微电子	世华	&nbsp;	1000	
+STN3906S JA	from hqew, 科力微电子	AUK	13+	5559000	SOT-23
+T491A475M006AS(6.3V/4.7UF/A)	from hqew, 科力微电子	基美	00+	4000	A
+T494B226M010AS(10V/22UF/B)	from hqew, 现货 科力微电子	基美	00+	2876000	B
+T495D107M010AS(10V/100UF/D)	from hqew, 科力微电子	基美	95+	500	D
+TAJB225K020SNJ(20V/2.2UF/B)	from hqew, 科力微电子	AVX	00+	144000	B
+TAJD227M010RNJ(10V 220UF D)	from hqew, 科力微电子	AVX	03+	198	D
+TAJD336K016RNJ(16V/33UF/D)	from hqew, 现货 科力微电子	AVX	01+	5000	D
+TBPSIR471K410H5Q(0603 4.7K)	from hqew, 科力微电子	太诱	01+	8000	0603
+TC7WH34FK	from hqew, 现货 科力微电子	国产东芝	01+	3000	SOP-8
+TEMSVAC105M8R(16V/1UF/A)	from hqew, 科力微电子	NEC	04+	4000	A
+TEMSVPOJ475M8R(6.3V/4.7UF/P)	from hqew, 现货 科力微电子	NEC	04+	3000	P
+THS124 24	from hqew, 现货 科力微电子	国产东芝	99+	54000	SOT-143
+TIP41C	from hqew, 科力微电子	CJ	11+	505	TO-220
+TK11228AM P28	from hqew, 科力微电子	TOKO	00+	10400	
+TLZ15C GS08	from hqew, 现货 科力微电子	VISHAY	02+	2500	LL34
+TMCJ1C105MTRF(16V/1UF/J)	from hqew, 科力微电子	日立	06+	4000	J
+TMCMPOJ225MTR(6.3V/2.2UF/P)	from hqew, 科力微电子	日立	00+	3000	P
+TPSY227M010P0200(10V 220UF D)	from hqew, 科力微电子	AVX	04+	128000	D
+TSM2N7002KCX	from hqew, 科力微电子	台产	13+	360000	SOT-23
+TZB4Z060AB10R00(4*4 6P)	from hqew, 科力微电子	村田	&nbsp;	2500	44
+UMB10 B10	from hqew, 现货 科力微电子	ROHM	01+	55150	SOT-363
+UMH12 H2	from hqew, 科力微电子	ROHM	05+	3000	SOT-363
+UMX11 X11	from hqew, 现货 科力微电子	ROHM	99+	21000	SOT-363
+US1D	from hqew, 现货 科力微电子	国产东芝	12+	74000	SMA
+US1G	from hqew, 现货 科力微电子	国产东芝	12+	60000	SMA
+US1J	from hqew, 现货 科力微电子	国产东芝	12+	16000	SMA
+VJ0603A101KXATM(0603 101K)	from hqew, 科力微电子	VISHAY	00+	4000	603
+VJ0805Y104JXXTM(0805 104J)	from hqew, 科力微电子	VISHAY	01+	3000	805
+VJ0806Y104KXXPML(0805 104K)	from hqew, 科力微电子	VISHAY	01+	50000	O8O5
+VJ1206V105ZXXMT(1206 105Z)	from hqew, 现货 科力微电子	VISHAY	00+	3000	1206
+VJ1206Y102KFETM(1206 102K)	from hqew, 现货 科力微电子	VISHAY	05+	30000	1206
+VJ1206Y102KFGTM(1206 102K)	from hqew, 现货 科力微电子	VISHAY	05+	12000	1206
+VJ1206Y103MXBLMM(1206 103M)	from hqew, 现货 科力微电子	VISHAY	00+	40000	1206
+VJ1206Y104JXCTMM(1206 104J)	from hqew, 现货 科力微电子	VISHAY	04+	3000	1206
+VJ1206Y105MXJTM(1206 105M)	from hqew, 现货 科力微电子	VISHAY	00+	3000	1206
+VJ1206Y224KXCLM(1206 224K)	from hqew, 现货 科力微电子	VISHAY	04+	3000	1206
+VJ1206Y224KXXT(1206 224K)	from hqew, 现货 科力微电子	VISHAY	01+	9000	1206
+VJ1210A102KXET(1210 102K)	from hqew, 现货 科力微电子	VISHAY	00+	57000	1210
+VJ1210U105MXXMT54(1210 105M)	from hqew, 现货 科力微电子	VISHAY	00+	39000	1210
+VJ1210U474ZXBMT(1210 474Z)	from hqew, 现货 科力微电子	VISHAY	04+	20000	1210
+VJ1210Y103KXGTM(1210 103K)	from hqew, 现货 科力微电子	VISHAY	04+	6000	1210
+VJ1210Y105MXXTM(1210 105M)	from hqew, 现货 科力微电子	VISHAY	00+	3000	1210
+VJ1812A102JXETM(1812 102J)	from hqew, 现货 科力微电子	VISHAY	01+	1000	1812
+VJ1812A222JXGMT(1812 222J)	from hqew, 现货 科力微电子	VISHAY	01+	10000	1812
+VJ1812Y104KXBAT(1812 104K)	from hqew, 科力微电子	VISHAY	00+	2544000	1812
+VJ1812Y104MXGTM(1812 104M)	from hqew, 现货 科力微电子	VISHAY	02+	6000	1812
+VJ1812Y334KXBTM(1812 334K)	from hqew, 现货 科力微电子	VISHAY	01+	16000	1812
+VJ7117A332JXEATM(1812 332J)	from hqew, 现货 科力微电子	VISHAY	01+	171000	1812
+VJ7157Y684KXJBE31(1206 684K)	from hqew, 现货 科力微电子	VISHAY	01+	27000	1206
+XC61AN2012PR M138	from hqew, 现货 科力微电子	TOREX	01+	5370	SOT-89
+XC6372B331PR 223B	from hqew, 现货 科力微电子	TOREX	01+	5000	SOT-89
+XP152A13COMR 113	from hqew, 现货 科力微电子	TOREX	05+	168000	SOT-23
+ZMM18V	from hqew, 现货 科力微电子	HL	13+	57500	LL-34
+ZMM3V3	from hqew, 现货 科力微电子	ST	13+	107500	LL-34
+ZMM4V7	from hqew, 现货 科力微电子	HL	13+	127500	LL-34
+ZMM5227B 7	from hqew, 现货 科力微电子	美台	12+	117500	LL34
+0402CS 10NXJBG(0402 10NH)	from hqew, 科力微电子	线艺	00+	2000	0402
+0603CS 18NXJBG(0603 18NH)	from hqew, 现货 科力微电子	线艺	05+	84000	0603
+0603CS 47NXJBC(0603 47NH)	from hqew, 现货 科力微电子	线艺	00+	2000	0603
+0603X7R224M	from hqew, 科力微电子	达方	02+	600000	O6O3
+08052R123K9B20D(0805 123K)	from hqew, 现货 科力微电子	国巨	00+	4000	O8O5
+08055A270JAT2A(0805 27P)	from hqew, 现货 科力微电子	TDK	02+	44000	0805
+1008CS 560XKBD(1008 56UH)	from hqew, 现货 科力微电子	线艺	02+	6210	1008
+10MCM226MB2TER(10V/22UF/B)	from hqew, 现货 科力微电子	黑金刚	00+	7996	B
+10V/100UF/C	from hqew, 现货 科力微电子	NEC	04+	1500	C
+1206 106M	from hqew, 现货 科力微电子	TDK	10+	82000	1206
+1206A151JXBAT00(1206 150P)	from hqew, 现货 科力微电子	VISHAY	01+	3000	1206
+1206U474MXXAR0(1206 474M)	from hqew, 现货 科力微电子	VISHAY	01+	10000	1206
+1206Y473JXAAT00(1206 473J)	from hqew, 现货 科力微电子	VISHAY	00+	3000	1206
+120Y104JFBAT00(1210 104J)	from hqew, 科力微电子	VISHAY	00+	18000	1210
+1210 476Z	from hqew, 现货 科力微电子	TDK	04+	3000	1210
+1210V155ZXXAT0(1210 155Z)	from hqew, 现货 科力微电子	VISHAY	00+	60000	1210
+16V/47UF/D	from hqew, 现货 科力微电子	基美	&nbsp;	2700	D
+1733A M20 T8A	from hqew, 现货 科力微电子	SONY	98+	3000	SOD-123
+1757Y684KXJBE31(1210 684K)	from hqew, 现货 科力微电子	VISHAY	02+	15000	1206
+1812 476K	from hqew, 现货 科力微电子	TDK	04+	1000	1812
+1812Y104KXBAT00(1812 104K)	from hqew, 现货 科力微电子	VISHAY	00+	5000	1812
+1812Y154JXAAT00(1812 154J)	from hqew, 现货 科力微电子	VISHAY	01+	11000	1812
+1825A334KXBMT00(1825 334K)	from hqew, 现货 科力微电子	VISHAY	99+	42000	1825
+1825CC104MAT3R(1825 104M)	from hqew, 现货 科力微电子	AVX	02+	4000	1825
+1825Y155KXAAT00(1825 155K)	from hqew, 现货 科力微电子	VISHAY	01+	3000	1825
+1N4004 M4	from hqew, 现货 科力微电子	TK	11+	50000	DO-214
+1N4004 M4	from hqew, 科力微电子	国产东芝	13+	8000	DO-214
+1N4004 M4	from hqew, 现货 科力微电子	星海	11+	6000	DO-214
+1N4007 M7	from hqew, 现货 科力微电子	星海	12+	118000	DO-214
+1N4148W T4	from hqew, 现货 科力微电子	国产	13+	507000	SOD-123
+1N4148W T4	from hqew, 现货 科力微电子	CJ	13+	3287000	SOD-123
+1N4148W W1	from hqew, 现货 科力微电子	国产	13+	210000	SOD-123
+1N5817LT3G	from hqew, 现货 科力微电子	国产ON	13+	345000	SOD-123
+1N5817W SJ	from hqew, 科力微电子	国产	13+	108000	SOD-123
+1SS184 B3	from hqew, 科力微电子	TOSHIBA	11+	9000	SOT-23
+1SS184 B3	from hqew, 现货 科力微电子	CJ	11+	348000	SOT-23
+1SS193 F3	from hqew, 现货 科力微电子	国产	12+	81000	SOT-23
+1SS301 B3	from hqew, 现货 科力微电子	TOSHIBA	02+	3000	SOT-323
+1SS355 A	from hqew, 现货 科力微电子	CJ	13+	3000	SOD-323
+1SS355 XTL	from hqew, 现货 科力微电子	TOSHIBA	01+	3000	SOD-123
+1SS362 C3	from hqew, 现货 科力微电子	TOSHIBA	00+	6000	SOT-523
+1SS400G 7	from hqew, 科力微电子	CJ	13+	8000	SOD-723
+1SV215 T2	from hqew, 现货 科力微电子	TOSHIBA	04+	201000	SOD-323
+1SV332 T9	from hqew, 现货 科力微电子	TOSHIBA	02+	2132	SOD-323
+20V/1UF/P	from hqew, 现货 科力微电子	AVX	00+	55000	P
+22SB1386 BHQ	from hqew, 现货 科力微电子	CJ	12+	6000	SOT-89
+2301	from hqew, 现货 科力微电子	VISHAY	12+	279700	SOT-23
+2302	from hqew, 现货 科力微电子	VISHAY	12+	246000	SOT-23
+267M2502475MR686J(25V/4.7UF/B)	from hqew, 现货 科力微电子	日产	00+	3500	B
+293D227X0010E2T(10V/220UF/E)	from hqew, 现货 科力微电子	VISHAY	03+	52400	E
+293D336X0016C2T(16V/33UF/C)	from hqew, 现货 科力微电子	VISHAY	00+	87000	C
+2AS1587 CL	from hqew, 现货 科力微电子	CJ	13+	36000	SOT-323
+2N7002 7002	from hqew, 现货 科力微电子	CJ	13+	123000	SOT-23
+2N7002 702	from hqew, 现货 科力微电子	国产	13+	90000	SOT-23
+2N7002 72NVD	from hqew, 现货 科力微电子	PH	99+	3000	SOT-23
+2N7002 7ETDD	from hqew, 现货 科力微电子	PH	03+	3000	SOT-23
+2N7002 KN	from hqew, 现货 科力微电子	国产	12+	33000	SOT-23
+2N7002 S72	from hqew, 现货 科力微电子	通用	11+	47500	SOT-23
+2N7002 T1 7E	from hqew, 现货 科力微电子	VISHAY	03+	114000	SOT-23
+2N7002E T1 7E HA	from hqew, 现货 科力微电子	PH	03+	3000	SOT-23
+2PB1219SA DTS	from hqew, 现货 科力微电子	PH	00+	21000	SOT-323
+2SA1013	from hqew, 现货 科力微电子	CJ	09+	70	TO-92
+2SA1015 BS	from hqew, 现货 科力微电子	TOSHIBA	02+	3000	SOT-23-3
+2SA1022 C EC	from hqew, 现货 科力微电子	TOSHIBA	02+	3000	SOT-23-3
+2SA1036 HR	from hqew, 现货 科力微电子	国产	12+	15000	SOT-23
+2SA1037 FR	from hqew, 现货 科力微电子	CJ	11+	246000	SOT-23
+2SA1037 FR	from hqew, 现货 科力微电子	国产	12+	108000	SOT-23
+2SA1162 SY	from hqew, 现货 科力微电子	CJ	13+	39000	SOT-23
+2SA1162 SY	from hqew, 现货 科力微电子	国产	12+	66000	SOT-23
+2SA1298 IY	from hqew, 现货 科力微电子	国产	13+	90000	SOT-23
+2SA1298 JY	from hqew, 现货 科力微电子	TOSHIBA	98+	3000	SOT-23-3
+2SA1314 TB	from hqew, 现货 科力微电子	TOSHIBA	01+	3000	SOT-89
+2SA1330 T1B 06	from hqew, 现货 科力微电子	NEC	01+	3000	SOT-23-3
+2SA1330 T1B 07	from hqew, 现货 科力微电子	NEC	01+	6000	SOT-23-3
+2SA1369 T11 1G	from hqew, 现货 科力微电子	三菱	01+	9500	SOT-89
+2SA1576A FR	from hqew, 科力微电子	国产	13+	111000	SOT-323
+2SA1797 AGQ	from hqew, 现货 科力微电子	CJ	11+	8000	SOT-89
+2SA709A R B.R	from hqew, 现货 科力微电子	PANASONIC	00+	3000	SOT-23
+2SA812 M7	from hqew, 现货 科力微电子	CJ	13+	438000	SOT-23
+2SA812 T1B M5	from hqew, 现货 科力微电子	NEC	01+	186000	SOT-23
+2SB1189 BDRN	from hqew, 现货 科力微电子	国产	12+	54000	SOT-89
+2SB624 BV3	from hqew, 现货 科力微电子	国产	12+	207000	SOT-23
+2SB624 BV4	from hqew, 现货 科力微电子	国产	13+	993000	SOT-23
+2SB624 T1B BV3	from hqew, 现货 科力微电子	NEC	01+	6000	SOT-23
+2SB624 T1B BV4	from hqew, 现货 科力微电子	NEC	01+	3000	SOT-23
+2SB709 R TW A.R	from hqew, 现货 科力微电子	PANASONIC	95+	15000	SOT-23
+2SB792A R TX 2F.R	from hqew, 现货 科力微电子	PANASONIC	01+	3000	SOT-23
+2SC1621 T1B B3	from hqew, 现货 科力微电子	NEC	99+	27000	SOT-23-3
+2SC1623 L5	from hqew, 现货 科力微电子	国产	12+	81000	SOT-23
+2SC1623 L6	from hqew, 现货 科力微电子	粤晶	13+	621000	SOT-23
+2SC1623 L7	from hqew, 现货 科力微电子	CJ	13+	630000	SOT-23
+2SC1623W L6	from hqew, 现货 科力微电子	国产	13+	885000	SOT-323
+2SC1815M.Y HHFY	from hqew, 现货 科力微电子	国产	12+	3000	SOT-23
+2SC2412 BQ	from hqew, 现货 科力微电子	国产	12+	93000	SOT-23
+2SC2462 LC	from hqew, 现货 科力微电子	NEC	95+	2300	SOT-23-3
+2SC2714 HQY	from hqew, 现货 科力微电子	蓝箭	11+	126000	SOT-23
+2SC2714 QY	from hqew, 现货 科力微电子	国产	12+	246000	SOT-23
+2SC2734NETR R22	from hqew, 现货 科力微电子	日立	09+	6000	SOT-23
+2SC2873 MY	from hqew, 现货 科力微电子	CJ	13+	93000	SOT-89
+2SC3142J4 TB J 4	from hqew, 现货 科力微电子	SANYO	95+	2950	SOT-23-3
+2SC3265 KEY	from hqew, 现货 科力微电子	国产	12+	66000	SOT-23
+2SC3928A T12 1R H.R	from hqew, 现货 科力微电子	三菱	03+	12000	SOT-23
+2SC4081R BR	from hqew, 现货 科力微电子	国产	12+	210000	SOT-323
+2SC4102 TR	from hqew, 现货 科力微电子	ROHM	97+	2600	SOT-323
+2SC4175 T1 B4	from hqew, 现货 科力微电子	NEC	00+	363000	SOT-323
+2SC4179 T1B FA4	from hqew, 现货 科力微电子	NEC	01+	3000	SOT-23-3
+2SC4405 3 TL GY3	from hqew, 现货 科力微电子	SANYO	97+	3000	SOT-323
+2SC4577 6 TB UT6	from hqew, 现货 科力微电子	SANYO	99+	6000	SOT-23-3
+2SC5344 FAY	from hqew, 科力微电子	国产	13+	135000	SOT-23
+2SC5345SO ZO	from hqew, 现货 科力微电子	AUK	00+	3000	SOT-23
+2SD1119 TR	from hqew, 科力微电子	国产	13+	40000	SOT-89
+2SD1623 L6	from hqew, 科力微电子	国产	13+	141000	SOT-89-3
+2SD1664 DAR	from hqew, 现货 科力微电子	国产	13+	320000	SOT-89
+2SD1664 DARN	from hqew, 现货 科力微电子	国产	13+	27000	SOT-89
+2SD596 DV4	from hqew, 现货 科力微电子	国产	12+	246000	SOT-23
+2SD882 D882	from hqew, 现货 科力微电子	CJ	13+	15000	TO-252
+2SJ179 T1B PA35	from hqew, 现货 科力微电子	NEC	01+	2000	SOT-89
+2SJ285 TB BM	from hqew, 现货 科力微电子	SANYO	00+	3000	SOT-23-3
+2SK1467 H TD KC7J	from hqew, 现货 科力微电子	SANYO	97+	800	SOT-89
+2SK1717 Z5	from hqew, 现货 科力微电子	TOSHIBA	98+	1000	SOT-89
+2SK3018 KL	from hqew, 现货 科力微电子	国产	13+	357000	SOT-23
+2SK3018 KN	from hqew, 现货 科力微电子	国产	13+	234000	SOT-23
+2SK30187 T1B G25	from hqew, 现货 科力微电子	NEC	01+	3000	SOT-323
+2SK3018W KN	from hqew, 现货 科力微电子	国产	13+	231000	SOT-323
+2SK368 GR KAG	from hqew, 现货 科力微电子	TOSHIBA	98+	3982	SOT-23-3
+2TATA1298 EAO	from hqew, 现货 科力微电子	NEC	99+	3000	SOT-23
+431 431	from hqew, 现货 科力微电子	国产	12+	108000	SOT-89
+593D337X06R3E2T(6.3V/330UF/E)	from hqew, 现货 科力微电子	VISHAY	01+	17600	E
+593D337X06R3E2T(6.3V/330UF/E)	from hqew, 现货 科力微电子	VISHAY	03+	111600	E
+595D227K0010R2T(10V/220UF/R)	from hqew, 现货 科力微电子	VISHAY	01+	600	R
+6.3V/10UF/P	from hqew, 现货 科力微电子	NEC	07+	24000	P
+6.3V/22UF/P	from hqew, 现货 科力微电子	NEC	05+	3000	P
+695D336X0025H2T(25V/33UF/X)	from hqew, 现货 科力微电子	VISHAY	04+	16200	X
+695D476X0020H2T(20V/47UF/H)	from hqew, 现货 科力微电子	VISHAY	04+	2400	H
+78L05 AE	from hqew, 现货 科力微电子	国产	13+	59000	SOT-89
+78L09 78L09	from hqew, 现货 科力微电子	国产	12+	38000	SOT-89
+78L12 78L12	from hqew, 现货 科力微电子	国产	12+	1000	SOT-89
+78L15	from hqew, 现货 科力微电子	国产	13+	40000	SOT-89-3
+78M05	from hqew, 现货 科力微电子	ST	12+	100	TO-252
+78M12	from hqew, 现货 科力微电子	UTC	&nbsp;	5075	TO-252-2
+79L06	from hqew, 现货 科力微电子	国产	13+	4000	SOT-89-3
+933 050/562GTR1206A(1206 562G)	from hqew, 现货 科力微电子	PANASONIC	00+	2000	1206
+A42	from hqew, 现货 科力微电子	国产/中性	12+	28000	SOT-89
+AC699 A103	from hqew, 现货 科力微电子	AI	02+	3000	SOT-153
+AIC1642 30CX(AM30)	from hqew, 现货 科力微电子	沛亨	98+	65783	SOT-89
+AZ23C6V8-KDB	from hqew, 现货 科力微电子	CJ	12+	21000	SOT-23
+B0520LW SD	from hqew, 现货 科力微电子	国产	13+	174000	SOD-123
+B0530W SF	from hqew, 现货 科力微电子	国产	12+	177000	SOD-123
+B0530WS SE	from hqew, 现货 科力微电子	CJ	13+	213000	SOD-323
+B340A B340A	from hqew, 现货 科力微电子	国产东芝	13+	58000	SMA
+B45192E3336M309(16V/33UF/C)	from hqew, 现货 科力微电子	西门子	02+	883750	C
+B45196S1107M679(6.3V/100UF/D)	from hqew, 现货 科力微电子	西门子	01+	20250	D
+B45197A3476K409(16V 47UF D)	from hqew, 现货 科力微电子	西门子	04+	16500	D
+B772	from hqew, 现货 科力微电子	CJ	13+	57500	TO-252
+BAR64-02W-M	from hqew, 现货 科力微电子	西门子	00+	727000	SOD-523
+BAS16 A6W	from hqew, 现货 科力微电子	国产	13+	261000	SOT-23
+BAS40 43S	from hqew, 现货 科力微电子	西门子	07+	84000	SOT-23
+BAS70 06 76S	from hqew, 现货 科力微电子	西门子	07+	18000	SOT-23
+BAS70-06-976	from hqew, 现货 科力微电子	通用	99+	12000	SOT-23
+BAT54 TS	from hqew, 现货 科力微电子	西门子	07+	12000	SOT-23
+BAT54-06-TAS	from hqew, 现货 科力微电子	西门子	08+	114000	SOT-23
+BAT54A L42	from hqew, 现货 科力微电子	PH	01+	21000	SOT-23
+BAT54A WV3	from hqew, 现货 科力微电子	PH	08+	399000	SOT-23
+BAT54C WW1	from hqew, 现货 科力微电子	国产	12+	414000	SOT-23
+BAT54C-7-F-KL3	from hqew, 现货 科力微电子	美台	11+	849000	SOT-23
+BAT54CW KL7	from hqew, 现货 科力微电子	CJ	13+	45000	SOT-323
+BAT54RALT1 BG	from hqew, 现货 科力微电子	ZOWIE	00+	69000	SOT-23
+BAT54S L44	from hqew, 现货 科力微电子	ST	10+	3000	SOT-23
+BAT54S WV4	from hqew, 现货 科力微电子	PH	12+	3000	SOT-23
+BAT54SW KL8	from hqew, 现货 科力微电子	CJ	13+	90000	SOT-323
+BAT54WS L9	from hqew, 现货 科力微电子	国产	13+	303000	SOD-323
+BAT64 05 B5003 65	from hqew, 科力微电子	西门子	08+	3000	SOT-23
+BAT64 06 66	from hqew, 现货 科力微电子	西门子	08+	27000	SOT-23
+BAT64-05 65	from hqew, 现货 科力微电子	西门子	08+	3000	SOT-23
+BAV20W T2	from hqew, 现货 科力微电子	CJ	13+	3000	SOD-123
+BAV20WS T2	from hqew, 现货 科力微电子	国产	13+	24000	SOD-323
+BAV21W T3	from hqew, 现货 科力微电子	CJ	13+	3000	SOD-123
+BAV70 A4	from hqew, 现货 科力微电子	国产	13+	1452000	SOT-23
+BAV70 HA4	from hqew, 现货 科力微电子	国产	13+	3000	SOT-23
+BAV70T A4	from hqew, 现货 科力微电子	PH	06+	396000	SOT-523
+BAV99W A7	from hqew, 现货 科力微电子	国产	12+	687000	SOT-323
+BAVR64 02W E6327 M	from hqew, 科力微电子	西门子	00+	3000	SOD-523
+BAW56 3S	from hqew, 现货 科力微电子	西门子	04+	3000	SOT-23
+BAW56 3S	from hqew, 现货 科力微电子	西门子	00+	6000	SOT-23
+BAW56W A1T	from hqew, 现货 科力微电子	PH	04+	3000	SOT-323
+BC807 40 5CS	from hqew, 现货 科力微电子	西门子	03+	8800	SOT-23
+BC807 40 5CW	from hqew, 现货 科力微电子	国产	12+	477000	SOT-23
+BC807W 5B	from hqew, 现货 科力微电子	CJ	11+	6000	SOT-323
+BC817 25 6BS	from hqew, 科力微电子	西门子	08+	111000	SOT-23
+BC817 25 6BS	from hqew, 现货 科力微电子	西门子	07+	111000	SOT-23
+BC817 6D	from hqew, 现货 科力微电子	国产	13+	117000	SOT-23
+BC817-25W-6BW	from hqew, 现货 科力微电子	国产	12+	60000	SOT-323
+BC817-40W-6CW	from hqew, 现货 科力微电子	国产	12+	60000	SOT-323
+BC817K-25-6B	from hqew, 现货 科力微电子	西门子	08+	12000	SOT-23
+BC846A 1AW	from hqew, 现货 科力微电子	PH	11+	3000	SOT-23
+BC846A 1AW	from hqew, 现货 科力微电子	国产	12+	171000	SOT-23
+BC846B 1BW	from hqew, 现货 科力微电子	PH	11+	136000	SOT-23
+BC847 1F	from hqew, 现货 科力微电子	CJ	13+	207000	SOT-23
+BC847A 1EW	from hqew, 科力微电子	PH	09+	36000	SOT-23
+BC847AW 1ET	from hqew, 现货 科力微电子	PH	10+	315000	SOT-323
+BC847B 1F	from hqew, 现货 科力微电子	国产	12+	18000	SOT-23
+BC847BT 1FT	from hqew, 科力微电子	PH	08+	48000	SOT-523
+BC847W 1G	from hqew, 现货 科力微电子	国产	13+	171000	SOD-323
+BC848B 1KW	from hqew, 现货 科力微电子	国产	13+	138000	SOT-23
+BC856B 3BW	from hqew, 现货 科力微电子	国产	12+	195000	SOT-23
+BC856BLT1 3BS	from hqew, 科力微电子	ON SEMI	01+	3000	SOT-23
+BC856BT 3B	from hqew, 现货 科力微电子	西门子	07+	87000	SOT-523
+BC856BW 3B	from hqew, 科力微电子	国产	13+	324000	SOT-323
+BC857 3E	from hqew, 现货 科力微电子	CJ	07+	3000	SOT-23
+BC857 3G	from hqew, 现货 科力微电子	CJ	10+	807000	SOT-23
+BC857A 3ET	from hqew, 现货 科力微电子	PH	09+	453000	SOT-23
+BC857A 3EW	from hqew, 现货 科力微电子	国产	12+	726000	SOT-23
+BC857B 3FW	from hqew, 科力微电子	PH	07+	6000	SOT-23
+BC857BLT1G 3F	from hqew, 现货 科力微电子	ON SEMI	06+	9000	SOT-23
+BC857C H3G	from hqew, 现货 科力微电子	国产	13+	3000	SOT-23
+BC858 3J	from hqew, 现货 科力微电子	CJ	11+	9000	SOT-23
+BC858C 3L	from hqew, 现货 科力微电子	国产	12+	273000	SOT-23
+BC858CW E6327 3LS	from hqew, 科力微电子	西门子	07+	153000	SOT-323
+BCP54 16	from hqew, 现货 科力微电子	西门子	04+	755	SOT-223
+BCX53 16	from hqew, 现货 科力微电子	罗姆	01+	1000	SOT-89
+BCX53 16	from hqew, 现货 科力微电子	ROHM	01+	4000	SOT-89
+BCX53 AH	from hqew, 现货 科力微电子	国产	13+	27000	SOT-89
+BGA428 PGS	from hqew, 科力微电子	西门子	04+	3000	SOT-363
+BK32164W601 T(1206 600R)	from hqew, 现货 科力微电子	太诱	00+	4000	1206
+BLM21B222SPTM00 03 (0805 2200R)	from hqew, 现货 科力微电子	村田	00+	9000	O8O5
+BLM21B222SPTM00 03(0805 2200R)	from hqew, 现货 科力微电子	村田	00+	9000	0805
+BLM31B601SPTM00 03 (1206 600R)	from hqew, 现货 科力微电子	村田	00+	3000	1206
+BLM41A04PTM00 03	from hqew, 现货 科力微电子	村田	02+	15000	1210
+BR8205	from hqew, 现货 科力微电子	国产	13+	240000	SOT-23-6
+BSR14 U8P	from hqew, 现货 科力微电子	PH	04+	3000	SOT-23
+BSS138 J1	from hqew, 现货 科力微电子	国产	13+	81000	SOT-23
+BSS84 PD	from hqew, 现货 科力微电子	国产	11+	42000	SOT-23
+BSS84 PD	from hqew, 现货 科力微电子	国产	13+	51000	SOT-23
+BYM36C	from hqew, 科力微电子	PH	05+	12000	
+BZ84C8V2 Z7	from hqew, 现货 科力微电子	通用	98+	30000	SOT-23
+BZA456A Z6	from hqew, 现货 科力微电子	PH	00+	858000	SOT-163
+BZM55C3V3 TR	from hqew, 现货 科力微电子	VISHAY	00+	5000	LL34
+BZT52C10S	from hqew, 现货 科力微电子	国产	13+	42000	SOD-323
+BZT52C12 WH	from hqew, 现货 科力微电子	CJ	13+	366000	SOD-123
+BZT52C12S WH	from hqew, 现货 科力微电子	CJ	13+	174000	SOD-323
+BZT52C13 WI	from hqew, 现货 科力微电子	CJ	13+	111000	SOD-123
+BZT52C15 WJ	from hqew, 现货 科力微电子	CJ	13+	3000	SOD-123
+BZT52C15S	from hqew, 现货 科力微电子	国产	13+	186000	SOD-323
+BZT52C16T	from hqew, 现货 科力微电子	国产	13+	57000	SOD-523
+BZT52C18	from hqew, 现货 科力微电子	国产	13+	246000	SOD-123
+BZT52C20	from hqew, 现货 科力微电子	国产	13+	12000	SOD-123
+BZT52C20 WM	from hqew, 现货 科力微电子	CJ	13+	135000	SOD-123
+BZT52C22	from hqew, 现货 科力微电子	国产	13+	84000	SOD-123
+BZT52C22T	from hqew, 现货 科力微电子	国产	13+	63000	SOD-523
+BZT52C24S WO	from hqew, 现货 科力微电子	CJ	13+	243000	SOD-323
+BZT52C2V4S	from hqew, 现货 科力微电子	国产	13+	51000	SOD-323
+BZT52C2V7	from hqew, 现货 科力微电子	国产	13+	39000	SOD-123
+BZT52C30	from hqew, 现货 科力微电子	国产	13+	180000	SOD-123
+BZT52C30T	from hqew, 现货 科力微电子	国产	13+	30000	SOD-523
+BZT52C33	from hqew, 现货 科力微电子	国产	13+	60000	SOD-123
+BZT52C33 WR	from hqew, 现货 科力微电子	CJ	13+	51000	SOD-123
+BZT52C33S	from hqew, 现货 科力微电子	国产	13+	30000	SOD-323
+BZT52C33S WR	from hqew, 现货 科力微电子	CJ	13+	30000	SOD-323
+BZT52C39	from hqew, 现货 科力微电子	国产	13+	60000	SOD-123
+BZT52C39S	from hqew, 现货 科力微电子	国产	13+	30000	SOD-323
+BZT52C39S WT	from hqew, 现货 科力微电子	CJ	13+	45000	SOD-323
+BZT52C3V0	from hqew, 现货 科力微电子	国产	13+	135000	SOD-123
+BZT52C3V0 W2	from hqew, 现货 科力微电子	CJ	13+	504000	SOD-123
+BZT52C3V3	from hqew, 现货 科力微电子	国产	13+	120000	SOD-123
+BZT52C3V6S	from hqew, 现货 科力微电子	国产	13+	15000	SOD-323
+BZT52C3V6S W4	from hqew, 现货 科力微电子	CJ	13+	237000	SOD-323
+BZT52C43	from hqew, 现货 科力微电子	国产	13+	60000	SOD-123
+BZT52C43S	from hqew, 现货 科力微电子	国产	13+	30000	SOD-323
+BZT52C47S	from hqew, 现货 科力微电子	国产	13+	30000	SOD-323
+BZT52C4V7S W7	from hqew, 现货 科力微电子	CJ	13+	273000	SOD-323
+BZT52C4V7T	from hqew, 现货 科力微电子	国产	13+	66000	SOD-523
+BZT52C5V1S W8	from hqew, 现货 科力微电子	CJ	13+	120000	SOD-323
+BZT52C5V6T	from hqew, 现货 科力微电子	国产	13+	279000	SOD-523
+BZT52C6V8	from hqew, 现货 科力微电子	国产	13+	165000	SOD-123
+BZT52C6V8 WB	from hqew, 现货 科力微电子	CJ	13+	654000	SOD-123
+BZT52C6V8S	from hqew, 科力微电子	国产	13+	93000	SOD-323
+BZT52C7V5	from hqew, 现货 科力微电子	国产	13+	225000	SOD-123
+BZT52C7V5T	from hqew, 科力微电子	国产	13+	129000	SOD-523
+BZT52C8V2	from hqew, 现货 科力微电子	国产	13+	99000	SOD-123
+BZT52C8V2 WD	from hqew, 现货 科力微电子	CJ	13+	342000	SOD-123
+BZT52C9V1S	from hqew, 现货 科力微电子	国产	13+	39000	SOD-323
+BZT55B2V4 GS08	from hqew, 现货 科力微电子	VISHAY	03+	17500	LL34
+BZV55 B2V7	from hqew, 现货 科力微电子	PH	08+	17500	LL34
+BZV55 C4V8	from hqew, 现货 科力微电子	PH	95+	2500	LL34
+BZV55V6V2	from hqew, 现货 科力微电子	通用	&nbsp;	2500	LL34
+BZX284 B3V0 WQ	from hqew, 现货 科力微电子	PH	07+	3000	SOD-110
+BZX84 B4V3 WS7	from hqew, 现货 科力微电子	PH	08+	9000	SOT-23
+BZX84 C12 Y2W	from hqew, 现货 科力微电子	PH	11+	174000	SOT-23
+BZX84 C15 Y5W	from hqew, 现货 科力微电子	PH	11+	672000	SOT-23
+BZX84 C16 Y5W	from hqew, 现货 科力微电子	PH	11+	144000	SOT-23
+BZX84 C16 Y5W	from hqew, 科力微电子	PH	08+	18000	SOT-23
+BZX84 C24 Y9W	from hqew, 现货 科力微电子	PH	11+	3000	SOT-23
+BZX84 C30 WT5	from hqew, 科力微电子	PH	09+	33000	SOT-23
+BZX84 C5V6 Z3W	from hqew, 科力微电子	PH	11+	39000	SOT-23
+BZX84 C5V6 Z3W	from hqew, 科力微电子	PH	11+	36000	SOT-23
+BZX84 C9V1 Z8W	from hqew, 现货 科力微电子	PH	11+	321000	SOT-23
+BZX84 C9V1 Z8W	from hqew, 科力微电子	Other	07+	42000	SOT-23
+BZX84J B13 SB	from hqew, 现货 科力微电子	PH	08+	3000	SOD-323F
+C0201JRNP09EN100(0201 10P)	from hqew, 现货 科力微电子	国巨	04+	300000	O2O1
+C0805C225M4PAC7800(0805 225M)	from hqew, 现货 科力微电子	基美	04+	30000	0805
+C13Y5V1C335ZPIE08(1206 335Z)	from hqew, 现货 科力微电子	NEC	&nbsp;	2500	1206
+C2012X7R2A104KT000A(0805 104K)	from hqew, 现货 科力微电子	TDK	07+	3000	0805
+C2012X7R2E103KT020V(0805 103K)	from hqew, 现货 科力微电子	TDK	04+	102000	O8O5
+C2012Y5V1C474ZT00N(0805 474Z)	from hqew, 现货 科力微电子	TDK	03+	6000	O8O5
+C2520C 68NG(2520 68NH)	from hqew, 现货 科力微电子	SAGAMI	04+	2000	2520
+C2520C R12J(2520 120NH)	from hqew, 现货 科力微电子	SAGAMI	04+	60000	2520
+C3216X7R1H222KT0D9N(1206 222K)	from hqew, 现货 科力微电子	TDK	03+	140000	1206
+C3216Y5V1C225Z(1206 225Z)	from hqew, 现货 科力微电子	TDK	01+	110000	1206
+C3225X7R2J223KT0200(1210 223K)	from hqew, 现货 科力微电子	TDK	03+	2000	1210
+C3225Y5V1C106MT(1210 106M)	from hqew, 现货 科力微电子	TDK	06+	1000	1210
+C4 K2.5L R12 A071FA(100UH)	from hqew, 现货 科力微电子	MITSUMI	05+	22000	-
+C945 CR	from hqew, 现货 科力微电子	国产	13+	24000	SOT-23
+CB2012 101/0A5(0805 100R)	from hqew, 科力微电子	ZHF	&nbsp;	4000	0805
+CI B1005 39NSJT(0402 39NH)	from hqew, 现货 科力微电子	CTC	11+	30000	0402
+CJ2301 S1	from hqew, 现货 科力微电子	CJ	13+	93000	SOT-23
+CJ2305 S5	from hqew, 科力微电子	国产	13+	90000	SOT-23
+CJ2305 S5	from hqew, 现货 科力微电子	CJ	13+	186000	SOT-23
+CJ431 431	from hqew, 现货 科力微电子	CJ	13+	441000	SOT-23
+CJ431 431	from hqew, 现货 科力微电子	CJ	13+	107000	TO-92
+CJ7809 7809	from hqew, 现货 科力微电子	CJ	11+	1500	TO-220
+CJ7812 7812	from hqew, 现货 科力微电子	CJ	11+	1400	TO-220
+CJ78L06	from hqew, 现货 科力微电子	CJ	13+	100000	SOT-89-3
+CJ78L12	from hqew, 现货 科力微电子	CJ	13+	71000	SOT-89-3
+CJ78L15	from hqew, 现货 科力微电子	CJ	13+	1000	TO-92
+CJ78M05	from hqew, 现货 科力微电子	CJ	13+	105000	TO-252
+CJ78M08	from hqew, 现货 科力微电子	CJ	13+	2500	TO-252
+CJ79L06 79L06	from hqew, 现货 科力微电子	CJ	12+	7000	SOT-89-3
+CJ79L08	from hqew, 现货 科力微电子	CJ	13+	11000	SOT-89
+CJP05N60	from hqew, 科力微电子	CJ	11+	500	TO-220
+CJP07N60	from hqew, 科力微电子	CJ	11+	500	TO-220
+CL21B103KBNNNC(0805 103K)	from hqew, 现货 科力微电子	SAMSUNG	04+	5000	O8O5
+CR0402FF1200G(0402-120RF)	from hqew, 现货 科力微电子	丽智	13+	520000	0402
+CR0402FF1201G(0402-1.2KF)	from hqew, 现货 科力微电子	丽智	13+	140000	0402
+CR0402FF1500G(0402-150RF)	from hqew, 现货 科力微电子	丽智	13+	210000	0402
+CR0402FF3900G(0402-390RF)	from hqew, 科力微电子	丽智	13+	160000	0402
+CR0402FF4020G(0402-402RF)	from hqew, 科力微电子	丽智	13+	70000	0402
+CR0402FF4703G(0402-470KF)	from hqew, 科力微电子	丽智	13+	50000	0402
+CR0402FF5602G(0402-56KF)	from hqew, 科力微电子	丽智	13+	20000	0402
+CR0402FF8200G(0402-820RF)	from hqew, 科力微电子	丽智	13+	100000	0402
+CR0402FF8201G(0402-8.2KF)	from hqew, 科力微电子	丽智	13+	430000	0402
+CR0402JF0154G(0402-150K)	from hqew, 科力微电子	丽智	13+	1540000	0402
+CR0402JF01R5G(0402-1.5R)	from hqew, 科力微电子	丽智	13+	1830000	0402
+CR0402JF0201G(0402-200R)	from hqew, 科力微电子	丽智	13+	780000	0402
+CR0402JF0205G(0402-2M)	from hqew, 科力微电子	丽智	13+	240000	0402
+CR0402JF0224G(0402-220K)	from hqew, 科力微电子	丽智	13+	450000	0402
+CR0402JF0243G(0402-24K)	from hqew, 现货 科力微电子	丽智	13+	560000	0402
+CR0402JF0270G(0402-27R)	from hqew, 现货 科力微电子	丽智	13+	370000	0402
+CR0402JF0273G(0402-27K)	from hqew, 科力微电子	丽智	13+	3180000	0402
+CR0402JF0333G(0402-33K)	from hqew, 科力微电子	丽智	13+	2240000	0402
+CR0402JF0433G(0402-43K)	from hqew, 科力微电子	丽智	13+	540000	0402
+CR0402JF0471G(0402-470R)	from hqew, 科力微电子	丽智	13+	3400000	0402
+CR0402JF04R7G(0402-4.7R)	from hqew, 现货 科力微电子	丽智	13+	3320000	0402
+CR0402JF0514G(0402-510K)	from hqew, 现货 科力微电子	丽智	13+	1520000	0402
+CR0402JF0560G(0402-56R)	from hqew, 现货 科力微电子	丽智	13+	2480000	0402
+CR0402JF0564G(0402-560K)	from hqew, 现货 科力微电子	丽智	13+	330000	0402
+CR0402JF05R6G(0402-5.6R)	from hqew, 现货 科力微电子	丽智	13+	50000	0402
+CR0402JF0620G(0402-62R)	from hqew, 现货 科力微电子	丽智	13+	1190000	0402
+CR0402JF0680G(0402-68R)	from hqew, 现货 科力微电子	丽智	13+	290000	0402
+CR0402JF0682G(0402-6.8K)	from hqew, 现货 科力微电子	丽智	13+	490000	0402
+CR0402JF0684G(0402-680K)	from hqew, 现货 科力微电子	丽智	13+	100000	0402
+CR0402JF0751G(0402-750R)	from hqew, 现货 科力微电子	丽智	13+	1140000	0402
+CR0402JF430G(0402-43R)	from hqew, 科力微电子	丽智	13+	290000	0402
+CXT5401	from hqew, 现货 科力微电子	CJ	11+	12000	SOT-89
+D882M	from hqew, 现货 科力微电子	CJ	13+	50000	TO-252-2
+DB106 B6S	from hqew, 科力微电子	PANJIT	02+	2250	
+DTC114YE 64	from hqew, 现货 科力微电子	ROHM	00+	6000	SOT-323
+DTC144TUA 06	from hqew, 现货 科力微电子	ROHM	00+	3000	SOT-323
+DTF554A 05	from hqew, 现货 科力微电子	ROHM	01+	3000	SOT-363
+DTZTT119.1B L2	from hqew, 现货 科力微电子	ROHM	01+	9000	SOD-323
+ECRJA020E11X(4*4 20P)	from hqew, 现货 科力微电子	PANASONIC	02+	44100	44
+ECST1AZ475R(10V/4.7UF/P)	from hqew, 现货 科力微电子	PANASONIC	01+	3000	P
+ECST1CD476R(16V/47UF/D)	from hqew, 现货 科力微电子	PANASONIC	00+	750	D
+ECSTOJC686R(6.3V/68UF/C)	from hqew, 现货 科力微电子	PANASONIC	03+	75825	C
+EMC2 C2	from hqew, 现货 科力微电子	ROHM	02+	8000	SOT-353
+EMH10 H10	from hqew, 现货 科力微电子	CJ	11+	6000	SOT-563
+ES1M	from hqew, 现货 科力微电子	MIC	&nbsp;	64000	SMA
+ESS2302 044C	from hqew, 科力微电子	国产	11+	3000	SOT-23
+FA1L32 T1B L37	from hqew, 现货 科力微电子	NEC	01+	18000	SOT-23-3
+FA1L4M T2B L31	from hqew, 现货 科力微电子	NEC	99+	3000	SOT-23-3
+FBM-11-160808-601(0603 600R)	from hqew, 科力微电子	太诱	06+	4000	O6O3
+FDN360P NL	from hqew, 科力微电子	FAIRCHILD	13+	3000	SOT-23
+FDV301N J1	from hqew, 现货 科力微电子	仙童	05+	3000	SOT-23
+FMKA140	from hqew, 现货 科力微电子	仙童	02+	49000	DO-214
+FMM5013HUT	from hqew, 现货 科力微电子	富士通	95+	500	SOP-8
+FMMT491 491	from hqew, 现货 科力微电子	CJ	13+	6000	SOT-23
+FP1L3P T1B S33	from hqew, 现货 科力微电子	NEC	01+	6000	SOT-23-3
+FS1D	from hqew, 现货 科力微电子	国产东芝	12+	90000	SMA
+G1A-SOT-23	from hqew, 现货 科力微电子	国产	13+	264000	SOT-23
+GLZ3.3B	from hqew, 现货 科力微电子	通用	02+	2500	LL34
+GRM1885C1H122JA01D(0603 122J)	from hqew, 现货 科力微电子	村田	08+	12000	O6O3
+GRM31CR60J106KC01L(1206 106K)	from hqew, 现货 科力微电子	村田	01+	1000	1206
+GRM40F474Z16U530(0805 474Z 16V)	from hqew, 科力微电子	村田	00+	3000	O8O5
+GRM40F474Z16U530(0805 474Z 16V)	from hqew, 现货 科力微电子	村田	00+	3000	O8O5
+GRM40F474Z16V530(0805 474Z)	from hqew, 现货 科力微电子	村田	00+	996000	0805
+GRM40F474Z16V530(0805 474Z)	from hqew, 现货 科力微电子	村田	00+	1434000	O8O5
+GRM42 6X7R334K250PE(1206 334K)	from hqew, 现货 科力微电子	村田	00+	1420000	1206
+GRM42 6Y5V105Z016AJ(1206 105Z)	from hqew, 现货 科力微电子	村田	00+	1420000	1206
+H2TH	from hqew, 现货 科力微电子	国产	13+	45000	SOT-23
+HA17431VLP EL 4PA	from hqew, 现货 科力微电子	日立	04+	3000	SOT-153
+HD74UH32EL H4D	from hqew, 现货 科力微电子	日立	99+	6000	SOT-153
+HD74UH32EL H4G	from hqew, 现货 科力微电子	日立	99+	18000	SOT-153
+HD74UH32EL H4J	from hqew, 现货 科力微电子	日立	99+	12000	SOT-153
+HK100562J T(0402 62NH)	from hqew, 科力微电子	太诱	01+	30000	0402
+HK1608R10J T(0603 100NH)	from hqew, 科力微电子	太诱	01+	3000	0603
+HNL453232T 6R8K(1812 6.8UH)	from hqew, 科力微电子	台产	00+	9000	1812
+HY1C	from hqew, 现货 科力微电子	国产	13+	69000	SOT-23
+HZU12B2TRF 12	from hqew, 现货 科力微电子	日立	00+	1900	SOD-323
+HZU5.6B2TRF 5.6	from hqew, 现货 科力微电子	日立	00+	5200	SOD-323
+JC817C	from hqew, 科力微电子	匡通	&nbsp;	20	DIP-4
+JMK316BJ106ML TY(1206 106M)	from hqew, 现货 科力微电子	太诱	06+	20000	1206
+JWFI2012D150K(0805 15UH)	from hqew, 现货 科力微电子	台产	05+	4000	0805
+JWGB2012M101HT(0805 100R)	from hqew, 现货 科力微电子	台产	05+	4000	0805
+K2N7002LT1G 702	from hqew, 现货 科力微电子	LRC	11+	9000	SOT-23
+KN3904S RTK/P ZCA	from hqew, 现货 科力微电子	KEC	10+	3435000	SOT-23
+KN3906S RTK/P ZCA	from hqew, 科力微电子	KEC	10+	15000	SOT-23
+KN3906S RTK/P ZCA	from hqew, 现货 科力微电子	KEC	10+	15000	SOT-23
+KRC102S NB	from hqew, 现货 科力微电子	KEC	02+	3000	SOT-23
+KTA1504 ASG	from hqew, 现货 科力微电子	CJ	11+	84000	SOT-23
+KTA1504 ASG	from hqew, 现货 科力微电子	国产	12+	525000	SOT-23
+KTA1504 ASY	from hqew, 现货 科力微电子	国产	12+	51000	SOT-23
+KTA1505 AZG	from hqew, 现货 科力微电子	国产	12+	72000	SOT-23
+KTC3875 ALY	from hqew, 现货 科力微电子	CJ	13+	591000	SOT-23
+KTC3876 WY	from hqew, 现货 科力微电子	国产	13+	186000	SOT-89-3
+KTC9013S RTK/P 1B	from hqew, 现货 科力微电子	KEC	06+	3000	SOT-23
+L8550QLT1G 1YD	from hqew, 现货 科力微电子	LRC	09+	3000	SOT-23
+L9012QLT1G 12Q	from hqew, 现货 科力微电子	LRC	09+	27000	SOT-23
+LBAT54CLT1G 5C	from hqew, 现货 科力微电子	LRC	11+	174000	SOT-23
+LBZX84C13 Y3	from hqew, 现货 科力微电子	国产	13+	57000	SOT-23
+LBZX84C20 Y7	from hqew, 现货 科力微电子	国产	13+	27000	SOT-23
+LBZX84C22 Y8	from hqew, 现货 科力微电子	国产	13+	63000	SOT-23
+LBZX84C5V1LT1G-Z2	from hqew, 科力微电子	LRC	&nbsp;	15000	SOD-323
+LBZX84C8V2LT1G Z7	from hqew, 现货 科力微电子	LRC	11+	27000	SOT-23
+LBZX84C8V2LT1G-Z7	from hqew, 科力微电子	LRC	&nbsp;	51000	SOT-23
+LC453232 471K(1812 470UH)	from hqew, 现货 科力微电子	台产	00+	15000	1812
+LESD9D5.0CT5G	from hqew, 现货 科力微电子	LRC	10+	48000	SOD-923
+LFBK31264S301 T(1206 300R)	from hqew, 现货 科力微电子	太诱	01+	636000	1206
+LFBK31264W101 T(1206 100R)	from hqew, 现货 科力微电子	太诱	01+	80000	1206
+LFBK32164W221 T(1206 220R)	from hqew, 现货 科力微电子	太诱	00+	12000	1206
+LFLK1608180M T(0603 18UH)	from hqew, 现货 科力微电子	太诱	01+	8000	0603
+LFLK21256R8K T(0805 6.8UH)	from hqew, 现货 科力微电子	太诱	00+	4000	0805
+LFLK2125R39K TG(0805 390NH)	from hqew, 现货 科力微电子	太诱	01+	84000	0805
+LGHK 2125 47NK T(0805 47NH)	from hqew, 现货 科力微电子	太诱	00+	2000	0805
+LGHK100518NJ T(0402 18NH)	from hqew, 现货 科力微电子	太诱	00+	20000	0402
+LGHK16081N0S T(0603 1NH)	from hqew, 现货 科力微电子	太诱	01+	228000	0603
+LGHK1608R18K T(0603 180NH)	from hqew, 现货 科力微电子	太诱	03+	4000	0603
+LK1608 2R7M 7(0603 2.7UH)	from hqew, 现货 科力微电子	太诱	00+	28000	0603
+LL1005 FH10NJ(0402 10NH)	from hqew, 现货 科力微电子	TOKO	05+	10000	0402
+LL1005 FH27NK(0402 27NH)	from hqew, 现货 科力微电子	TOKO	00+	910000	0402
+ll1005 FH2N2S(0603 2.2UH)	from hqew, 现货 科力微电子	TOKO	00+	4000	O6O3
+LL1005 FH47NJ(0402 47NH)	from hqew, 现货 科力微电子	TOKO	02+	230000	0402
+LL1608 F1N2S(0603 1.2UH)	from hqew, 现货 科力微电子	TOKO	00+	4000	0603
+LL1608 F82NJ(0603 82NH)	from hqew, 现货 科力微电子	TOKO	00+	4000	0603
+LL1608 FH10NJ(0603 10NH)	from hqew, 现货 科力微电子	TOKO	00+	28000	0603
+LL1608 FH4N7K(0603 4.7NH)	from hqew, 现货 科力微电子	TOKO	01+	40000	0603
+LL1608 FH56NJ(0603 56NH)	from hqew, 现货 科力微电子	TOKO	00+	4000	0603
+LL1608 FH6N8J (0402 6.8UH)	from hqew, 现货 科力微电子	TOKO	02+	160000	O4O2
+LL2012 FHR15J(0805 150NH)	from hqew, 现货 科力微电子	TOKO	00+	9000	0805
+LL4148	from hqew, 现货 科力微电子	进口ST	11+	67500	LL34
+LL60	from hqew, 现货 科力微电子	HL	12+	15000	LL34
+LM317	from hqew, 现货 科力微电子	CJ	13+	10000	TO-252
+LM4040DIM3X 10.C R0D	from hqew, 现货 科力微电子	国半	00+	12000	SOT-23
+LM5Z5V6 0C	from hqew, 现货 科力微电子	国产	13+	231000	SOD-523
+LM5Z5V6 W9	from hqew, 现货 科力微电子	国产	13+	279000	SOD-523
+LMBT4403LT1G 2T	from hqew, 现货 科力微电子	LRC	11+	3000	SOT-23
+LMBT4403T1G 2X	from hqew, 现货 科力微电子	LRC	11+	3000	SOT-23
+LMBT5551LT1G G1	from hqew, 现货 科力微电子	LRC	11+	42000	SOT-23
+LMBTH10LT1G 3EM	from hqew, 现货 科力微电子	LRC	10+	24000	SOT-23
+LMSZ5246BT1G	from hqew, 现货 科力微电子	国产	13+	63000	SOD-123
+LMSZ5251BT1G	from hqew, 现货 科力微电子	国产	13+	6000	SOD-123
+LQG11A18NJ00T1M05 01(0603 18NH)	from hqew, 现货 科力微电子	村田	02+	4000	0603
+LQH3C4R7M04M00 01(1210 4.7UH)	from hqew, 现货 科力微电子	村田	01+	10000	1210
+LQN1A84NJ04M00 01	from hqew, 现货 科力微电子	村田	01+	2000	2520
+LQP11A3N9C00T2M00 01(0603 3.9NH)	from hqew, 现货 科力微电子	村田	04+	520000	0603
+LQP11A5N6C00T1M00 01(0603 5.6NH)	from hqew, 现货 科力微电子	村田	00+	12000	0603
+LQV31MN2NOC02D(1206 2NH)	from hqew, 现货 科力微电子	村田	02+	40000	1206
+MAZL06800L 6.8D	from hqew, 现货 科力微电子	PANASONIC	98+	33000	SOD-153
+MBT3904DW1T1 MA4	from hqew, 现货 科力微电子	ON SEMI	03+	4528	SOT-363
+MBZ5243BLT1 8TE	from hqew, 现货 科力微电子	ON SEMI	00+	18000	SOT-23
+MC2836 T12 A A4	from hqew, 现货 科力微电子	三菱	98+	4300	SOT-23
+MGFI4532E101KT(4532 100UH)	from hqew, 现货 科力微电子	台产	03+	2500	4532
+MJD112	from hqew, 现货 科力微电子	CJ	13+	35000	TO-252
+MJD117	from hqew, 科力微电子	CJ	13+	32500	TO-252
+MJD122	from hqew, 现货 科力微电子	CJ	13+	10000	TO-252
+MLF1608A1R0KTA000(0603 1UH)	from hqew, 现货 科力微电子	TDK	&nbsp;	4000	O6O3
+MLF1608A2R2KTA00(0603 2.2UH)	from hqew, 现货 科力微电子	TDK	00+	2500000	0603
+MLF1608DR82KTA00(0603 820NH)	from hqew, 现货 科力微电子	TDK	00+	4000	0603
+MLG1608B3N9ST000(0603 3.9NH)	from hqew, 现货 科力微电子	TDK	02+	4000	0603
+MLI20R 4R7(0805 4.7UH)	from hqew, 现货 科力微电子	台产	00+	4000	0805
+MLK1005S12NJT000A(0402 12NH)	from hqew, 现货 科力微电子	TDK	01+	40000	0402
+MMBD4148A 5H	from hqew, 现货 科力微电子	CJ	13+	84000	SOT-23
+MMBD4148CA D6	from hqew, 现货 科力微电子	国产	13+	819000	SOT-23
+MMBD6050LT1 5AY	from hqew, 现货 科力微电子	ZOWIE	02+	3000	SOT-23
+MMBD7000 M5C	from hqew, 现货 科力微电子	CJ	10+	6000	SOT-23
+MMBD7000 M5C	from hqew, 现货 科力微电子	国产	12+	87000	SOT-23
+MMBD7000 S5C	from hqew, 现货 科力微电子	西门子	04+	3000	SOT-23
+MMBD7000LT1G M5C	from hqew, 现货 科力微电子	ON SEMI	09+	3000	SOT-23
+MMBT2907-2F	from hqew, 科力微电子	ST	&nbsp;	240000	SOD-323
+MMBT2907A 2F	from hqew, 现货 科力微电子	国产	13+	663000	SOT-23
+MMBT3904 1AM	from hqew, 现货 科力微电子	粤晶	13+	3000	SOT-23
+MMBT3904 1AM	from hqew, 现货 科力微电子	国产	13+	66000	SOT-323
+MMBT3904 1E	from hqew, 现货 科力微电子	国产	13+	126000	SOT-523
+MMBT3904 T1A	from hqew, 现货 科力微电子	PH	13+	174000	SOT-23
+MMBT3906 2A	from hqew, 现货 科力微电子	粤晶	13+	3000	SOT-23
+MMBT4401 2X	from hqew, 现货 科力微电子	ST	10+	6000	SOT-23
+MMBT4401 2X	from hqew, 现货 科力微电子	国产	13+	222000	SOT-23
+MMBT4401-2X	from hqew, 科力微电子	ST	&nbsp;	90000	SOT-23
+MMBT4401K 2XK	from hqew, 现货 科力微电子	仙童	05+	2900	SOT-23
+MMBT4403 2T	from hqew, 现货 科力微电子	CJ	11+	138000	SOT-23
+MMBT4403LT1G 2T	from hqew, 现货 科力微电子	ON SEMI	13+	168000	SOT-23
+MMBT5401 2L	from hqew, 现货 科力微电子	CJ	13+	1362000	SOT-23
+MMBT5551 HG1B	from hqew, 科力微电子	国产	13+	27000	SOT-23
+MMBT8050D D9D	from hqew, 现货 科力微电子	国产	12+	2943000	SOT-23
+MMBT8550D B9D	from hqew, 现货 科力微电子	ST	11+	18000	SOT-23
+MMBTA42 H1D	from hqew, 现货 科力微电子	国产	13+	18000	SOT-23
+MMBTA92 H2D	from hqew, 现货 科力微电子	国产	13+	126000	SOT-23
+MMBTA94 4D	from hqew, 现货 科力微电子	CJ	12+	33000	SOT-23
+MMBTA94 4D	from hqew, 现货 科力微电子	国产	12+	6000	SOT-23
+MMBTH10 3EM	from hqew, 科力微电子	CJ	13+	96000	SOT-23
+MMBZ5241B 8R	from hqew, 现货 科力微电子	仙童	04+	3000	SOT-23
+MMBZ5243BLT1 8TE	from hqew, 现货 科力微电子	ON SEMI	00+	18000	SOT-23
+MMDT2222A-7-K1PS2	from hqew, 现货 科力微电子	美台	05+	24000	SOT-363
+MMQA5V6T1 5A6U	from hqew, 现货 科力微电子	ON SEMI	00+	150000	SOT-163
+MMST2222A K3P	from hqew, 现货 科力微电子	CJ	12+	69000	SOT-323
+MMST3904 K2N	from hqew, 现货 科力微电子	CJ	12+	231000	SOT-323
+MMST3906 K5N	from hqew, 现货 科力微电子	国产	13+	150000	SOT-323
+MMSZ5223ET1 CA3L	from hqew, 现货 科力微电子	ON SEMI	04+	3000	SOD-123
+MMSZ5231B E1	from hqew, 现货 科力微电子	CJ	11+	54000	SOD-123
+MMSZ5245B H5	from hqew, 现货 科力微电子	CJ	11+	30000	SOD-123
+MMSZ6V2T1 VL	from hqew, 现货 科力微电子	ON SEMI	00+	2975	SOT-23
+MMZ1005Y800CT000(0402 80R)	from hqew, 现货 科力微电子	TDK	05+	80000	0402
+MMZ2012S121AT000	from hqew, 现货 科力微电子	TDK	95+	4000	0805
+M2	from hqew, 科力微电子	-	&nbsp;	23000	SOT-89
+M2520R1R8J(2520 1.8UH)	from hqew, 现货 科力微电子	太诱	03+	2000	2520
+M28S 28S	from hqew, 现货 科力微电子	国产	13+	294000	SOT-23
+MA1070200L M4R	from hqew, 现货 科力微电子	PANASONIC	97+	6000	SOT-323
+MA2S357 TX 6D	from hqew, 现货 科力微电子	PANASONIC	02+	3000	SOD-323
+MA4P1084 287TR AH	from hqew, 现货 科力微电子	MACOM	98+	3000	SOT-23
+MA732 TX ZC	from hqew, 现货 科力微电子	PANASONIC	98+	3000	SOD-323
+MA786 TW M3T	from hqew, 现货 科力微电子	PANASONIC	00+	3000	SOT-23
+MA8120 M TX 12	from hqew, 现货 科力微电子	PANASONIC	03+	3000	SOD-323
+MA8200 M TX 20	from hqew, 现货 科力微电子	PANASONIC	02+	6000	SOD-523
+N0JC107M006RWJ(6.3V/100UF/C)	from hqew, 现货 科力微电子	AVX	04+	73500	C
+N0SE337M006R0100(6.3V/330UF/E)	from hqew, 现货 科力微电子	AVX	04+	84000	E
+NC7SZ32MSX 7Z32D	from hqew, 现货 科力微电子	国半	00+	1500	SOT-153
+NE TBPS1R222K410H5Q(0603-2.2K)	from hqew, 现货 科力微电子	太诱	02+	4000	0603
+NETBPS1R104G439F5Q(0603 100K)	from hqew, 现货 科力微电子	太诱	01+	116000	O6O3
+NETBPS1R104J475H5Q(0603 100K)	from hqew, 现货 科力微电子	太诱	01+	552000	0603
+NETBPS1R471J410H5Q	from hqew, 科力微电子	太诱	01+	6323	
+NK2302A	from hqew, 现货 科力微电子	国产	12+	30000	SOT-23
+NL252018T 101J(2520 100UH)	from hqew, 现货 科力微电子	TDK	00+	2000	2520
+NL252018TL 1R2J(2520 1.2UH)	from hqew, 现货 科力微电子	TDK	02+	6000	2520
+NL322522T 271J(1210 270UH)	from hqew, 现货 科力微电子	TDK	00+	8000	1210
+NL322522T R22K(1210 220NH)	from hqew, 现货 科力微电子	TDK	99+	6000	1210
+NL322522T R22K(1210 220NH)	from hqew, 现货 科力微电子	TDK	00+	6000	1210
+NL453232T 101J PF(1812 100UH)	from hqew, 现货 科力微电子	TDK	05+	2500	1812
+NL453232T 220J PF(1812 22UH)	from hqew, 现货 科力微电子	TDK	06+	1500	1812
+NL4532T 560J(1812 56UH)	from hqew, 现货 科力微电子	TDK	99+	4500	1812
+NLF1608A5R6JT000N(0603 5.6UH)	from hqew, 现货 科力微电子	TDK	03+	4000	0603
+NLF453232T 121K(1812 120UH)	from hqew, 现货 科力微电子	TDK	98+	500	1812
+NNCD11E T1B 33	from hqew, 现货 科力微电子	NEC	97+	3000	SOT-23-3
+NNCD3.6E T1B 36	from hqew, 现货 科力微电子	NEC	97+	3000	SOT-23-3
+NRS335K16RSG(16V/3.3UF/B)	from hqew, 现货 科力微电子	NEC	96+	88000	B
+NSP102J50TRA1(0805 102J)	from hqew, 现货 科力微电子	PANASONIC	00+	18000	0805
+NTC T105K35TRB(35V/1UF/B)	from hqew, 现货 科力微电子	NTC	00+	6000	B
+NTC T225K35TRC(35V/2.2UF/C)	from hqew, 现货 科力微电子	NTC	04+	7000	C
+NTC T226M25TRD(25V/22UF/D)	from hqew, 现货 科力微电子	NTC	01+	8000	D
+NTC T335K25TRB(25V/3.3UF/B)	from hqew, 现货 科力微电子	NTC	01+	28000	B
+NTC T475M10TRA 13(10V/4.7UF/A)	from hqew, 现货 科力微电子	NTC	00+	9000	A
+PFFK2125TZ102C500T(0805 1K)	from hqew, 现货 科力微电子	太诱	03+	3000	0805
+PFFK215ZT102AL T	from hqew, 现货 科力微电子	太诱	03+	3000	0805
+PFFK3216HC033 T	from hqew, 现货 科力微电子	太诱	01+	50000	1206
+PMBS3906 T06	from hqew, 现货 科力微电子	PH	11+	3000	SOT-23
+PMBS3906 W06	from hqew, 现货 科力微电子	PH	11+	3000	SOT-23
+PMBT2222A W1P	from hqew, 科力微电子	PH	12+	2895000	SOT-23
+PMBT2222A W1P	from hqew, 科力微电子	国产	12+	234000	SOT-23
+PMBT3904 W1A	from hqew, 现货 科力微电子	PH	12+	6000	SOT-23
+PMBT3904 W1A	from hqew, 现货 科力微电子	国产	13+	1941000	SOT-23
+PMBT4403 P2T	from hqew, 现货 科力微电子	PH	01+	3000	SOT-23
+PMBZ5242 P8S	from hqew, 现货 科力微电子	PH	03+	15000	SOT-23
+PMST4403 T2T	from hqew, 科力微电子	PH	03+	3000	SOT-23
+PTL1608 F2N7S(0603 2.7NH)	from hqew, 现货 科力微电子	TOKO	00+	60000	0603
+PXT2907A 2F	from hqew, 现货 科力微电子	国产	13+	143000	SOT-89-3
+PXT3904 1AM	from hqew, 现货 科力微电子	国产	12+	179000	SOT-89-3
+QW42C27 31G P	from hqew, 现货 科力微电子	日产	98+	1000	SOP-8
+RB0540 BJ	from hqew, 现货 科力微电子	ZOWIE	03+	15000	SOD-123
+RB3.6M T2B 362	from hqew, 现货 科力微电子	NEC	94+	3000	SOT-23-3
+RB491D 63E	from hqew, 现货 科力微电子	罗姆	06+	3000	SOT-23
+RB491D 63E	from hqew, 现货 科力微电子	ROHM	06+	3000	SOT-23
+RB491D D2E	from hqew, 现货 科力微电子	CJ	13+	90000	SOT-23
+RB521S 30 C	from hqew, 现货 科力微电子	CJ	13+	507000	SOD-523
+RB521S 30 S4	from hqew, 现货 科力微电子	国产	13+	99000	SOT-23
+RB550V 30 SS	from hqew, 现货 科力微电子	CJ	13+	90000	SOD-323
+RB551V 30 D	from hqew, 现货 科力微电子	国产	12+	9000	SOD-323
+RB551V 30 D	from hqew, 现货 科力微电子	国产	13+	174000	SOD-323
+RB751S 40 5	from hqew, 现货 科力微电子	CJ	11+	75000	SOD-523
+RB751V-40-5	from hqew, 现货 科力微电子	国产	12+	174000	SOD-323
+RC2301 A1	from hqew, 现货 科力微电子	RCR	12+	6000	SOT-23
+RC2301 A1SHB	from hqew, 现货 科力微电子	RCR	12+	3000	SOT-23
+RCR1521SI M21	from hqew, 科力微电子	RCR	12+	3000	SOT-23
+RD11S T1 B2	from hqew, 现货 科力微电子	NEC	97+	3000	SOD-323
+RD13UM T1	from hqew, 现货 科力微电子	NEC	08+	3000	SOD-523
+RD15S T1	from hqew, 现货 科力微电子	NEC	08+	6000	SOD-323
+RD18UM T1	from hqew, 现货 科力微电子	NEC	08+	159000	SOD-523
+RD24UJ T1	from hqew, 现货 科力微电子	NEC	08+	21000	SOD-523
+RD27UJ	from hqew, 现货 科力微电子	NEC	08+	6000	SOT-523
+RD5.1S T2	from hqew, 现货 科力微电子	NEC	08+	27000	SOD-323
+RD5.6M T1B 561	from hqew, 现货 科力微电子	NEC	99+	3000	SOT-23-3
+RD6.2S T1 622	from hqew, 现货 科力微电子	NEC	99+	3000	SOD-323
+RD6.2UJ	from hqew, 现货 科力微电子	NEC	08+	117000	SOD-523
+RD72MW T1B 27W	from hqew, 现货 科力微电子	NEC	96+	3000	SOT-23-3
+RD8.2S T1	from hqew, 现货 科力微电子	NEC	08+	36000	SOD-323
+RD9.1UJ T1	from hqew, 现货 科力微电子	NEC	08+	33000	SOD-523
+RDS035L03	from hqew, 现货 科力微电子	罗姆	03+	50000	SOP-8
+REG7044242/18J(0603 18NH)	from hqew, 现货 科力微电子	KOA	00+	82000	0603
+REG7044243/12J(0603 120NH)	from hqew, 现货 科力微电子	KOA	00+	16000	0603
+RH5R153B T1 53118B	from hqew, 现货 科力微电子	理光	97+	1000	SOT-89
+RH5VA27CA T1 R7J4	from hqew, 现货 科力微电子	理光	95+	1000	SOT-89
+RH5VL40AA T1 D05F	from hqew, 现货 科力微电子	理光	95+	1000	SOT-89
+RH5VL40AA T1 D06F	from hqew, 现货 科力微电子	理光	96+	2400	SOT-89
+RLS4148 A2	from hqew, 现货 科力微电子	国产ROHM	12+	414000	SOD-123
+RLZTE 11 30A	from hqew, 现货 科力微电子	ROHM	02+	2500	LL34
+RLZTE 11 4.7B	from hqew, 现货 科力微电子	ROHM	02+	5000	LL34
+RLZTE 11 5.6B	from hqew, 现货 科力微电子	ROHM	01+	2500	LL34
+RN1404 XD	from hqew, 现货 科力微电子	TOSHIBA	98+	3000	SOT-23-3
+RN1908 X1	from hqew, 现货 科力微电子	TOSHIBA	02+	9000	SOT-363
+RN2407 YH	from hqew, 现货 科力微电子	TOSHIBA	98+	12000	SOT-23-3
+RN2711 YM	from hqew, 现货 科力微电子	TOSHIBA	99+	2000	SOT-353
+RS07M	from hqew, 科力微电子	星海	13+	6000	SOD-123
+RT1N144C T12 2 N5	from hqew, 现货 科力微电子	三菱	98+	5800	SOT-23
+RT1P144C T12 2 P5	from hqew, 现货 科力微电子	三菱	98+	2400	SOT-23
+RVG3A08 222VM TQ(3*3 2.2K)	from hqew, 现货 科力微电子	村田	00+	10000	3 3
+S07M	from hqew, 科力微电子	星海	13+	6000	SOD-123
+S8050 J3Y	from hqew, 现货 科力微电子	CJ	13+	1971000	SOT-23
+S8550 2TY	from hqew, 现货 科力微电子	CJ	13+	2082000	SOT-23
+S9012 2T1	from hqew, 现货 科力微电子	国产	13+	264000	SOT-23
+S9012 2T1	from hqew, 现货 科力微电子	CJ	13+	234000	SOT-23
+S9013W J3	from hqew, 现货 科力微电子	国产	13+	120000	SOT-323
+S9014	from hqew, 现货 科力微电子	CJ	11+	46000	TO-92
+S9014 J6	from hqew, 科力微电子	国产	13+	157000	SOT-89-3
+S9014 J6	from hqew, 现货 科力微电子	CJ	13+	729000	SOT-23
+S9015W M6	from hqew, 现货 科力微电子	国产	12+	240000	SOT-323
+S949T 949	from hqew, 现货 科力微电子	VISHAY	00+	27000	SOT-143
+SD103AW B2	from hqew, 现货 科力微电子	CJ	11+	501000	SOD-123
+SD103AW S4	from hqew, 现货 科力微电子	CJ	13+	351000	SOD-123
+SD103AW S8	from hqew, 现货 科力微电子	国产	12+	339000	SOD-123
+SD103AW SE	from hqew, 现货 科力微电子	CJ	07+	576000	SOD-123
+SDFL2012Q1ROKT(0805 1UH)	from hqew, 现货 科力微电子	顺络	07+	4000	O8O5
+SI2301DS T1 014M	from hqew, 现货 科力微电子	SI	04+	3000	SOT-23
+SI2305DS	from hqew, 现货 科力微电子	VISHAY	12+	9000	SOT-23
+SI2308DS	from hqew, 现货 科力微电子	VISHAY	12+	42000	SOT-23
+SI3442DV T1 42NE	from hqew, 现货 科力微电子	SI	98+	9000	SOT-163
+SK22	from hqew, 现货 科力微电子	星海	11+	3000	SMB
+SK34	from hqew, 现货 科力微电子	星海	13+	27000	SMB
+SK34	from hqew, 现货 科力微电子	国产东芝	13+	64000	DO-214
+SK34R D5NA	from hqew, 现货 科力微电子	美台	95+	500	SMC
+SMBJ22A LX	from hqew, 现货 科力微电子	ZOWIE	04+	9000	DO-214B
+SN7002 FS3	from hqew, 现货 科力微电子	西门子	98+	39000	SOT-23
+SS12	from hqew, 现货 科力微电子	国产东芝	13+	132000	DO-214
+SS13	from hqew, 现货 科力微电子	国产东芝	12+	88000	DO-214
+SS8050 Y1	from hqew, 科力微电子	CJ	13+	339000	SOT-323
+SS8550D	from hqew, 现货 科力微电子	CJ	11+	22000	TO-92
+SS8550D	from hqew, 现货 科力微电子	国产	12+	149015	TO-92
+STN3904S KA	from hqew, 现货 科力微电子	AUK	13+	12234000	SOT-23
+SWEL1608LR33KT(0603 330NH)	from hqew, 现货 科力微电子	国产	05+	4000	0603
+T491B336M010SA(10V/33UF/B)	from hqew, 现货 科力微电子	基美	04+	272000	B
+T491C106M025AS(25V/10UF/C)	from hqew, 科力微电子	基美	00+	80500	C
+T491C336M010AS(10V 33UF C)	from hqew, 现货 科力微电子	基美	01+	1000	D
+T491D107M006AS(6.3V/100UF/D)	from hqew, 科力微电子	基美	04+	5000	D
+T495X476M020AS4069(20V/47UF/E)	from hqew, 科力微电子	基美	00+	1000	E
+TAJB335M016RAC(16V/3.3UF/B)	from hqew, 科力微电子	AVX	00+	650000	B
+TAJC686M006RNJ(6.3V/68UF/C)	from hqew, 现货 科力微电子	AVX	03+	1500	C
+TAJD156M025SNJ(25V/15UF/D)	from hqew, 科力微电子	AVX	02+	5000	D
+TAJD336K016RNJ(16V/33UF/D)	from hqew, 现货 科力微电子	AVX	02+	2000	D
+TAJT106M006RNJ(6.3V 10UH B)	from hqew, 现货 科力微电子	AVX	02+	145000	B
+TC7S04F E5	from hqew, 现货 科力微电子	国产东芝	01+	7600	SOT-153
+TC7W32FU	from hqew, 现货 科力微电子	国产东芝	98+	3000	SOP-8
+TCJT336M010R0070(10V/33UF/B	from hqew, 现货 科力微电子	AVX	07+	120000	B
+TEESVD1V156MAS12R(35V/15UF/D)	from hqew, 科力微电子	NEC	03+	47000	D
+TEMSVA1A106M8R(10V/10UF/A)	from hqew, 科力微电子	NEC	00+	4000	A
+TEMSVC1C336M12R(16V/33UF/C)	from hqew, 科力微电子	NEC	00+	7500	C
+TEMSVD1C107M12R(16V/100UF/D)	from hqew, 科力微电子	NEC	01+	500	D
+TEMSVP1A225M8R(10V/2.2UF/P)	from hqew, 科力微电子	NEC	04+	3000	P
+TEMSVPOJ475M8R(10V/2.2UF/P)	from hqew, 现货 科力微电子	NEC	04+	3000	P
+TL431BCL 431	from hqew, 现货 科力微电子	RCR	12+	24000	SOT-23
+TL432 432	from hqew, 现货 科力微电子	国产	13+	36000	SOT-23
+TLZ3V0A GS08	from hqew, 现货 科力微电子	VISHAY	03+	2500	SOT-23
+TMC0GA106MLRH(10V/10UF/A)	from hqew, 科力微电子	日立	00+	2000	A
+TMCSA1V334MTRQ(35V/0.33UF/A)	from hqew, 科力微电子	日立	00+	8000	A
+TN0205A T1 BA	from hqew, 现货 科力微电子	VISHAY	01+	6000	SOT-323
+TN0205A T1 DSC	from hqew, 现货 科力微电子	VISHAY	02+	9000	SOT-323
+U1FWJ44M 1FM	from hqew, 现货 科力微电子	国产东芝	00+	28000	SMA
+U1ZB51 51	from hqew, 现货 科力微电子	国产东芝	02+	2000	DO-214
+UDZTE 17 13B 35	from hqew, 现货 科力微电子	ROHM	00+	3000	SOD-323
+UDZTE 17 2.2B 12	from hqew, 现货 科力微电子	ROHM	99+	2860	SOD-323
+UMG5 G5	from hqew, 现货 科力微电子	ROHM	99+	5600	SOT-353
+UMT4401 R2X	from hqew, 现货 科力微电子	ROHM	95+	315000	SOT-323
+UMX4 X4	from hqew, 现货 科力微电子	ROHM	03+	3000	SOT-363
+UPA1919TE T1 TX	from hqew, 现货 科力微电子	NEC	05+	3000	SOT-163
+UPC78L08 8D03	from hqew, 现货 科力微电子	NEC	00+	1000	SOT-89
+VJ0402G104KXGCL(0402 104K)	from hqew, 科力微电子	VISHAY	02+	50000	402
+VJ0805U474ZXJTM(0805 474Z)	from hqew, 科力微电子	VISHAY	01+	3000	805
+VJ0805Y472JXBCM(0805 472K)	from hqew, 科力微电子	VISHAY	01+	6000	O8O5
+VJ1206A182JXBTMM(1206 182J)	from hqew, 现货 科力微电子	VISHAY	01+	15000	1206
+VJ1206A392FXATMM(1206 392F)	from hqew, 现货 科力微电子	VISHAY	01+	15000	1206
+VJ1206U334ZXAME54(1206 334Z)	from hqew, 现货 科力微电子	VISHAY	01+	24000	1206
+VJ1206Y104KXBTMM(1206 104K)	from hqew, 现货 科力微电子	VISHAY	04+	9000	1206
+VJ1206Y154KXATM(1206 154K)	from hqew, 现货 科力微电子	VISHAY	01+	6000	1206
+VJ1206Y222KETMM(1206 222K)	from hqew, 现货 科力微电子	VISHAY	04+	3000	1206
+VJ1206Y222KXETMM(1206 222K)	from hqew, 现货 科力微电子	VISHAY	05+	15000	1206
+VJ1206Y474KXBTM(1206 474K)	from hqew, 现货 科力微电子	VISHAY	04+	3000	1206
+VJ1210A102JXET(1210 102J)	from hqew, 现货 科力微电子	VISHAY	02+	12000	1210
+VJ1210Y103KXCMT54(1210 103K)	from hqew, 现货 科力微电子	VISHAY	00+	3000	1210
+VJ1210Y104JXATL(1210 104J)	from hqew, 现货 科力微电子	VISHAY	01+	30000	1210
+VJ1210Y104MXAAT(1210 104M)	from hqew, 现货 科力微电子	VISHAY	00+	15000	1210
+VJ1210Y104MXAMM(1210 104M)	from hqew, 现货 科力微电子	VISHAY	00+	120000	1210
+VJ1210Y104MXBLMM(1210 104M)	from hqew, 现货 科力微电子	VISHAY	00+	154000	1210
+VJ1210Y224KXAL005TM(1210 224K)	from hqew, 现货 科力微电子	VISHAY	01+	40000	1210
+VJ1210Y224KXBT00(1210 224K)	from hqew, 现货 科力微电子	VISHAY	05+	3000	1210
+VJ1210Y224MXXTM(1210 224K)	from hqew, 现货 科力微电子	VISHAY	00+	3000	1210
+VJ1260Y224MXXLM(1206 224M)	from hqew, 现货 科力微电子	VISHAY	00+	50000	1206
+VJ1812A222JXETM(1812 222J)	from hqew, 现货 科力微电子	VISHAY	98+	3000	1812
+VJ1812Y104KXPTM(1812 104K)	from hqew, 现货 科力微电子	VISHAY	05+	2000	1812
+VJ1812Y105MXAAT3P(1812 105M)	from hqew, 现货 科力微电子	VISHAY	01+	3000	1812
+VJ1812Y154KXATM(1812 154K)	from hqew, 现货 科力微电子	VISHAY	01+	14000	1812
+VJ1812Y184KXBTM(1812 184K)	from hqew, 科力微电子	VISHAY	01+	2000	1812
+VJ1812Y224KXAAT3L(1812 224K)	from hqew, 现货 科力微电子	VISHAY	01+	9000	1812
+VJ1812Y334MXBAT(1812 334M)	from hqew, 现货 科力微电子	VISHAY	01+	14000	1812
+VJ7117Y104MXBAT(1812 104M)	from hqew, 现货 科力微电子	VISHAY	01+	20000	1812
+VJ7120Y474KFAAT(2220 474K)	from hqew, 现货 科力微电子	VISHAY	01+	32000	2220
+VJ7456A103KXCAT8E(1210 102K)	from hqew, 现货 科力微电子	VISHAY	01+	3000	1210
+VJ9183Y224KXBMR83(1210 224K)	from hqew, 现货 科力微电子	VISHAY	01+	100000	1210
+XC61AC2102MR C10X	from hqew, 现货 科力微电子	TOREX	99+	3000	SOT-23
+XC6372B501PR 2507	from hqew, 现货 科力微电子	TOREX	02+	725	SOT-89
+ZMM15V	from hqew, 现货 科力微电子	HL	13+	32500	LL-34
+ZMM2V2	from hqew, 现货 科力微电子	HL	13+	5000	LL-34
+ZMM2V4	from hqew, 现货 科力微电子	HL	13+	17500	LL-34
+ZMM5234B	from hqew, 现货 科力微电子	通用	12+	12500	LL34
+ZMM6V8	from hqew, 现货 科力微电子	HL	13+	142500	LL-34
+ZMM7V5	from hqew, 现货 科力微电子	HL	13+	285000	LL-34
+ZMM8V2	from hqew, 科力微电子	HL	13+	2500	LL-34
+0402CS 10NXJBG(0402 10NH)	from hqew, 现货 科力微电子	线艺	00+	2000	O4O2
+0603CS 82NXJBG(0603 82NH)	from hqew, 现货 科力微电子	线艺	00+	286000	0603
+0603CS R12XJBG(0603 120NH)	from hqew, 现货 科力微电子	线艺	06+	6000	0603
+0603F224Z500CT(0603 224Z)	from hqew, 现货 科力微电子	华新	06+	4000	O6O3
+0805 821J	from hqew, 现货 科力微电子	-	02+	12000	O8O5
+08053G103ZAT4R(0805 103Z)	from hqew, 现货 科力微电子	AVX	95+	726000	0805
+0805C105K4RAC75537800(0805 105K)	from hqew, 现货 科力微电子	基美	03+	2500	0805
+0805CS 12NXJBG(0805 12NH)	from hqew, 现货 科力微电子	线艺	03+	2000	0805
+0805CS 5N6XJBW(0805 5.6NH)	from hqew, 现货 科力微电子	线艺	03+	2000	0805
+0805Y104JXXAT0(0805 104J)	from hqew, 现货 科力微电子	VISHAY	01+	15000	O8O5
+1008CS 561TKBC9(1008 560NH)	from hqew, 现货 科力微电子	线艺	97+	18000	1008
+10V/100UF/D	from hqew, 现货 科力微电子	AVX	04+	1000	D
+10V/10UF/A	from hqew, 现货 科力微电子	NEC	04+	34000	A
+10V/2.2UF/P	from hqew, 现货 科力微电子	NEC	04+	3000	P
+10V/22UF/B	from hqew, 现货 科力微电子	AVX	03+	2000	B
+1206 225Z	from hqew, 现货 科力微电子	TDK	04+	13000	1206
+1210 106Z	from hqew, 现货 科力微电子	编带	00+	2000	1210
+1210 225Z	from hqew, 现货 科力微电子	-	02+	1000	1210
+1210 39UH	from hqew, 现货 科力微电子	线艺	00+	14000	1210
+16V/1UF/A	from hqew, 现货 科力微电子	AVX	97+	4000	A
+16V/220UF/E	from hqew, 现货 科力微电子	AVX	02+	800	E
+16V/22UF/C	from hqew, 现货 科力微电子	基美	05+	500	C
+16V/33UF/C	from hqew, 现货 科力微电子	AVX	00+	500	C
+16V/33UF/D	from hqew, 现货 科力微电子	日产	00+	500	D
+1812 103Z	from hqew, 现货 科力微电子	TDK	03+	6000	1812
+1812 104M	from hqew, 现货 科力微电子	TDK	04+	5000	1812
+1812 106Z	from hqew, 现货 科力微电子	TDK	06+	500	1812
+18125C105K16AT(1812 105K)	from hqew, 现货 科力微电子	AVX	03+	3000	1812
+1812Y474MFAAT00(1812 474M)	from hqew, 现货 科力微电子	VISHAY	00+	4000	1812
+1825CC104MAT3A(1825 104M)	from hqew, 现货 科力微电子	AVX	01+	60000	1825
+1N4007 M7	from hqew, 现货 科力微电子	国产东芝	13+	388000	DO-214
+1N4007LT3G	from hqew, 现货 科力微电子	国产ON	13+	123000	SOD-123
+1N4148WS T4	from hqew, 现货 科力微电子	国产	13+	813000	SOD-323
+1N4148WS T4	from hqew, 现货 科力微电子	CJ	13+	189000	SOT-323
+1N4148WT T4	from hqew, 现货 科力微电子	国产	13+	219000	SOD-523
+1N4448W T5	from hqew, 现货 科力微电子	国产	13+	213000	SOD-123
+1N4448WS T5	from hqew, 现货 科力微电子	国产	13+	105000	SOD-323
+1N4448WT 7 7 T4	from hqew, 现货 科力微电子	美台	11+	3000	SOD-523
+1N5817LT1G	from hqew, 现货 科力微电子	国产ON	12+	237000	SOD-323
+1N5819W S2	from hqew, 现货 科力微电子	国产	&nbsp;	27000	SOD-123
+1N5819WS SL	from hqew, 现货 科力微电子	国产	12+	69000	SOD-323
+1N60	from hqew, 现货 科力微电子	ROHM	01+	2500	LL34
+1PS79SB31 G3	from hqew, 现货 科力微电子	PH	07+	171000	SOD-523
+1SS181 A3	from hqew, 现货 科力微电子	CJ	11+	486000	SOT-23
+1SS184 B3	from hqew, 现货 科力微电子	国产	12+	3000	SOT-23
+1SS193 F3	from hqew, 现货 科力微电子	TOSHIBA	02+	3000	SOT-23-3
+1SS226 C3	from hqew, 现货 科力微电子	CJ	13+	159000	SOT-23
+1SS226 C3	from hqew, 现货 科力微电子	国产	13+	654000	SOT-23
+1SS294 A9	from hqew, 现货 科力微电子	TOSHIBA	02+	3000	SOT-23-3
+1SS355 A	from hqew, 现货 科力微电子	罗姆	01+	2280	SOD-523
+1SS380 E	from hqew, 现货 科力微电子	ROHM	03+	21000	SOD-323
+1SS400 A	from hqew, 现货 科力微电子	国产	13+	282000	SOD-523
+1T363A M20 T8A P8	from hqew, 现货 科力微电子	SONY	98+	3000	SOD-323
+22251C474MAT2A(2225 474M)	from hqew, 现货 科力微电子	AVX	00+	2000	2225
+2225Y105KFAAT00(2225 105K)	from hqew, 现货 科力微电子	VISHAY	01+	15000	2225
+2305	from hqew, 现货 科力微电子	VISHAY	12+	111000	SOT-23
+2306	from hqew, 现货 科力微电子	VISHAY	12+	141000	SOT-23
+25V/10UF/C	from hqew, 现货 科力微电子	AVX	00+	500	C
+293D106X9035D2T(35V/10UF/D)	from hqew, 现货 科力微电子	VISHAY	00+	61500	D
+293D227K10D2T(10V/220UF/D)	from hqew, 现货 科力微电子	VISHAY	01+	1000	D
+293D475X0010A2T(10V/4.7UF/A)	from hqew, 现货 科力微电子	VISHAY	03+	8000	A
+293D475X9016A(16V/4.7UF/A)	from hqew, 现货 科力微电子	VISHAY	00+	14000	A
+293D475X96R3A2T(6.3V/4.7UF/A)	from hqew, 现货 科力微电子	VISHAY	04+	350000	A
+2N7002 7002	from hqew, 现货 科力微电子	国产	13+	528000	SOT-23
+2N7002 7ET	from hqew, 现货 科力微电子	PH	03+	18000	SOT-23
+2N7002 T1 72N	from hqew, 现货 科力微电子	VISHAY	03+	81000	SOT-23
+2N7002E T1 7ET	from hqew, 现货 科力微电子	PH	04+	2000	SOT-23
+2N7002E T1 7ETDF	from hqew, 现货 科力微电子	PH	03+	6000	SOT-23
+2SA1015 4F	from hqew, 现货 科力微电子	TOSHIBA	11+	6000	SOT-23
+2SA1015 HBAG	from hqew, 现货 科力微电子	国产	11+	9000	SOT-23
+2SA1162 GR	from hqew, 现货 科力微电子	TOSHIBA	12+	3000	SOT-23
+2SA1162 SG	from hqew, 现货 科力微电子	国产	12+	18000	SOT-23
+2SA1162 Y SY	from hqew, 现货 科力微电子	TOSHIBA	07+	6000	SOT-23
+2SA1201 DY	from hqew, 现货 科力微电子	国产	13+	40000	SOT-89
+2SA1201 DY	from hqew, 现货 科力微电子	CJ	12+	58000	SOT-89
+2SA1213 NY	from hqew, 现货 科力微电子	国产	13+	272000	SOT-89
+2SA1213 NY	from hqew, 现货 科力微电子	CJ	13+	952400	SOT-89
+2SA1235 T12 2F MF	from hqew, 现货 科力微电子	三菱	00+	2800	SOT-23
+2SA1298W IY	from hqew, 现货 科力微电子	国产	12+	30000	SOT-323
+2SA1301 T1B 2069	from hqew, 现货 科力微电子	NEC	01+	1000	SOT-89
+2SA1530 T12 TR	from hqew, 现货 科力微电子	NEC	04+	3000	SOT-23-3
+2SA1586 Y SY	from hqew, 现货 科力微电子	TOSHIBA	02+	14800	SOT-323
+2SA1622 6 TL M6	from hqew, 现货 科力微电子	SANYO	99+	6000	SOT-323
+2SA812 M5	from hqew, 现货 科力微电子	NEC	01+	6000	SOT-23
+2SB1132 BAR	from hqew, 现货 科力微电子	罗姆	03+	3000	SOT-89
+2SB1132 BAR	from hqew, 现货 科力微电子	CJ	13+	36000	SOT-89
+2SB710 R TX C.R	from hqew, 现货 科力微电子	PANASONIC	06+	3000	SOT-23
+2SC1621 T2B B3	from hqew, 现货 科力微电子	NEC	99+	3000	SOT-23-3
+2SC1623 T1B L5	from hqew, 现货 科力微电子	NEC	01+	3000	SOT-23
+2SC1815M.GR HHFG	from hqew, 现货 科力微电子	国产	11+	3000	SOT-23
+2SC1815M.Y HHFY	from hqew, 现货 科力微电子	国产	13+	3000	SOT-23
+2SC229 TB	from hqew, 现货 科力微电子	TOSHIBA	03+	14900	SOT-323
+2SC2412 BR	from hqew, 现货 科力微电子	CJ	13+	234000	SOT-23
+2SC2412G T1B DAG	from hqew, 现货 科力微电子	NEC	00+	3000	SOT-23
+2SC2982 Y DARJ	from hqew, 现货 科力微电子	TOSHIBA	02+	1000	SOT-89
+2SC3356 T1B R22	from hqew, 现货 科力微电子	NEC	01+	3000	SOT-23
+2SC3357 RE	from hqew, 现货 科力微电子	国产	12+	1807	SOT-89
+2SC3734 B22	from hqew, 现货 科力微电子	NEC	01+	3000	SOT-23-3
+2SC4081 8R	from hqew, 现货 科力微电子	ROHM	09+	3000	SOT-23
+2SC4090 T1 R37	from hqew, 现货 科力微电子	NEC	98+	3000	SOT-143
+2SC4094 T1 R37	from hqew, 现货 科力微电子	NEC	00+	1195	SOT-143
+2SC4177-T1B-L6	from hqew, 现货 科力微电子	国产	12+	480000	SOT-323
+2SC4520T TD OKT7C	from hqew, 现货 科力微电子	SANYO	03+	1000	SOT-89
+2SC4672 DKRN	from hqew, 现货 科力微电子	国产	12+	6000	SOT-89
+2SC5010 83	from hqew, 现货 科力微电子	NEC	99+	3000	SOT-523
+2SC5195 T1 88	from hqew, 现货 科力微电子	NEC	00+	2990	SOT-523
+2SC5343SG DAG	from hqew, 现货 科力微电子	AUK	00+	3000	SOT-23
+2SC5345SR ZR	from hqew, 现货 科力微电子	AUK	00+	3000	SOT-23
+2SC9015 G3F	from hqew, 现货 科力微电子	TOSHIBA	02+	12000	SOT-23
+2SD1484K YR	from hqew, 现货 科力微电子	ROHM	96+	3000	SOT-23
+2SD2098 DJRN	from hqew, 现货 科力微电子	国产	12+	76000	SOT-89
+2SD596 DV4	from hqew, 现货 科力微电子	CJ	12+	45000	SOT-23
+2SD882 D882	from hqew, 现货 科力微电子	CJ	13+	80000	SOT-89
+2SD965 965	from hqew, 现货 科力微电子	CJ	13+	155000	SOT-89
+2SJ461 T1B H19	from hqew, 现货 科力微电子	NEC	99+	9000	SOT-23-3
+2SK1467 H TD OKDH	from hqew, 现货 科力微电子	SANYO	97+	800	SOT-89
+2SK2158 T2B G23	from hqew, 现货 科力微电子	NEC	99+	1500	SOT-23-3
+2SK3018 KN	from hqew, 现货 科力微电子	罗姆	08+	3000	SOT-23
+2SK3018 KN	from hqew, 现货 科力微电子	罗姆	08+	5100	SOT-323
+2SK4738 GR LG	from hqew, 现货 科力微电子	TOSHIBA	98+	3000	SOT-523
+3SK254 T1 U1E	from hqew, 现货 科力微电子	NEC	98+	34382	SOT-343
+431 431	from hqew, 现货 科力微电子	国产	12+	282000	SOT-23
+4V/33UF/A	from hqew, 现货 科力微电子	NEC	01+	2000	A
+4V/47UF/P	from hqew, 现货 科力微电子	NEC	01+	9000	P
+6.3V/22UF/B	from hqew, 现货 科力微电子	AVX	00+	2000	B
+6.3V/33UF/C	from hqew, 现货 科力微电子	AVX	00+	3500	C
+6.3V/4.7UF/A	from hqew, 现货 科力微电子	NEC	00+	10000	A
+6.3V/4.7UF/A	from hqew, 现货 科力微电子	AVX	00+	2000	A
+695D336X0025H2T(25V/33UF/H)	from hqew, 现货 科力微电子	VISHAY	04+	1200	H
+7416Y684KXXAT8T(1210 684K)	from hqew, 现货 科力微电子	VISHAY	01+	186000	1210
+78L05	from hqew, 现货 科力微电子	国产	13+	268000	SOT-89
+78L18	from hqew, 现货 科力微电子	国产	13+	39000	SOT-89-3
+78M06	from hqew, 现货 科力微电子	UTC	&nbsp;	5080	TO-252-2
+78M15	from hqew, 现货 科力微电子	UTC	&nbsp;	5080	TO-252-2
+79L05	from hqew, 现货 科力微电子	国产	13+	54000	SOT-89-3
+8050.D Y1	from hqew, 现货 科力微电子	国产	13+	137000	SOT-89-3
+933 016/333GTR12069(1206 333G)	from hqew, 现货 科力微电子	PANASONIC	00+	12000	1206
+A42	from hqew, 现货 科力微电子	CJ	11+	36000	SOT-89
+A733 CS	from hqew, 现货 科力微电子	CJ	11+	15000	SOT-23
+A733 CS	from hqew, 现货 科力微电子	国产	12+	87000	SOT-23
+AML1005H5N6ST(0402 5.6NH)	from hqew, 现货 科力微电子	FDK	00+	20000	0402
+APL431BAC TR 431	from hqew, 现货 科力微电子	茂达	03+	3000	SOT-23-3
+AZ23C6V8 KDB	from hqew, 现货 科力微电子	CJ	13+	40000	SOT-23
+B0520LW SD	from hqew, 现货 科力微电子	CJ	13+	3000	SOD-123
+B0530WS SE	from hqew, 现货 科力微电子	国产	13+	69000	SOD-323
+B0530WS SF	from hqew, 现货 科力微电子	国产	12+	258000	SOD-323
+B0540WS SF	from hqew, 现货 科力微电子	CJ	11+	3000	SOD-323
+B1210F226ZNT(1210 226Z)	from hqew, 现货 科力微电子	汇桥	01+	1000	1210
+B45194E2157M409(10V/150UF/D)	from hqew, 现货 科力微电子	西门子	03+	896000	D
+B45196H1107M406(6.3V/100UF/D)	from hqew, 现货 科力微电子	西门子	02+	44800	D
+B45196H1337M509V13(6.3V 330UF E)	from hqew, 现货 科力微电子	西门子	03+	25600	E
+B45197A2157M509(10V/150UF/E)	from hqew, 现货 科力微电子	西门子	03+	213200	E
+B45197A5225M209(15V 2.2UF B)	from hqew, 现货 科力微电子	西门子	04+	28000	B
+B45197A5225M209(25V/2.2UF/B)	from hqew, 现货 科力微电子	西门子	02+	28000	B
+B5817WS SJ	from hqew, 现货 科力微电子	CJ	13+	564000	SOD-323
+B5818W SK	from hqew, 现货 科力微电子	CJ	11+	9000	SOD-123
+B5819W L4F	from hqew, 现货 科力微电子	CJ	11+	9000	SOD-123
+B5819WS SL	from hqew, 现货 科力微电子	CJ	13+	3000	SOD-323
+BA846AW 1A	from hqew, 现货 科力微电子	国产	12+	114000	SOT-323
+BAR64 05W PRS	from hqew, 现货 科力微电子	CJ	11+	15000	SOT-323
+BAS16 A6	from hqew, 现货 科力微电子	CJ	12+	123000	SOT-23
+BAS16 A6T	from hqew, 现货 科力微电子	PH	10+	69000	SOT-23
+BAS16 A6W	from hqew, 现货 科力微电子	PH	10+	15000	SOT-23
+BAS16HT1 A6	from hqew, 现货 科力微电子	ZOWIE	03+	3000	SOD-323
+BAS16LT1G A6	from hqew, 现货 科力微电子	ON SEMI	09+	30000	SOT-23
+BAS70 06 76S	from hqew, 现货 科力微电子	西门子	08+	57000	SOT-23
+BAT42W S7	from hqew, 现货 科力微电子	国产	13+	216000	SOD-123
+BAT42WS S7	from hqew, 现货 科力微电子	CJ	13+	45000	SOT-23
+BAT43W S8	from hqew, 现货 科力微电子	国产	13+	261000	SOD-123
+BAT43W S8	from hqew, 现货 科力微电子	CJ	13+	45000	SOD-123
+BAT54 L4P	from hqew, 现货 科力微电子	PH	98+	27000	SOT-23
+BAT54 L4W	from hqew, 现货 科力微电子	PH	04+	3000	SOT-23
+BAT54A KL2	from hqew, 现货 科力微电子	CJ	13+	3000	SOT-23
+BAT54A KL2	from hqew, 现货 科力微电子	国产	13+	108000	SOT-23
+BAT54A L42	from hqew, 现货 科力微电子	国产	12+	3000	SOT-23
+BAT54C HL43	from hqew, 现货 科力微电子	国产	13+	96000	SOT-23
+BAT54C KL3	from hqew, 现货 科力微电子	国产	13+	519000	SOT-23
+BAT54C L43	from hqew, 现货 科力微电子	国产	12+	453000	SOT-23
+BAT54C TW1	from hqew, 现货 科力微电子	PH	12+	72000	SOT-23
+BAT54H JV	from hqew, 现货 科力微电子	PH	08+	114000	SOD-323
+BAT54HRT1 JV	from hqew, 现货 科力微电子	NEC	03+	3000	SOD-323
+BAT54S KL4	from hqew, 现货 科力微电子	CJ	13+	3000	SOT-23
+BAT54WS L9	from hqew, 现货 科力微电子	CJ	13+	3000	SOD-323
+BAT54X JV	from hqew, 现货 科力微电子	国产	13+	300000	SOD-523
+BAT64 02W M	from hqew, 现货 科力微电子	西门子	00+	3000	SOD-523
+BAT64-06-65	from hqew, 现货 科力微电子	西门子	08+	78000	SOT-23
+BAV102	from hqew, 现货 科力微电子	PH	04+	130000	LL34
+BAV102	from hqew, 现货 科力微电子	PH	04+	10000	LL-34
+BAV20W T2	from hqew, 现货 科力微电子	国产	13+	480000	SOD-123
+BAV20WS T2	from hqew, 现货 科力微电子	CJ	13+	345000	SOT-323
+BAV21WS T3	from hqew, 现货 科力微电子	CJ	11+	174000	SOD-323
+BAV21WS T3	from hqew, 现货 科力微电子	国产	13+	81000	SOD-323
+BAV70T A4	from hqew, 现货 科力微电子	PH	04+	480000	SOT-523
+BAV99 A7	from hqew, 现货 科力微电子	ST	11+	9000	SOT-23
+BAV99 A7W	from hqew, 现货 科力微电子	PH	12+	210000	SOT-23
+BAV99 HA7	from hqew, 现货 科力微电子	国产	13+	393000	SOT-23
+BAV99DW KJG	from hqew, 现货 科力微电子	CJ	13+	198000	SOT-363
+BAW56 A1	from hqew, 现货 科力微电子	CJ	11+	153000	SOT-23
+BAW56 A1W	from hqew, 现货 科力微电子	国产	13+	618000	SOT-23
+BAW56W T1B A1	from hqew, 现货 科力微电子	NEC	01+	6000	SOT-423
+BB804 SF	from hqew, 现货 科力微电子	PH	01+	9000	SOT-23
+BC807 25 5BS	from hqew, 现货 科力微电子	西门子	08+	129000	SOT-23
+BC807 25LT1G 5B	from hqew, 现货 科力微电子	ON SEMI	09+	3000	SOT-23
+BC807-16W-5A	from hqew, 现货 科力微电子	国产	12+	30000	SOT-323
+BC807-25W-5B	from hqew, 现货 科力微电子	国产	12+	60000	SOT-323
+BC807-25W-5BW	from hqew, 现货 科力微电子	国产	12+	60000	SOT-323
+BC817 16 6A	from hqew, 现货 科力微电子	国产	12+	123000	SOT-23
+BC817 25 6BW	from hqew, 现货 科力微电子	国产	13+	279000	SOT-23
+BC817-25-6BS	from hqew, 现货 科力微电子	西门子	08+	111000	SOT-23
+BC817-40W-6C	from hqew, 现货 科力微电子	国产	12+	90000	SOT-323
+BC817W 6B	from hqew, 现货 科力微电子	CJ	11+	6000	SOT-323
+BC847BW 1F	from hqew, 现货 科力微电子	国产	12+	384000	SOT-323
+BC847W 1H	from hqew, 现货 科力微电子	PH	00+	81000	SOT-323
+BC848 1L	from hqew, 现货 科力微电子	CJ	11+	120000	SOT-23
+BC848B 1KW	from hqew, 现货 科力微电子	国产	12+	492000	SOT-23
+BC848C 1LW	from hqew, 现货 科力微电子	国产	13+	330000	SOT-23
+BC856B 3B	from hqew, 现货 科力微电子	国产	12+	480000	SOT-23
+BC856BW 3B	from hqew, 现货 科力微电子	国产	12+	399000	SOT-323
+BC856BW 3BT	from hqew, 现货 科力微电子	PH	05+	747000	SOT-323
+BC857B 3FS	from hqew, 现货 科力微电子	西门子	07+	30000	SOT-23
+BC857B 3FW	from hqew, 现货 科力微电子	国产	12+	230000	SOT-23
+BC857BT 3FS	from hqew, 现货 科力微电子	西门子	08+	159000	SOT-523
+BC857G G3F	from hqew, 现货 科力微电子	PH	00+	3000	SOT-23
+BC858 3MP	from hqew, 现货 科力微电子	PH	96+	3000	SOT-23
+BC858CW 3L	from hqew, 现货 科力微电子	西门子	12+	156000	SOT-23
+BCP53	from hqew, 现货 科力微电子	西门子	03+	755	SOT-223
+BCV27 FFS	from hqew, 现货 科力微电子	西门子	01+	3000	SOT-23
+BCX52 16 AM	from hqew, 现货 科力微电子	PH	00+	8000	SOT-89
+BCX52 16 AM	from hqew, 现货 科力微电子	国产	00+	8000	SOT-89
+BCX52 AM	from hqew, 现货 科力微电子	CJ	13+	59000	SOT-89
+BCX54 BA	from hqew, 现货 科力微电子	CJ	12+	1000	SOT-89-3
+BCX55 BM	from hqew, 现货 科力微电子	CJ	13+	40000	SOT-89
+BCX56 16 AL	from hqew, 现货 科力微电子	国产	12+	1000	SOT-89
+BCX56 16 BL	from hqew, 现货 科力微电子	国产	12+	2000	SOT-89
+BCX56 BH	from hqew, 现货 科力微电子	CJ	13+	100000	SOT-89
+BCX56 BL	from hqew, 现货 科力微电子	国产	13+	12000	SOT-89
+BFR505T NO	from hqew, 现货 科力微电子	PH	02+	6000	SOT-523
+BGA428 PGS	from hqew, 现货 科力微电子	西门子	04+	1990	SOT-23
+BLA3216B471SD471M0 07(1206 470R)	from hqew, 现货 科力微电子	村田	00+	308000	1206
+BLM11B471SBPTM00 03(0603 470R)	from hqew, 现货 科力微电子	村田	00+	132000	0603
+BLM15AG601SN1D(0402 600R)	from hqew, 现货 科力微电子	村田	00+	10000	O4O2
+BLM31B601SPTM00 03(1206 600R)	from hqew, 现货 科力微电子	村田	00+	3000	1206
+BSS138 J1	from hqew, 现货 科力微电子	国产	11+	45000	SOT-23
+BZT52C10	from hqew, 现货 科力微电子	国产	13+	87000	SOD-123
+BZT52C10T	from hqew, 现货 科力微电子	国产	13+	12000	SOD-523
+BZT52C11S	from hqew, 现货 科力微电子	国产	13+	48000	SOD-323
+BZT52C12S	from hqew, 现货 科力微电子	国产	13+	102000	SOD-323
+BZT52C12T	from hqew, 现货 科力微电子	国产	13+	72000	SOD-523
+BZT52C13	from hqew, 现货 科力微电子	国产	13+	162000	SOD-123
+BZT52C13S WI	from hqew, 现货 科力微电子	CJ	13+	345000	SOD-323
+BZT52C16	from hqew, 现货 科力微电子	国产	13+	39000	SOD-123
+BZT52C16 WK	from hqew, 现货 科力微电子	CJ	13+	306000	SOD-123
+BZT52C18 WL	from hqew, 现货 科力微电子	CJ	13+	177000	SOD-123
+BZT52C20S WM	from hqew, 现货 科力微电子	CJ	13+	318000	SOD-323
+BZT52C22S WN	from hqew, 现货 科力微电子	CJ	13+	204000	SOD-323
+BZT52C24	from hqew, 现货 科力微电子	国产	13+	12000	SOD-123
+BZT52C27	from hqew, 现货 科力微电子	国产	13+	165000	SOD-123
+BZT52C27S	from hqew, 现货 科力微电子	国产	13+	12000	SOD-323
+BZT52C2V4	from hqew, 现货 科力微电子	国产	13+	48000	SOD-123
+BZT52C30S WQ	from hqew, 现货 科力微电子	CJ	13+	150000	SOD-323
+BZT52C36S WS	from hqew, 现货 科力微电子	CJ	13+	225000	SOD-323
+BZT52C3V0S W2	from hqew, 现货 科力微电子	CJ	13+	387000	SOD-323
+BZT52C3V3S	from hqew, 现货 科力微电子	国产	13+	9000	SOD-323
+BZT52C3V9T	from hqew, 现货 科力微电子	国产	13+	63000	SOD-523
+BZT52C4V3 W6	from hqew, 现货 科力微电子	CJ	13+	351000	SOD-123
+BZT52C4V7	from hqew, 现货 科力微电子	国产	13+	48000	SOD-123
+BZT52C4V7 W7	from hqew, 现货 科力微电子	CJ	13+	174000	SOD-123
+BZT52C5V1 W8	from hqew, 现货 科力微电子	CJ	13+	243000	SOD-123
+BZT52C5V6S W9	from hqew, 现货 科力微电子	CJ	13+	753000	SOD-323
+BZT52C6V2	from hqew, 现货 科力微电子	国产	13+	144000	SOD-123
+BZT52C6V2 WA	from hqew, 现货 科力微电子	CJ	13+	546000	SOD-123
+BZT52C6V8S WB	from hqew, 现货 科力微电子	CJ	13+	432000	SOD-323
+BZT52C7V5 WC	from hqew, 现货 科力微电子	CJ	13+	213000	SOD-123
+BZT52C9V1	from hqew, 现货 科力微电子	国产	13+	39000	SOD-123
+BZT52C9V1 WE	from hqew, 现货 科力微电子	CJ	13+	255000	SOD-123
+BZT52C9V1S WE	from hqew, 现货 科力微电子	CJ	13+	216000	SOD-323
+BZT52C9V1T	from hqew, 现货 科力微电子	国产	13+	60000	SOD-523
+BZV55 C10	from hqew, 现货 科力微电子	PH	08+	7500	LL34
+BZX284 B18 XJ	from hqew, 现货 科力微电子	PH	08+	18000	SOD-110
+BZX384 C18 DF	from hqew, 现货 科力微电子	PH	08+	12000	SOD-323
+BZX84 C10 Z9W	from hqew, 现货 科力微电子	PH	10+	507000	SOT-23
+BZX84 C13 Y3W	from hqew, 现货 科力微电子	PH	11+	33000	SOT-23
+BZX84 C15 Y4W	from hqew, 现货 科力微电子	PH	11+	375000	SOT-23
+BZX84 C20 Y7W	from hqew, 现货 科力微电子	PH	00+	96000	SOT-23
+BZX84 C20 Y7W	from hqew, 现货 科力微电子	PH	09+	9000	SOT-23
+BZX84 C24 Y9P	from hqew, 现货 科力微电子	PH	97+	3000	SOT-23
+BZX84 C39 81K	from hqew, 现货 科力微电子	PH	03+	15000	SOT-23
+BZX84 C39 WT8	from hqew, 现货 科力微电子	PH	11+	120000	SOT-23
+BZX84 C3V3 Z14	from hqew, 现货 科力微电子	PH	11+	126000	SOT-23
+BZX84 C3V9 Z16	from hqew, 现货 科力微电子	PH	02+	3000	SOT-23
+BZX84 C4V3 WB6	from hqew, 现货 科力微电子	PH	08+	144000	SOT-23
+BZX84 C6V2 Z4P	from hqew, 现货 科力微电子	PH	97+	3000	SOT-23
+BZX84 C6V2 Z4W	from hqew, 现货 科力微电子	PH	11+	654000	SOT-23
+BZX84 C8V2 Z7W	from hqew, 现货 科力微电子	PH	11+	213000	SOT-23
+BZX84C 2V4 Z11	from hqew, 现货 科力微电子	PH	02+	3000	SOT-23
+BZX84C13 Y3	from hqew, 现货 科力微电子	CJ	10+	3000	SOT-23
+BZX84C3V6 Z15	from hqew, 现货 科力微电子	TIP	07+	90000	SOT-23
+BZX84J B30 SN	from hqew, 现货 科力微电子	PH	08+	9000	SOD-323F
+C0805C475K9PAC(0805 475K)	from hqew, 现货 科力微电子	基美	05+	57500	O8O5
+C1005Y5V1C104ZT(0402 104Z)	from hqew, 现货 科力微电子	TDK	06+	10000	0402
+C1206C102K5RAC7800(1206 102K)	from hqew, 现货 科力微电子	基美	99+	4000	1206
+C1206C105Z3VAC7800(1206 105Z)	from hqew, 现货 科力微电子	基美	05+	40000	1206
+C1206J4NP09BN330(1206 33P)	from hqew, 现货 科力微电子	国巨	00+	4000	1206
+C1608CB 43NJ(0603 43NH)	from hqew, 现货 科力微电子	SAGAMI	04+	117000	0603
+C1608Y5V1C334ZT000N(0603 334Z)	from hqew, 现货 科力微电子	TDK	00+	4000	O6O3
+C1812MKX7R9BN474(1812 474K)	from hqew, 现货 科力微电子	国巨	03+	10500	1812
+C2012COG1H270JT000M(0805 27P)	from hqew, 现货 科力微电子	TDK	04+	4000	O8O5
+C2012COG1H470J(0805 470J)	from hqew, 现货 科力微电子	TDK	01+	120000	O8O5
+C2012X7R1H103KT000N(0805 103K)	from hqew, 现货 科力微电子	TDK	00+	1072000	0805
+C2012X7R1H681KT000A(0805 681K)	from hqew, 现货 科力微电子	TDK	06+	20000	O8O5
+C3216X7R1H103KT000N(1206 103K)	from hqew, 现货 科力微电子	TDK	00+	4000	1206
+C5750B2E474KT(2220 474K)	from hqew, 现货 科力微电子	TDK	05+	2000	2220
+C945 CR	from hqew, 现货 科力微电子	CJ	13+	180000	SOT-23
+CC1812X7R8K124R(1812 124K)	from hqew, 现货 科力微电子	CCT	03+	33000	1812
+CD4148WTP(0603-4148)	from hqew, 现货 科力微电子	丽智	13+	160000	0603
+CD431 CD431	from hqew, 现货 科力微电子	CJ	13+	63000	SOT-23
+CI B1005 47NSJT(0402 47NH)	from hqew, 现货 科力微电子	CTC	11+	40000	0402
+CJ2303 S3	from hqew, 现货 科力微电子	CJ	13+	27000	SOT-23
+CJ2304 S4	from hqew, 现货 科力微电子	CJ	13+	39000	SOT-23
+CJ2306 S6	from hqew, 现货 科力微电子	CJ	12+	12000	SOT-23
+CJ3407 3407	from hqew, 现货 科力微电子	CJ	13+	33000	SOT-23
+CJ3415 R15	from hqew, 现货 科力微电子	CJ	13+	3000	SOT-23
+CJ431 431	from hqew, 现货 科力微电子	CJ	13+	70000	SOT-89
+CJ78L05	from hqew, 现货 科力微电子	CJ	13+	102000	TO-92
+CJ78L05 78L05	from hqew, 现货 科力微电子	CJ	13+	9000	SOT-89-3
+CJ78L06 78L06	from hqew, 现货 科力微电子	CJ	13+	100000	SOT-89-3
+CJ78L08	from hqew, 现货 科力微电子	CJ	13+	165000	SOT-89-3
+CJ78L08 78L08	from hqew, 现货 科力微电子	CJ	13+	96000	SOT-89-3
+CJ78L09 78L09	from hqew, 现货 科力微电子	CJ	13+	51000	SOT-89-3
+CJ78L09 78L09	from hqew, 现货 科力微电子	CJ	13+	3000	TO-92
+CJ78L12 78L12	from hqew, 现货 科力微电子	CJ	13+	43000	SOT-89-3
+CJ78L15 78L15	from hqew, 现货 科力微电子	CJ	13+	63000	SOT-89
+CJ78M06	from hqew, 现货 科力微电子	CJ	13+	20000	to-92
+CJ78M06	from hqew, 现货 科力微电子	CJ	13+	17500	TO-252
+CJ78M12	from hqew, 现货 科力微电子	CJ	13+	2500	TO-252
+CJ79L05 79L05	from hqew, 现货 科力微电子	CJ	11+	1000	SOT-89-3
+CKCA43X7R1C104MT010N(1206 104M)	from hqew, 现货 科力微电子	TDK	05+	2000	1206
+CL10F224Z0NC(0603 224Z)	from hqew, 现货 科力微电子	SAMSUNG	01+	4000	O6O3
+CL21C270JBNC(0805 270J)	from hqew, 现货 科力微电子	SAMSUNG	04+	8000	O8O5
+CM32Y5V106Z16AT(1210 106Z)	from hqew, 现货 科力微电子	京瓷	04+	2500	1210
+CR0402FF1302G(0402-13KF)	from hqew, 现货 科力微电子	丽智	13+	60000	0402
+CR0402FF1803G(0402-180KF)	from hqew, 现货 科力微电子	丽智	13+	90000	0402
+CR0402JF0393G(0402-39K)	from hqew, 现货 科力微电子	丽智	13+	800000	0402
+CR0402JF0474G(0402-470K)	from hqew, 现货 科力微电子	丽智	13+	230000	0402
+CR0402JF0511G(0402-510R)	from hqew, 现货 科力微电子	丽智	13+	320000	0402
+CR0402JF0512G(0402-5.1K)	from hqew, 现货 科力微电子	丽智	13+	500000	0402
+CR0402JF0513G(0402-51K)	from hqew, 现货 科力微电子	丽智	13+	3650000	0402
+CR0402JF0562G(0402-5.6K)	from hqew, 现货 科力微电子	丽智	13+	310000	0402
+CR0402JF05R1G(0402-5.1R)	from hqew, 现货 科力微电子	丽智	13+	1540000	0402
+CR0402JF06R2G(0402-6.2R)	from hqew, 现货 科力微电子	丽智	13+	50000	0402
+CR0402JF0823G(0402-82K)	from hqew, 现货 科力微电子	丽智	13+	600000	0402
+CR0402JF0913G(0402-91K)	from hqew, 现货 科力微电子	丽智	13+	1960000	0402
+CRM32NR72D333KW51L(1210 333K)	from hqew, 现货 科力微电子	村田	03+	2000	1210
+CV1A151MAMANG(10V/150UF/D)	from hqew, 现货 科力微电子	SANYO	05+	500	D
+CX43Y5V106Z25BT(1812 106M)	from hqew, 现货 科力微电子	京瓷	98+	2000	1812
+CXT5551	from hqew, 现货 科力微电子	国产	12+	3000	SOT-89
+DAN217U A7	from hqew, 现货 科力微电子	CJ	12+	48000	SOT-323
+DPX321880DT 1005	from hqew, 现货 科力微电子	TDK	02+	32000	0402
+DTA144EK 16	from hqew, 现货 科力微电子	ROHM	98+	9000	SOT-23
+DTA144TU 96	from hqew, 现货 科力微电子	ROHM	97+	9000	SOT-323
+DTC123TK 09	from hqew, 现货 科力微电子	ROHM	99+	3000	SOT-23-3
+ECHU1C103JB5(0805 103J)	from hqew, 现货 科力微电子	PANASONIC	00+	3000	0805
+ECRKN006A62K(3*4 6PF)	from hqew, 现货 科力微电子	PANASONIC	03+	500	34
+ECST1AC476KR(10V/47UF/C)	from hqew, 现货 科力微电子	PANASONIC	01+	679	C
+ECST1AC476ZR(10V/47UF/C)	from hqew, 现货 科力微电子	PANASONIC	97+	750	C
+ECST1AY475ZTR(10V/4.7UF/A)	from hqew, 现货 科力微电子	PANASONIC	00+	108000	A
+ECST1CY107R(16V/100UF/D)	from hqew, 现货 科力微电子	PANASONIC	03+	500	D
+ECST1DV336R(20V/33UF/D)	from hqew, 现货 科力微电子	PANASONIC	00+	12500	D
+ECSTOGC107R(4V/100UF/C)	from hqew, 现货 科力微电子	PANASONIC	99+	1500	C
+EGL34G	from hqew, 现货 科力微电子	DZLTA	99+	2500	LL34
+ELJRE10NGF2(0603 10NH)	from hqew, 现货 科力微电子	PANASONIC	04+	48000	0603
+EVM3ESX50B54(3*3 50K)	from hqew, 现货 科力微电子	PANASONIC	09+	16000	33
+EVWU1H473JB5(1210 473J)	from hqew, 现货 科力微电子	PANASONIC	01+	30000	1210
+F1V61BTP V616N	from hqew, 现货 科力微电子	台产	00+	3000	J
+F920J335MPAAST(6.3V/3.3UF/J)	from hqew, 现货 科力微电子	尼斯康	00+	3000	J
+F940J106MBA(6.3V/10UF/B)	from hqew, 现货 科力微电子	尼斯康	00+	4000	B
+FA1A3Q T1B L83	from hqew, 现货 科力微电子	NEC	01+	3000	SOT-23-3
+FA1F4N T1B L35	from hqew, 现货 科力微电子	NEC	01+	6000	SOT-23-3
+FA1L32 T1B L36	from hqew, 现货 科力微电子	NEC	01+	3000	SOT-23-3
+FA1L32 T1B L38	from hqew, 现货 科力微电子	NEC	01+	9000	SOT-23-3
+FA1L3Z T1B L37	from hqew, 现货 科力微电子	NEC	01+	9000	SOT-23
+FK2125TZ700C500T(0805 70R)	from hqew, 现货 科力微电子	太诱	01+	360000	0805
+FMC3 C3	from hqew, 现货 科力微电子	ROHM	00+	12000	SOT-353
+FMC3A C3	from hqew, 现货 科力微电子	ROHM	96+	3000	SOT-353
+FN1A30 T1B M83	from hqew, 现货 科力微电子	NEC	01+	3000	SOT-23-3
+FW342 TL E W342	from hqew, 现货 科力微电子	SANYO	04+	1000	SOP-8
+FZT591TA FZT591	from hqew, 现货 科力微电子	ZETEX	96+	1000	SOT-223
+FZT600 FZT600	from hqew, 现货 科力微电子	ZETEX	01+	1000	SOT-223
+FZT658	from hqew, 现货 科力微电子	国产东芝	00+	1000	SOT-223
+GHM1440X5R474K250(1812 474K)	from hqew, 现货 科力微电子	村田	02+	9000	1812
+GLZ16A	from hqew, 现货 科力微电子	VISHAY	02+	2500	LL34
+GM6206 3.3V 662K	from hqew, 现货 科力微电子	TOREX	12+	3000	SOT-23
+GRM1885C1H122JA01D(0603 122J)	from hqew, 现货 科力微电子	村田	08+	12000	603
+GRM188R60J106ME47D(0603 106M)	from hqew, 现货 科力微电子	村田	05+	4000	O6O3
+GRM21BF51C225ZA01L(0805 225Z)	from hqew, 现货 科力微电子	村田	03+	3000	O8O5
+GRM32ER61A106KC01L(1210 106K)	from hqew, 现货 科力微电子	村田	04+	1000	1210
+GRM40Y5V334Z16(0603 334Z)	from hqew, 现货 科力微电子	村田	&nbsp;	3000	O6O3
+GRM40Y5V334Z16U530(0805 334Z)	from hqew, 现货 科力微电子	村田	00+	24000	0805
+GRM42 6X7R105K16D530(1206 105K)	from hqew, 现货 科力微电子	村田	03+	437000	1206
+GRM42 6X7R225K10D52K(1206 225K)	from hqew, 现货 科力微电子	村田	06+	93000	1206
+GZ2012D601TF(0805 600R)	from hqew, 现货 科力微电子	顺络	09+	4000	O6O3
+HSM123TR A9	from hqew, 现货 科力微电子	日立	00+	2200	SOT-23
+HSMP AT 41511TR1 415M	from hqew, 现货 科力微电子	惠普	99+	2800	SOT-143
+HZM12NB3TL 123	from hqew, 现货 科力微电子	日立	00+	3000	SOT-23-3
+IC PST600DMT R 600D	from hqew, 现货 科力微电子	MITSUMI	99+	1970	SOT-153
+IMBT3903 1M	from hqew, 现货 科力微电子	通用	&nbsp;	12000	SOT-23
+JWFI2012C2R4KT(0805 2.4UH)	from hqew, 现货 科力微电子	台产	04+	4000	0805
+KSA1182 F1Y	from hqew, 现货 科力微电子	国产	12+	60000	SOT-23
+KTC3875 ALG	from hqew, 现货 科力微电子	国产	12+	555000	SOT-23
+KTC3876 WY	from hqew, 现货 科力微电子	国产	13+	198000	SOT-23
+KTC4075 Y RTK L4	from hqew, 现货 科力微电子	KEC	03+	3000	SOT-323
+KTC4375 GO	from hqew, 现货 科力微电子	CJ	12+	20000	SOT-89
+KTN2907AS RTK/P ZH	from hqew, 现货 科力微电子	KEC	&nbsp;	24000	SOT-23
+LBAV99LT1G A7	from hqew, 现货 科力微电子	LRC	09+	3000	SOT-23
+LBC847BDW1T1G 1F	from hqew, 现货 科力微电子	LRC	11+	36000	SOT-23
+LBZX84C11 Y1	from hqew, 现货 科力微电子	国产	13+	63000	SOT-23
+LBZX84C12 Y2	from hqew, 现货 科力微电子	国产	13+	90000	SOT-23
+LBZX84C15 Y4	from hqew, 现货 科力微电子	国产	13+	195000	SOT-23
+LBZX84C2V7 Z12	from hqew, 现货 科力微电子	国产	13+	30000	SOT-23
+LBZX84C3V0 Z13	from hqew, 现货 科力微电子	国产	13+	60000	SOT-23
+LBZX84C3V9LT1G	from hqew, 现货 科力微电子	LRC	&nbsp;	3000	SOT-23
+LBZX84C4V3 Z17	from hqew, 现货 科力微电子	国产	13+	63000	SOT-23
+LBZX84C5V1 Z2	from hqew, 现货 科力微电子	国产	13+	213000	SOT-23
+LBZX84C5V1LT1G Z2	from hqew, 现货 科力微电子	LRC	11+	78000	SOT-23
+LBZX84C6V2 Z4	from hqew, 现货 科力微电子	国产	13+	579000	SOT-23
+LBZX84C9V1 Z8	from hqew, 现货 科力微电子	国产	13+	63000	SOT-23
+LC453232 561K(1812 560UH)	from hqew, 现货 科力微电子	台产	00+	500	1812
+LEM2520T1R0J(2520 1UH)	from hqew, 现货 科力微电子	太诱	03+	2000	2520
+LF LK2125 180M T(0805 18UH)	from hqew, 现货 科力微电子	太诱	00+	8000	0805
+LFBK1608HS471 T(0603 470R)	from hqew, 现货 科力微电子	太诱	01+	388000	0603
+LFBK32164W121 TJ(1206 120R)	from hqew, 现货 科力微电子	太诱	01+	124000	1206
+LFLK1608180K T(0603 18UH)	from hqew, 现货 科力微电子	太诱	01+	76000	0603
+LFLK1608180M T(0603 18UH)	from hqew, 现货 科力微电子	太诱	00+	4000	0603
+LFLK2125R82K T(0805 820NH)	from hqew, 现货 科力微电子	太诱	01+	30000	0805
+LG HK16082N2S T(0603 2.2NH)	from hqew, 现货 科力微电子	太诱	01+	20000	0603
+LGHK16082N2S T(0603 2.2NH)	from hqew, 现货 科力微电子	太诱	01+	20000	0603
+LGHK160882NJ T(0603 82NH)	from hqew, 现货 科力微电子	太诱	03+	4000	0603
+LGLK2125R12K T(0805 120NH)	from hqew, 现货 科力微电子	太诱	01+	3000	0805
+LL1005 FH47NK(0402 47NH)	from hqew, 现货 科力微电子	TOKO	02+	120000	0402
+LL1005 FH6N8J(0402 6.8NH)	from hqew, 现货 科力微电子	TOKO	00+	160000	0402
+LL1608 F12NJ(0603 12NH)	from hqew, 现货 科力微电子	TOKO	01+	1657500	0603
+LL2012 E5N6S(0805 5.6UH)	from hqew, 现货 科力微电子	TOKO	00+	24000	O8O5
+LL2012 F5N6S(0805 5.6NH)	from hqew, 现货 科力微电子	TOKO	99+	144000	0805
+LL2012 T 5N6S(0805 5.6NH)	from hqew, 现货 科力微电子	TOKO	99+	4000	0805
+LL4148	from hqew, 现货 科力微电子	ROHM	11+	2500	LL34
+LL4148	from hqew, 现货 科力微电子	国产	13+	3390000	LL34
+LL60	from hqew, 现货 科力微电子	国产	12+	15000	LL34
+LM5Z12 0N	from hqew, 现货 科力微电子	国产	13+	72000	SOD-523
+LM5Z30 14	from hqew, 现货 科力微电子	国产	13+	30000	SOD-523
+LM5Z3V3 5	from hqew, 现货 科力微电子	国产	13+	57000	SOD-523
+LM5Z3V9 7	from hqew, 现货 科力微电子	国产	13+	63000	SOD-523
+LM5Z4V7 9	from hqew, 现货 科力微电子	国产	13+	66000	SOD-523
+LM5Z6V2 0E	from hqew, 现货 科力微电子	国产	13+	120000	SOD-523
+LM5Z6V8 0F	from hqew, 现货 科力微电子	国产	13+	126000	SOD-523
+LMSZ5232BT1G	from hqew, 现货 科力微电子	国产	13+	123000	SOD-123
+LMSZ5235BT1G	from hqew, 现货 科力微电子	国产	13+	9000	SOD-123
+LMSZ5236BT1G	from hqew, 现货 科力微电子	国产	13+	90000	SOD-123
+LMSZ5242BT1G	from hqew, 现货 科力微电子	国产	13+	84000	SOD-123
+LMSZ5245BT1G	from hqew, 现货 科力微电子	国产	13+	66000	SOD-123
+LMSZ5248BT1G	from hqew, 现货 科力微电子	国产	13+	30000	SOD-123
+LNZX84C5V1LT1G Z2	from hqew, 现货 科力微电子	LRC	11+	15000	SOT-23
+LQH3C331K04M00 01(1210 330UH)	from hqew, 现货 科力微电子	村田	01+	34000	1210
+LQV3216A2N0C3N602T1 01(1206 3.6NH)	from hqew, 现货 科力微电子	村田	00+	4000	1206
+LQW1608A18NJ00T1M00 01(0603 18NH)	from hqew, 现货 科力微电子	村田	01+	620000	0603
+MBRX160 66	from hqew, 现货 科力微电子	国产	12+	15000	SOD-123
+MC2840 T12 2 A7	from hqew, 现货 科力微电子	三菱	00+	5700	SOT-23
+MCR100-6	from hqew, 现货 科力微电子	CJ	12+	9000	TO-92
+MGGB3216M601HT(1206 600R)	from hqew, 现货 科力微电子	台产	02+	12000	1206
+MLF1608A2R2KTA00(0603-2.2UH)	from hqew, 现货 科力微电子	TDK	00+	32000	0603
+MLF1608A3R9KTA00(0603 3.9UH)	from hqew, 现货 科力微电子	TDK	00+	604000	0603
+MLF2012A1R2KTB27(0805 1.2UH)	from hqew, 现货 科力微电子	TDK	02+	30000	0805
+MLG1608B8N2DT000(0603 8.2NH)	from hqew, 现货 科力微电子	TDK	99+	220000	0603
+MLG1608B8N2DT000(0603 8.2NH)	from hqew, 现货 科力微电子	TDK	00+	324000	0603
+MMBD4148 KA2	from hqew, 现货 科力微电子	CJ	13+	189000	SOT-23
+MMBD4148SE D4	from hqew, 现货 科力微电子	CJ	13+	93000	SOT-23
+MMBD6050LT1 5AY	from hqew, 现货 科力微电子	ON SEMI	03+	3000	SOT-23
+MMBD7000 M5C	from hqew, 现货 科力微电子	国产	13+	567000	SOT-23
+MMBD914LT1G 5D	from hqew, 现货 科力微电子	ON SEMI	12+	1791000	SOT-23
+MMBT2222A 1P	from hqew, 现货 科力微电子	国产	13+	342000	SOT-23
+MMBT2222AWT1 1P	from hqew, 现货 科力微电子	ON SEMI	12+	3000	SOT-23
+MMBT2907A 2F	from hqew, 现货 科力微电子	CJ	13+	60000	SOT-23
+MMBT3904 1A	from hqew, 现货 科力微电子	国产	12+	1074000	SOT-23
+MMBT3904 1E	from hqew, 现货 科力微电子	国产	12+	126000	SOT-23
+MMBT3906 2A	from hqew, 现货 科力微电子	国产	13+	693000	SOT-23
+MMBT4401 2X	from hqew, 现货 科力微电子	CJ	13+	270000	SOT-23
+MMBT4403K 2TK	from hqew, 现货 科力微电子	仙童	05+	20900	SOT-23
+MMBT5551 G1	from hqew, 现货 科力微电子	国产	13+	2706000	SOT-23
+MMBT8550D B9D	from hqew, 现货 科力微电子	国产	12+	528000	SOT-23
+MMBTA42 1D	from hqew, 现货 科力微电子	国产	13+	189000	SOT-23
+MMBTA92 2D	from hqew, 现货 科力微电子	CJ	13+	93000	SOT-23
+MMBTA94 4Z	from hqew, 现货 科力微电子	国产	12+	24000	SOT-23
+MMBTH10 3EM	from hqew, 现货 科力微电子	国产	12+	81000	SOT-23
+MMBZ5234B 8J	from hqew, 现货 科力微电子	仙童	04+	9000	SOT-23
+MMBZ5242BLT1 S8	from hqew, 现货 科力微电子	ZOWIE	00+	57000	SOT-23
+MMBZ84X C5.6 5.6M	from hqew, 现货 科力微电子	ON SEMI	04+	3000	SOT-23
+MMST3906 K5N	from hqew, 现货 科力微电子	CJ	12+	84000	SOT-323
+MMSZ4692 XC	from hqew, 现货 科力微电子	仙童	02+	3000	SOD-123
+MMZ1005Y121CT000(0402 120R)	from hqew, 现货 科力微电子	TDK	05+	10000	0402
+MSA1162GT1G 62G	from hqew, 现货 科力微电子	ON SEMI	05+	15000	SOT-23
+M25202R2J(2520 2.2UH)	from hqew, 现货 科力微电子	太诱	03+	4000	2520
+M2520TR56J(2520 560NH)	from hqew, 现货 科力微电子	太诱	03+	2000	2520
+M28S 28S	from hqew, 现货 科力微电子	CJ	13+	135000	SOT-23
+M51943BML 43B6	from hqew, 现货 科力微电子	三菱	99+	2000	SOT-89
+MA143 MC	from hqew, 现货 科力微电子	PANASONIC	03+	3000	SOT-323
+MA4P275CK 1146TR 32	from hqew, 现货 科力微电子	MACOM	00+	4920	SOD-323
+N0JD107M006RWJ(6.3V/100UF/D)	from hqew, 现货 科力微电子	AVX	03+	1514500	D
+NCE3401	from hqew, 现货 科力微电子	NCE	13+	42454	SOT-23
+NETBDSOR683H455H5Q(0402-68K)	from hqew, 现货 科力微电子	太诱	01+	10000	0402
+NETBPS1R222K410H5Q(0603 2.2K)	from hqew, 现货 科力微电子	太诱	01+	60000	0603
+NETBPS1R223K460H5Q(0603 22K)	from hqew, 现货 科力微电子	太诱	01+	20000	0603
+NETBPSOR683H455H5Q(0402 68K)	from hqew, 现货 科力微电子	太诱	01+	40000	0402
+NL252018T 033K(2520 0.33UH)	from hqew, 现货 科力微电子	TDK	00+	4000	2520
+NL453232T 101J PF(1812 100UH)	from hqew, 现货 科力微电子	TDK	00+	5000	1812
+NLFC453232T 3R3M(4532 3.3UH)	from hqew, 现货 科力微电子	TDK	00+	1000	4532
+NLV32T 3R3J PF(1210 3.3UH)	from hqew, 现货 科力微电子	TDK	06+	2000	1210
+NOJB226M006RNJ(6.3V/22UF/B)	from hqew, 现货 科力微电子	AVX	00+	2000	B
+NOJB226M006RWJ(6.3V/22UF/B)	from hqew, 现货 科力微电子	AVX	04+	928000	B
+NOJC107M006RWJ(6.3V/100UF/C)	from hqew, 现货 科力微电子	AVX	06+	723000	C
+PAS621R S VA6RT	from hqew, 现货 科力微电子	法拉	05+	268200	-
+PEMH3 H4	from hqew, 现货 科力微电子	PH	02+	100000	SOT-363
+PFFK2125T256AL T	from hqew, 现货 科力微电子	太诱	01+	99000	O8O8
+PFFK3216HC050 T	from hqew, 现货 科力微电子	太诱	01+	48000	1206
+PMBF175 6W	from hqew, 现货 科力微电子	PH	03+	1150	SOT-23
+PMBS3904 W04	from hqew, 现货 科力微电子	PH	12+	63000	SOT-23
+PMBS3904 W04	from hqew, 现货 科力微电子	国产	12+	1431000	SOT-23
+PMBS3906 T06	from hqew, 现货 科力微电子	国产	13+	1647000	SOT-23
+PMBT2222A W1P	from hqew, 现货 科力微电子	国产	13+	54000	SOT-23
+PMBT3904 T1A	from hqew, 现货 科力微电子	PH	11+	6000	SOT-23
+PMBT7000 S5C	from hqew, 现货 科力微电子	西门子	00+	3000	SOT-23
+PMST3904 T1A	from hqew, 现货 科力微电子	国产	13+	981000	SOT-323
+PTL1608 F12NG(0603 12NH)	from hqew, 现货 科力微电子	TOKO	00+	32000	0603
+PXT5401 5401	from hqew, 现货 科力微电子	国产	13+	24000	SOT-89-3
+PXT8550 Y2	from hqew, 现货 科力微电子	CJ	13+	81000	SOT-89-3
+RB435C T100 S4	from hqew, 现货 科力微电子	ROHM	00+	4000	SOT-89
+RB500H 6	from hqew, 现货 科力微电子	ROHM	95+	3000	SOD-323
+RB520G 30 E	from hqew, 现货 科力微电子	CJ	13+	8000	SOD-723
+RB520S 30 B	from hqew, 现货 科力微电子	国产	13+	321000	SOD-523
+RB731U D3P	from hqew, 现货 科力微电子	ROHM	98+	5800	SOT-363
+RC2301 N017X	from hqew, 现货 科力微电子	RCR	11+	111000	SOT-23
+RCR1521SI M21	from hqew, 现货 科力微电子	RCR	11+	42000	SOT-23
+RCR1522 K84	from hqew, 现货 科力微电子	RCR	05+	3000	SOT-23
+RD16UJ T1	from hqew, 现货 科力微电子	NEC	08+	15000	SOD-523
+RD18UJ T1	from hqew, 现货 科力微电子	NEC	08+	21000	SOD-523
+RD2.2UM T1	from hqew, 现货 科力微电子	NEC	08+	36000	SOD-523
+RD3.0UM T1	from hqew, 现货 科力微电子	NEC	08+	291000	SOT-523
+RD30S T1 301	from hqew, 现货 科力微电子	NEC	98+	30000	SOD-323
+RD33UJ T1	from hqew, 现货 科力微电子	NEC	08+	51000	SOD-523
+RD6.2S T1 621	from hqew, 现货 科力微电子	NEC	97+	3000	SOD-323
+RD6.2UM T1	from hqew, 现货 科力微电子	NEC	08+	3000	SOD-523
+RD6.8SL T1B 681	from hqew, 现货 科力微电子	NEC	01+	3000	SOD-523
+REG72421/12(7242 150NH)	from hqew, 现货 科力微电子	线艺	00+	3990	7242
+RLR4004 TE21	from hqew, 现货 科力微电子	ROHM	00+	2500	LL34
+RLZTE 11 16A	from hqew, 现货 科力微电子	ROHM	03+	10000	LL34
+RLZTE 11 16B	from hqew, 现货 科力微电子	ROHM	03+	2500	LL34
+RLZTE 11 4.7C	from hqew, 现货 科力微电子	ROHM	02+	7500	LL34
+RLZTE 11 5.6A	from hqew, 现货 科力微电子	ROHM	00+	5000	LL34
+RN1304 XD	from hqew, 现货 科力微电子	TOSHIBA	02+	3000	SOT-323
+RN1410 XK	from hqew, 现货 科力微电子	TOSHIBA	98+	9000	SOT-23-3
+RN1410 XK	from hqew, 现货 科力微电子	TOSHIBA	98+	36000	SOT-23
+RN5VS45AA TR KFFT	from hqew, 现货 科力微电子	理光	02+	3000	SOT-153
+RT1N141C T12 1 N1	from hqew, 现货 科力微电子	三菱	01+	12000	SOT-23
+RT1N144M T11 1 N5	from hqew, 现货 科力微电子	三菱	00+	3000	SOT-323
+RT1P141C T12 2 P1	from hqew, 现货 科力微电子	三菱	98+	2700	SOT-23
+RT1P241U T11 1 P2	from hqew, 现货 科力微电子	三菱	96+	1800	SOT-153
+S 80725SN DN	from hqew, 现货 科力微电子	精工	99+	3000	SOT-153
+S8050M.D HY1D	from hqew, 现货 科力微电子	国产	13+	105000	SOT-23
+S8550 Y2	from hqew, 现货 科力微电子	国产	12+	3213000	SOT-23
+S9013	from hqew, 现货 科力微电子	CJ	11+	3000	TO-92
+S9013 J3	from hqew, 现货 科力微电子	国产	13+	546000	SOT-23
+S9015 M5	from hqew, 现货 科力微电子	国产	12+	546000	SOT-23
+S9015 M6	from hqew, 现货 科力微电子	国产	13+	516000	SOT-23
+S9018 J8	from hqew, 现货 科力微电子	CJ	13+	639000	SOT-23
+S9018 J8	from hqew, 现货 科力微电子	国产	13+	1509000	SOT-23
+SD103AW B4	from hqew, 现货 科力微电子	CJ	10+	156000	SOD-123
+SD103AWS B2	from hqew, 现货 科力微电子	CJ	07+	1044000	SOD-323
+SD103CW S6	from hqew, 现货 科力微电子	CJ	07+	168000	SOD-123
+SD103CWS S6	from hqew, 现货 科力微电子	CJ	10+	231000	SOD-323
+SDB310WM DB3	from hqew, 现货 科力微电子	AUK	99+	39000	SOT-23
+SI2306DS	from hqew, 现货 科力微电子	VISHAY	12+	21000	SOT-23
+SI3442 42PR	from hqew, 现货 科力微电子	SI	98+	3000	SOT-163
+SI3801DV 012A4	from hqew, 现货 科力微电子	SI	01+	3000	SOT-163
+SI3801DV T1 01EN	from hqew, 现货 科力微电子	SI	99+	3000	SOT-163
+SIH42 270(1812 27UH)	from hqew, 现货 科力微电子	台产	02+	1500	1812
+SK24	from hqew, 现货 科力微电子	星海	11+	12000	SMB
+SMBJ16A LP23	from hqew, 现货 科力微电子	台产	02+	2000	DO-214
+SMBT3906 S2A	from hqew, 现货 科力微电子	西门子	09+	54000	SOT-23
+SN7002 JSS	from hqew, 现货 科力微电子	西门子	98+	54000	SOT-23
+SS16 SS16	from hqew, 现货 科力微电子	国产东芝	12+	232000	DO-214
+SS22	from hqew, 现货 科力微电子	国产东芝	13+	594000	SMA
+SS36	from hqew, 现货 科力微电子	国产东芝	12+	28000	DO-214
+SS8050W IY	from hqew, 现货 科力微电子	国产	12+	27000	SOT-323
+SSM3J01T DE	from hqew, 现货 科力微电子	国产东芝	01+	3000	SOT-23-3
+STR1036Y AAY	from hqew, 现货 科力微电子	AUK	99+	3000	SOT-23
+T491D106K035AS(35V/10UF/D)	from hqew, 现货 科力微电子	基美	01+	1000	D
+TC7SHT04FU H5	from hqew, 现货 科力微电子	国产东芝	98+	2800	SOT-353
+TC7SZ04FU J5	from hqew, 现货 科力微电子	国产东芝	01+	2970	SOT-353
+TC7W08F	from hqew, 现货 科力微电子	国产东芝	99+	500	SOP-8
+TEMSVA0J156M8R(6.3V/15UF/A)	from hqew, 现货 科力微电子	NEC	99+	4000	A
+TESVSPOJ105K8R(16V/1UF/P)	from hqew, 现货 科力微电子	NEC	02+	18000	P
+TLZ30B GS08	from hqew, 现货 科力微电子	VISHAY	03+	2500	LL34
+TLZ4V3B GS08	from hqew, 现货 科力微电子	VISHAY	03+	5000	SOT-23
+TZMC5V6 GS08 Z3W	from hqew, 现货 科力微电子	VISHAY	06+	3000	SOT-23
+UMK3216F334ZF TC(1206 334Z)	from hqew, 现货 科力微电子	太诱	01+	3000	1206
+UMZ6.8EN D6F	from hqew, 现货 科力微电子	ROHM	04+	3000	SOT-523
+UN5114 TX 6D	from hqew, 现货 科力微电子	PANASONIC	97+	33000	SOT-323
+UPA1911TE T1B TD	from hqew, 现货 科力微电子	NEC	01+	3000	SOT-163
+US1M	from hqew, 现货 科力微电子	国产东芝	12+	6000	SMA
+VJ0805U224MXXAT54(0805 224M)	from hqew, 现货 科力微电子	VISHAY	00+	60000	0805
+UMX13 X13	from hqew, 现货 科力微电子	ROHM	00+	6000	SOT-363
+VJ1206A180JXCTMM(1206 18P)	from hqew, 现货 科力微电子	VISHAY	01+	3000	1206
+VJ1206A332JXATM(1206 332J)	from hqew, 现货 科力微电子	VISHAY	03+	3000	1206
+VJ1206A332KXATMM(1206 332K)	from hqew, 现货 科力微电子	VISHAY	00+	20000	1206
+VJ1206U105MXXMT(1206 105M)	from hqew, 现货 科力微电子	VISHAY	01+	3000	1206
+VJ1206U154MXAMT(1206 154M)	from hqew, 现货 科力微电子	VISHAY	01+	3000	1206
+VJ1206V105MXXTM(1206 105M)	from hqew, 现货 科力微电子	VISHAY	01+	3000	1206
+VJ1206Y102KXBLMM(1206 102K)	from hqew, 现货 科力微电子	VISHAY	01+	7000	1206
+VJ1206Y105KXJTML(1206 105K)	from hqew, 现货 科力微电子	VISHAY	04+	9000	1206
+VJ1210A102JX0TM(1210 102J)	from hqew, 现货 科力微电子	VISHAY	00+	6000	1210
+VJ1210A102JXBTM(1210 102J)	from hqew, 现货 科力微电子	VISHAY	01+	6000	1210
+VJ1210A102JXETL(1210 102J)	from hqew, 现货 科力微电子	VISHAY	02+	63000	1210
+VJ1210A682KXAAT(1210 682K)	from hqew, 现货 科力微电子	VISHAY	00+	15000	1210
+VJ1210A682KXBAT(1210 682K)	from hqew, 现货 科力微电子	VISHAY	01+	2500	1210
+VJ1210Y104MXATM(1210 104M)	from hqew, 现货 科力微电子	VISHAY	00+	18000	1210
+VJ1210Y104MXBT54(1210 104M)	from hqew, 现货 科力微电子	VISHAY	01+	3000	1210
+VJ1210Y104MXBTMM(1210 104M)	from hqew, 现货 科力微电子	VISHAY	00+	93000	1210
+VJ1210Y224KXBTML(1210 224K)	from hqew, 现货 科力微电子	VISHAY	04+	6000	1210
+VJ1210Y224MAAT(1210 224M)	from hqew, 现货 科力微电子	VISHAY	00+	24000	1210
+VJ1210Y474MXATM(1210 474M)	from hqew, 现货 科力微电子	VISHAY	01+	2500	1210
+VJ1812A102JXGTM(1812 102J)	from hqew, 现货 科力微电子	VISHAY	03+	1000	1812
+VJ1812A152JXGAL3L(1812 152J)	from hqew, 现货 科力微电子	VISHAY	01+	28000	1812
+VJ1812Y104KXCLM(1812 104K)	from hqew, 现货 科力微电子	VISHAY	01+	20000	1812
+VJ1812Y104MXBAT(1812 104M)	from hqew, 现货 科力微电子	VISHAY	01+	380000	1812
+VJ1825Y474MXBMT00(1825 474M)	from hqew, 现货 科力微电子	VISHAY	00+	44000	1825
+VJ7117T105KXAAT(1812 105K)	from hqew, 现货 科力微电子	VISHAY	01+	3000	1812
+VJ7117Y473KXCAT(1812 473K)	from hqew, 现货 科力微电子	VISHAY	05+	3000	1812
+VJ9039Y333KXAMR69(0805 333K)	from hqew, 现货 科力微电子	VISHAY	00+	10000	805
+VJ9158Y333KXBAE31(1210 333K)	from hqew, 现货 科力微电子	VISHAY	01+	3000	1210
+XC6373A330PR AD3A	from hqew, 现货 科力微电子	TOREX	97+	2186	SOT-89
+ZMM10V	from hqew, 现货 科力微电子	HL	13+	200000	LL-34
+ZMM11V	from hqew, 现货 科力微电子	HL	13+	115000	LL-34
+ZMM12V	from hqew, 现货 科力微电子	HL	13+	135000	LL-34
+ZMM3V9	from hqew, 现货 科力微电子	HL	13+	37500	LL-34
+ZMM5228B 7	from hqew, 现货 科力微电子	VISHAY	12+	2500	LL34
+ZMM5254B 7	from hqew, 现货 科力微电子	美台	12+	130000	LL34
+ZMM9V1	from hqew, 现货 科力微电子	HL	13+	7500	LL-34
+0402 75KJ	from hqew, 现货 科力微电子	国巨	04+	10000	O4O2
+0603F473Z500CT(0603 473Z)	from hqew, 现货 科力微电子	华新	06+	4000	O6O3
+0805 27P	from hqew, 现货 科力微电子	编带	05+	180000	0603
+0805 33P	from hqew, 现货 科力微电子	-	02+	40000	O8O5
+0805 472K	from hqew, 现货 科力微电子	-	02+	8000	O8O5
+0805A270JAT2A(0805 270J)	from hqew, 现货 科力微电子	AVX	02+	44000	O8O5
+0805HT 33NTJBC(0805 33NH)	from hqew, 现货 科力微电子	线艺	00+	2000	O6O3
+1008CS 180XKBC(1008 18NH)	from hqew, 现货 科力微电子	线艺	00+	350000	1008
+1008LS 122XKBC(1008 1.2UH)	from hqew, 现货 科力微电子	线艺	02+	226000	1008
+10V/2.2UF/A	from hqew, 现货 科力微电子	AVX	00+	2000	A
+1206 103M	from hqew, 现货 科力微电子	TDK	04+	3000	1206
+1206U224MXXMT54(1206 224M)	from hqew, 现货 科力微电子	VISHAY	00+	21000	1206
+1210 39UH	from hqew, 现货 科力微电子	-	02+	14000	1210
+1210A103GXAAT3L(1210 103G)	from hqew, 现货 科力微电子	VISHAY	01+	2500	1210
+1210A152GXEMT54(1210 152G)	from hqew, 现货 科力微电子	VISHAY	01+	84000	1210
+15J 104 45001TP(1206 100K)	from hqew, 现货 科力微电子	日产	00+	6000	1206
+1808Y103KXBAT54(1808 103K)	from hqew, 现货 科力微电子	VISHAY	00+	9000	1808
+1808Y104MXAAT0(1808 104M)	from hqew, 现货 科力微电子	VISHAY	00+	9000	1808
+1812LS 333XJBC(1812 33UH)	from hqew, 现货 科力微电子	线艺	03+	414384	1812
+1812Y104JXAAT00(1812 104J)	from hqew, 现货 科力微电子	VISHAY	00+	3000	1812
+1812Y473MFAAT(1812 473M)	from hqew, 现货 科力微电子	VISHAY	00+	4000	1812
+1825Y334KXBMT(1825 334K)	from hqew, 现货 科力微电子	VISHAY	99+	2000	1825
+1N4007	from hqew, 现货 科力微电子	灵杰	&nbsp;	36000	DOD-123
+1N4007	from hqew, 现货 科力微电子	灵杰	12+	3000	DOD-123
+1N4148WT T4	from hqew, 现货 科力微电子	CJ	13+	3000	SOD-523
+1N4448W T5	from hqew, 现货 科力微电子	CJ	13+	291000	SOD-123
+1N5818 M1M	from hqew, 现货 科力微电子	TOSHIBA	03+	3000	SOT-23
+1N5819LT1G S4	from hqew, 现货 科力微电子	国产ON	13+	3000	SOD-323
+1N5819LT3G S4	from hqew, 现货 科力微电子	国产ON	13+	1191000	SOD-123
+1N5819W SL	from hqew, 现货 科力微电子	国产	13+	237000	SOD-123
+1PS79SB10 F	from hqew, 现货 科力微电子	PH	08+	126000	SOD-523
+1SS184 B3	from hqew, 现货 科力微电子	TOSHIBA	02+	9000	SOT-23-3
+1SS193 F3	from hqew, 现货 科力微电子	CJ	11+	207000	SOT-23
+1SS355 1S	from hqew, 现货 科力微电子	ROHM	02+	3000	SOD-523
+1SS355 A	from hqew, 现货 科力微电子	国产	13+	333000	SOD-323
+1SS380 E	from hqew, 现货 科力微电子	ROHM	03+	24000	SOD-523
+1SS388 S3	from hqew, 现货 科力微电子	CJ	11+	132000	SOD-523
+1SS388 V1	from hqew, 现货 科力微电子	TOSHIBA	11+	4000	SOD-723
+1SS400 A	from hqew, 现货 科力微电子	CJ	13+	456000	SOD-523
+1SV223 1	from hqew, 现货 科力微电子	ROHM	97+	9000	SOD-323
+1SV229 TB	from hqew, 现货 科力微电子	TOSHIBA	03+	11900	SOT-323
+1W362 M020 T8A	from hqew, 现货 科力微电子	SONY	98+	3000	SOD-323
+2.5V/100UF/P	from hqew, 现货 科力微电子	NEC	00+	12000	P
+202R29W102KV4E(1808 102K)	from hqew, 现货 科力微电子	JOHANSON	02+	10000	1808
+2302 2A	from hqew, 现货 科力微电子	RCR	11+	12000	SOT-23
+267M2502106MR686J(25V/10UF/C)	from hqew, 现货 科力微电子	日产	05+	8000	C
+293D475X9010A2T(10V/4.7UF/A)	from hqew, 现货 科力微电子	VISHAY	00+	20000	A
+2N7002 12W	from hqew, 现货 科力微电子	PH	12+	2388000	SOT-23
+2N7002 12W	from hqew, 现货 科力微电子	国产	13+	60000	SOT-23
+2N7002 702	from hqew, 现货 科力微电子	仙童	03+	3000	SOT-23
+2N7002DW K72	from hqew, 现货 科力微电子	CJ	12+	15000	SOT-363
+2N7002E T1 72TTA	from hqew, 现货 科力微电子	PH	03+	3000	SOT-23
+2N7002E T1 7EPSC	from hqew, 现货 科力微电子	PH	00+	9000	SOT-23
+2N7002KN H702N	from hqew, 现货 科力微电子	国产	12+	12000	SOT-23
+2SA1036 HQ	from hqew, 现货 科力微电子	国产	12+	102000	SOT-23
+2SA1622 M6	from hqew, 现货 科力微电子	国产	12+	252000	SOT-323
+2SA601AR ZR	from hqew, 现货 科力微电子	TOSHIBA	02+	3000	SOT-23-3
+2SA812 M7	from hqew, 现货 科力微电子	国产	13+	666000	SOT-23
+2SB1132 BAR	from hqew, 现货 科力微电子	国产	13+	249000	SOT-89
+2SB1132 BARN	from hqew, 现货 科力微电子	国产	13+	96000	SOT-89
+2SB1182	from hqew, 现货 科力微电子	CJ	08+	2500	TO-252
+2SB1188 BCQ	from hqew, 现货 科力微电子	CJ	11+	62000	SOT-89
+2SB1188 BCR	from hqew, 现货 科力微电子	国产	12+	20000	SOT-89
+2SB1188 BCR	from hqew, 现货 科力微电子	CJ	13+	18000	SOT-89
+2SB1197 AHR	from hqew, 现货 科力微电子	国产	12+	24000	SOT-23
+2SB1301 ZQ	from hqew, 现货 科力微电子	ROHM	04+	1000	SOT-89
+2SB624 BV4	from hqew, 现货 科力微电子	CJ	13+	48000	SOT-23
+2SB624 BV5	from hqew, 现货 科力微电子	国产	12+	129000	SOT-23
+2SC1623 L6	from hqew, 现货 科力微电子	国产	13+	141000	SOT-89-3
+2SC1623 L7	from hqew, 现货 科力微电子	国产	13+	315000	SOT-23
+2SC232 T9	from hqew, 现货 科力微电子	TOSHIBA	01+	33000	SOT-323
+2SC2712 LG	from hqew, 现货 科力微电子	国产	12+	1143000	SOT-23
+2SC2712 LY	from hqew, 现货 科力微电子	CJ	12+	36000	SOT-23
+2SC2712 LY	from hqew, 现货 科力微电子	国产	12+	72000	SOT-23
+2SC2714 QY	from hqew, 现货 科力微电子	CJ	12+	219000	SOT-23
+2SC2734NETR R25	from hqew, 现货 科力微电子	日立	09+	3000	SOT-23
+2SC2982 DG	from hqew, 现货 科力微电子	TOSHIBA	02+	1000	SOT-89
+2SC3138 V NY	from hqew, 现货 科力微电子	TOSHIBA	02+	1915	SOT-23-3
+2SC3838K AND	from hqew, 现货 科力微电子	ROHM	00+	3000	SOT-23
+2SC4081 BR	from hqew, 现货 科力微电子	CJ	12+	90000	SOT-323
+2SC4081 BR	from hqew, 现货 科力微电子	国产	13+	738000	SOT-323
+2SC4175 T2 B3	from hqew, 现货 科力微电子	NEC	99+	3000	SOT-323
+2SC4177 T1B L5	from hqew, 现货 科力微电子	NEC	01+	18000	SOT-323
+2SC4177 T1B L7	from hqew, 现货 科力微电子	NEC	02+	2800	SOT-323
+2SC5010 T1B B3	from hqew, 现货 科力微电子	NEC	01+	3000	SOT-523
+2SD1624 DG	from hqew, 现货 科力微电子	TOSHIBA	02+	1000	SOT-89
+2SD1664 DA	from hqew, 现货 科力微电子	罗姆	99+	564	SOT-89
+2SD1664 DA	from hqew, 现货 科力微电子	ROHM	99+	564	SOT-89
+2SD1664 DAR	from hqew, 现货 科力微电子	CJ	13+	101000	SOT-89
+2SD1664 DARN	from hqew, 现货 科力微电子	国产	12+	38000	SOT-89
+2SD1781K AFR	from hqew, 现货 科力微电子	ROHM	03+	3000	SOT-323
+2SD1898 DFR	from hqew, 现货 科力微电子	CJ	11+	1000	SOT-89
+2SD1898 DFR	from hqew, 现货 科力微电子	国产	13+	33000	SOT-89
+2SD1898 DFR	from hqew, 现货 科力微电子	CJ	13+	38000	SOT-89
+2SD2150 CFRN	from hqew, 现货 科力微电子	国产	12+	10000	SOT-89
+2SD596 DV3	from hqew, 现货 科力微电子	国产	13+	318000	SOT-23
+2SD965A 965A	from hqew, 现货 科力微电子	CJ	13+	80000	SOT-89
+2SJ361 T1B BARV	from hqew, 现货 科力微电子	NEC	01+	1000	SOT-89
+2SK1133 T1B G11	from hqew, 现货 科力微电子	NEC	01+	6000	SOT-23-3
+2SK2858 G24	from hqew, 现货 科力微电子	NEC	01+	6000	SOT-323
+2SK3018 KN	from hqew, 现货 科力微电子	CJ	13+	6000	SOT-23
+2SK3019 KN	from hqew, 现货 科力微电子	CJ	12+	69000	SOT-523
+3DD13003	from hqew, 现货 科力微电子	CJ	13+	17500	TO-252-2
+3SK199 UM	from hqew, 现货 科力微电子	TOSHIBA	97+	3000	SOT-143
+3SK244 T1 U94	from hqew, 现货 科力微电子	NEC	99+	3000	SOT-143
+592D337X06R3V2T260(6.3V/330UF/V)	from hqew, 现货 科力微电子	VISHAY	04+	34000	V
+595D227K9010D(10V/220UF/D)	from hqew, 现货 科力微电子	VISHAY	01+	494	D
+6.3V/10UF/A	from hqew, 现货 科力微电子	NEC	03+	10000	A
+6.3V/10UF/P	from hqew, 现货 科力微电子	宁夏	04+	30000	P
+6.3V/10UF/P	from hqew, 现货 科力微电子	NEC	01+	15000	P
+6.3V/22UF/A	from hqew, 现货 科力微电子	NEC	01+	2000	A
+78L05 BAS15	from hqew, 现货 科力微电子	ST	11+	1000	SOT-89-3
+78L06 78L06	from hqew, 现货 科力微电子	国产	12+	211000	SOT-89
+78M08	from hqew, 现货 科力微电子	UTC	&nbsp;	5080	TO-252-2
+78M09	from hqew, 现货 科力微电子	UTC	&nbsp;	5080	TO-252-2
+8205	from hqew, 现货 科力微电子	国产	12+	27000	SOT-163
+9014W J6	from hqew, 现货 科力微电子	国产	13+	345000	SOT-323
+A1015 BA	from hqew, 现货 科力微电子	国产	13+	330000	SOT-23
+A94	from hqew, 现货 科力微电子	CJ	12+	8000	SOT-89
+ACA3216M4 300 TL(1206 30R)	from hqew, 现货 科力微电子	TDK	00+	10000	0603
+AML1005H10NJTS(0402 10NH)	from hqew, 现货 科力微电子	FDK	00+	20000	0402
+AML1005H1N2STS(0402 1.2NH)	from hqew, 现货 科力微电子	FDK	00+	20000	0402
+AVL5M03300G(0603 5V)	from hqew, 现货 科力微电子	AMOTECH	01+	32000	O6O3
+AVR M1005C080MTAAB(0402 8P)	from hqew, 现货 科力微电子	TDK	05+	50000	O4O2
+B0520WS SD	from hqew, 现货 科力微电子	国产	12+	237000	SOD-323
+B0520WS SD	from hqew, 现货 科力微电子	CJ	13+	165000	SOD-323
+B0530W SE	from hqew, 现货 科力微电子	国产	12+	27000	SOD-123
+B0540W SF	from hqew, 现货 科力微电子	CJ	12+	96000	SOD-123
+B240AA	from hqew, 现货 科力微电子	国产东芝	13+	160000	SMA
+B45192E3336M309(16V/33UF/C)	from hqew, 现货 科力微电子	西门子	04+	498500	C
+B45196H1107M406(6.3V 100UF D)	from hqew, 现货 科力微电子	西门子	02+	44800	D
+B45196S1107M679(6.3V 100UF D)	from hqew, 现货 科力微电子	西门子	01+	20250	D
+B45197A1337K509(6.3V 330UF E)	from hqew, 现货 科力微电子	西门子	01+	23600	E
+B45197A1337K509(6.3V/330UF/E)	from hqew, 现货 科力微电子	西门子	01+	23600	E
+B4519H1107M409(6.3V 100UF D)	from hqew, 现货 科力微电子	西门子	02+	76500	D
+B4519H1107M409(6.3V/100UF/D)	from hqew, 现货 科力微电子	西门子	02+	76500	D
+B5817W SJ	from hqew, 现货 科力微电子	CJ	13+	150000	SOD-123
+B5817WS SJ	from hqew, 现货 科力微电子	国产	12+	207000	SOD-323
+B5818WS SK	from hqew, 现货 科力微电子	CJ	11+	42000	SOD-323
+B5819W SL	from hqew, 现货 科力微电子	CJ	13+	39000	SOD-123
+B772 B772	from hqew, 现货 科力微电子	国产	13+	245000	SOT-89
+B772M	from hqew, 现货 科力微电子	CJ	13+	65000	TO-252-2
+BAS140W 4	from hqew, 现货 科力微电子	西门子	02+	114000	SOD-323
+BAS16 5D	from hqew, 现货 科力微电子	国产	12+	87000	SOT-23
+BAS16 A6	from hqew, 现货 科力微电子	西门子	08+	198000	SOT-23
+BAS16 A6S	from hqew, 现货 科力微电子	西门子	08+	240000	SOT-23
+BAS21 JS	from hqew, 现货 科力微电子	国产	13+	120000	SOT-23
+BAS21 JST	from hqew, 现货 科力微电子	PH	12+	114000	SOT-23
+BAS316 A6	from hqew, 现货 科力微电子	国产	13+	2436000	SOD-323
+BAS40 05 45	from hqew, 现货 科力微电子	CJ	10+	39000	SOT-23
+BAS70-06-76S	from hqew, 现货 科力微电子	西门子	08+	66000	SOT-23
+BAT42WS S7	from hqew, 现货 科力微电子	国产	13+	138000	SOT-23
+BAT43	from hqew, 现货 科力微电子	PH	00+	3000	SOD-323
+BAT43WS S8	from hqew, 现货 科力微电子	CJ	13+	45000	SOD-323
+BAT54 06 TA	from hqew, 现货 科力微电子	西门子	08+	105000	SOT-23
+BAT54 IR54	from hqew, 现货 科力微电子	IR	02+	195000	SOT-23
+BAT54 KL1	from hqew, 现货 科力微电子	CJ	12+	42000	SOT-23
+BAT54A L42	from hqew, 现货 科力微电子	国产	13+	105000	SOT-23
+BAT54C KL3	from hqew, 现货 科力微电子	CJ	13+	378000	SOT-23
+BAT54CW 43T	from hqew, 现货 科力微电子	PH	08+	1686000	SOT-323
+BAT54H JV	from hqew, 现货 科力微电子	PH	08+	114000	SOT-323
+BAT54H JV	from hqew, 现货 科力微电子	国产	12+	45000	SOT-323
+BAT54RCLT1 KL3	from hqew, 现货 科力微电子	ZOWIE	02+	3000	SOT-23
+BAT54S KL4	from hqew, 现货 科力微电子	国产	13+	1563000	SOT-23
+BAT54S WV4	from hqew, 现货 科力微电子	国产	13+	3000	SOT-23
+BAT64 02W M	from hqew, 现货 科力微电子	西门子	12+	3000	SOD-323
+BAT7165 C	from hqew, 现货 科力微电子	TOSHIBA	04+	6000	SOD-523
+BAV103	from hqew, 现货 科力微电子	PH	03+	2500	LL34
+BAV199 JY	from hqew, 现货 科力微电子	CJ	10+	3000	SOT-23
+BAV21W T3	from hqew, 现货 科力微电子	国产	13+	276000	SOD-123
+BAV70 B3	from hqew, 现货 科力微电子	国产	13+	531000	SOT-23
+BAV70W A4T	from hqew, 现货 科力微电子	PH	04+	735000	SOT-323
+BAV99 A7	from hqew, 现货 科力微电子	国半	97+	5480	SOT-23
+BAV99 A7	from hqew, 现货 科力微电子	CJ	13+	3000	SOT-23
+BAV99/8 MFW	from hqew, 现货 科力微电子	PH	10+	204000	SOT-23
+BAV99U A7	from hqew, 现货 科力微电子	西门子	06+	240000	SOT-363
+BAV99U A7S	from hqew, 现货 科力微电子	西门子	06+	9000	SOT-163
+BB182 2	from hqew, 现货 科力微电子	PH	02+	2800	SOD-523
+BC807 40 5C	from hqew, 现货 科力微电子	CJ	13+	3000	SOT-23
+BC807 40LT1G 5CH	from hqew, 现货 科力微电子	ON SEMI	97+	3000	SOT-23
+BC807 5D	from hqew, 现货 科力微电子	国产	12+	120000	SOT-23
+BC807-40W 5C	from hqew, 现货 科力微电子	国产	12+	123000	SOT-323
+BC807-40W-5C	from hqew, 现货 科力微电子	国产	12+	63000	SOT-323
+BC807-40W-5CW	from hqew, 现货 科力微电子	国产	12+	60000	SOT-323
+BC808 5C	from hqew, 现货 科力微电子	PH	01+	3000	SOT-23
+BC817 40 6CW	from hqew, 现货 科力微电子	国产	12+	498000	SOT-23
+BC817 40 6CW	from hqew, 现货 科力微电子	国产	13+	396000	SOT-23
+BC817-16W-6A	from hqew, 现货 科力微电子	国产	12+	45000	SOT-323
+BC817-25W 6B	from hqew, 现货 科力微电子	国产	12+	612000	SOT-323
+BC817K 25 6B	from hqew, 现货 科力微电子	西门子	08+	78000	SOT-23
+BC846B 1B	from hqew, 现货 科力微电子	国产	12+	3000	SOT-23
+BC846B 1BW	from hqew, 现货 科力微电子	国产	13+	126000	SOT-23
+BC846BW 1BT	from hqew, 现货 科力微电子	PH	10+	18000	SOT-323
+BC847 1G	from hqew, 现货 科力微电子	CJ	11+	63000	SOT-23
+BC847A 1E	from hqew, 现货 科力微电子	国产	12+	6000	SOT-23
+BC847BT 1FS	from hqew, 现货 科力微电子	西门子	08+	387000	SOT-523
+BC847BW 1F	from hqew, 现货 科力微电子	国产	13+	582000	SOT-323
+BC847C 1G	from hqew, 现货 科力微电子	ST	11+	84000	SOT-23
+BC847C 1GW	from hqew, 现货 科力微电子	国产	13+	516000	SOT-23
+BC848 1K	from hqew, 现货 科力微电子	CJ	11+	258000	SOT-23
+BC848A 1JW	from hqew, 现货 科力微电子	国产	12+	162000	SOT-23
+BC848B 1K	from hqew, 现货 科力微电子	国产	12+	156000	SOT-23
+BC848BW 1K	from hqew, 现货 科力微电子	国产	12+	69000	SOT-323
+BC848C 1G	from hqew, 现货 科力微电子	ST	10+	90000	SOT-23
+BC849BW 2BT	from hqew, 现货 科力微电子	PH	00+	273000	SOT-323
+BC856A 3A	from hqew, 现货 科力微电子	国产	12+	42000	SOT-23
+BC856A 3AW	from hqew, 现货 科力微电子	国产	12+	36000	SOT-23
+BC856B 3BS	from hqew, 现货 科力微电子	西门子	02+	3000	SOT-23
+BC856BLT1 3B	from hqew, 现货 科力微电子	ON SEMI	01+	15000	SOT-23
+BC857A 3EW	from hqew, 现货 科力微电子	PH	09+	66000	SOT-23
+BC857B 3F	from hqew, 现货 科力微电子	国产	12+	264000	SOT-23
+BC857C 3G	from hqew, 现货 科力微电子	国产	12+	777000	SOT-23
+BC858 3K	from hqew, 现货 科力微电子	CJ	11+	279000	SOT-23
+BC858A 3J	from hqew, 现货 科力微电子	国产	12+	90000	SOT-23
+BC858A 3JW	from hqew, 现货 科力微电子	国产	12+	180000	SOT-23
+BC858B 3K	from hqew, 现货 科力微电子	国产	12+	2157000	SOT-23
+BC858B 3KW	from hqew, 现货 科力微电子	国产	12+	309000	SOT-23
+BC858C 3LW	from hqew, 现货 科力微电子	国产	12+	549000	SOT-23
+BCP54 16	from hqew, 现货 科力微电子	西门子	00+	2000	SOT-223
+BCW60A 05	from hqew, 现货 科力微电子	仙童	00+	3000	SOT-23
+BCX52 AE	from hqew, 现货 科力微电子	国产	11+	15000	SOT-89
+BCX52 AE	from hqew, 现货 科力微电子	国产	12+	19000	SOT-89
+BCX53 AL	from hqew, 现货 科力微电子	国产	13+	74000	SOT-89
+BCX56 BL	from hqew, 现货 科力微电子	CJ	13+	12000	SOT-89
+BF994SRE 6574 MLS	from hqew, 现货 科力微电子	西门子	94+	9000	SOT-143
+BFG505/X M39	from hqew, 现货 科力微电子	PH	01+	3000	SOT-143
+BFP1817W GS08 W18	from hqew, 现货 科力微电子	VISHAY	01+	3000	SOT-343
+BFR93A R2W	from hqew, 现货 科力微电子	NXP	13+	3000	SOT-23
+BLA3216B471SD4T1M0 07 (1206 470r)	from hqew, 现货 科力微电子	村田	00+	4000	1206
+BSP51 BSP51	from hqew, 现货 科力微电子	PH	03+	1000	SOT-223
+BSS138 J1	from hqew, 现货 科力微电子	国产	12+	60000	SOT-23
+BSS84 13W	from hqew, 现货 科力微电子	PH	08+	12000	SOT-23
+BZT52C10 WF	from hqew, 现货 科力微电子	CJ	13+	249000	SOD-123
+BZT52C10S WF	from hqew, 现货 科力微电子	CJ	13+	498000	SOD-323
+BZT52C13S	from hqew, 现货 科力微电子	国产	13+	51000	SOD-323
+BZT52C15	from hqew, 现货 科力微电子	国产	13+	117000	SOD-123
+BZT52C15S WJ	from hqew, 现货 科力微电子	CJ	13+	525000	SOD-323
+BZT52C15T	from hqew, 现货 科力微电子	国产	13+	99000	SOD-523
+BZT52C16S WK	from hqew, 现货 科力微电子	CJ	13+	219000	SOD-323
+BZT52C20S	from hqew, 现货 科力微电子	国产	13+	57000	SOD-323
+BZT52C22S	from hqew, 现货 科力微电子	国产	13+	36000	SOD-323
+BZT52C24 WO	from hqew, 现货 科力微电子	CJ	13+	225000	SOD-123
+BZT52C27 WP	from hqew, 现货 科力微电子	CJ	13+	159000	SOD-123
+BZT52C27S WP	from hqew, 现货 科力微电子	CJ	13+	225000	SOD-323
+BZT52C2V4 WX	from hqew, 现货 科力微电子	CJ	13+	153000	SOD-123
+BZT52C2V7S	from hqew, 现货 科力微电子	国产	13+	48000	SOD-323
+BZT52C30 WQ	from hqew, 现货 科力微电子	CJ	13+	177000	SOD-123
+BZT52C30S	from hqew, 现货 科力微电子	国产	13+	30000	SOD-323
+BZT52C36 WS	from hqew, 现货 科力微电子	CJ	13+	60000	SOD-123
+BZT52C39 WT	from hqew, 现货 科力微电子	CJ	13+	207000	SOD-123
+BZT52C3V0S	from hqew, 现货 科力微电子	国产	13+	18000	SOD-323
+BZT52C3V3 W3	from hqew, 现货 科力微电子	CJ	13+	141000	SOD-123
+BZT52C3V3S W3	from hqew, 现货 科力微电子	CJ	13+	42000	SOD-323
+BZT52C3V3S W3	from hqew, 现货 科力微电子	CJ	13+	3000	SOD-323
+BZT52C3V3T	from hqew, 现货 科力微电子	国产	13+	57000	SOD-523
+BZT52C3V6	from hqew, 现货 科力微电子	国产	13+	3000	SOD-123
+BZT52C3V9	from hqew, 现货 科力微电子	国产	13+	57000	SOD-123
+BZT52C43 WU	from hqew, 现货 科力微电子	CJ	13+	27000	SOD-123
+BZT52C43S WU	from hqew, 现货 科力微电子	CJ	13+	12000	SOD-323
+BZT52C4V3	from hqew, 现货 科力微电子	国产	13+	51000	SOD-123
+BZT52C4V3S W6	from hqew, 现货 科力微电子	CJ	13+	201000	SOD-323
+BZT52C5V1	from hqew, 现货 科力微电子	国产	13+	158000	SOD-123
+BZT52C5V1T	from hqew, 现货 科力微电子	国产	13+	234000	SOD-523
+BZT52C6V2S WA	from hqew, 现货 科力微电子	CJ	13+	744000	SOD-323
+BZT52C6V2T	from hqew, 现货 科力微电子	国产	13+	120000	SOD-523
+BZT52C7V5S WC	from hqew, 现货 科力微电子	CJ	13+	1983000	SOD-323
+BZT52C8V2S	from hqew, 现货 科力微电子	国产	13+	102000	SOD-323
+BZT52C8V2T	from hqew, 现货 科力微电子	国产	13+	120000	SOD-523
+BZV55 B33	from hqew, 现货 科力微电子	PH	08+	10000	LL34
+BZV55V B6V8	from hqew, 现货 科力微电子	PH	08+	2500	LL34
+BZX384 C24 DJ	from hqew, 现货 科力微电子	PH	08+	3000	SOD-323
+BZX84 11 Y1W	from hqew, 现货 科力微电子	PH	08+	129000	SOT-23
+BZX84 C11 Y1W	from hqew, 现货 科力微电子	PH	08+	171000	SOT-23
+BZX84 C22 Y8W	from hqew, 现货 科力微电子	PH	11+	42000	SOT-23
+BZX84 C30 WT5	from hqew, 现货 科力微电子	PH	11+	150000	SOT-23
+BZX84 C47 WB5	from hqew, 现货 科力微电子	PH	08+	48000	SOT-23
+BZX84 C5V1 Z2P	from hqew, 现货 科力微电子	PH	98+	7600	SOT-23
+BZX84 C5V1 Z2W	from hqew, 现货 科力微电子	PH	11+	63000	SOT-23
+BZX84C7V5 Z6	from hqew, 现货 科力微电子	TIP	07+	6000	SOT-23
+C02015RNPO9BN100(0201 10P)	from hqew, 现货 科力微电子	国巨	04+	6240000	0201
+C0805103J5RAC7210(0805 103J)	from hqew, 现货 科力微电子	基美	00+	8000	O8O5
+C0805C105K4RAC75537800(0805 105K)	from hqew, 现货 科力微电子	基美	03+	2500	O8O5
+C0805C225K8PAC(0805 225K)	from hqew, 现货 科力微电子	基美	06+	2500	O8O5
+C0805C332K1RAC70157800(0805 332K)	from hqew, 现货 科力微电子	基美	02+	184000	O8O5
+C1206C225M4RAC7800(1206 225M)	from hqew, 现货 科力微电子	基美	06+	8000	1206
+C1206C334K3RAC7800(1206 334K)	from hqew, 现货 科力微电子	基美	01+	4000	1206
+C1210C223M5RAC7800(1210 223M)	from hqew, 现货 科力微电子	基美	04+	4000	1210
+C1608CB 18NJ(0603 18NH)	from hqew, 现货 科力微电子	SAGAMI	03+	102000	0603
+C1608COG1H102FT000A(0603 102F)	from hqew, 现货 科力微电子	TDK	05+	4000	O6O3
+C1608X7R1C474KT000A(0603 474K)	from hqew, 现货 科力微电子	TDK	07+	8000	O6O3
+C1608Y5V0J475ZT(0603 475Z)	from hqew, 现货 科力微电子	TDK	10+	16000	O6O3
+C2012COG1H330JT000A(0805 33P)	from hqew, 现货 科力微电子	TDK	04+	4000	O8O5
+C2012X5R1C225MT(0805 225M)	from hqew, 现货 科力微电子	村田	05+	26000	0805
+C3216X7R1C335MT00N(1206 335M)	from hqew, 现货 科力微电子	TDK	03+	2000	1206
+C3216X7R1E105KT000N(1206 105K)	from hqew, 现货 科力微电子	TDK	11+	30000	1206
+C3225X7R1H105KT000A(3225 105K)	from hqew, 现货 科力微电子	TDK	06+	3000	3225
+CCR25.0MUC6AT(1210 25M)	from hqew, 现货 科力微电子	TDK	00+	72000	1210
+CELMK325F226ZN T(1210 226Z)	from hqew, 现货 科力微电子	太诱	03+	2000	1210
+CESD3V3D5 ZE	from hqew, 现货 科力微电子	CJ	11+	6000	SOD-523
+CI B1005 47NSJT(0402 47NH)	from hqew, 现货 科力微电子	CTC	02+	40000	O4O2
+CI2012B1R1K(0805 1.1UH)	from hqew, 现货 科力微电子	ZHF	03+	30000	O4O2
+CJ2301S S1U	from hqew, 现货 科力微电子	CJ	13+	93000	SOT-23
+CJ2302 S2	from hqew, 现货 科力微电子	CJ	13+	168000	SOT-23
+CJ2307 S7	from hqew, 现货 科力微电子	CJ	13+	222000	SOT-23
+CJ3400 R0	from hqew, 现货 科力微电子	CJ	13+	118000	SOT-23
+CJ432 432	from hqew, 现货 科力微电子	CJ	12+	36000	SOT-23
+CJ7805 7805	from hqew, 现货 科力微电子	长电中性	11+	800	TO-220
+CJ7808	from hqew, 现货 科力微电子	CJ	11+	27150	TO-220
+CJ78L05	from hqew, 现货 科力微电子	长电中性	13+	30000	SOT-89-3
+CJ78L12 78L12	from hqew, 现货 科力微电子	CJ	13+	93000	TO-92
+CJ79L09 79L09	from hqew, 现货 科力微电子	CJ	11+	6000	SOT-89
+CJ79L12 79L12	from hqew, 现货 科力微电子	CJ	11+	7000	SOT-89
+CL21B471KBNC(0805 471K)	from hqew, 现货 科力微电子	SAMSUNG	04+	4000	O8O5
+CM105X7R102J50AT(0603 102J)	from hqew, 现货 科力微电子	京瓷	99+	84000	0603
+CM21Y5V334Z250AT(0805 334Z)	from hqew, 现货 科力微电子	京瓷	00+	3000	O8O5
+CM32Y5V226Z10AT(1210 226Z)	from hqew, 现货 科力微电子	京瓷	03+	2000	1210
+CMI3216U1R0KT(1206 1UH)	from hqew, 现货 科力微电子	太诱	05+	3000	1206
+CR0402FF1300G(0402-130RF)	from hqew, 现货 科力微电子	丽智	13+	310000	0402
+CR0402FF1501G(0402-1.5KF)	from hqew, 现货 科力微电子	丽智	13+	800000	0402
+CR0402JF0472G(0402-4.7K)	from hqew, 现货 科力微电子	丽智	13+	11250000	0402
+CR0402JF0563G(0402-56K)	from hqew, 现货 科力微电子	丽智	13+	540000	0402
+CR0402JF0623G(0402-62K)	from hqew, 现货 科力微电子	丽智	13+	180000	0402
+CR0402JF0753G(0402-75K)	from hqew, 现货 科力微电子	丽智	13+	190000	0402
+CR0402JF0754G(0402-750K)	from hqew, 现货 科力微电子	丽智	13+	270000	0402
+CR0402JF0910G(0402-91R)	from hqew, 现货 科力微电子	丽智	13+	100000	0402
+CS02F F2	from hqew, 现货 科力微电子	CJ	10+	111000	SOD-123
+CSA1362GR 62	from hqew, 现货 科力微电子	KEC	99+	3000	SOT-23
+CSTCV40MOX5300T R0	from hqew, 现货 科力微电子	村田	00+	44000	1206
+CTCC1210ZRY5V8BB475(1210 475Z)	from hqew, 现货 科力微电子	国巨	05+	4000	1210
+CXT5401	from hqew, 现货 科力微电子	国产	12+	26000	SOT-89
+CXT5551	from hqew, 现货 科力微电子	CJ	11+	38000	SOT-89
+CXT5551 1G6	from hqew, 现货 科力微电子	CJ	13+	51000	SOT-89
+D882 D882	from hqew, 现货 科力微电子	国产	13+	370000	SOT-89
+DAN217U A7	from hqew, 现货 科力微电子	国产	12+	60000	SOT-323
+DAP202U P	from hqew, 现货 科力微电子	ROHM	96+	3000	SOT-323
+DTA144EK 16	from hqew, 现货 科力微电子	ROHM	91+	3000	SOT-23-3
+DTC114YUA 64	from hqew, 现货 科力微电子	ROHM	97+	3000	SOT-23-3
+DTC144TKA 06	from hqew, 现货 科力微电子	罗姆	99+	12000	SOT-23
+DTC144WU 98	from hqew, 现货 科力微电子	ROHM	96+	3000	SOT-323
+ECHUH182JX5(0805 182J)	from hqew, 现货 科力微电子	PANASONIC	01+	18000	0805
+ECST1CV476R(16V/47UF/D)	from hqew, 现货 科力微电子	PANASONIC	00+	1500	D
+ECST1DD336R(20V/33UF/D)	from hqew, 现货 科力微电子	PANASONIC	00+	23250	D
+ECST1ED106R(25V/10UF/D)	from hqew, 现货 科力微电子	PANASONIC	03+	1500	D
+ECWU1H473JB5	from hqew, 现货 科力微电子	PANASONIC	00+	78000	1210
+EEJL1ED336R(25V/33UF/D)	from hqew, 现货 科力微电子	PANASONIC	00+	2250	D
+ELJRE1N8DF2	from hqew, 现货 科力微电子	PANASONIC	99+	3000	0603
+EVM3ESX50B54(3*3 50K)	from hqew, 现货 科力微电子	PANASONIC	09+	16000	3 3
+F931A106MAAAST(10 10UH A )	from hqew, 现货 科力微电子	尼斯康	00+	2000	B
+FB1AM T1B P35	from hqew, 现货 科力微电子	NEC	96+	3000	SOT-23-3
+FDN338P NL	from hqew, 现货 科力微电子	FAIRCHILD	11+	27000	SOT-23
+FDN360 NL 360	from hqew, 现货 科力微电子	仙童	05+	2245	SOT-23
+FHW1008UC1R5JGT(1008 1.5UH)	from hqew, 现货 科力微电子	风华	00+	16000	1008
+FK2123Z700C850T	from hqew, 现货 科力微电子	太诱	01+	6000	O8O5
+FMMT493 493	from hqew, 现货 科力微电子	CJ	11+	72000	SOT-23
+FMMT591 591	from hqew, 现货 科力微电子	CJ	13+	159000	SOT-23
+FMMT593 593	from hqew, 现货 科力微电子	CJ	12+	42000	SOT-23
+FMW1 W1	from hqew, 现货 科力微电子	ROHM	95+	5000	SOT-353
+GRM32DR71C106KC01L(1206 106K)	from hqew, 现货 科力微电子	村田	01+	1000	1206
+GZ1608D8000TF(0603 80R)	from hqew, 现货 科力微电子	顺络	08+	4000	O6O3
+HA17431VLP EL 4PG	from hqew, 现货 科力微电子	日立	04+	3000	SOT-153
+HSM2692TL B1	from hqew, 现货 科力微电子	日立	98+	6000	SOT-23
+HVC202A9TRV O	from hqew, 现货 科力微电子	日立	03+	4000	SOD-723
+HXMP 3892 TR1 G2U	from hqew, 现货 科力微电子	惠普	99+	15000	SOT-23
+HY2C	from hqew, 现货 科力微电子	国产	13+	12000	SOT-23
+HZM2.5NBTR 24	from hqew, 现货 科力微电子	日立	00+	6000	SOT-23
+HZU2.2BTRF 2.2	from hqew, 现货 科力微电子	日立	99+	3000	SOD-323
+HZU30BTRF 30	from hqew, 现货 科力微电子	日立	97+	6000	SOD-323
+IR2402 1A0E	from hqew, 现货 科力微电子	仙童	05+	3000	SOT-23
+JWFI2012AR10KT(0805 100NH)	from hqew, 现货 科力微电子	台产	04+	4000	0805
+KDS226 RTK C3	from hqew, 现货 科力微电子	KEC	04+	3000	SOT-23
+KIA431RTE CJ431	from hqew, 现货 科力微电子	KIA	04+	1000	SOT-89-3
+KRC112S RTK NN	from hqew, 现货 科力微电子	KEC	00+	6000	SOT-23
+KTA1504 ASY	from hqew, 现货 科力微电子	CJ	08+	186000	SOT-23
+KTA1505 AZY	from hqew, 现货 科力微电子	国产	13+	207000	SOT-23
+KTC3265W EY	from hqew, 现货 科力微电子	国产	12+	27000	SOT-323
+KTC3875 ALG	from hqew, 现货 科力微电子	CJ	11+	357000	SOT-23
+KTC3875 ALY	from hqew, 现货 科力微电子	国产	12+	3000	SOT-23
+KTC3875 HALG	from hqew, 现货 科力微电子	国产	11+	12000	SOT-23
+KTC3876	from hqew, 现货 科力微电子	国产	13+	192000	SOT-23
+KTD1304 HMAX	from hqew, 现货 科力微电子	国产	12+	9000	SOT-23
+L1SS355T1G A	from hqew, 现货 科力微电子	LRC	10+	3000	SOD-323
+LBSS138LT1G J1	from hqew, 现货 科力微电子	LRC	12+	9000	SOT-23
+LBZX84C16 Y5	from hqew, 现货 科力微电子	国产	13+	63000	SOT-23
+LBZX84C18 Y6	from hqew, 现货 科力微电子	国产	13+	57000	SOT-23
+LBZX84C24 Y9	from hqew, 现货 科力微电子	国产	13+	30000	SOT-23
+LBZX84C27 Y10	from hqew, 现货 科力微电子	国产	13+	126000	SOT-23
+LBZX84C2V4 Z11	from hqew, 现货 科力微电子	国产	13+	63000	SOT-23
+LBZX84C3V0LT1G Z13	from hqew, 现货 科力微电子	LRC	11+	48000	SOT-23
+LBZX84C3V6 Z15	from hqew, 现货 科力微电子	国产	13+	63000	SOT-23
+LBZX84C8V2 Z7	from hqew, 现货 科力微电子	国产	13+	129000	SOT-23
+LF LK2125 82NM T(0805 82NH)	from hqew, 现货 科力微电子	太诱	01+	8000	0805
+LF42W5R102K2000(1808 102K)	from hqew, 现货 科力微电子	京瓷	07+	2000	1808
+LFBK1608HW471 T(0603 470R)	from hqew, 现货 科力微电子	太诱	01+	68000	0603
+LFBK2125HS330 TG(0805 33R)	from hqew, 现货 科力微电子	太诱	01+	80000	O8O5
+LFLK16082R7M T(0603 2.7UH)	from hqew, 现货 科力微电子	太诱	01+	52000	0603
+LFLK2125180M T(0805 18UH)	from hqew, 现货 科力微电子	太诱	01+	104000	0805
+LFLK2125270M T(0805 27UH)	from hqew, 现货 科力微电子	太诱	01+	4000	0805
+LFLK21252R2M T(0805 2.2UH)	from hqew, 现货 科力微电子	太诱	01+	8000	0805
+LFLK3216270K T(1206 27UH)	from hqew, 现货 科力微电子	太诱	00+	10000	1206
+LGHK1005 33NJ T(0402 33NH)	from hqew, 现货 科力微电子	太诱	00+	50000	0402
+LGHK100518NJ T(0402 18NH)	from hqew, 现货 科力微电子	太诱	02+	10000	0402
+LGHK100518NT(0402 18NH)	from hqew, 现货 科力微电子	太诱	00+	10000	0402
+LGHK160810NK T(0603 10NH)	from hqew, 现货 科力微电子	太诱	01+	16000	0603
+LGHK16088N2J T(0603 8.2NH)	from hqew, 现货 科力微电子	太诱	02+	24000	0603
+LK 2125 R225M T	from hqew, 现货 科力微电子	太诱	00+	20000	0805
+LK1608 R82M T(0603 820NH)	from hqew, 现货 科力微电子	太诱	99+	4000	0603
+LL1608 F1N5S(0603 1.5NH)	from hqew, 现货 科力微电子	TOKO	00+	72000	0603
+LL1608 F8N2J(0603 8.2NH)	from hqew, 现货 科力微电子	TOKO	00+	24000	0603
+LL1608 FH10NJ(0603 10NH)	from hqew, 现货 科力微电子	TOKO	05+	4000	0603
+LL1608 FH27NK(0402 27NH)	from hqew, 现货 科力微电子	TOKO	00+	910000	O4O2
+LL1608 FH2N2S(0603 2.2NH)	from hqew, 现货 科力微电子	TOKO	00+	180000	0603
+LL1608 FH4N7K(0603 4.7NH)	from hqew, 现货 科力微电子	TOKO	05+	8000	0603
+LL1608 FH4N7S(0603 4.7NH)	from hqew, 现货 科力微电子	TOKO	99+	80000	0603
+LL1608 FH4N7S(0603 4.7NH)	from hqew, 现货 科力微电子	TOKO	01+	4000	0603
+LL1608 FS4N7S(0603 4.7NH)	from hqew, 现货 科力微电子	TOKO	99+	112000	0603
+LL2012 F8N2J(0805 8.2NH)	from hqew, 现货 科力微电子	TOKO	00+	460000	0805
+LL20R F8N2J(0805 8.2NH)	from hqew, 现货 科力微电子	TOKO	97+	4000	0805
+LL4148 GS08	from hqew, 现货 科力微电子	VISHAY	04+	10000	LL34
+LM5Z22 10	from hqew, 现货 科力微电子	国产	13+	63000	SOD-523
+LM5Z3V0 2	from hqew, 现货 科力微电子	国产	13+	60000	SOD-523
+LMBD914T1G 5D	from hqew, 现货 科力微电子	LRC	09+	6000	SOD-323
+LMBT2907ALT1G 2F	from hqew, 现货 科力微电子	LRC	11+	84000	SOT-23
+LMSZ5234BT1G	from hqew, 现货 科力微电子	国产	13+	126000	SOD-123
+LMSZ5237BT1G	from hqew, 现货 科力微电子	国产	13+	126000	SOD-123
+LMSZ5239BT1G	from hqew, 现货 科力微电子	国产	13+	63000	SOD-123
+LMSZ5240BT1G	from hqew, 现货 科力微电子	国产	13+	120000	SOD-123
+LMSZ5252BT1G	from hqew, 现货 科力微电子	国产	13+	45000	SOD-123
+LMV431ACM5X N09A	from hqew, 现货 科力微电子	仙童	00+	3000	SOT-153
+LQP11A8N2C00T2M00 01(0603 8.2NH)	from hqew, 现货 科力微电子	村田	04+	2060990	0603
+LQP18MN5N6C00D(0603 5.6NH)	from hqew, 现货 科力微电子	村田	00+	4000	0603
+LQW1608A18NG00T1M00 01(0603 18NH)	from hqew, 现货 科力微电子	村田	00+	924000	0603
+LT120NA 120	from hqew, 现货 科力微电子	夏普	00+	39000	SOT-143
+MAZT082H08S0 8.2E	from hqew, 现货 科力微电子	PANASONIC	05+	7000	SOT-523
+MLF1608DR15KTA00(0603-150NH)	from hqew, 现货 科力微电子	TDK	01+	4000	0603
+MLF1608DR82KT000(0603-820NH)	from hqew, 现货 科力微电子	TDK	09+	4000	0603
+MLF1608E5R6KTA00(0603 5.6UH)	from hqew, 现货 科力微电子	TDK	00+	848000	0603
+MLG1608B2N2ST000(0603 2.2NH)	from hqew, 现货 科力微电子	TDK	01+	136000	0603
+MLG1608B2N7ST000(0603-2.7NH)	from hqew, 现货 科力微电子	TDK	012+	4000	0603
+MLG1608B5N6DT000(0603 5.6NH)	from hqew, 现货 科力微电子	TDK	05+	8000	0603
+MLG1608B8N2DT000(0603-8.2NH)	from hqew, 现货 科力微电子	TDK	99+	16000	O6O3
+MLK1005S18NJT000(0402 18NH)	from hqew, 现货 科力微电子	TDK	00+	45000	0402
+MLK1005S22NJT000A(0402 22NH)	from hqew, 现货 科力微电子	TDK	05+	10000	0402
+MMBD2837LT1 A5	from hqew, 现货 科力微电子	ZOWIE	00+	6000	SOT-23
+MMBD2838 MA6	from hqew, 现货 科力微电子	ZOWIE	01+	3000	SOT-23
+MMBD4148 KA2	from hqew, 现货 科力微电子	国产	13+	1413000	SOT-23
+MMBD4148A 5H	from hqew, 现货 科力微电子	国产	13+	714000	SOT-23
+MMBD4148CA D6	from hqew, 现货 科力微电子	国产	12+	372000	SOT-23
+MMBD4148CA D6	from hqew, 现货 科力微电子	CJ	11+	3000	SOT-23
+MMBD4148CC D5	from hqew, 现货 科力微电子	国产	13+	1446000	SOT-23
+MMBD6100	from hqew, 现货 科力微电子	国产	12+	726000	SOT-23
+MMBL6050T1 5A	from hqew, 现货 科力微电子	ZOWIE	06+	78000	SOT-23
+MMBT2907ALT1G	from hqew, 现货 科力微电子	ON SEMI	11+	747000	SOT-23
+MMBT3904 1AM	from hqew, 现货 科力微电子	国产	13+	963000	SOT-23
+MMBT3906 2A	from hqew, 现货 科力微电子	国产	13+	975000	SOT-323
+MMBT3906 T2A	from hqew, 现货 科力微电子	PH	13+	819000	SOT-23
+MMBT3906K 2AK	from hqew, 现货 科力微电子	仙童	03+	3000	SOT-23
+MMBT3906T 3N	from hqew, 现货 科力微电子	CJ	13+	372000	SOT-523
+MMBT4401LT1G 2X	from hqew, 现货 科力微电子	ON SEMI	13+	6000	SOT-23
+MMBT5401 2L	from hqew, 现货 科力微电子	国产	13+	1467000	SOT-23
+MMBT5551 G1	from hqew, 现货 科力微电子	CJ	13+	561000	SOT-23
+MMBT8050DLT1 CS	from hqew, 现货 科力微电子	ON SEMI	03+	3000	SOT-23
+MMBTA06 1GM	from hqew, 现货 科力微电子	CJ	13+	39000	SOT-23
+MMBTA42 1D	from hqew, 现货 科力微电子	CJ	13+	15000	SOT-23
+MMBTA56 2GM	from hqew, 现货 科力微电子	CJ	10+	12000	SOT-23
+MMBTA92 2D	from hqew, 现货 科力微电子	仙童	04+	6000	SOT-23
+MMBTH10 3EM	from hqew, 现货 科力微电子	国产	13+	150000	SOT-23
+MMBZ5243BLT1 8T	from hqew, 现货 科力微电子	ON SEMI	00+	3000	SOT-23
+MMBZ5245B 8V	from hqew, 现货 科力微电子	仙童	06+	3000	SOT-23
+MMDT2222A 7	from hqew, 现货 科力微电子	美台	05+	3000	SOT-363
+MMDT3906 K3N	from hqew, 现货 科力微电子	CJ	13+	90000	SOT-363
+MMST5551 G1	from hqew, 现货 科力微电子	国产	12+	846000	SOT-323
+MMZ2012S070AT000A(0805 70R)	from hqew, 现货 科力微电子	TDK	05+	12000	0805
+MMZ2012Y102BT000(0805 1000R)	from hqew, 现货 科力微电子	TDK	95+	4000	0805
+MA151K TX M.H	from hqew, 现货 科力微电子	PANASONIC	01+	3000	SOT-23
+MA152WK TX M.O	from hqew, 现货 科力微电子	PANASONIC	99+	10000	SOT-23-3
+MA2SV01001YU U	from hqew, 现货 科力微电子	PANASONIC	00+	6000	SOD-523
+MA8270 M TX 27	from hqew, 现货 科力微电子	PANASONIC	95+	3000	SOD-523
+NCE9435	from hqew, 现货 科力微电子	NCE	13+	1000	SOP-8
+NETBPS0R683H455H5Q(0402 68K)	from hqew, 现货 科力微电子	太诱	01+	50000	0402
+NETBPS1R104G439F5Q(0603-100K)	from hqew, 现货 科力微电子	太诱	01+	4000	0603
+NETBPS1R272J410H5QX(0603 2.7K)	from hqew, 现货 科力微电子	太诱	01+	140000	0603
+NETBPS1R471K410H5Q(0603 470R)	from hqew, 现货 科力微电子	太诱	01+	16000	0603
+NK2301A N012M	from hqew, 现货 科力微电子	国产	12+	60000	SOT-23-3
+NK2305 S5	from hqew, 现货 科力微电子	国产	12+	54000	SOT-23
+NL252018FR12J(2520 120NH)	from hqew, 现货 科力微电子	TDK	01+	2000	2520
+NL252018T R10JT000A(2520 100NH)	from hqew, 现货 科力微电子	TDK	01+	2000	2520
+NL25201R8J(2520 1.8UH)	from hqew, 现货 科力微电子	TDK	03+	6000	2520
+NL322522T 331J (1210 330UH)	from hqew, 现货 科力微电子	TDK	03+	2000	1210
+NL322522T271J(1210 270UH)	from hqew, 现货 科力微电子	TDK	01+	2000	1210
+NL453232 330J(4532 33UH)	from hqew, 现货 科力微电子	TDK	00+	500	4532
+NLC453232T 221K(1812 220UH)	from hqew, 现货 科力微电子	TDK	01+	1500	1812
+NLC453232T 221K(4532 220UF)	from hqew, 现货 科力微电子	TDK	01+	1500	4532
+NLV25T 220J PFKS(2520 22UH)	from hqew, 现货 科力微电子	TDK	07+	2000	2520
+NLV32T 4R7J PF(1210 4.7UH)	from hqew, 现货 科力微电子	TDK	09+	2000	1210
+NNCD4.3F T1B 43	from hqew, 现货 科力微电子	NEC	96+	3000	SOT-23-3
+NOSE337M006R0100(6.3V/330UF/E)	from hqew, 现货 科力微电子	AVX	03+	67000	E
+NTC 335M25T25RB(25V/3.3UF/B)	from hqew, 现货 科力微电子	NTC	01+	100000	B
+NTC T107K10TR0(10V/100UF/D)	from hqew, 现货 科力微电子	NTC	04+	3500	D
+NTH5G1M35A472J04TH(0603 4.7K)	from hqew, 现货 科力微电子	村田	00+	310000	0603
+NTM8050M T1B MF	from hqew, 现货 科力微电子	NEC	95+	9000	SOT-23
+PDTA143EE 01	from hqew, 现货 科力微电子	PH	04+	240000	SOT-523
+PESD5V0S1UB N2	from hqew, 现货 科力微电子	PH	09+	3000	SOD-523
+PFFK2125T107AL T	from hqew, 现货 科力微电子	太诱	01+	15000	0805
+PMBD4148	from hqew, 现货 科力微电子	PH	95+	5000	LL34
+PMBS3904 T04	from hqew, 现货 科力微电子	国产	&nbsp;	57000	SOT-23
+PMBS3904 T04	from hqew, 现货 科力微电子	国产	12+	1428000	SOT-23
+PMBS3906 W06	from hqew, 现货 科力微电子	国产	12+	108000	SOT-23
+PMBT3906 T2A	from hqew, 现货 科力微电子	PH	11+	111000	SOT-23
+PMBT3906 T2A	from hqew, 现货 科力微电子	国产	12+	129000	SOT-23
+PMBT3906 W2A	from hqew, 现货 科力微电子	PH	12+	276000	SOT-23
+PMBT3906 W2A	from hqew, 现货 科力微电子	国产	12+	135000	SOT-23
+PMBT4403 W2T	from hqew, 现货 科力微电子	PH	11+	3000	SOT-23
+PUMX1 ZTZ	from hqew, 现货 科力微电子	PH	04+	12000	SOT-363
+PXT5551 5551	from hqew, 现货 科力微电子	国产	13+	248000	SOT-89-3
+PXT8050 Y1	from hqew, 现货 科力微电子	CJ	13+	206000	SOT-89-3
+PXT8550 Y2	from hqew, 现货 科力微电子	CJ	12+	81000	SOT-89
+RB11C S2	from hqew, 现货 科力微电子	ROHM	97+	1000	SOT-89
+RB411D 05T	from hqew, 现货 科力微电子	ZOWIE	02+	135000	SOT-23
+RB421D KL1	from hqew, 现货 科力微电子	ROHM	05+	3000	SOT-23
+RB501H 40 JV	from hqew, 现货 科力微电子	ZOWIE	04+	3000	SOD-323
+RB501V 40 4	from hqew, 现货 科力微电子	国产	12+	207000	SOD-323
+RB520S 30 B	from hqew, 现货 科力微电子	CJ	13+	552000	SOD-523
+RB551V 30 D	from hqew, 现货 科力微电子	CJ	13+	99000	SOD-323
+RD2.7UM T1	from hqew, 现货 科力微电子	NEC	08+	18000	SOD-523
+RD36UJ T1	from hqew, 现货 科力微电子	NEC	08+	936000	SOD-523
+RD39UJ T1	from hqew, 现货 科力微电子	NEC	08+	15000	SOD-523
+RD4.7UM T1	from hqew, 现货 科力微电子	NEC	08+	36000	SOD-523
+RD5.1S T1	from hqew, 现货 科力微电子	NEC	08+	381000	SOD-323
+RD6.2UM T2	from hqew, 现货 科力微电子	NEC	08+	9000	SOD-523
+RD9.1S T1	from hqew, 现货 科力微电子	NEC	02+	27000	SOD-523
+RH03AYA13W02A(4*4 1K)	from hqew, 现货 科力微电子	ALPS	00+	750	4 4
+RH5VL40AA T1 D0ER	from hqew, 现货 科力微电子	理光	97+	3000	SOT-89
+RLS4148 A2	from hqew, 现货 科力微电子	国产ROHM	13+	357000	SOD-123
+RLSC3565TE110	from hqew, 现货 科力微电子	ROHM	94+	10000	LL34
+RLZTE 11 12C	from hqew, 现货 科力微电子	ROHM	02+	49400	LL34
+RLZTE 11 22B	from hqew, 现货 科力微电子	ROHM	02+	2500	LL34
+RLZTE 11 39C	from hqew, 现货 科力微电子	ROHM	02+	5000	LL34
+RLZTE 11 6.8B	from hqew, 现货 科力微电子	ROHM	96+	10000	LL34
+RN5VL40CA TR T0DR	from hqew, 现货 科力微电子	理光	00+	6000	SOT-153
+RS1M	from hqew, 现货 科力微电子	国产东芝	13+	18000	SMA
+RSZ5224B 18D	from hqew, 现货 科力微电子	ROHM	96+	6000	SOT-23
+S8050 HY3D	from hqew, 现货 科力微电子	国产	13+	312000	SOT-23
+S8550 2TY	from hqew, 现货 科力微电子	国产	13+	2043000	SOT-23
+S8550 HY4C	from hqew, 现货 科力微电子	国产	12+	417000	SOT-23
+S9013 HJ3H	from hqew, 现货 科力微电子	国产	13+	108000	SOT-23
+S9013 J3	from hqew, 现货 科力微电子	CJ	13+	198000	SOT-23
+S9014 HJ6C	from hqew, 现货 科力微电子	国产	13+	42000	SOT-23
+S9014 J6	from hqew, 现货 科力微电子	国产	13+	600000	SOT-23
+S9018M I HJ8I	from hqew, 现货 科力微电子	国产	13+	87000	SOT-23
+SD103AW B3	from hqew, 现货 科力微电子	CJ	12+	171000	SOD-123
+SD103AWS B3	from hqew, 现货 科力微电子	CJ	09+	207000	SOD-323
+SD103AWS B4	from hqew, 现货 科力微电子	CJ	07+	810000	SOD-323
+SD103AWS S8	from hqew, 现货 科力微电子	CJ	07+	174000	SOD-323
+SD103CW S6	from hqew, 现货 科力微电子	国产	12+	153000	SOD-123
+SD32 220KC A	from hqew, 现货 科力微电子	台产	05+	8500	SD32
+SI2302DS	from hqew, 现货 科力微电子	VISHAY	12+	219000	SOT-23
+SI31 220K PF(1206 22UH)	from hqew, 现货 科力微电子	晰磊	05+	8000	1206
+SI3443DV T1 432L	from hqew, 现货 科力微电子	SI	00+	3000	SOT-163
+SI3801DV T1 01	from hqew, 现货 科力微电子	VISHAY	01+	606000	SOT-163
+SI3803DV T1 03	from hqew, 现货 科力微电子	VISHAY	01+	54000	SOT-163
+SK34	from hqew, 现货 科力微电子	星海	11+	6000	DO-214
+SMBD7000 S5C	from hqew, 现货 科力微电子	西门子	00+	39000	SOT-23
+SMBJ15CA BM	from hqew, 现货 科力微电子	ZOWIE	04+	25000	DO-214B
+SMBJ170A PR	from hqew, 现货 科力微电子	ZOWIE	04+	5000	DO-214B
+SMBT2222AZ6327 S1P	from hqew, 现货 科力微电子	西门子	01+	3000	SOT-23
+SN7002 3S	from hqew, 现货 科力微电子	西门子	03+	6000	SOT-23
+SR32 M603	from hqew, 现货 科力微电子	ON SEMI	02+	2500	SMB
+SS14 SS14	from hqew, 现货 科力微电子	国产东芝	13+	2000	DO-214
+SS14 SS14	from hqew, 现货 科力微电子	星海	13+	10000	DO-214
+SS210	from hqew, 现货 科力微电子	国产东芝	13+	124000	SMA
+SS24	from hqew, 现货 科力微电子	星海	13+	15000	SMB
+SS24	from hqew, 现货 科力微电子	国产东芝	13+	780000	DO-214
+SS34	from hqew, 现货 科力微电子	星海	12+	22000	DO-214
+SS8050W Y1	from hqew, 现货 科力微电子	国产	13+	354000	SOT-323
+SS8550 8550	from hqew, 现货 科力微电子	国产	12+	45000	SOT-89
+SSM3K04FS DC	from hqew, 现货 科力微电子	国产东芝	01+	3000	SOT-523
+SSTP54 T1 P54NEA	from hqew, 现货 科力微电子	VISHAY	00+	6000	SOT-23
+SSTP54 T1 P54NHA	from hqew, 现货 科力微电子	VISHAY	00+	57000	SOT-23
+SWEL1608LR47KT(0603 470NH)	from hqew, 现货 科力微电子	国产	05+	20000	0603
+T491A474M035AT(35V/0.47UF/A)	from hqew, 现货 科力微电子	基美	07+	158000	A
+T491C685M025AS(25V/6.8UF/C)	from hqew, 现货 科力微电子	基美	04+	18000	C
+TAJD476K006RNJ(6.3V/47UF/D)	from hqew, 现货 科力微电子	AVX	00+	2000	D
+TAJR335M006RNJ	from hqew, 现货 科力微电子	AVX	04+	327000	A
+TAJR335M006RSG(6.3V/3.3UF/R)	from hqew, 现货 科力微电子	AVX	04+	47500	R
+TC7S04F E5	from hqew, 现货 科力微电子	国产东芝	03+	5790	SOT-353
+TC7S08FU E2	from hqew, 现货 科力微电子	国产东芝	01+	2300	SOT-353
+TC7S66FU E9	from hqew, 现货 科力微电子	TOSHIBA	02+	1900	SOT-353
+TC7SE700FU G1	from hqew, 现货 科力微电子	国产东芝	01+	2942	SOT-353
+TC7SHT04FU G5	from hqew, 现货 科力微电子	国产东芝	02+	3000	SOT-353
+TC7SL08F L2	from hqew, 现货 科力微电子	国产东芝	98+	11800	SOT-153
+TC7W74FU	from hqew, 现货 科力微电子	国产东芝	98+	4998	SOP-8
+TC7WH08FU	from hqew, 现货 科力微电子	国产东芝	02+	3000	SOP-8
+TCSS4148TR	from hqew, 现货 科力微电子	TAK	03+	24000	SOD-323
+TESVSJ0J475M/R(6.3V/4.7UF/J)	from hqew, 现货 科力微电子	NEC	03+	40000	J
+TL431 431	from hqew, 现货 科力微电子	国产	13+	1521000	SOT-23
+TLZ15A GS08	from hqew, 现货 科力微电子	VISHAY	04+	1975	LL34
+TLZ18A GS08	from hqew, 现货 科力微电子	VISHAY	02+	2500	LL34
+TLZ18C GS08	from hqew, 现货 科力微电子	VISHAY	03+	2500	LL34
+TSU03T G4	from hqew, 现货 科力微电子	国产东芝	12+	2960	SOT-353
+TZMC4V7 GS08	from hqew, 现货 科力微电子	VISHAY	03+	2500	LL34
+UDZTE 17 16B 55	from hqew, 现货 科力微电子	ROHM	01+	3000	SOD-323
+UDZTE 17 24B 95	from hqew, 现货 科力微电子	ROHM	00+	3000	SOD-323
+UMG2N G2	from hqew, 现货 科力微电子	ROHM	02+	3000	SOT-353
+UN5213TX 8C	from hqew, 现货 科力微电子	PANASONIC	00+	3000	SOT-323
+UPA1911TE T1 TC	from hqew, 现货 科力微电子	NEC	01+	60000	SOT-163
+VJ1206A101JXGAT(1206 100P)	from hqew, 现货 科力微电子	VISHAY	03+	3000	1206
+VJ1206A102KXBLML(1206 102K)	from hqew, 现货 科力微电子	VISHAY	01+	10000	1206
+VJ1206A152JXBTML(1206 152J)	from hqew, 现货 科力微电子	VISHAY	02+	3000	1206
+VJ1206A472JXBTM(1206 472J)	from hqew, 现货 科力微电子	VISHAY	04+	3000	1206
+VJ1206U124MXATM(1206 124M)	from hqew, 现货 科力微电子	VISHAY	00+	6000	1206
+VJ1206Y102MXETMM(1206 102M)	from hqew, 现货 科力微电子	VISHAY	00+	15000	1206
+VJ1206Y102MXTMM(1206 102M)	from hqew, 现货 科力微电子	VISHAY	00+	27000	1206
+VJ1206Y104MXALM(1206 104M)	from hqew, 现货 科力微电子	VISHAY	01+	10000	1206
+VJ1206Y105ZXAMT(1206 105Z)	from hqew, 现货 科力微电子	VISHAY	03+	3000	1206
+VJ1206Y153JXATM(1206 153J)	from hqew, 现货 科力微电子	VISHAY	00+	6000	1206
+VJ1206Y154MXXAT(1206 154M)	from hqew, 现货 科力微电子	VISHAY	01+	6000	1206
+VJ1206Y333KXALM(1206 333K)	from hqew, 现货 科力微电子	VISHAY	01+	40000	1206
+VJ1206Y334KXJTMM(1206 334K)	from hqew, 现货 科力微电子	VISHAY	01+	6000	1206
+VJ1210A682KXAAT00(2010-682K)	from hqew, 现货 科力微电子	VISHAY	00+	30000	1210
+VJ1210A822GXATM(1210 822G)	from hqew, 现货 科力微电子	VISHAY	00+	75000	1210
+VJ1210Y224MXATMM(1210 224M)	from hqew, 现货 科力微电子	VISHAY	00+	6000	1210
+VJ1210Y474KXXTM(1210 474K)	from hqew, 现货 科力微电子	VISHAY	00+	3000	1210
+VJ12C0Y104KXLTM(1210 104K)	from hqew, 现货 科力微电子	VISHAY	04+	6000	1210
+VJ1812A102JXET(1812 102J)	from hqew, 现货 科力微电子	VISHAY	01+	45000	1812
+VJ1812Y104KXLTM(1812 104K)	from hqew, 现货 科力微电子	VISHAY	01+	67000	1812
+VJ1812Y104MXCATM(1812 104M)	from hqew, 现货 科力微电子	VISHAY	01+	7000	1812
+VJ1812Y104MXCTM(1812 104M)	from hqew, 现货 科力微电子	VISHAY	01+	19000	1812
+VJ1812Y154KXBMR3P(1812 154K)	from hqew, 现货 科力微电子	VISHAY	01+	5000	1812
+VJ1812Y222KXGT(1812 222K)	from hqew, 现货 科力微电子	VISHAY	01+	2000	1812
+VJ1812Y222KXGTM(1812 222K)	from hqew, 现货 科力微电子	VISHAY	01+	1000	1812
+VJ1812Y273JXETMM(1812 273J)	from hqew, 现货 科力微电子	VISHAY	01+	2000	1812
+VJ2321Y154KFTT009ZM(2321 154K)	from hqew, 现货 科力微电子	VISHAY	01+	50000	2321
+VJ7117A332GXEAT(1812 332G)	from hqew, 现货 科力微电子	VISHAY	01+	65000	1825
+VJ7117Y684MXBAT(1812 684M)	from hqew, 现货 科力微电子	VISHAY	00+	19000	1812
+ZMM24V	from hqew, 现货 科力微电子	HL	12+	15000	LL34
+ZMM51V	from hqew, 现货 科力微电子	HL	12+	10000	LL34
+ZMM5V6	from hqew, 现货 科力微电子	HL	13+	90000	LL-34
+ZMM6V2	from hqew, 现货 科力微电子	HL	13+	95000	LL-34
+0805CS 181XGBC(0805 180NH)	from hqew, 现货 科力微电子	线艺	00+	270000	0805
+1210Y224MXBAT54(1210 224M)	from hqew, 现货 科力微电子	VISHAY	01+	12000	1210
+1808Y224KXAAT00(1812 224K)	from hqew, 现货 科力微电子	VISHAY	00+	24000	1808
+18122C104K4T2A(1812 104K)	from hqew, 现货 科力微电子	AVX	03+	2000	1812
+1825Y823KXEAT0(1825 823K)	from hqew, 现货 科力微电子	VISHAY	00+	3000	1825
+1N5819 S7	from hqew, 现货 科力微电子	TOSHIBA	02+	6000	SOD-123
+1SS187 D3	from hqew, 现货 科力微电子	CJ	11+	3000	SOT-23
+1SS312 BF	from hqew, 现货 科力微电子	TOSHIBA	02+	9000	SOT-323
+1SV304 TV	from hqew, 现货 科力微电子	TOSHIBA	01+	33000	SOT-323
+293D336K016B(16V/33UF/D)	from hqew, 现货 科力微电子	VISHAY	01+	1000	D
+293D336X9020D2T(20V/33UF/D)	from hqew, 现货 科力微电子	VISHAY	98+	4000	D
+2N7002 7ETDF	from hqew, 现货 科力微电子	PH	03+	3000	SOT-23
+2N7002E T1 7ETV1	from hqew, 现货 科力微电子	PH	04+	3000	SOT-23
+2PA1576R FTR	from hqew, 现货 科力微电子	PH	05+	192000	SOT-323
+2SA1162 3LP	from hqew, 现货 科力微电子	TOSHIBA	10+	3000	SOT-23
+2SA1571 TB SL	from hqew, 现货 科力微电子	SANYO	99+	3000	SOT-23
+2SA1586GR SG	from hqew, 现货 科力微电子	TOSHIBA	02+	17700	SOT-323
+2SA1611 T1 M5	from hqew, 现货 科力微电子	NEC	01+	3000	SOT-323
+2SA812 M5	from hqew, 现货 科力微电子	NEC	01+	15000	SOT-23-3
+2SA812 T1B M5	from hqew, 现货 科力微电子	NEC	01+	72000	SOT-23-3
+2SB1386	from hqew, 现货 科力微电子	国产	13+	40000	SOT-89
+2SC1621 T2B B3	from hqew, 现货 科力微电子	NEC	99+	183000	SOT-23
+2SC1623 L6	from hqew, 现货 科力微电子	CJ	13+	618000	SOT-23
+2SC2412 BR	from hqew, 现货 科力微电子	国产	13+	1236000	SOT-23
+2SC2757 T33	from hqew, 现货 科力微电子	国产	12+	12000	SOT-23
+2SC3646 CBT3E	from hqew, 现货 科力微电子	SANYO	03+	1000	SOT-89
+2SC4117 DG	from hqew, 现货 科力微电子	CJ	13+	129000	SOT-323
+2SC4175 T2 B4	from hqew, 现货 科力微电子	NEC	00+	363000	SOT-323
+2SC4227 34	from hqew, 现货 科力微电子	NEC	&nbsp;	1300	SOT-523
+2SC4672 DKRN	from hqew, 现货 科力微电子	国产	13+	79000	SOT-89
+2SC5010 T1 83	from hqew, 现货 科力微电子	NEC	01+	2700	SOT-523
+3.6Z DZD36Z TA 3.6Z	from hqew, 现货 科力微电子	TOSHIBA	99+	3000	SOT-23-3
+3SK294 UV	from hqew, 现货 科力微电子	TOSHIBA	02+	3000	SOT-343
+6.3V/10UF/A	from hqew, 现货 科力微电子	AVX	00+	2000	A
+6.3V/33UF/A	from hqew, 现货 科力微电子	NEC	00+	6000	A
+9289Y104JXXMT69(0805 104J)	from hqew, 现货 科力微电子	VISHAY	00+	3000	O8O5
+933 050/152JTR0805A(0805 152J)	from hqew, 现货 科力微电子	PANASONIC	01+	30000	0805
+A92	from hqew, 现货 科力微电子	CJ	11+	24000	SOT-89
+AZ23C4V3 7 KD6	from hqew, 现货 科力微电子	美台	02+	6000	SOT-23
+B45196H1337K509V11(6.3V 330UF E)	from hqew, 现货 科力微电子	西门子	02+	13200	E
+B45196H1337K509V11(6.3V/330UF/E)	from hqew, 现货 科力微电子	西门子	02+	13200	E
+BAT54C WW1	from hqew, 现货 科力微电子	PH	04+	12000	SOT-23
+BAT54HRT1 JV	from hqew, 现货 科力微电子	NEC	03+	3000	SOT-323
+BAT54RA B6	from hqew, 现货 科力微电子	ZOWIE	01+	315000	SOT-23
+BAT54X JV	from hqew, 现货 科力微电子	国产	12+	24000	SOD-523
+BC847BLT1G 1F	from hqew, 现货 科力微电子	ON SEMI	08+	6000	SOT-23
+BC847BW 1FS	from hqew, 现货 科力微电子	西门子	00+	3000	SOT-323
+BC847C H1G	from hqew, 现货 科力微电子	国产	13+	3000	SOT-23
+BC857 3F	from hqew, 现货 科力微电子	CJ	09+	12000	SOT-23
+BC857C 3GW	from hqew, 现货 科力微电子	国产	12+	648000	SOT-23
+BCX54 BA	from hqew, 现货 科力微电子	CJ	13+	37000	SOT-89-3
+BSR16 T8.J	from hqew, 现货 科力微电子	国半	02+	3000	SOT-23
+BZT52C16S	from hqew, 现货 科力微电子	国产	13+	39000	SOD-323
+BZT52C22 WN	from hqew, 现货 科力微电子	CJ	13+	3000	SOD-123
+BZT52C24S	from hqew, 现货 科力微电子	国产	13+	27000	SOD-323
+BZT52C3V0T	from hqew, 现货 科力微电子	国产	13+	60000	SOD-523
+BZT52C3V6 W4	from hqew, 现货 科力微电子	CJ	13+	393000	SOD-123
+BZT52C3V9S W5	from hqew, 现货 科力微电子	CJ	13+	117000	SOD-323
+BZT52C5V6	from hqew, 现货 科力微电子	国产	13+	123000	SOD-123
+BZX585 B20 EC	from hqew, 现货 科力微电子	PH	09+	6000	SOD-523
+BZX84 C6V8 Z5W	from hqew, 现货 科力微电子	PH	11+	3000	SOT-23
+C0603ZRY5V9BB684(0603 684Z)	from hqew, 现货 科力微电子	国巨	08+	4000	O6O3
+C1005X5R1A683KT000E(0402 683K)	from hqew, 现货 科力微电子	TDK	01+	100000	0402
+C1815 HF	from hqew, 现货 科力微电子	国产	13+	150000	SOT-23
+CJ2306 S6	from hqew, 现货 科力微电子	CJ	13+	207000	SOT-23
+CJ7806	from hqew, 现货 科力微电子	CJ	10+	15	TO-220
+CJ78L06 78L06	from hqew, 现货 科力微电子	CJ	13+	11000	TO-92
+CJA1117B 3.3	from hqew, 现货 科力微电子	CJ	13+	30000	SOT-89-3
+CR0402FF1202G(0402-12KF)	from hqew, 现货 科力微电子	丽智	13+	1270000	0402
+CR0402JF0473G(0402-47K)	from hqew, 现货 科力微电子	丽智	13+	3880000	0402
+CR0402JF0510G(0402-51R)	from hqew, 现货 科力微电子	丽智	13+	1640000	0402
+CR0402JF0622G(0402-6.2K)	from hqew, 现货 科力微电子	丽智	13+	100000	0402
+CR0402JF0683G(0402-68K)	from hqew, 现货 科力微电子	丽智	13+	260000	0402
+CR0402JF0824G(0402-820K)	from hqew, 现货 科力微电子	丽智	13+	460000	0402
+DA204U MC	from hqew, 现货 科力微电子	ROHM	00+	3000	SOT-323
+FA1A4M T1B L33	from hqew, 现货 科力微电子	NEC	01+	6000	SOT-23-3
+FDN335N NL	from hqew, 现货 科力微电子	FAIRCHILD	13+	75000	SOT-23
+HN1A01F DIY	from hqew, 现货 科力微电子	国产东芝	00+	2900	SOT-362
+HN1C01FU Y C1Y	from hqew, 现货 科力微电子	国产东芝	98+	2850	SOT-363
+HZK3BTR	from hqew, 现货 科力微电子	日立	98+	5000	LL34
+KDS193 F3	from hqew, 现货 科力微电子	KEC	98+	3000	SOT-23
+KTA123EKA 12	from hqew, 现货 科力微电子	ROHM	99+	3000	SOT-23
+KTA1504.Y HASY	from hqew, 现货 科力微电子	国产	11+	24000	SOT-23
+KTC9014S C RTK/P BDC	from hqew, 现货 科力微电子	KEC	11+	93000	SOT-23
+KTD1304 MAX	from hqew, 现货 科力微电子	国产	13+	120000	SOT-23
+L2N7002LT1G-702	from hqew, 现货 科力微电子	LRC	&nbsp;	18000	SOT-23
+LBZX84C10LT1G Z9	from hqew, 现货 科力微电子	LRC	11+	30000	SOT-23
+LBZX84C3V3 Z14	from hqew, 现货 科力微电子	国产	13+	96000	SOT-23
+LBZX84C3V9 Z16	from hqew, 现货 科力微电子	国产	13+	63000	SOT-23
+LBZX84C5V6 Z3	from hqew, 现货 科力微电子	国产	13+	123000	SOT-23
+LBZX84C6V8 Z5	from hqew, 现货 科力微电子	国产	13+	219000	SOT-23
+LG HK1005 18NJ T(0402 18NH)	from hqew, 现货 科力微电子	太诱	01+	10000	0402
+LL1005 FH4N7S(0402 4.7NH)	from hqew, 现货 科力微电子	TOKO	00+	210000	0402
+LM3Z12VT1G 0N	from hqew, 现货 科力微电子	LRC	08+	6000	SOD-323
+LM4040DIM3X 4.1 R4D	from hqew, 现货 科力微电子	仙童	99+	2700	SOT-23
+LM5Z16 0U	from hqew, 现货 科力微电子	国产	13+	57000	SOD-523
+LM5Z8V2 0H	from hqew, 现货 科力微电子	国产	13+	120000	SOD-523
+LM5Z9V1 0K	from hqew, 现货 科力微电子	国产	13+	60000	SOD-523
+LMBT5401LT1G 2L	from hqew, 现货 科力微电子	LRC	11+	36000	SOT-23
+LMSZ5250BT1G	from hqew, 现货 科力微电子	国产	13+	63000	SOD-123
+LMSZ5254BT1G	from hqew, 现货 科力微电子	国产	13+	63000	SOD-123
+LQH4N220J104M00 01(1812 22UH)	from hqew, 现货 科力微电子	村田	01+	1000	1812
+LRB521S 30T1G C	from hqew, 现货 科力微电子	LRC	11+	171000	SOD-523
+MCR100-6	from hqew, 现货 科力微电子	CJ	13+	13000	TO-92
+MLF1608DR15KTA00(0603 150NH)	from hqew, 现货 科力微电子	TDK	01+	8000	0603
+MLK1005S33NJT000A(0402 33NH)	from hqew, 现货 科力微电子	TDK	03+	10000	0402
+MM3Z6V8 X1	from hqew, 现货 科力微电子	ST	03+	3000	SOD-323
+MMBD4148SE D4	from hqew, 现货 科力微电子	国产	13+	516000	SOT-23
+MMBT3904T 1N	from hqew, 现货 科力微电子	国产	13+	1563000	SOT-523
+MMBTA92 2D	from hqew, 现货 科力微电子	国产	13+	648000	SOT-23
+MMBZ5226BLT1 BA	from hqew, 现货 科力微电子	ON SEMI	00+	3000	SOT-23
+MMBZ5230B 8E	from hqew, 现货 科力微电子	仙童	04+	3000	SOT-23
+MMDT3946 K46	from hqew, 现货 科力微电子	CJ	13+	144000	SOT-363
+MMDT4401 K2X	from hqew, 现货 科力微电子	CJ	13+	33000	SOT-363
+M4	from hqew, 现货 科力微电子	国产	07+	15000	SMA
+MAX6030BEUR T FZDX	from hqew, 现货 科力微电子	美倍	00+	2450	SOT-23
+NC7S708M5X	from hqew, 现货 科力微电子	仙童	04+	6000	SOT-153
+NETBS1R560J295H5Q(0603 56R)	from hqew, 现货 科力微电子	太诱	01+	60000	O6O3
+NK2302A A2DE	from hqew, 现货 科力微电子	国产	12+	27000	SOT-23-3
+NL322522T 1R5J(1210 1.5UH)	from hqew, 现货 科力微电子	TDK	04+	2000	1210
+NL322522T R12J(1210 120NH)	from hqew, 现货 科力微电子	TDK	99+	8000	1210
+NLC453232T 3R3K(4532 3.3UH)	from hqew, 现货 科力微电子	TDK	97+	1500	4532
+NNCD10D T1 10	from hqew, 现货 科力微电子	NEC	00+	2000	SOD-323
+NOJC107M006RWJ(6V3/100UF/C)	from hqew, 现货 科力微电子	AVX	02+	628000	C
+NTC T107K6.3TRC(6.3V/100UF/C)	from hqew, 现货 科力微电子	NTC	00+	2000	C
+PFEK2125T406AL T	from hqew, 现货 科力微电子	太诱	01+	9000	0805
+PFFK2125T406AL T	from hqew, 现货 科力微电子	太诱	01+	45000	O8O8
+PMBT2907A W2F	from hqew, 现货 科力微电子	国产	13+	189000	SOT-23
+PZTA42T1 R22P1D	from hqew, 现货 科力微电子	ON SEMI	02+	1000	SOT-223
+RBT8550 S4J	from hqew, 现货 科力微电子	ROHM	02+	2000	SOT-89
+RH5VL40AA T1 D0EE	from hqew, 现货 科力微电子	理光	96+	1000	SOT-89
+RN1911 XM	from hqew, 现货 科力微电子	TOSHIBA	98+	60000	SOT-363
+S8050 J3Y	from hqew, 现货 科力微电子	国产	13+	5670000	SOT-23
+SD103AW SD	from hqew, 现货 科力微电子	CJ	10+	42000	SOD-123
+SD107WS	from hqew, 现货 科力微电子	CJ	13+	87000	SOD-323
+SI3801DV T1 013AA	from hqew, 现货 科力微电子	VISHAY	01+	6000	SOT-163
+SN7002 OS	from hqew, 现货 科力微电子	西门子	98+	153000	SOT-23
+SS310	from hqew, 现货 科力微电子	国产东芝	13+	2000	DO-214
+SS34	from hqew, 现货 科力微电子	星海	12+	108000	SMB
+SS8050 8050	from hqew, 现货 科力微电子	国产	12+	106000	SOT-89
+STA1037A CAO	from hqew, 现货 科力微电子	AUK	00+	3000	SOT-23
+TC7W04F	from hqew, 现货 科力微电子	国产东芝	99+	200	SOP-8
+TESVSP1A105M8R(10V/1UF/P)	from hqew, 现货 科力微电子	NEC	01+	3000	P
+TLZ7V5B GS08	from hqew, 现货 科力微电子	VISHAY	04+	2500	LL34
+UDZTE 17 27B	from hqew, 现货 科力微电子	ROHM	98+	3000	SOD-323
+UMD12 D12	from hqew, 现货 科力微电子	ROHM	02+	33000	SOT-363
+UPA572T T1 R24	from hqew, 现货 科力微电子	NEC	95+	2850	SOT-353
+VJ1206A272GXBTM(1206 272G)	from hqew, 现货 科力微电子	VISHAY	00+	3000	1206
+VJ1210Y104MFAT(1210 104M)	from hqew, 现货 科力微电子	VISHAY	01+	6000	1210
+VJ1812A182JXETM(1812 182J)	from hqew, 现货 科力微电子	VISHAY	01+	1000	1812
+VJ1812A332JXRT(1812 332J)	from hqew, 现货 科力微电子	VISHAY	99+	25000	1812
+VJ1812Y224MXCMT54(1812 224M)	from hqew, 现货 科力微电子	VISHAY	01+	13000	1812
+VJ9183Y224KXAAT(1210 224K)	from hqew, 现货 科力微电子	VISHAY	01+	10000	1210
+XP161A0390PR 103Y	from hqew, 现货 科力微电子	TOREX	02+	1500	SOT-89
+ZMM16V	from hqew, 现货 科力微电子	HL	13+	110000	LL-34
+ZMM20V	from hqew, 现货 科力微电子	HL	13+	50000	LL-34
+ZMM3V3	from hqew, 现货 科力微电子	HL	13+	32500	LL-34

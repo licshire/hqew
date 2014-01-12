@@ -1,0 +1,118 @@
+16N50/KIA16N50H	from hqew, 航天龙电子科技	KIA代理	2013+	829200	TO-220FT
+KIA12N65	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA3N80H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA4N60H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-252TO
+KIA4N65H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-252TO
+KIA830/KIA830H	from hqew, 航天龙电子科技	KIA代理	2013+	826920	TO-220TO
+KIA8N60P	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+10N60H	from hqew, 航天龙电子科技	KIA代理	2013+	635000	TO-220F
+10N65H	from hqew, 航天龙电子科技	KIA代理	2013+	626300	TO-220F
+20N50H	from hqew, 航天龙电子科技	KIA代理	2013+	882900	TO-247TO
+2N60/KIA2N60H	from hqew, 航天龙电子科技	KIA大量	2013+	780000	TO-220TO
+4N65 /KIA4N65H	from hqew, 航天龙电子科技	KIA大量	2013+	720000	TO-220FT
+65N06/KIA65N06	from hqew, 航天龙电子科技	KIA代理	2013+	65400	TO-220
+78L05/KIA78L05	from hqew, 航天龙电子科技	KIA代理	2013+	820000	SOT-89
+78L06 /KIA78L06	from hqew, 航天龙电子科技	KIA代理	2013+	820000	SOT-89
+7N60 /KIA7N60H	from hqew, 航天龙电子科技	KIA代理	2013+	954000	TO-220FT
+7N80/KIA7N80H	from hqew, 航天龙电子科技	KIA代理	2013+	659700	TO-220F
+8N60P	from hqew, 航天龙电子科技	KIA代理	2013+	655000	TO-220F
+IRF730	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220
+IRF830	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220TO
+KIA10N65	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA10N65H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA12N65H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA16N50H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-247TO
+KIA1N60H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-92TO-
+KIA1N60H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-251TO
+KIA20N50H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220FT
+KIA2N60	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-251TO
+KIA2N60H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220FT
+KIA2N60H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-252TO
+KIA3N80	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA4N60H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220FT
+KIA5N60E	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220FT
+KIA5N60E	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220TO
+KIA740H	from hqew, 航天龙电子科技	KIA代理	2013+	65400	TO-220
+KIA7N60H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220FT
+KIA7N60H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220TO
+KIA8N80H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+10N65 /KIA10N65H	from hqew, 航天龙电子科技	KIA代理	2013+	995700	TO-220F
+12N60 /KIA12N60H	from hqew, 航天龙电子科技	KIA代理	2013+	829400	TO-220F
+12N60H	from hqew, 航天龙电子科技	KIA代理	2013+	651900	TO-220F
+12N65 /KIA12N65H	from hqew, 航天龙电子科技	KIA代理	2013+	912960	TO-220F
+12N65H	from hqew, 航天龙电子科技	KIA代理	2013+	625400	TO-220F
+13N50/KIA13N50H	from hqew, 航天龙电子科技	KIA代理	2013+	829700	TO-220F
+16N50H	from hqew, 航天龙电子科技	KIA代理	2013+	622100	TO-247TO
+1N60/KIA1N60H	from hqew, 航天龙电子科技	KIA大量	2013+	654000	TO-92TO-
+2N60/KIA2N60H	from hqew, 航天龙电子科技	KIA大量	2013+	729000	TO-251TO
+50N03/KIA50N03	from hqew, 航天龙电子科技	KIA代理	2013+	613200	TO-252TO
+50N06/KIA50N06	from hqew, 航天龙电子科技	KIA代理	2013+	82760	TO-220TO
+5N60E	from hqew, 航天龙电子科技	KIA代理	2013+	65400	TO-220TO
+75NF75/KIA75NF75	from hqew, 航天龙电子科技	KIA代理	2013+	178920	TO-220
+78L09 /KIA78L09	from hqew, 航天龙电子科技	KIA代理	2013+	892600	SOT-89
+7N60H	from hqew, 航天龙电子科技	KIA代理	2013+	654000	TO-220TO
+7N65H	from hqew, 航天龙电子科技	KIA代理	2013+	654000	TO-220F
+8N60 /KIA8N60PF	from hqew, 航天龙电子科技	KIA代理	2013+	728000	TO-220F
+8N80/KIA8N80H	from hqew, 航天龙电子科技	KIA代理	2013+	892230	TO-220F
+9N90/KIA9N90H	from hqew, 航天龙电子科技	KIA代理	2013+	655500	TO-220FT
+9N90H	from hqew, 航天龙电子科技	KIA代理	2013+	91822	TO-247TO
+IRF740	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220
+IRF840	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220TO
+KIA08TB70D	from hqew, 航天龙电子科技	KIA代理	2013+	165200	TO-220TO
+KIA10N60	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA12N60H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA13N50	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA13N50H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA16N50	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220FT
+KIA16N50H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220FT
+KIA18N50H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA4N60	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220FT
+KIA7N80	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA7N80H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA840/KIA840H	from hqew, 航天龙电子科技	KIA代理	2013+	65400	TO-263TO
+KIA9N90	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220FT
+KIA9N90H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-247TO
+10N60 /KIA10N60H	from hqew, 航天龙电子科技	KIA代理	2013+	928000	TO-220F
+18N50/KIA18N50H	from hqew, 航天龙电子科技	KIA代理	2013+	782370	TO-220F
+1N60H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-251TO
+20N50/KIA20N50H	from hqew, 航天龙电子科技	KIA代理	2013+	92860	TO-220FT
+3N80 /KIA3N80H	from hqew, 航天龙电子科技	KIA代理	2013+	789200	TO-220F
+3N80H	from hqew, 航天龙电子科技	KIA代理	2013+	651400	TO-220F
+4N60	from hqew, 航天龙电子科技	KIA代理	2013+	182780	TO-252TO
+78L12 /KIA78L12	from hqew, 航天龙电子科技	KIA代理	2013+	928620	SOT-89
+78L15 /KIA78L15	from hqew, 航天龙电子科技	KIA代理	2013+	927520	SOT-89
+7N80H	from hqew, 航天龙电子科技	KIA代理	2013+	625100	TO-220F
+KIA10N60H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA18N50	from hqew, 航天龙电子科技	KIA	2013+	73800	TO-220F
+KIA20N50	from hqew, 航天龙电子科技	KIA	2013+	77400	TO-220FT
+KIA2N60H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220TO
+KIA4N65H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220FT
+KIA7N65H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA8N80	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+13N50H	from hqew, 航天龙电子科技	KIA代理	2013+	652200	TO-220F
+18N50H	from hqew, 航天龙电子科技	KIA代理	2013+	65400	TO-220F
+2N60H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220TO
+2N60H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-252TO
+4N60/KIA4N60H	from hqew, 航天龙电子科技	KIA大量	2013+	792000	TO-220FT
+4N65H	from hqew, 航天龙电子科技	KIA大量	2013+	654000	TO-252TO
+5N60 /KIA5N60E	from hqew, 航天龙电子科技	KIA代理	2013+	894000	TO-220FT
+78L08 /KIA78L08	from hqew, 航天龙电子科技	KIA代理	2013+	892700	SOT-89
+7N65 /KIA7N65H	from hqew, 航天龙电子科技	KIA代理	2013+	854000	TO-220F
+8N80H	from hqew, 航天龙电子科技	KIA代理	2013+	525880	TO-220F
+KIA10TB60	from hqew, 航天龙电子科技	KIA代理	2013+	175290	TO-220AC
+KIA12N60	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA15TB60	from hqew, 航天龙电子科技	KIA代理	2013+	179200	TO-220AC
+KIA20N50H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-247TO
+KIA2N60	from hqew, 航天龙电子科技	KIA	2013+	125400	TO-220FT
+KIA2N60H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-251TO
+KIA730/KIA730H	from hqew, 航天龙电子科技	KIA代理	2013+	138800	TO-220
+KIA730H	from hqew, 航天龙电子科技	KIA代理	2013+	65950	TO-220
+KIA740/KIA740H	from hqew, 航天龙电子科技	KIA代理	2013+	65400	TO-220
+KIA830H	from hqew, 航天龙电子科技	KIA代理	2013+	165400	TO-252TO
+KIA8N60	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220F
+KIA9N90H	from hqew, 航天龙电子科技	KIA	2013+	65400	TO-220FT
+KIA4N65	from hqew, 航天龙电子科技	KIA	2013+	72900	TO-220FT
+KIA5N60	from hqew, 航天龙电子科技	KIA	2013+	87500	TO-220FT
+KIA75NF75	from hqew, 航天龙电子科技	KIA	13+	89300	TO-220
+KIA7N60	from hqew, 航天龙电子科技	KIA	2013+	98500	TO-220FT
+KIA7N65	from hqew, 航天龙电子科技	KIA	2013+	87100	TO-220F

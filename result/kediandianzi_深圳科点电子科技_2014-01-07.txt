@@ -1,0 +1,2093 @@
+1N4148LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOD-123
+1N4148WT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+1SMB300CAT3	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5923BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5928BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5938BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5939BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5950BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SS226T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+2SC4083PWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+2SC4083PWT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-323
+2SC4177 L7	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+2SC4617ST1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+9013QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+BAS170HT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-323
+BAS21LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAS21LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAS40-06LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAS70LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAT54DW1T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT363
+BAV3004T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+BAV70LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAV70LT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	11
+BAV74LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BC807-40	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BC817-25LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC846B	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BC846BPDW1T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-363
+BC847AWT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-323
+BC849CLT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BC856BDW1T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-363
+BC857BDW1T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-363
+BC858CDWT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	4
+BCP52	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT223
+BZX84C13	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C30	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C3V3	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C4V3LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	6
+BZX84C4V3LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C4V7LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C6V8	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C7V5LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+DTA114YKA/MMUN2114LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	5
+DTC124EN	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+ESD9D5.0T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	80000	S0D-923
+L1SS181LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L1SS184LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L1SS226LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+L1SS400	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+L2N7002WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L2SA1365FLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SA1576AST1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L2SA1577QT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L2SA1774QT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-523
+L2SA1774RT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+L2SB1197AHQLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L2SC1623QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC1623RLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC2412KSLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC3838QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC4081QT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L2SC4083PWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L2SC4617RT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+L2SC4617RT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT523
+L2SD1781KRLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L8050QLT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+L8550QLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L9012RLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L9013QLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+L9015RLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LBAS16LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAS16LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBAS16TT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LBAS16WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBAS20HT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LBAS21HLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBAS21LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAS70-04LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	sot-23
+LBAT54SWT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	12+	6000	SOD-323
+LBAV199LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAV70WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBAW156LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAW56WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC807-16LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBC846ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC846BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC847ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC847AWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBC847CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC848ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC848AWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC848CWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBC856BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC857CWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC858CLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LBZT52B11T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B15T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B2V0T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B36T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B6V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C10T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C11T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C12T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-123
+LBZT52C12T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C13T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C16T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C30T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C6V2T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C6V8T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C9V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZX84B33LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B3V9LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B5V6LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C18LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C22LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBZX84C3V6LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C5V6LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C7V5LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C8V2LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C8V2LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LDTA113TKT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA114EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA114GWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA114TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA114WET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA114WWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA123EM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTA123YET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA143TET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA143YET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA143YLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA144TM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTB113EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTB123YLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTBG12GPT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC114GET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC123EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC123JLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC123JM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTC144TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTD114EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTD114GWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTD143EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTD143TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LEDZ12BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ15BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ16BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ24BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ30BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ36BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ5.6BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LGSOT04CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LGSOT08LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LGSOT15CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LGSOT36LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LM2Z10VT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z2V0T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z39VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z3V3T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z56VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z62VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z7V5T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z9V1T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM5Z12VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z15VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z18VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z2V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z3V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z4V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z56VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LMBD6050LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBD6100LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBD7000WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LMBR120LSFT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMBT2222ATT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-523
+LMBT3906TT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	360000	SOT-523
+LMBT4403LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LMBT6520LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBTA13	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBTA56LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBTA56WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMBZ5237BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5240BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5245BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5247BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5250BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5258BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5261BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5265BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5267BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ6V8ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMSZ5226BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5229BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5241BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5244BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5253BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5257BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5264BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMUN2133LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2232LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2233LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN5115DW1T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-363
+LMUN5131T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LMUN5135T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5211T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LMUN5213DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LMUN5214T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5215T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LMUN5216T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5232DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5233DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5237T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5312DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5315DW1T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-363
+LMUN5332DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LN2306LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LN2502LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LP2301LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LR431ALT1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LRB425LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LRB500V-40T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LRB520G-30T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-723
+LRB751CS-40T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-923
+LUDZS13BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS13BT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LUDZS16BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS2.2BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS2.4BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS36BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS4.3BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS5.1B	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MBR0520LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MBR0530TIG	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MBR140T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MBRS360T3G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SMC
+MBT3906DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT363
+MM3Z22VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z22VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z2V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z39V1TG	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z43VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z5V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z5V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z6V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM5Z18VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z2V7LT1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+MM5Z39V1TG	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z3V0T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z4V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z5V1LT1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+MM5Z5V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z6V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MMBD2838LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBD7000LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBD7000LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MMBD914LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MMBF0201NLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBL914T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBT3904DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT363
+MMBT5551LT1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MMBT6427LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MMBTA06LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MMBZ5221BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	sot23
+MMBZ5222BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5226BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5229BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5232BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5241BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5245BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5249BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5250BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5253BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5261BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMSZ11T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ2V4T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ33T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ4V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ4V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ56T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ6V0T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+1N4148WSLT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOD-323
+1N4148WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+1N4148WT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOD-123
+1PS226LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+1SMB16AT3	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB18AT3	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	DO-214AA
+1SMB5913BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5916BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5920BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5930BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5936BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5937BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5940BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB6.8AT3	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SS181LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+1SS184LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+1SS226LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+1SS226LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+1SS355T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+1SS356T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+1SS400	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+1SS400T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT523
+1SS400T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOD-523
+2N7002E	from hqew, 现货 深圳科点电子科技	ON SEMI	12+	6000	SOT-23
+2SB1197KRLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+2SC1623	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+2SC4177	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+2SC4177	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+2SK3018WT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-323
+8550QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+9012QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+9013QLT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAS116LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAS16LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+BAS16LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAS16LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAS16WT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-323
+BAS21HT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-323
+BAS21HT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAS21SLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAS516T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-523
+BAS70-04LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAS70-06T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+BAT54ALT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAT54AWT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-323
+BAT54C	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAT54LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+BAT54SLT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAV70LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+BAV99	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAV99LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+BAW56LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC807-40WT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-323
+BC817-16LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	6
+BC846BDW1T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-363
+BC846BLT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+BC847BDW1T1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-363
+BC847BDW1T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-363
+BC847BPDW1T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-363
+BC847LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BC848BLT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BC850BLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC856ALT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC856BDW1T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-363
+BC856BLT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	12+	6000	SOT-23
+BC856BWT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-323
+BC857BLT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	5
+BC857BLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC857CLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC857CWT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-323
+BC858B	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BC858BLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BCP53-16	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-223
+BSP52T1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-223
+BSS123	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BSS123LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BSS123LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	11+	6000	SOT-23
+BSS123LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BSS138LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BSS84LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZT52C12T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	11+	6000	SOD-123
+BZX84C11	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C12	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C12LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C13LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	5
+BZX84C15LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C16LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C20	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C20LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C22	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C2V4LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C2V7	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C33	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C3V3LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C4V7	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C5V6LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C6V2LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C6V2LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+CJ431 1％	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+DTA124XET1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-523
+ESD5Z5.0T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+ESD9D3.3CT5G	from hqew, 现货 深圳科点电子科技	LRC	13+	32000	SOD-923
+L1SS181LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L1SS355	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+L1SS400GT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-723
+L2N7002DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT363
+L2N7002LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L2SA1037AKSLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L2SA1576AQT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+L2SA1576AQT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-523
+L2SA1576AQT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+L2SA1774QT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-523
+L2SA1774RT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT523
+L2SA812SLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L2SB1197KQLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SB1197KRLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC1623SLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L2SC2411KRLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC2412KQLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L2SC2412KRT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC4083PWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+L2SC4226T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L2SC4617RT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-523
+L2SC4617ST1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+L2SD2114KWLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SK3018WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L8050HRLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L8050QLT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	13+	6000	SOT-23
+L8550PLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+L8550QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+L9013QLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBAL99LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAS20LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAS21HT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LBAS40LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAS70LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LBAT54ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LBAT54CWT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LBAT54DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT363
+LBAT54LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAT54LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBAT54XV2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LBAV70T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-416
+LBAV70T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAV70TT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LBAV99WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC807-25WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC807-40WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBC817-16WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC817-16WT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LBC817-25WT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LBC817-25WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC817-40WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC846BWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBC847BDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC847BLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBC848BPDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC848CPDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC848CWT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LBC856BWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC857BDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC857CLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBC857CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC858ALT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBC858BWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBCW65ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBSS84LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZT52B16T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B18T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B20T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B33T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B3V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B3V9T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C11T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C15T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C20T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C24T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C27T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C30T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C36T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C39T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C3V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C3V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C3V9T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C5V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C5V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C7V5T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C7V5T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZX84B12LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B15LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B18LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B20LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B24LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B2V0LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B3V0LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B3V6LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B6V2LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C10LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBZX84C12LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C16LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C30LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C36LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C39LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C3V0LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C3V3LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C47LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C4V3LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C4V7LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C6V2LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C9V1LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDAN202UT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA113TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA113ZET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA114EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA114ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA114GLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA114YLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA115ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA115TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA123EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA123EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA123JLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA123TKT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA123TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA124ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA124TET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA124XET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA124XLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA125TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA143EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA143TM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTA143TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA143XET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA143YWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA144ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA144EMT5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTA144EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA144VET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA144VLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA144WLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTB113EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTB113ZWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTB114ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTB123EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTB123TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTB123YWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTB143EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTB143EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTB143TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTBG12GPWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC113YET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC114ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC114EM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTC114TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC114YM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTC114YWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC115EM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTC115TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC123TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC123YET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC124TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC124XET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC124XLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC125TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC143ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC143TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC143XET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC143YET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC143YWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC143ZET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC143ZLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC144EM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTC144GET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC144GLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC144VET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTD113EET1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-523
+LDTD114GLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTD123TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTD123TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTD123YLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTD143ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTDG12GPWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LEDZ11BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ13BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ2.4BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ22BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ4.7BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ5.1BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ6.8BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ8.2BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LESD9D3.3CT5G	from hqew, 现货 深圳科点电子科技	LRC	13+	80000	SOD-923
+LESD9D5.0T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	12+	6000	SOD-923
+LGSOT03CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LGSOT05LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LGSOT08CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LGSOT12LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LGSOT36CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LH8550PLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LM1MA141KT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LM1MA141WAT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LM1MA141WKT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LM1MA142WAT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LM1MA142WAT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LM1MA142WKT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LM3Z11VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z12VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z12VT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z13VT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z13VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z15T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z22VT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z2V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z30VT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z3V0T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	3600000	SOD-323
+LM3Z3V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z43VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z47VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z4V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z4V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z51VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z6V8T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LM3Z6V8T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LM3Z7V51TG	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z8V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM5Z10VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z10VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z11VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z12VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z13VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z16VT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-523
+LM5Z22VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z24VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z2V4T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z30VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z3V9T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z62VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z6V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z6V8T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z9V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LMBD3004ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBD6050LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMBD7000LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LMBR0530T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMBR130T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMBT2222ADW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMBT2222ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LMBT2222AWT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LMBT2369ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LMBT2907ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LMBT2907AWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LMBT3906LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	13+	6000	SOT-23
+LMBT3906WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	60000	SOT323
+LMBT3946DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMBT4403LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMBT4413DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMBT5087LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT5221BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LMBT5401DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LMBT5551DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT363
+LMBT6429LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT7000LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT918LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBTA06LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBTA06WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMBTA14LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBTH10QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LMBZ5221BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5223BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5226BLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMBZ5230BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5231BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LMBZ5231BLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT23
+LMBZ5231BLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMBZ5231BLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LMBZ5232BL1TG	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5235BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5246BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5248BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5249BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5253BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5256BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5269BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ6V2ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMDL301T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LMDL6050T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LMSD103AT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-123
+LMSZ5227BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5228BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5233BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5234BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5237BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5238BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5240BT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-123
+LMSZ5245BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5248BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5250BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5252BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5256BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5259BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5263BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5268BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5272BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMUN2113LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2115LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2116LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2131LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2134LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2137LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2211LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2214LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2216LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2234LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2236LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2241LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN5112DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5114DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5115DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LMUN5115T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5130DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5133T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LMUN5135DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5136DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5137DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5211DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LMUN5211T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LMUN5212T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5213DW1T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-363
+LMUN5214T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LMUN5215DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5215T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5216DW1T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-363
+LMUN5216DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LMUN5216DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5216T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LMUN5216T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LMUN5230T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5231T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5235T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5311DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5315DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5315DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LMUN5331DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5332DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LMUN5332DW1T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-363
+LMUN5335DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5336DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LN2302LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LNTR4003NLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LP2307LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LP3401LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LP9435LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LRB421LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LRB425LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LRB520CS-30T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	16000	SOD-923
+LRB520S-30T1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LRB520S-30T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	60000	SOD-523
+LRB521S-30	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LRB521S-30T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	60000	SOD523
+LRB551V-30T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS10BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS15BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS18BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS3.6BT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LUDZS9.1BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MBR0540LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MBR0540T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MBR130LSFT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MBR140LST1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MBRA2100LT3G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SMA
+MBRS120T3G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SMB
+MBRS140T3G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SMB
+MBRS230LT3G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SMB
+MBRS260T3G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SMB
+MBRS340T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SMC
+MM3Z10VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z11VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z13VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z15VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z16VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z18VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z20VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z27VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z2V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z33VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z3V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z3V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z43V1TG	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z47VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z4V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z6V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z7V5T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z8V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM5Z22VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z27V1TG	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z39VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z3V9T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z75V1TG	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z9V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MMBD4148LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBT2222ALT1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MMBT3906LT1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MMBT4401LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBT4403LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBT5551DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT363
+MMBT918LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MMBTA06LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBTA42LT1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MMBTA92LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBTH10LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5224BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5225BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5226BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5227BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5230BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5230BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5231BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5233BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5234BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5236BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5236BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5237BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5239BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5240BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5241BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5243BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5244BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5246BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5247BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5248BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5250BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5254BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5259BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5261BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMDL914T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MMSZ15V	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ19T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ24T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ25T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ2V5T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ30T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ3V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ6V8T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MUN2211LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MUN2215T1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+1SMB15AT3	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5914BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5919BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5922BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5927BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5932BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5934BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5941BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5942BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5943BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5944BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5946BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5947BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5948BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SS184LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+1SS356T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOD323
+1SS400T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT523
+2N7002	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+2N7002DWT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT363
+2SC2411KRLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+2SC2412KRLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+2SC4083	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+2SC4177 L7	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+8050HQLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+8050QLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+8050QLT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+8550QLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+9012QLT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+AM2326AN	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+BAS20HT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-323
+BAT54A	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAT54HT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOD-323
+BAT54XV2T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOD523
+BAV170LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAV74LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAV99LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAV99LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAV99WT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-323
+BC807-16LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC807-25LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BC807-25LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC807-40LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	0
+BC846 B	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BC846ALT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC846AWT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-323
+BC846BLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC847AWT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-323
+BC847BDW1T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-363
+BC847BLT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BC847BLT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+BC847BLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC847BPDW1T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-363
+BC848CDWT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	4
+BC848CLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC856BLT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+BC857ALT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC858BWT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	3
+BCP51	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT223
+BCP53	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-223
+BCP53-10	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-223
+BCP55	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT223
+BSS138LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BSS138LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	13+	6000	SOT-23
+BSS84LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	13+	6000	SOT-23
+BSS84LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C13LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C15	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C22LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C27	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C2V4T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	5
+BZX84C3V6LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C3V9LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C43	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C4V3	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C5V1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C5V1LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C5V6	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C6V2	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C6V2LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C6V8LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C7V5	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+CJ431 0.5％	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+DAP222	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-523
+DTA114EM3T5G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-723
+DTC143LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	5
+ESD5Z5VU-2/TR	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+ESD9B5.0ST5G	from hqew, 现货 深圳科点电子科技	LRC	13+	80000	SOD-923
+L1SS355T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+L1SS356T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+L1SS400CST5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-923
+L1SS400T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	60000	SOD-523
+L2N7002DMT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-74
+L2SA1036KQLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L2SA1036KQLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SA1036KRLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SA1037AKQLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L2SA1037AKRLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SA1037AKRLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L2SA1576AQT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L2SA1576ART1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L2SA1577PT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L2SA812QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SA812RLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L2SA812SLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC2412KQT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+L2SC2412KRLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L2SC2412KRLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC2412KST1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+L2SC3356LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L2SC4081ST1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L2SC4083NWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L2SC4617QT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+L2SC5343QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SD2114KVLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SD2114KWLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L78M12	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	TO-252
+L8050HPLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L8050PLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L8550HPLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L8550HQLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L8550QLT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+L9012PLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L9012QLT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+L9012QLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L9012QLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+L9012QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L9012SLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L9013RLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L9013SLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L9014QLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+L9014QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L9014SLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L9015QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+L9015QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L9015SLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAS16WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBAS170HT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LBAS21SLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAS40-04LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAS70-06LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LBAT54CWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBAT54HT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LBAT54SLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAT54SLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LBAT54WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBAV170LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAV3004T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBAV70LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAV74LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAV99WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBAW56LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC807-16LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC817-25LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC817-25WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBC846AWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC846BDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC846BPDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC846BWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC847AWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC847BPDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC847BWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBC847BWT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LBC847CPDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC848ALT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBC848BWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC848CDW1T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-363
+LBC848CDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC848CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC850BWT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LBC850BWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBC856ALT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBC856BDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC857AWT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LBC857BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC857BWT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LBC857BWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBC857CDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC858ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC858BDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC858CDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC858CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC858CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBC858CWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBC858CWT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LBC858CWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBSS138V3.3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-74
+LBSS138WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBSS138WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBZT52B2V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B2V4T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B3V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B5V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B5V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B6V8T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B7V5T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B9V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C12T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C16T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C18T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C22T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C2V4T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C2V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C3V0T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C3V3T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C4V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C4V3T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C4V7T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C51T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C5V1T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C6V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C6V8T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C8V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZX84B11LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B16LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B22LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B27LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B30LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B4V7LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B8V2LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C10LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C11LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C15LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C24LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C33LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDAN202KLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA114TET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA115EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA115GET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA115TET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA123ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA123JET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA123JM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTA123JWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA123YWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA124GET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA124XWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA143EM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTA143TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA143XLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA143XWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA143ZM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTA144EMT5G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-723
+LDTA144GLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA144GWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA144VWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTB113ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTB113ZET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTB113ZLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTB114EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTB114EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTB114GKT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTB114TKT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTB114TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTB114TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTB123EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTB123TET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTB143ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTBG12GPLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC113ZWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC114EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC114GWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC114TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC115ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC115EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC115GLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC115GWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC115TET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC123EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC123JWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC123TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC123YLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC124EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC124EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC124GET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC124GLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC124GWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC124TET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC143EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC143EM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTC143TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC143XWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC143YLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC144EELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-523
+LDTC144EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC144ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC144TET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC144TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC144WLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC144WWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTD113ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTD113ZET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTD113ZLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTD113ZWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTD114ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTD114EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTD114GKT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTD114TET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTD114TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTD114TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTD123EET1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-523
+LDTD123EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTD143EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTD143TKT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTD143TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTDG12GPT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LEDZ10BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ18BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ2.7BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ20BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ27BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ3.3BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ3.6BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ3.9BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LESD5Z7.0T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LESD9D3.3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	80000	SOD-923
+LESD9D5.0CT5G	from hqew, 现货 深圳科点电子科技	LRC	13+	80000	SOD-923
+LESD9D5.0T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	80000	SOD-923
+LGSOT04LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LGSOT12CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LGSOT15LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LGSOT24CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LGSOT24LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LH8050PLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LH8050QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LH8050RLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LL4148	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	LL-34
+LM1MA142WAT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LM1MA142WKT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LM3Z10VLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z10VT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z10VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z15VT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z20VT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z36VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z3V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z51VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+LM3Z5V6T1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LM3Z68VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z7V5T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z8V2T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z8V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	S0D-323
+LM5Z16VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z20VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z20VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z36VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z3V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z3V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z4V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z5V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z6V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z6V8T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z8V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z8V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LMBD2836LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LMBD2838LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBD3004SLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBD5004SLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBD914LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LMBR0520	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMBR0540T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMBR140T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMBT2222AWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMBT2369ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT2369LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT2907ADW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMBT2907AWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMBT3904DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT363
+LMBT3904LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LMBT3904LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	13+	6000	SOT-23
+LMBT3904TT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	360000	SOT-523
+LMBT3904WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	3000	SOT323
+LMBT4401WT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LMBT4401WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LMBT4403WT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LMBT4403WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LMBT5401LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT5541DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LMBT5551LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT6427LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT6428LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT6428LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMBT6517LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT6517LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMBT918LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LMBTA05LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMBTA13LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBTA14LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMBTA43LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBTA55LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	60000	SOT-23
+LMBTH10LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBTH10QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5227BLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMBZ5228BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5228BLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMBZ5231BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5231BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LMBZ5232BL1TG	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMBZ5232BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5236BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5238BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5239BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5243BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5251BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5254BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5255BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5260BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5263BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5268BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5V6ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMDL6050T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LMSD103AT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5221BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5222BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5224BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5225BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5235BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5236BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5239BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5247BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5255BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5261BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5266BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5267BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5269BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMUN2112LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2138LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2140LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2213LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2231LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2240LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2240LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMUN5111T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5112T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5113T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5114T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5115DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5116DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5131T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LMUN5133T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5133T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LMUN5134T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5211DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5212DW1T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-363
+LMUN5214DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5214T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LMUN5230DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5231DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5234T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5237DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5313DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5333DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LN2302ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LNST3906F3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-1123
+LNTA7002NT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LRB411DLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LRB411DLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LRB500V-40T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LRB500V-40T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+LRB501V-40T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LRB521CS-30T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	80000	SOD-923
+LRB550V-30T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LRB751G-40T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-723
+LRB751S-40T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LRB751V-40T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LSBC847BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LSBC847BLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LSI1012XT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	60000	SC-89
+LUDZS27BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS3.3BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS3.6BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS3.9BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS4.7BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS5.6BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS6.2BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS6.8BT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LUDZS8.2BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUMC3NT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88A
+LUMF23NDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LXP152ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MBR0530T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MBRS540T3G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SMC
+MM3Z12VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z15VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z20VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z27VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z2V4T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z30VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z3V0T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z3V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z3V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z4V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z4V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z6V8T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM5Z10V1TG	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z11VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z16VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z20VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z24VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z27VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z2V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z2VOT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z30VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z33V1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z36VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z4V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z51VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z56V1TG	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z5V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z7V5T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MMBF170LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBT2222A	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBT2369ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBT3904TT1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-523
+MMBT5401LT1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MMBT5401LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBTA13LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBTA14LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBTA44LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBTA56LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBTA92LT1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MMBZ5224BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5227BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5231BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5235BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5238BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5238BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5240BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5246BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5247BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5248BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5249BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5251BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5255BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5256BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5258BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5258BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMSD4148T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ16T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ20T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ22T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ2V8T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ43T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ47T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ5V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ5V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ7V5T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MUN2116T1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MUN2213T1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MUN2216T1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+1N5822	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMASMBSM
+1PS226LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+1SMB14AT3	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB200CAT3	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5917BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5918BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5921BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5924BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5929BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5931BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5945BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SMB5949BT3G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SMB
+1SS184LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+1SS226T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+1SS356T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-323
+1SS400T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+2N7002	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+2N7002DWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT363
+2N7002LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+2N7002LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+2N7002LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+2SA1037AKRLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+2SB1132	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-89
+2SC3356LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+8050QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+8550QLT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+B0530WST1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-323
+BAS16HT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-323
+BAS16HT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOD-323
+BAS20LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAS21CLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAS21H	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-323
+BAS21HT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-323
+BAS40-04LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	13+	6000	SOT-23
+BAS40-05LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAS70-04LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAS70-04T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	sot-23
+BAS70-05LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAS70-05T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+BAS70-06LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAS70LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAS70T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+BAT54HLT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOD-323
+BAT54HT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-323
+BAT54LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAT54LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAT54S	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAT54SLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAT54XV2T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-523
+BAV170LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAV199LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAV70LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAV70TT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT523
+BAV99WT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-323
+BAW56LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAW56LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+BC807-25LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BC807-40LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC817-16LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BC817-16LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC817-40LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC847ALT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC847BWT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-323
+BC848BW	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-323
+BC848CDW1T1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	4
+BC848CPDW1T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-363
+BC857AWT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-323
+BC857BDW1T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-363
+BC857BLT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BC857BWLT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-323
+BC857BWT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-323
+BC858ALT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BCP54	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT223
+BSS123LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BSS84	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C11LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C12LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C18	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C18LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C20LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C24LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C2V4	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C30LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C36	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C3V0	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C3V0LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C3V3LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C3V6	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C3V9LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C5V6LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C6V2LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	5
+BZX84C8V2LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C9V1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C9V1LT1 9.1V	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C9V1LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+HMBT1815	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L1N4148WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-123
+L1N4148WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+L2N7002DWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+L2N7002KLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	60000	SOT-23
+L2N7002LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SA1037AKQLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SA1235FLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SA1576AQT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-523
+L2SA1577RT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L2SA1774QT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+L2SA812RLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SB1197AHQLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC1623RLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L2SC1623SLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC2411KQLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC2412KQLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC3356LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC3356WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L2SC3837LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC4081RT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-523
+L2SC4081RT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-523
+L2SC4083QWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L2SC5343RLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC5343SLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC5635LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SK3019LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SK801LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L8050HQLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L8050QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L8050QLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L8550PLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L8550QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L9013PLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L9013QLT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+L9013QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L9014RLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L9014TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L9015QLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+L9015QLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+L9015RLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAL99LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBAS16HT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LBAS21CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAS21LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBAS70-04LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBAS70-05LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBAS70-05LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAS70-05LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LBAT54ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAT54ALT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBAT54AWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBAT54CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBAT54SLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBAT54WT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LBAV70TT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-416
+LBAV99LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	60000	SOT-23
+LBC807-16WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC807-25LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC807-40LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC807-40WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC817-16LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC817-16WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBC817-40LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC846ADW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC847BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC847BWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC847CDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC847CWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC848BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC848CWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC850BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC850CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC850CLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBC857ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC857AWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBC857BPDW1T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-363
+LBC858BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBCX19LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBSS123LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBSS138LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LBSS138LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBSS84WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBZT52B12T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B13T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B22T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B24T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B27T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B2V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B30T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B4V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B4V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B8V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C10T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C18T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C24T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C33T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C3V9T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C43T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C4V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C5V6T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C8V2T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZX84B10LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B13LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B2V2LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B2V4LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B2V7LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B4V3LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B5V1LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B6V8LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B9V1LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C13LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C20LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C27LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C2V4LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C2V7LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C3V3LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LBZX84C43LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C51LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C5V1LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C75LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDAN222	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-523
+LDAN222T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA113TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA113ZLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA113ZWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA114EM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTA114GET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA114TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA114TM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTA114WLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA114YET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA114YM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTA115EM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTA115EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA115GLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA115GWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA115TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA123TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA124EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA124EM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTA124EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA124GLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA124GWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA124TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA124TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA124XM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTA125TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA143ZET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA143ZLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA143ZWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA144GET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA144TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA144WET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA144WWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTB123ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTB123TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTB143TKT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTB143TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC113YLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC113YWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC113ZLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC114EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC114GLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC114TET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC114TM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTC114WET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC114WLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC114WWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC114YET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC114YLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC115EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC123EM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTC123TKT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC123YWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC124ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC124EM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTC124TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC124XM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTC124XWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC125TET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC125TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC143EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC143TM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTC143XLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC144EET1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-523
+LDTC144EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-523
+LDTC144EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC144GWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC144TM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTC144VLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC144VWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTD113EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTD113EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-923
+LDTD113EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-523
+LDTD113EET1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-723
+LDTD113EET1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-923
+LDTD113EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTD123EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTD123ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTD123TET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTD123YET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTD123YWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTDG12GPLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LEDZ3.0BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ33BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ4.3BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ6.2BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LEDZ7.5BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LESD5Z5.0T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LGSOT05CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LH8550QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LL4148	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	LL-34
+LM1MA142KT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LM1MA142WKT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LM2Z10VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z15T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z15VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z16V	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z18VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z18VT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z22VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z24VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z27VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z2V4T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z2V4T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z2V7T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z30VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z33VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z3V6T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z3V9T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z5V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z5V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z6V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z6V2T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z6V8T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z6V8T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z75VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM5Z11VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z15VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z18VT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-523
+LM5Z18VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z22VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z24VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z27VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z30VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z33VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z36VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z39VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z3V0T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z3V0T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z3V9T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z43VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z47VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z51VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z51VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z5V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z62VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LM5Z68VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z75VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z7V5T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z9V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LMBD3004CLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBD7000WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMBR0520T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMBR120ESFT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMBT2222ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT2222ATT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LMBT2907ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT35200MT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	TSOP-6
+LMBT3904LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT3906DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMBT4401LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT4401WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMBT4403WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMBT5551DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LMBT6427LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LMBTA06LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LMBTA42LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBTA64LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBTA94LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBTH10WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMBTH10WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LMBZ5222BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5224BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5225BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5226BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5227BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5229BLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMBZ5229BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5233BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5241BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5242BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5242BLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMBZ5251BLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMBZ5252BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5257BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5259BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5262BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5264BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5266BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5270BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMDL914T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LMSZ5223BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5230BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5231BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5232BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5240BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5242BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5251BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5254BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5258BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5260BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5262BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5265BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5270BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMUN2111LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMUN2114LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2132LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2136LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2212LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2215LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2235LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2237LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2238LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN5111DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5130T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5131DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5132DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5132T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5134DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5136T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5137T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5211DW1T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-363
+LMUN5211T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5212DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5212DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LMUN5213T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5215T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LMUN5232T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5233T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5234DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5235DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5314DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5316DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5330DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5334DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LN2306LT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LN2312LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LN4812LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LNST3904F3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-1123
+LNTK3043NT5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LNTS4409NWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LP2301ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LP2305LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LP3443LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LR431ALT1	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LRB421LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LRB521G-30T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-723
+LRB521S-30T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LRB521S-40T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LRB751V-40T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LRX102UT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88A
+LS4148	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	LS-34
+LSMBTH10T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LSMBTH10T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-363
+LUDZS2.0BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS2.7BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS20BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS22BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS24BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS3.0BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS3.9BT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LUDZS30BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS33BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS5.1BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUMG2NT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88A
+LUMG3NT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88A
+MBR0540T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MBR120LSFT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MBR130T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MBRS1100T3G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SMB
+MBRS240LT3G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SMB
+MM3Z10VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z11VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z16VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z18VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z24VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z2V4T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z30VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z33VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z36VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z3V0T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z3V9T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z4V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z51VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z5V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z6V8T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z7V5T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z8V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z9V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MM3Z9V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM5Z12VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z13VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z15VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z2V4T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z33VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z3V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z3V6T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z43V1TG	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z47V1TG	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z62VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z68V1TG	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MM5Z8V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MMBT3904	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBT3904TT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-523
+MMBT3906LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBT3906TT1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-523
+MMBT3906WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT323
+MMBT5551LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBT589LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	12+	6000	SOT-23
+MMBT6517LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBTA3904LT	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MMBTA42LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBTA56LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MMBTA64LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	sot23
+MMBTA64LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5221BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5222BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5223BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5225BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5228BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5228BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5229BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5232BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5233BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5234BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5235BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5237BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5239BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5242BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5242BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5243BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5244BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5245BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5252BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5253BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5254BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5255BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5256BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5257BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5257BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5260BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMDL301T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD323
+MMDL914T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MMSZ10T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ13T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ14T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ15T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ17T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ27T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ28T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ36T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ39T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ3V3T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ3V9T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ8V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ8V7T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ9V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MUN2115T1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MUN2133T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+1SS400T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-523
+2SA1015	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+2SC2412KRLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+2sd2653k	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+8550HQLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAL99LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAS21LT1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BAS40LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAT54ALT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BAT54CLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC848ALT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC848BLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BC856A	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BC857BLT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT23
+BC857BLT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BC858CLT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BCP56T1G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-223
+BZX84C10	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C10LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C16	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C16LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C22LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C24	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C27LT1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOT-23
+BZX84C2V2	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C43LT1	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+BZX84C8V2	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-23
+DTA115EM3T5G	from hqew, 现货 深圳科点电子科技	ON SEMI	11+	6000	SOT-723
+ESD5Z5.0CT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+ESD9B3.3ST5G	from hqew, 现货 深圳科点电子科技	LRC	13+	80000	SOD-923
+ESD9D3.3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	32000	SOD-923
+L1SS355T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+L2N7002DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+L2SA1037AKSLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SA1774ST1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+L2SA2030M3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+L2SC3837QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC3838LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+L2SC4081RT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+L2SC4617RT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-523
+L9012QLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+L9013RLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LBAS116LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC848BDW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-363
+LBC856ALT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBC857BWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LBC857CWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LBSS138WT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LBZT52B10T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52B3V0T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C13T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C15T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C20T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C27T1G	from hqew, 现货 深圳科点电子科技	ON/LRC	2011+	6000	SOD-123
+LBZT52C33T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C36T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZT52C47T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LBZX84B36LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B3V3LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84B7V5LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C22LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C3V9LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C62LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LBZX84C6V8LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA114YWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA123YLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA125TET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA143ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTA143EWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTA144EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA144EM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTA144TET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTA144TWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTB114GLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTB114GWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTB123YET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC113ZET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC115GET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC115TLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC123ELT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LDTC123JET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC143TET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTC143ZM3T5G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTC143ZWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LDTC144TM3T5G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-723
+LDTC144WET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LDTD113EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-723
+LDTD123EET1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-523
+LEDZ9.1BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM3Z16VT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z16VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z20VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM3Z5V1T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z5V6T1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LM3Z9V1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LM5Z16VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z47VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-523
+LM5Z75VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+LMBR160T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMBT2222ATT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-523
+LMBT2222AWT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-323
+LMBT2907AWT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	12+	6000	SOT-323
+LMBT3906DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT363
+LMBT3906LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT4403LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBT6520LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+LMBTA05LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBTA92LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBTH10WT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-323
+LMBZ5234BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5244BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMBZ5249BLT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOT-23
+LMSZ5243BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMSZ5246BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-123
+LMUN2111LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2130LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2135LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN2230LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LMUN5116T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5131T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-70
+LMUN5133DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5213DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LMUN5236DW1T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88
+LN4501LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LNTA4001NT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-89
+LP2305DSLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LP4101LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+LUDZS11BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS12BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS16BT1G	from hqew, 现货 深圳科点电子科技	LRC/ON	11+	6000	SOD-323
+LUDZS6.8BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUDZS7.5BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+LUMG10NT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SC-88A
+MBR0530LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MBRS130T3G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SMB
+MBRS3100T3G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SMC
+MM3Z12VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z13VT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM3Z3V9T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD-323
+MM5Z6V8T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD523
+MMBT2369LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBT2907ALT1	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT23
+MMBT3904LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBT3904WT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT323
+MMBTA94LT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5223BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5251BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5252BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5259BLT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMBZ5260BT1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOT-23
+MMSZ12T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ18T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ3V0T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123
+MMSZ6V2T1G	from hqew, 现货 深圳科点电子科技	LRC	13+	6000	SOD123

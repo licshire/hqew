@@ -1,0 +1,1908 @@
+FP103	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP133	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5001DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8
+FP5003	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5102DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5108	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSSOP-8L
+FP5108TR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-8L
+FP5108TR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-8L
+FP5139B	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSSOP-8L
+FP5148DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5209KR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP5453RR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP5462	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP5462DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP6161KR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP6166ADgR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6167dR-LF-ADJ	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-12L
+FP6169XR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6180	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6182D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6182DR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6185D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6187D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6193XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6280XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP6291LR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP701	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP7101	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP7101AXR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP7152AR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT89-5L
+FP8102X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP8103	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+H27UCG8T2BTR-BC	from hqew, 吉隆达科技（香港）	SK现代	12+	5760	BGA
+K9HCG08U1M	from hqew, 吉隆达科技（香港）	三星SUM	12+	5760	TSSOP
+MT29F64G08CBAAAWP	from hqew, 吉隆达科技（香港）	镁光Micron	12+	5760	TSSOP
+SN74LVC1G08DCKR	from hqew, 吉隆达科技（香港）	TI	1149+	25	SC70-5
+SN74LVC1G125DCKR	from hqew, 吉隆达科技（香港）	TI	1219+	25	SOT-23
+THS1206IDA	from hqew, 吉隆达科技（香港）	TI	1119	7	TSSOP-32
+TLC5916IPW	from hqew, 吉隆达科技（香港）	TI	1106+	25	TSSOP16
+TPS65270PWPR	from hqew, 吉隆达科技（香港）	TI	1144+	25	HTSSOP-2
+TPS7A7001DDA	from hqew, 吉隆达科技（香港）	TI	1144+	25	SOT
+88EM8183B0-SAE2C00	from hqew, 吉隆达科技（香港）	MARVELL	13+	550	sop-8
+88W8510+88W8010	from hqew, 吉隆达科技（香港）	MARVELL	13+	10000	SMD
+88W8515+88W8010	from hqew, 吉隆达科技（香港）	MARVELL	13+	10000	SMD
+88W8515-BAN1+88W8010-NNB1	from hqew, 吉隆达科技（香港）	MARVELL	13+	10000	SMD
+C320C104K5R5CA	from hqew, 吉隆达科技（香港）	KEMET	13+	10000	DIP
+CD4069UBE	from hqew, 吉隆达科技（香港）	TI	1010+	5	DIP-14
+FD125CH-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	
+FP103DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP131DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP133D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP133D-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP133DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5001D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8
+FP5003TR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-8L
+FP5003X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5003XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5101A	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5101AD	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5101AXR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5101DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5101XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5102A	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5102ADR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5102AXR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5102XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5108	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5108	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-8L
+FP5108W	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSSOP-8L
+FP5108WR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSSOP-8L
+FP5138BWR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSSOP-8L
+FP5139	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5139BWR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSSOP-8L
+FP5139BWR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSSOP-8L
+FP5139D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5148DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5148X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5201	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP5201LR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP5202L	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP5202LR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP5209KR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP5451ADR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5451ARR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP5452ADR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5452RR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP5453	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP5453AD	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5453XR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5462D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5462DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5462R	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP6101DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6102DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6111D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6111DR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6112D-G	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6112D-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6115DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6116	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6160	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	tsot23-5
+FP6161iR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-5
+FP6161KR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP6162	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6162	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6162ADXR-G3	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6163ADgR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6163ADXR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6165	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6165ADdR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6166	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6166ADdR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6166ADgR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6167	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-12L
+FP6168dR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6168dR-G1-ADJ	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6172XR-G	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6173XR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6180XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6181	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6181g	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6182	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6185DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6185DR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6186	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6186XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6186XR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6188X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6189X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6189XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6189XR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6190LR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP6193X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6193XR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6201	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6201D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6280X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP6280XR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP6290HDR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-8L(E
+FP6290HXR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP6291	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP6291L	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP6292h	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP6292hR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP6292iR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-5
+FP6298	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP6298X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP6298XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP6298XR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP702KR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP7101AX	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP7101AXR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP7102DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP7103	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP7103DE	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP7103XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP7103XR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP7152A	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT89-5L
+FP7201HR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP7202HR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP8102	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP8102XR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP8103X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP9102-12	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP9102-15X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP9102-15XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP9102-18XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP9102-25X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP9102-25XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FSA2367MTCX	from hqew, 吉隆达科技（香港）	TI	12+	30	TSSOP-14
+H27UBG8T2BTR	from hqew, 吉隆达科技（香港）	SK现代	12+	5760	TSSOP
+H27UCG8T2ATR-BC	from hqew, 吉隆达科技（香港）	SK现代	12+	5760	TSSOP
+H5TQ4G63AFR-PBC	from hqew, 吉隆达科技（香港）	SK现代	12+	4800	BGA
+H5TQ4G83AFR-PBC	from hqew, 吉隆达科技（香港）	SK现代	12+	4800	BGA
+HY27UAG8T2BTR	from hqew, 吉隆达科技（香港）	SK现代	12+	5760	TSSOP
+HY27UBG8T2BTR	from hqew, 吉隆达科技（香港）	SK现代	12+	5760	TSSOP
+HY27UBG8T2CTR	from hqew, 吉隆达科技（香港）	SK现代	12+	5760	TSSOP
+HY27UCG8T2ATR-BC	from hqew, 吉隆达科技（香港）	SK现代	12+	5760	TSSOP
+INA826AIDGK	from hqew, 吉隆达科技（香港）	TI	1210+	10	MSOP-8
+K9F1G08UOD	from hqew, 吉隆达科技（香港）	三星SUM	12+	5760	TSSOP
+K9GAG08UOM	from hqew, 吉隆达科技（香港）	三星SUM	12+	5760	TSSOP
+LT1963AEFE-2.5	from hqew, 吉隆达科技（香港）	LT	1326+	2	TSSOP
+MT29F32G08CBABAWP	from hqew, 吉隆达科技（香港）	镁光Micron	12+	5760	TSSOP
+SN65HVD3088EDGK	from hqew, 吉隆达科技（香港）	TI	1136+	25	MSOP-8
+SN74AHC1G08DCKR	from hqew, 吉隆达科技（香港）	TI	12+	25	SOT-353
+SN74LV123ADR	from hqew, 吉隆达科技（香港）	TI	12+	25	SOIC-16
+SN74LVC1G00DCKR	from hqew, 吉隆达科技（香港）	TI	1040+	25	SOT353
+SN74LVC1G04DCKR	from hqew, 吉隆达科技（香港）	TI	1140+	25	SOT-353
+SN74LVC2G08DCUR	from hqew, 吉隆达科技（香港）	TI	1215+	25	VSSOP-8
+TMP432ADGST	from hqew, 吉隆达科技（香港）	TI	12+	25	MSOP-10
+TPS22902BYFPR	from hqew, 吉隆达科技（香港）	TI	12+	25	DSBGA-4
+TPS23750PWPR	from hqew, 吉隆达科技（香港）	TI	0944+	25	TSSOP20
+TPS2552DBVT	from hqew, 吉隆达科技（香港）	TI	1123+	20	SOT23-6
+TPS2553DRVT	from hqew, 吉隆达科技（香港）	TI	1206+	50	QFN
+TPS40040DRBT	from hqew, 吉隆达科技（香港）	TI	1027+	25	QFN-8
+TPS40131RHBR	from hqew, 吉隆达科技（香港）	TI	11+	10	VQFN-32
+TPS54319RTER	from hqew, 吉隆达科技（香港）	TI	1106+	5	QFN
+TPS54383PWPR	from hqew, 吉隆达科技（香港）	TI	1140+	25	HTSSOP14
+TPS61032PWPR	from hqew, 吉隆达科技（香港）	TI	1127+	25	TSSOP16
+TPS63700DRCT	from hqew, 吉隆达科技（香港）	TI	1149+	10	VSON-10
+ULN2003AN	from hqew, 吉隆达科技（香港）	TI	1023+	5	DIP
+1N4730A	from hqew, 吉隆达科技（香港）	FAIRHILD	10+	50	DO-41
+88E1322-A0-BAM2C000	from hqew, 吉隆达科技（香港）	MARVELL	13+	10000	SMD
+88E1518-A0-NNB2C000	from hqew, 吉隆达科技（香港）	MARVELL	13+	10000	SMD
+88E6046-A2-TAH1C000	from hqew, 吉隆达科技（香港）	MARVELL	13+	10000	SMD
+88E6240-A1-TFJ2C000	from hqew, 吉隆达科技（香港）	MARVELL	13+	10000	SMD
+88W8510-BAN1+88W8010-NNB1	from hqew, 吉隆达科技（香港）	MARVELL	13+	10000	SMD
+BC337-25	from hqew, 吉隆达科技（香港）	ON SEMI	13+	20000	TO92
+BC337-25G	from hqew, 吉隆达科技（香港）	ON SEMI	13+	20000	TO92
+BQ32000DR	from hqew, 吉隆达科技（香港）	TI	12+	25	SOIC-8
+DS91M124TMA	from hqew, 吉隆达科技（香港）	TI	1208+	25	SOP-16
+FD0257F	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TS826
+FODM2705R2	from hqew, 吉隆达科技（香港）	FAIRCHILD	13+	10000	SOP-4
+FP103DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP115	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP115KR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP130AK	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP130AKR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP131	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP131D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP131DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP133D-L	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP133DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5001	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8
+FP5003D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5003DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5003T	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-8L
+FP5003TR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-8L
+FP5003XR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5101AX	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5101D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5101DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5102	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5102AXR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5102D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5102DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5102XR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5108	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5108DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5108T	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-8L
+FP5108WR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSSOP-8L
+FP5108X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5108XR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5138BW	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSSOP-8L
+FP5138BWR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSSOP-8L
+FP5139BW	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSSOP-8L
+FP5139DE-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5148XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5201L	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP5202	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP5202LR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP5209	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP5209K	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP5452	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP5452	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5452D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5452DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5452DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5452R	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP5452RR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP5453	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5453	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5453D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5453DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5453R	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP5453RR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP5453X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5462RR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP6101D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6101DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6102	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6102D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6111D-G	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6112	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6112D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6115D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6116D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6116DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6160	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	sot23-5
+FP6160BiR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	tsot23-5
+FP6160BiR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	tsot23-5
+FP6160BiR-LF-ADJ	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	tsot23-5
+FP6160BKR-LF-ADJ	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	sot23-5
+FP6161	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-5
+FP6161	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-6L
+FP6161iR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-5
+FP6161iR-LF-ADJ	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-5
+FP6161KR-LF-ADJ	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP6162	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6162ADGR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6162ADGR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6163	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6163ADXR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6165ADgR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6165ADgR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6166ADdR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6167dR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-12L
+FP6168	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6169XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6172XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6172XR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6173	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6173XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6181gR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6183D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6183DE	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6185	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6186X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6187	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6187D-G	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6187D-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6188XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6188XR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6190	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP6190h	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP6190hR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP6190hR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP6190L	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP6190LR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP6193	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6201DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6280	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP6290	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-8L
+FP6290H	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP6290H	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-8L(E
+FP6290HDR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-8L(E
+FP6290HX	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP6290T	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-8L
+FP6290TE	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-8L
+FP6290TE-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-8L
+FP6292	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP6292i	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-5
+FP6292iR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-5
+FP6293DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-8L
+FP6293DR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-8L
+FP6293XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP701K	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP701KR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP701KR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP702	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP702KR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP7101	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP7102	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP7102D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP7102DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP7102XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP7103	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP7103X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP7151	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP7151K	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP7151KR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP7152AR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT89-5L
+FP7201	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP7201H	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP7202H	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP7202HR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP8102XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP9102-12XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP9102-12XR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP9102-15XR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP9102-18	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+HY27UAG8T2ATR	from hqew, 吉隆达科技（香港）	SK现代	12+	5760	TSSOP
+HY27UCG8T2BTR-BC	from hqew, 吉隆达科技（香港）	SK现代	12+	5760	BGA
+kA3525A	from hqew, 吉隆达科技（香港）	FAIRHILD	12+	600	dip
+MT29F128G08CFAAAWP	from hqew, 吉隆达科技（香港）	镁光Micron	12+	5760	TSSOP
+MT29F128G08CFABAWP	from hqew, 吉隆达科技（香港）	镁光Micron	12+	5760	TSSOP
+MT29F128G08CJABA	from hqew, 吉隆达科技（香港）	镁光Micron	12+	5760	TSSOP
+MT29F32G08CBACAWP	from hqew, 吉隆达科技（香港）	镁光Micron	12+	5760	TSSOP
+MT29F32G08CBACAWP-Z	from hqew, 吉隆达科技（香港）	镁光Micron	12+	5760	TSSOP
+MT29F32G08CBADAWP	from hqew, 吉隆达科技（香港）	镁光Micron	12+	5760	TSSOP
+MT29F64G08CBABAWP	from hqew, 吉隆达科技（香港）	镁光Micron	12+	5760	TSSOP
+MAX2659ELT+T	from hqew, 吉隆达科技（香港）	MAXIM	12+	10	SOP-8
+OPA657NB/250	from hqew, 吉隆达科技（香港）	TI	1101+	10	SOT23-5
+SN65HVD3088ED	from hqew, 吉隆达科技（香港）	TI	1239+	25	SOIC-8
+SN74AC373PWR	from hqew, 吉隆达科技（香港）	TI	12+	50	TSSOP-20
+SN74CBTLV3251DBQR	from hqew, 吉隆达科技（香港）	TI	12+	25	QSOP-16
+TH58TEG7DCJTA20	from hqew, 吉隆达科技（香港）	东芝TOS	12+	1440	TSSOP
+TLV431CDBZR	from hqew, 吉隆达科技（香港）	TI	1113+	20	SOT23-3
+TLV803RDBZT	from hqew, 吉隆达科技（香港）	TI	1131+	25	SOT23
+TLV803SDBZT	from hqew, 吉隆达科技（香港）	TI	1131+	25	SOT-23-3
+TLV803ZDBZT	from hqew, 吉隆达科技（香港）	TI	1119+	25	SOT23-3
+TPS40041DRBT	from hqew, 吉隆达科技（香港）	TI	1023+	25	QFN8
+TPS62080ADSGT	from hqew, 吉隆达科技（香港）	TI	1201+	25	WSON-8
+TPS7A8001DRBR	from hqew, 吉隆达科技（香港）	TI	1027+	5	QFN10
+BQ500210RGZT	from hqew, 吉隆达科技（香港）	TI	1219+	25	VQFN48
+CD74HC154M	from hqew, 吉隆达科技（香港）	TI	1114+	25	SOP-24
+FP103D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP115K	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP115KR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP130	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP130AKR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP5001DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8
+FP5003	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5003	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-8L
+FP5003DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5101ADR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5101ADR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5101AXR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5101XR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5102X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5108DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5138B	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSSOP-8L
+FP5139DE	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5148	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5148D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5148XR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5201LR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP5451	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP5453DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5453XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5454	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5462RR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP6102DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6111	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6111D-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6111DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6112DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6112DR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6118	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	300000	SOP-8
+FP6118XR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	300000	SOP-8
+FP6160BKR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	sot23-5
+FP6161	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP6161dR-LF-ADJ	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-6L
+FP6162ADDR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6162ADDR-G2	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6162ADXR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6163	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6163	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6163ADdR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6163ADgR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6165	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6165	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6165ADdR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6165ADXR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6165ADXR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6167dR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-12L
+FP6173X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6180X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6182DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6183	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6183DE-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6186	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6186gR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6187DR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6187DR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6190	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP6290HXR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP6293	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-8L
+FP6293D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-8L
+FP6293X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP6293XR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP702K	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP703	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP703K	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP703KR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP7101ADR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP7101ADR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP7103D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP7103DE-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP7152	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT89-5L
+FP7201HR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP8103XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP8103XR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP9102-15	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP9102-18X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP9102-18XR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP9102-25	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+H27UAG8T2ATR	from hqew, 吉隆达科技（香港）	SK现代	12+	5760	TSSOP
+H27UAG8T2BTR	from hqew, 吉隆达科技（香港）	SK现代	12+	5760	TSSOP
+H27UBG8T2CTR	from hqew, 吉隆达科技（香港）	SK现代	12+	5760	TSSOP
+JS29F64G08CAMD1	from hqew, 吉隆达科技（香港）	英特尔Int	12+	5760	TSSOP
+K9GBG08U0A	from hqew, 吉隆达科技（香港）	三星SUM	12+	5760	TSSOP
+L4940V5	from hqew, 吉隆达科技（香港）	ST	13+	10000	TO-220
+LMC660AIMX	from hqew, 吉隆达科技（香港）	TI	13+	10000	SOP14
+SN74CBTLV3257RGYR	from hqew, 吉隆达科技（香港）	TI	1223+	75	VQFN-16
+SN74LVC2G08DCUR	from hqew, 吉隆达科技（香港）	TI	1149+	25	VSSOP-8
+SN74LVT16244BDLR	from hqew, 吉隆达科技（香港）	TI	12+	25	SSOP-48
+TC58TEG5DCJTA00	from hqew, 吉隆达科技（香港）	东芝TOS	12+	1440	TSSOP
+THS4513RGTT	from hqew, 吉隆达科技（香港）	TI	1223+	10	QFN
+TPS2051BDBVR	from hqew, 吉隆达科技（香港）	TI	1110+	20	SOT23-5
+TPS22929DDBVR	from hqew, 吉隆达科技（香港）	TI	1136+	25	SOT-23-6
+TPS2456ARHHR	from hqew, 吉隆达科技（香港）	TI	1227+	25	
+TPS54260DGQR	from hqew, 吉隆达科技（香港）	TI	1140+	25	MSOP10
+TPS54260DRCT	from hqew, 吉隆达科技（香港）	TI	12+	25	SON-10
+TPS61085PW	from hqew, 吉隆达科技（香港）	TI	1127+	25	TSSOP-8
+TPS73001DBVT	from hqew, 吉隆达科技（香港）	TI	1149+	10	SOT-23
+TSOP4838	from hqew, 吉隆达科技（香港）	VISHAY	1316	6480	DIP3
+W83L517D	from hqew, 吉隆达科技（香港）	WINBON	812+	180	QFN
+88E1512-A0-NNP2C000	from hqew, 吉隆达科技（香港）	MARVELL	13+	10000	SMD
+88E6161-A2-LGO2C000	from hqew, 吉隆达科技（香港）	MARVELL	13+	10000	SMD
+CSD16403Q5A	from hqew, 吉隆达科技（香港）	TI	1206+	25	QFN8
+FD0259F	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TS827
+FD02H001BA	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT-23
+FP5101	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5101	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5101X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5102	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5102AD	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5102ADR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5102AX	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5108D	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP5108XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L (
+FP5148	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP5451AR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP5451ARR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SSOP-16L
+FP5462	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-16L
+FP6101	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6115	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6115DR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6116DR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6118XR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	300000	SOP-8
+FP6160BKR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	sot23-5
+FP6161dR-	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-6L
+FP6161dR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-6L
+FP6163ADdR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6166	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6168dR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-10L
+FP6169	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6169XR-G1-ADJ	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6172	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6180XR-G1	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6181gR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6186g	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6186gR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	MSOP-10L
+FP6188	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6189	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6201DR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP6290HD	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	DFN-8L(E
+FP6291LR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-6L
+FP6292	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-5
+FP6292hR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP6293	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP703KR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP7101AD	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L
+FP7102	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP7102X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP7102XR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP7151KR	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOT23-5L
+FP7202	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	TSOT23-6
+FP9102-12X	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+FP9102-25XR-LF	from hqew, 吉隆达科技（香港）	FEELING-TECH	13+	10000	SOP-8L(E
+H5TQ2G83CFR-H9C	from hqew, 吉隆达科技（香港）	SK现代	12+	4800	BGA
+H5TQ2G83EFRPBC	from hqew, 吉隆达科技（香港）	SK现代	12+	4800	BGA
+LC77AY-1	from hqew, 吉隆达科技（香港）	日本小松	12+	5000	SMD
+LMH6629MFE/NOPB	from hqew, 吉隆达科技（香港）	TI	12+	25	SOT23-5
+SN65LVDM1676DGG	from hqew, 吉隆达科技（香港）	TI	13+	25	TSSOP-64
+SN74AUC1G04DCKR	from hqew, 吉隆达科技（香港）	TI	12+	25	SC-70-5
+SN74AUP1G04DCKR	from hqew, 吉隆达科技（香港）	TI	11+	50	SC70-5
+SN74LVC1G125DBVR	from hqew, 吉隆达科技（香港）	TI	1140+	25	SOT-23
+THS8200PFP	from hqew, 吉隆达科技（香港）	TI	1210+	20	HTQFP80
+TLC5916IDR	from hqew, 吉隆达科技（香港）	TI	1007+	25	SOP-16
+TPS51116RGET	from hqew, 吉隆达科技（香港）	TI	1036+	100	VQFN24
+TPS54325PWPR	from hqew, 吉隆达科技（香港）	TI	11+	5	HTSSOP-1
+10BQ040TRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	63000	N A
+12CWQ06FNTRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	18000	N A
+16RIA60	from hqew, 吉隆达科技（香港）	Vishay	12+	1000	N A
+17N80C3	from hqew, 吉隆达科技（香港）	INF	05+	2	TO247
+1PS79SB40，115	from hqew, 吉隆达科技（香港）	NXP	12+	48000	N A
+20BQ030TRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	81000	N A
+24C02AB1	from hqew, 吉隆达科技（香港）	ST	03+04+	103	DIP
+24C04CB1	from hqew, 吉隆达科技（香港）	ST	03+	60	DIP
+293D106X9016B2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	114000	N A
+293D106X9035D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	173500	N A
+293D107X9010D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	55000	N A
+293D226X9025C2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	40000	N A
+293D227X0010D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	17000	N A
+293D476X9025E2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	10000	N A
+298D226X06R3M2T	from hqew, 吉隆达科技（香港）	Vishay	12+	4000	N A
+2KBP01M-E4/45	from hqew, 吉隆达科技（香港）	Vishay	12+	9000	N A
+2SC1971	from hqew, 吉隆达科技（香港）	MIT	1E	23	TO-220
+30CPQ150PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	12675	N A
+40CTQ150PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	8850	N A
+593D226X0035E2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	50000	N A
+593D227X96R3D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	4000	N A
+5962-9089902MXA   D28F010	from hqew, 吉隆达科技（香港）	INTEL	1988+	2	DIP
+74AHC14PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	95000	N A
+74AHC1G125GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	84000	N A
+74AHC595PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	120030	N A
+74AHCT245D，118	from hqew, 吉隆达科技（香港）	NXP	12+	10000	N A
+74AUP1G126GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	18000	N A
+74AUP2G02DC，125	from hqew, 吉隆达科技（香港）	NXP	12+	30000	N A
+74HC132N，652	from hqew, 吉隆达科技（香港）	NXP	12+	6691	N A
+74HC132PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	30000	N A
+74HC138D，653	from hqew, 吉隆达科技（香港）	NXP	12+	57500	N A
+74HC139D，653	from hqew, 吉隆达科技（香港）	NXP	12+	22500	N A
+74HC14D，653	from hqew, 吉隆达科技（香港）	NXP	12+	760025	N A
+74HC161N，652	from hqew, 吉隆达科技（香港）	NXP	12+	2000	N A
+74HC164PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	307500	N A
+74HC165D，653	from hqew, 吉隆达科技（香港）	NXP	12+	252500	N A
+74HC175D，653	from hqew, 吉隆达科技（香港）	NXP	12+	22500	N A
+74HC1G14GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	108000	N A
+74HC21D，653	from hqew, 吉隆达科技（香港）	NXP	12+	27550	N A
+74HC2G14GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	927000	N A
+74HC30N，652	from hqew, 吉隆达科技（香港）	NXP	12+	6000	N A
+74HC4017N，652	from hqew, 吉隆达科技（香港）	NXP	12+	2350	N A
+74HC4049D，653	from hqew, 吉隆达科技（香港）	NXP	12+	15000	N A
+74HC4052D，653	from hqew, 吉隆达科技（香港）	NXP	12+	222600	N A
+74HC573D，653	from hqew, 吉隆达科技（香港）	NXP	12+	16000	N A
+74HC594D，118	from hqew, 吉隆达科技（香港）	NXP	12+	67500	N A
+74HC595D，118	from hqew, 吉隆达科技（香港）	NXP	12+	1782500	N A
+74HC595PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	205000	N A
+74HCT08D，653	from hqew, 吉隆达科技（香港）	NXP	12+	100000	N A
+74HCT123D，653	from hqew, 吉隆达科技（香港）	NXP	12+	30000	N A
+74HCT1G125GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	108000	N A
+74HCT245D，653	from hqew, 吉隆达科技（香港）	NXP	12+	200010	N A
+74HCT273D，653	from hqew, 吉隆达科技（香港）	NXP	12+	22000	N A
+74HCT32D，653	from hqew, 吉隆达科技（香港）	NXP	12+	22500	N A
+74HCT374N，652	from hqew, 吉隆达科技（香港）	NXP	12+	6732	N A
+74HCT4066D，118	from hqew, 吉隆达科技（香港）	NXP	12+	25000	N A
+74HCT4514N，652	from hqew, 吉隆达科技（香港）	NXP	12+	2160	N A
+74HCT573D，653	from hqew, 吉隆达科技（香港）	NXP	12+	14000	N A
+74HCT594D，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+74LV165PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	42500	N A
+74LVC00ADB，118	from hqew, 吉隆达科技（香港）	NXP	12+	44000	N A
+74LVC04AD，118	from hqew, 吉隆达科技（香港）	NXP	12+	145000	N A
+74LVC04APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	185000	N A
+74LVC08APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	247500	N A
+74LVC125AD，118	from hqew, 吉隆达科技（香港）	NXP	12+	182500	N A
+74LVC14APW，112	from hqew, 吉隆达科技（香港）	NXP	12+	76208	N A
+74LVC157ADB，118	from hqew, 吉隆达科技（香港）	NXP	12+	12000	N A
+74LVC162245ADGG，11	from hqew, 吉隆达科技（香港）	NXP	12+	18174	N A
+74LVC16374ADGG，118	from hqew, 吉隆达科技（香港）	NXP	12+	12000	N A
+74LVC1G04GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	513000	N A
+74LVC1G07GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	183000	N A
+74LVC245AD，118	from hqew, 吉隆达科技（香港）	NXP	12+	38000	N A
+74LVC2G07GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	90030	N A
+74LVC2G17GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	84000	N A
+74LVC74APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	32520	N A
+74LVCH244APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	40050	N A
+74LVCH32245AEC，518	from hqew, 吉隆达科技（香港）	NXP	12+	3500	N A
+74LVT125PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	15000	N A
+90SQ045	from hqew, 吉隆达科技（香港）	Vishay	12+	21900	N A
+AD202JY	from hqew, 吉隆达科技（香港）	AD	0305+	86	ZIP
+AD8170AR	from hqew, 吉隆达科技（香港）	AD	02+	48	SOP
+B340A-E3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	50400	N A
+BAP64-04，215	from hqew, 吉隆达科技（香港）	NXP	12+	12000	N A
+BAS116H，115	from hqew, 吉隆达科技（香港）	NXP	12+	90000	N A
+BAS40-04，215	from hqew, 吉隆达科技（香港）	NXP	12+	1365000	N A
+BAS45AL，115	from hqew, 吉隆达科技（香港）	NXP	12+	272500	N A
+BAS521，115	from hqew, 吉隆达科技（香港）	NXP	12+	66000	N A
+BAT46WJ，115	from hqew, 吉隆达科技（香港）	NXP	12+	3978000	N A
+BAV23，215	from hqew, 吉隆达科技（香港）	NXP	12+	1077160	N A
+BAV70W，115	from hqew, 吉隆达科技（香港）	NXP	12+	231000	N A
+BC846A，215	from hqew, 吉隆达科技（香港）	NXP	12+	387000	N A
+BC846B，215	from hqew, 吉隆达科技（香港）	NXP	12+	891035	N A
+BC847A，215	from hqew, 吉隆达科技（香港）	NXP	12+	879000	N A
+BC847C，215	from hqew, 吉隆达科技（香港）	NXP	12+	9360000	N A
+BC847CW，115	from hqew, 吉隆达科技（香港）	NXP	12+	1218000	N A
+BC850BW，115	from hqew, 吉隆达科技（香港）	NXP	12+	240000	N A
+BC857，215	from hqew, 吉隆达科技（香港）	NXP	12+	567000	N A
+BC857B，215	from hqew, 吉隆达科技（香港）	NXP	12+	2913000	N A
+BC857BW，115	from hqew, 吉隆达科技（香港）	NXP	12+	555000	N A
+BC868，115	from hqew, 吉隆达科技（香港）	NXP	12+	31000	N A
+BCV47，215	from hqew, 吉隆达科技（香港）	NXP	12+	4119000	N A
+BCX51，115	from hqew, 吉隆达科技（香港）	NXP	12+	43000	N A
+BF512，215	from hqew, 吉隆达科技（香港）	NXP	12+	6000	N A
+BFQ149，115	from hqew, 吉隆达科技（香港）	NXP	12+	8000	N A
+BFS540，115	from hqew, 吉隆达科技（香港）	NXP	12+	9000	N A
+BSH205，215	from hqew, 吉隆达科技（香港）	NXP	12+	63008	N A
+BSM25GD120DN2	from hqew, 吉隆达科技（香港）	EUPEC	&nbsp;	6	MODULE
+BSS123，215	from hqew, 吉隆达科技（香港）	NXP	12+	660000	N A
+BSS64，215	from hqew, 吉隆达科技（香港）	NXP	12+	126000	N A
+BT134-600，127	from hqew, 吉隆达科技（香港）	NXP	12+	275000	N A
+BT139-800，127	from hqew, 吉隆达科技（香港）	NXP	12+	4000	N A
+BTA208S-600F，118	from hqew, 吉隆达科技（香港）	NXP	12+	42500	N A
+BUK215-50Y	from hqew, 吉隆达科技（香港）	PHILIPS	1009+	21	SOT252
+BUK7575-100A，127	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+BUK9606-75B，118	from hqew, 吉隆达科技（香港）	NXP	12+	1610	N A
+BYG23M-E3/TR	from hqew, 吉隆达科技（香港）	Vishay	12+	37800	N A
+BYM10-400-E3/96	from hqew, 吉隆达科技（香港）	Vishay	12+	21000	N A
+BYV26E-TR	from hqew, 吉隆达科技（香港）	Vishay	12+	30000	N A
+BYV27-150-TAP	from hqew, 吉隆达科技（香港）	Vishay	12+	20000	N A
+BYV29X-600，127	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+BZD27C12P-GS08	from hqew, 吉隆达科技（香港）	Vishay	12+	15000	N A
+BZD27C5V6P-GS08	from hqew, 吉隆达科技（香港）	Vishay	12+	75000	N A
+BZG03C33TR	from hqew, 吉隆达科技（香港）	Vishay	12+	312000	N A
+BZT03C240-TR	from hqew, 吉隆达科技（香港）	Vishay	12+	145000	N A
+BZV55-B16，115	from hqew, 吉隆达科技（香港）	NXP	12+	472500	N A
+BZV55-B18，115	from hqew, 吉隆达科技（香港）	NXP	12+	390000	N A
+BZV55-C4V7，115	from hqew, 吉隆达科技（香港）	NXP	12+	155000	N A
+BZV55-C5V1，115	from hqew, 吉隆达科技（香港）	NXP	12+	155000	N A
+BZX384-B18，115	from hqew, 吉隆达科技（香港）	NXP	12+	816000	N A
+BZX384-B9V1，115	from hqew, 吉隆达科技（香港）	NXP	12+	168000	N A
+BZX585-B5V6，115	from hqew, 吉隆达科技（香港）	NXP	12+	1746000	N A
+BZX585-C39，115	from hqew, 吉隆达科技（香港）	NXP	12+	159000	N A
+BZX585-C4V3，115	from hqew, 吉隆达科技（香港）	NXP	12+	48000	N A
+BZX79-C30，133	from hqew, 吉隆达科技（香港）	NXP	12+	200000	N A
+BZX84-C10，215	from hqew, 吉隆达科技（香港）	NXP	12+	867000	N A
+BZX84-C11，215	from hqew, 吉隆达科技（香港）	NXP	12+	195000	N A
+BZX84-C43，215	from hqew, 吉隆达科技（香港）	NXP	12+	528040	N A
+BZX84-C4V7，215	from hqew, 吉隆达科技（香港）	NXP	12+	903000	N A
+BZX84-C5V6，215	from hqew, 吉隆达科技（香港）	NXP	12+	891025	N A
+CNS471B5	from hqew, 吉隆达科技（香港）	Vishay	12+	890	N A
+CNY65	from hqew, 吉隆达科技（香港）	Vishay	12+	3550	N A
+COP8SGE728M8	from hqew, 吉隆达科技（香港）	NS	01+	81	SOP
+DG211BDY-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	13250	N A
+DG408DY-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	11549	N A
+DG441DY-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	10899	N A
+EDF1BS-E3/77	from hqew, 吉隆达科技（香港）	Vishay	12+	4500	N A
+EGP50G-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	4200	N A
+ES1D-E3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	133200	N A
+ES3D-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	189550	N A
+FEP16GT-E3/45	from hqew, 吉隆达科技（香港）	Vishay	12+	9679	N A
+FQPF2N60C	from hqew, 吉隆达科技（香港）	FAIRCHILD	&nbsp;	9	TO220
+GBU8K-E3/51	from hqew, 吉隆达科技（香港）	Vishay	12+	23500	N A
+GP02-30-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	44000	N A
+GTL2107PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	190000	N A
+HEF40106BP，652	from hqew, 吉隆达科技（香港）	NXP	12+	7499	N A
+HEF4021BT，652	from hqew, 吉隆达科技（香港）	NXP	12+	12300	N A
+HEF4023BP，652	from hqew, 吉隆达科技（香港）	NXP	12+	3725	N A
+HEF4094BT，653	from hqew, 吉隆达科技（香港）	NXP	12+	125000	N A
+HEF4528BP，652	from hqew, 吉隆达科技（香港）	NXP	12+	2000	N A
+HM628512ALFP-7	from hqew, 吉隆达科技（香港）	HI	0329+	40	SOP
+HY628400ALLG-70	from hqew, 吉隆达科技（香港）	HY	0316+	352	SOP
+HYB39S128160CT-7.5	from hqew, 吉隆达科技（香港）	INFINE	0120+	61	TSOP
+ICTE5-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	19600	N A
+IHLP2020BZER1R0M01	from hqew, 吉隆达科技（香港）	Vishay	12+	92000	N A
+IL410-X019T	from hqew, 吉隆达科技（香港）	Vishay	12+	3000	N A
+IL4218	from hqew, 吉隆达科技（香港）	Vishay	12+	8950	N A
+ILD217T	from hqew, 吉隆达科技（香港）	Vishay	12+	6000	N A
+IP4220CZ6，125	from hqew, 吉隆达科技（香港）	NXP	12+	1140000	N A
+IP4294CZ10-TBR，115	from hqew, 吉隆达科技（香港）	NXP	12+	90000	N A
+IP4776CZ38，118	from hqew, 吉隆达科技（香港）	NXP	12+	22500	N A
+IRF530PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	26234	N A
+IRF640PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	150	N A
+IRFL9014TRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	177500	N A
+IRFPE50PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	10029	N A
+IRFR9014TRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	106000	N A
+IRFU420PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	15575	N A
+IRLD024PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	26500	N A
+ISL9R3060P2	from hqew, 吉隆达科技（香港）	FAIRCHILD	AY	1000	TO220
+KTY82/210，215	from hqew, 吉隆达科技（香港）	NXP	12+	72000	N A
+LL4148-GS08	from hqew, 吉隆达科技（香港）	Vishay	12+	65000	N A
+LM1117DT-ADJ	from hqew, 吉隆达科技（香港）	NS	03+	9	TO252
+LM124AJ/883QS	from hqew, 吉隆达科技（香港）	NSC	&nbsp;	73	CDIP14
+LM2902M	from hqew, 吉隆达科技（香港）	NS	08+	300	SOP
+LM75ADP，118	from hqew, 吉隆达科技（香港）	NXP	12+	87500	N A
+LM75BTP，147	from hqew, 吉隆达科技（香港）	NXP	12+	688000	N A
+LPC1113FBD48/302，1	from hqew, 吉隆达科技（香港）	NXP	12+	1250	N A
+LPC1114FBD48/301，1	from hqew, 吉隆达科技（香港）	NXP	12+	3670	N A
+LPC1114FHN33/301，5	from hqew, 吉隆达科技（香港）	NXP	12+	28980	N A
+LPC11C14FBD48/301，	from hqew, 吉隆达科技（香港）	NXP	12+	10750	N A
+LPC1754FBD80，518	from hqew, 吉隆达科技（香港）	NXP	12+	2000	N A
+LPC1768FBD100，551	from hqew, 吉隆达科技（香港）	NXP	12+	8820	N A
+LPC2101FBD48，151	from hqew, 吉隆达科技（香港）	NXP	12+	1755	N A
+LPC2103FBD48，151	from hqew, 吉隆达科技（香港）	NXP	12+	27054	N A
+LPC2109FBD64/01，15	from hqew, 吉隆达科技（香港）	NXP	12+	2240	N A
+LPC2132FBD64/01，15	from hqew, 吉隆达科技（香港）	NXP	12+	8160	N A
+LPC2214FBD144/01，5	from hqew, 吉隆达科技（香港）	NXP	12+	15000	N A
+LPC2368FET100，518	from hqew, 吉隆达科技（香港）	NXP	12+	1000	N A
+LPC3240FET296/01，5	from hqew, 吉隆达科技（香港）	NXP	12+	3780	N A
+LTC1605CSW	from hqew, 吉隆达科技（香港）	LT	0404+	6	SOP
+MCL4448-TR	from hqew, 吉隆达科技（香港）	Vishay	12+	175000	N A
+MFRC52201HN1，151	from hqew, 吉隆达科技（香港）	NXP	12+	23030	N A
+MLV0603E32503T	from hqew, 吉隆达科技（香港）	Vishay	12+	292000	N A
+MMA02040C1508FB300	from hqew, 吉隆达科技（香港）	Vishay	12+	96000	N A
+MAX4623ESE	from hqew, 吉隆达科技（香港）	MAX	0927+	50	SOP16
+NTCLE100E3682HB0	from hqew, 吉隆达科技（香港）	Vishay	12+	54000	N A
+P6KE200A-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	100000	N A
+P6KE51CA-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	164000	N A
+P80C32X2BA，512	from hqew, 吉隆达科技（香港）	NXP	12+	5226	N A
+P87C51MB2BA/02，529	from hqew, 吉隆达科技（香港）	NXP	12+	3354	N A
+P87C51RB2BBD，157	from hqew, 吉隆达科技（香港）	NXP	12+	2400	N A
+P87C58X2FA，512	from hqew, 吉隆达科技（香港）	NXP	12+	6266	N A
+P87LPC767FD，512	from hqew, 吉隆达科技（香港）	NXP	12+	2052	N A
+P89LPC924FDH，518	from hqew, 吉隆达科技（香港）	NXP	12+	2510	N A
+PB5006-E3/45	from hqew, 吉隆达科技（香港）	Vishay	12+	3820	N A
+PBSS4041NT，215	from hqew, 吉隆达科技（香港）	NXP	12+	45000	N A
+PC89C	from hqew, 吉隆达科技（香港）	SHARP	&nbsp;	3	DIP4
+PCA82C250T/YM，118	from hqew, 吉隆达科技（香港）	NXP	12+	70000	N A
+PCA8550PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	7500	N A
+PCA9511ADP，118	from hqew, 吉隆达科技（香港）	NXP	12+	47500	N A
+PCA9516APW，112	from hqew, 吉隆达科技（香港）	NXP	12+	2400	N A
+PCA9516APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	17500	N A
+PCA9517ADP，118	from hqew, 吉隆达科技（香港）	NXP	12+	60000	N A
+PCA9535PW，112	from hqew, 吉隆达科技（香港）	NXP	12+	15183	N A
+PCA9535PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	17500	N A
+PCA9538BS，118	from hqew, 吉隆达科技（香港）	NXP	12+	6000	N A
+PCA9540BDP，118	from hqew, 吉隆达科技（香港）	NXP	12+	35000	N A
+PCA9553DP/02，118	from hqew, 吉隆达科技（香港）	NXP	12+	10000	N A
+PCA9554PW，112	from hqew, 吉隆达科技（香港）	NXP	12+	9312	N A
+PCA9556PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	2500	N A
+PCA9557PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+PCA9575PW2，118	from hqew, 吉隆达科技（香港）	NXP	12+	25000	N A
+PCA9634PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	7500	N A
+PCF85134HL/1，118	from hqew, 吉隆达科技（香港）	NXP	12+	14010	N A
+PCF85176H/1，518	from hqew, 吉隆达科技（香港）	NXP	12+	42010	N A
+PCF8563TS/4，118	from hqew, 吉隆达科技（香港）	NXP	12+	195005	N A
+PCF8563TS/5，118	from hqew, 吉隆达科技（香港）	NXP	12+	30000	N A
+PCF8574T/3，518	from hqew, 吉隆达科技（香港）	NXP	12+	225010	N A
+PCF8591T/2，512	from hqew, 吉隆达科技（香港）	NXP	12+	1296	N A
+PESD15VL1BA，115	from hqew, 吉隆达科技（香港）	NXP	12+	48000	N A
+PESD5V0S1BB，115	from hqew, 吉隆达科技（香港）	NXP	12+	69000	N A
+PESD5V0S2BT，215	from hqew, 吉隆达科技（香港）	NXP	12+	33000	N A
+PESD5V0U1BB，115	from hqew, 吉隆达科技（香港）	NXP	12+	639000	N A
+PHC21025，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+PHT4NQ10LT，135	from hqew, 吉隆达科技（香港）	NXP	12+	28135	N A
+PHT6N06LT，135	from hqew, 吉隆达科技（香港）	NXP	12+	24000	N A
+PHT6N06T，135	from hqew, 吉隆达科技（香港）	NXP	12+	40000	N A
+PMBT3904，215	from hqew, 吉隆达科技（香港）	NXP	12+	1179040	N A
+PMBTA06，215	from hqew, 吉隆达科技（香港）	NXP	12+	336000	N A
+PMEG2010EA，115	from hqew, 吉隆达科技（香港）	NXP	12+	102000	N A
+PMEG3020CEP，115	from hqew, 吉隆达科技（香港）	NXP	12+	48000	N A
+PMEG4002EB，115	from hqew, 吉隆达科技（香港）	NXP	12+	51000	N A
+PMEG4010EH，115	from hqew, 吉隆达科技（香港）	NXP	12+	258000	N A
+PMK30EP，518	from hqew, 吉隆达科技（香港）	NXP	12+	7500	N A
+PMLL4148L，115	from hqew, 吉隆达科技（香港）	NXP	12+	1400000	N A
+PMST2222A，115	from hqew, 吉隆达科技（香港）	NXP	12+	2577000	N A
+PMZ270XN，315	from hqew, 吉隆达科技（香港）	NXP	12+	20000	N A
+PRF949，115	from hqew, 吉隆达科技（香港）	NXP	12+	27000	N A
+PRTR5V0U2F，115	from hqew, 吉隆达科技（香港）	NXP	12+	25000	N A
+PSMN015-100B，118	from hqew, 吉隆达科技（香港）	NXP	12+	2400	N A
+PSMN130-200D，118	from hqew, 吉隆达科技（香港）	NXP	12+	10000	N A
+PSMN1R3-30YL，115	from hqew, 吉隆达科技（香港）	NXP	12+	54000	N A
+PSMN7R0-30YL，115	from hqew, 吉隆达科技（香港）	NXP	12+	22500	N A
+PXT2222A，115	from hqew, 吉隆达科技（香港）	NXP	12+	269000	N A
+PXTA92，115	from hqew, 吉隆达科技（香港）	NXP	12+	14000	N A
+R4553A	from hqew, 吉隆达科技（香港）	RPSON	0619+	10	SOP
+RS1J-E3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	729000	N A
+RWM04101R20JR15E1	from hqew, 吉隆达科技（香港）	Vishay	12+	19000	N A
+S1A-E3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	144000	N A
+SAA1064T/N2，112	from hqew, 吉隆达科技（香港）	NXP	12+	15960	N A
+SC16C550BIB48，151	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+SC28L92A1B，557	from hqew, 吉隆达科技（香港）	NXP	12+	29088	N A
+SCC2691AC1D24，512	from hqew, 吉隆达科技（香港）	NXP	12+	1140	N A
+SCC2692AE1A44，518	from hqew, 吉隆达科技（香港）	NXP	12+	25000	N A
+SCC68681C1A44，512	from hqew, 吉隆达科技（香港）	NXP	12+	4316	N A
+SF1600-TAP	from hqew, 吉隆达科技（香港）	Vishay	12+	175000	N A
+SG2003J/883B	from hqew, 吉隆达科技（香港）	LT	03+	2	DIP
+SI1912EDH-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	558000	N A
+SI2302DS，215	from hqew, 吉隆达科技（香港）	NXP	12+	36000	N A
+SI2305DS-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	48000	N A
+SI2307BDS-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	9000	N A
+SI2309CDS-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	36000	N A
+SI3458BDV-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	84000	N A
+SI4420BDY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	45000	N A
+SI4425DDY-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	15000	N A
+SI4532CDY-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	102500	N A
+SI4559ADY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	30000	N A
+SI4835DDY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	15000	N A
+SI4850	from hqew, 吉隆达科技（香港）	VISHAY	98+	1800	SOP8
+SI4850EY-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	32500	N A
+SI4866BDY-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	7500	N A
+SI4948BEY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	227500	N A
+SI6925ADQ-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	12000	N A
+SI7462DP-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	6000	N A
+SI7884BDP-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	45000	N A
+SI7904BDN-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	12000	N A
+SI9435BDY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	37500	N A
+SI9945BDY-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	100000	N A
+SIS651	from hqew, 吉隆达科技（香港）	SIS	04+	542	BGA
+SL44-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	22950	N A
+SMAJ10A-E3/61	from hqew, 吉隆达科技（香港）	Vishay	12+	225000	N A
+SMAJ5.0A-E3/61	from hqew, 吉隆达科技（香港）	Vishay	12+	37800	N A
+SMBJ16A-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	45000	N A
+SMBJ18CA-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	114750	N A
+SMBJ43A-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	127500	N A
+SMBJ5.0AHE3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	13500	N A
+SMBJ5.0CA-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	140250	N A
+SMBJ6.0A-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	80250	N A
+SMBJ6.5CA-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	298500	N A
+SMCJ15A-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	34000	N A
+SMCJ24CA-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	51000	N A
+SMCJ6.0A-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	24650	N A
+SQ2319ES-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	51000	N A
+SQ2328ES-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	27000	N A
+SQD19P06-60L-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	12000	N A
+SS26-E3/52T	from hqew, 吉隆达科技（香港）	Vishay	12+	121500	N A
+SS36-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	112200	N A
+SSB43L-E3/52T	from hqew, 吉隆达科技（香港）	Vishay	12+	47250	N A
+SSL2101T/N1，518	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+SSL21083T/1，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+SUD50P04-15-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	86000	N A
+SUD50P06-15-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	8000	N A
+T83B106K025ESBL	from hqew, 吉隆达科技（香港）	Vishay	12+	4000	N A
+TCA3727G	from hqew, 吉隆达科技（香港）	SIEMENS	0724+	119	SOP
+TCLT1003	from hqew, 吉隆达科技（香港）	Vishay	12+	3000	N A
+TCMT1600	from hqew, 吉隆达科技（香港）	Vishay	12+	33000	N A
+TCMT4100	from hqew, 吉隆达科技（香港）	Vishay	12+	10000	N A
+TDA8020HL/C2，118	from hqew, 吉隆达科技（香港）	NXP	12+	12000	N A
+TDA8026ET/C2，518	from hqew, 吉隆达科技（香港）	NXP	12+	1400	N A
+TDA8953J/N1，112	from hqew, 吉隆达科技（香港）	NXP	12+	2592	N A
+TDSO1150	from hqew, 吉隆达科技（香港）	Vishay	12+	8000	N A
+TEA101T	from hqew, 吉隆达科技（香港）	PHILIPS	0324+	4	SOP
+TEMT6200FX01	from hqew, 吉隆达科技（香港）	Vishay	12+	54000	N A
+TFDU4301-TR1	from hqew, 吉隆达科技（香港）	Vishay	12+	8250	N A
+TH5E106K021A1000	from hqew, 吉隆达科技（香港）	Vishay	12+	800	N A
+TJA1055T/3/CM，118	from hqew, 吉隆达科技（香港）	NXP	12+	2500	N A
+TL431AMFDT，215	from hqew, 吉隆达科技（香港）	NXP	12+	81000	N A
+TL431AQDBZR，215	from hqew, 吉隆达科技（香港）	NXP	12+	168000	N A
+TL431IDBZR，215	from hqew, 吉隆达科技（香港）	NXP	12+	39000	N A
+TSUS5402	from hqew, 吉隆达科技（香港）	Vishay	12+	1539600	N A
+UBA2028T/N1，518	from hqew, 吉隆达科技（香港）	NXP	12+	10000	N A
+UC3879N	from hqew, 吉隆达科技（香港）	TI	0249+	5	DIP20
+UC3906N	from hqew, 吉隆达科技（香港）	TI	0212+	279	DIP
+UDA1345TS/N2，118	from hqew, 吉隆达科技（香港）	NXP	12+	12000	N A
+US1J-E3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	658800	N A
+VO4256H-X007T	from hqew, 吉隆达科技（香港）	Vishay	12+	14000	N A
+VR25000002204FA100	from hqew, 吉隆达科技（香港）	Vishay	12+	228000	N A
+VR37000003304FA100	from hqew, 吉隆达科技（香港）	Vishay	12+	141000	N A
+W60NE10	from hqew, 吉隆达科技（香港）	ST	05+	13	TO247
+XC4010XL-PQ208C	from hqew, 吉隆达科技（香港）	XILINX	0321+	10	QFP
+XCS20-3TQ144C	from hqew, 吉隆达科技（香港）	XILINX	0445+	10	QFP
+ZC410645CFU	from hqew, 吉隆达科技（香港）	MOTOROLA	9807+	135	QFP
+ZUW60512	from hqew, 吉隆达科技（香港）	COSEL	&nbsp;	33	DIP
+1.5KE180A-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	21000	N A
+10BQ100TRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	21000	N A
+1N4148，113	from hqew, 吉隆达科技（香港）	NXP	12+	3990000	N A
+1N4148WS-E3-08	from hqew, 吉隆达科技（香港）	Vishay	12+	225000	N A
+24C02CB1	from hqew, 吉隆达科技（香港）	ST	04+	70	DIP
+293D106X9025D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	133000	N A
+293D106X9050E2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	22400	N A
+293D107X9010C2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	14000	N A
+293D107X9020E2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	56000	N A
+293D157X9016E2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	36800	N A
+293D336X9025E2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	9600	N A
+293D475X0035D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	57500	N A
+2N7002，215	from hqew, 吉隆达科技（香港）	NXP	12+	2172000	N A
+2SC1972	from hqew, 吉隆达科技（香港）	MIT	08+	25	TO220
+2SD2401	from hqew, 吉隆达科技（香港）	SANKEN	7DY	3	ZIP
+30BQ040TRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	45000	N A
+30BQ060TRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	36000	N A
+40CPQ045PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	4425	N A
+40CPQ060PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	3000	N A
+47C647F-GA24	from hqew, 吉隆达科技（香港）	TOSHIBA	9806+	28	QFP
+50WQ06FNPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	6915	N A
+593D157X9010D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	44500	N A
+593D226X9025D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	112500	N A
+593D227X9010E2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	44800	N A
+593D336X9016B2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	400000	N A
+593D685X9050D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	48500	N A
+74AHC125PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	17500	N A
+74AHC1G04GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	666070	N A
+74AHC1G08GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	69000	N A
+74AHC245PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	15000	N A
+74AHC595D，118	from hqew, 吉隆达科技（香港）	NXP	12+	12500	N A
+74AHCT1G08GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	93000	N A
+74AHCT1G14GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	180000	N A
+74AHCT244PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	20000	N A
+74AHCT2G125DC，125	from hqew, 吉隆达科技（香港）	NXP	12+	6000	N A
+74ALVC125D，118	from hqew, 吉隆达科技（香港）	NXP	12+	12500	N A
+74ALVC164245DGG:11	from hqew, 吉隆达科技（香港）	NXP	12+	38000	N A
+74ALVCH16244DGG:11	from hqew, 吉隆达科技（香港）	NXP	12+	10000	N A
+74ALVCH16245DGG，11	from hqew, 吉隆达科技（香港）	NXP	12+	6000	N A
+74AUP1G74GM，125	from hqew, 吉隆达科技（香港）	NXP	12+	8000	N A
+74HC00D，653	from hqew, 吉隆达科技（香港）	NXP	12+	187500	N A
+74HC04D，653	from hqew, 吉隆达科技（香港）	NXP	12+	105000	N A
+74HC14D，652	from hqew, 吉隆达科技（香港）	NXP	12+	22540	N A
+74HC154D，652	from hqew, 吉隆达科技（香港）	NXP	12+	12030	N A
+74HC165BQ，115	from hqew, 吉隆达科技（香港）	NXP	12+	30000	N A
+74HC165D，652	from hqew, 吉隆达科技（香港）	NXP	12+	20500	N A
+74HC244N，652	from hqew, 吉隆达科技（香港）	NXP	12+	3471	N A
+74HC251N，652	from hqew, 吉隆达科技（香港）	NXP	12+	4000	N A
+74HC373N，652	from hqew, 吉隆达科技（香港）	NXP	12+	8892	N A
+74HC4053PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	30000	N A
+74HC4066PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	22510	N A
+74HC4075D，653	from hqew, 吉隆达科技（香港）	NXP	12+	12500	N A
+74HC4094D，653	from hqew, 吉隆达科技（香港）	NXP	12+	82500	N A
+74HC540D，653	from hqew, 吉隆达科技（香港）	NXP	12+	18000	N A
+74HC541D，653	from hqew, 吉隆达科技（香港）	NXP	12+	28000	N A
+74HC574D，652	from hqew, 吉隆达科技（香港）	NXP	12+	11742	N A
+74HCT14D，653	from hqew, 吉隆达科技（香港）	NXP	12+	110015	N A
+74HCT154D，653	from hqew, 吉隆达科技（香港）	NXP	12+	12000	N A
+74HCT244PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	55000	N A
+74HCT245PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	100040	N A
+74HCT640N，652	from hqew, 吉隆达科技（香港）	NXP	12+	1170	N A
+74HCT7541D，118	from hqew, 吉隆达科技（香港）	NXP	12+	4000	N A
+74HCT9046AD，118	from hqew, 吉隆达科技（香港）	NXP	12+	7500	N A
+74LV4066PW，112	from hqew, 吉隆达科技（香港）	NXP	12+	10368	N A
+74LVC1G00GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	792000	N A
+74LVC1G08GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	105000	N A
+74LVC1G08GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	831000	N A
+74LVC1G125GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	216010	N A
+74LVC1G14GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	183050	N A
+74LVC1G17GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	129000	N A
+74LVC1G17GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	819000	N A
+74LVC1G3157GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	55296	N A
+74LVC1GU04GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	69000	N A
+74LVC245APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	510090	N A
+74LVC273D，118	from hqew, 吉隆达科技（香港）	NXP	12+	16000	N A
+74LVC2G14GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	54000	N A
+74LVC2G34GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	27000	N A
+74LVC32AD，118	from hqew, 吉隆达科技（香港）	NXP	12+	20000	N A
+74LVC4245APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	65000	N A
+74LVC573APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	35000	N A
+74LVC841APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+74LVCH16245ADL，118	from hqew, 吉隆达科技（香港）	NXP	12+	7000	N A
+74LVCH1T45GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	93000	N A
+74LVT245PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	60000	N A
+8EWF06STRLPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	18000	N A
+A42MX09-VQ100I	from hqew, 吉隆达科技（香港）	ACT	0123+	4	QFP
+APT8075BN	from hqew, 吉隆达科技（香港）	APT	04+	12	TO247
+BAS19，215	from hqew, 吉隆达科技（香港）	NXP	12+	1632000	N A
+BAS21，215	from hqew, 吉隆达科技（香港）	NXP	12+	717000	N A
+BAS321，115	from hqew, 吉隆达科技（香港）	NXP	12+	1974015	N A
+BAS40-05，215	from hqew, 吉隆达科技（香港）	NXP	12+	714000	N A
+BAS516，115	from hqew, 吉隆达科技（香港）	NXP	12+	2283000	N A
+BAS70，215	from hqew, 吉隆达科技（香港）	NXP	12+	105000	N A
+BAS70-07，215	from hqew, 吉隆达科技（香港）	NXP	12+	66000	N A
+BAT54，215	from hqew, 吉隆达科技（香港）	NXP	12+	3549000	N A
+BAT721C，215	from hqew, 吉隆达科技（香港）	NXP	12+	1665040	N A
+BAT754C，215	from hqew, 吉隆达科技（香港）	NXP	12+	411000	N A
+BAV170，215	from hqew, 吉隆达科技（香港）	NXP	12+	63000	N A
+BAV99W，115	from hqew, 吉隆达科技（香港）	NXP	12+	1152000	N A
+BC849C，215	from hqew, 吉隆达科技（香港）	NXP	12+	183000	N A
+BC856B，215	from hqew, 吉隆达科技（香港）	NXP	12+	897000	N A
+BC859B，215	from hqew, 吉隆达科技（香港）	NXP	12+	261000	N A
+BCP54-16，115	from hqew, 吉隆达科技（香港）	NXP	12+	186000	N A
+BCP55-16，115	from hqew, 吉隆达科技（香港）	NXP	12+	69000	N A
+BCW61D，215	from hqew, 吉隆达科技（香港）	NXP	12+	2241000	N A
+BCX17，215	from hqew, 吉隆达科技（香港）	NXP	12+	1059000	N A
+BCX52，115	from hqew, 吉隆达科技（香港）	NXP	12+	51000	N A
+BCX53，115	from hqew, 吉隆达科技（香港）	NXP	12+	139005	N A
+BCX55，115	from hqew, 吉隆达科技（香港）	NXP	12+	384000	N A
+BCX71H，215	from hqew, 吉隆达科技（香港）	NXP	12+	528000	N A
+BCX71K，215	from hqew, 吉隆达科技（香港）	NXP	12+	144000	N A
+BF545A，215	from hqew, 吉隆达科技（香港）	NXP	12+	6000	N A
+BFQ67W，115	from hqew, 吉隆达科技（香港）	NXP	12+	129000	N A
+BPW41N	from hqew, 吉隆达科技（香港）	Vishay	12+	42000	N A
+BSP130，115	from hqew, 吉隆达科技（香港）	NXP	12+	11000	N A
+BSS84，215	from hqew, 吉隆达科技（香港）	NXP	12+	402000	N A
+BT139X-600F，127	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+BT148W-600R，115	from hqew, 吉隆达科技（香港）	NXP	12+	17000	N A
+BT152-400R，127	from hqew, 吉隆达科技（香港）	NXP	12+	6000	N A
+BTS130	from hqew, 吉隆达科技（香港）	INF	&nbsp;	10	TO220
+BTS282Z	from hqew, 吉隆达科技（香港）	INFINEON	GA927	7	TO220
+BU931ZP	from hqew, 吉隆达科技（香港）	ST	93+	29	TO-3P
+BUF634U	from hqew, 吉隆达科技（香港）	BB	0449+	182	SOP
+BUK7107-55ATE，118	from hqew, 吉隆达科技（香港）	NXP	12+	4000	N A
+BUK7240-100A，118	from hqew, 吉隆达科技（香港）	NXP	12+	10000	N A
+BUK7620-100A，118	from hqew, 吉隆达科技（香港）	NXP	12+	12800	N A
+BUK98180-100A，115	from hqew, 吉隆达科技（香港）	NXP	12+	9000	N A
+BUL44G	from hqew, 吉隆达科技（香港）	ON SEMI	0527+	29	TO220
+BUT34	from hqew, 吉隆达科技（香港）	MOTO	0324+	90	CAN
+BYG20J-E3/TR	from hqew, 吉隆达科技（香港）	Vishay	12+	232200	N A
+BYM10-50-E3/96	from hqew, 吉隆达科技（香港）	Vishay	12+	27000	N A
+BYS10-45-E3/TR	from hqew, 吉隆达科技（香港）	Vishay	12+	70200	N A
+BYW29EX-200，127	from hqew, 吉隆达科技（香港）	NXP	12+	10000	N A
+BZA856AVL，115	from hqew, 吉隆达科技（香港）	NXP	12+	63000	N A
+BZB784-C7V5，115	from hqew, 吉隆达科技（香港）	NXP	12+	105000	N A
+BZG03C13TR	from hqew, 吉隆达科技（香港）	Vishay	12+	891000	N A
+BZG03C24TR	from hqew, 吉隆达科技（香港）	Vishay	12+	34500	N A
+BZV55-B13，115	from hqew, 吉隆达科技（香港）	NXP	12+	387500	N A
+BZV55-B39，115	from hqew, 吉隆达科技（香港）	NXP	12+	240000	N A
+BZV55-C10，115	from hqew, 吉隆达科技（香港）	NXP	12+	297500	N A
+BZV55-C36，115	from hqew, 吉隆达科技（香港）	NXP	12+	147510	N A
+BZV55-C5V6，115	from hqew, 吉隆达科技（香港）	NXP	12+	140000	N A
+BZV55-C6V2，115	from hqew, 吉隆达科技（香港）	NXP	12+	137600	N A
+BZX384-B7V5，115	from hqew, 吉隆达科技（香港）	NXP	12+	126000	N A
+BZX79-C16，133	from hqew, 吉隆达科技（香港）	NXP	12+	160000	N A
+BZX79-C5V1，133	from hqew, 吉隆达科技（香港）	NXP	12+	360000	N A
+BZX84-B18，215	from hqew, 吉隆达科技（香港）	NXP	12+	219000	N A
+BZX84-C12，215	from hqew, 吉隆达科技（香港）	NXP	12+	555000	N A
+BZX84-C15，215	from hqew, 吉隆达科技（香港）	NXP	12+	315000	N A
+BZX84-C16，215	from hqew, 吉隆达科技（香港）	NXP	12+	351000	N A
+BZX84-C2V4，215	from hqew, 吉隆达科技（香港）	NXP	12+	603000	N A
+BZX84-C2V7，215	from hqew, 吉隆达科技（香港）	NXP	12+	165000	N A
+BZX84-C30，215	from hqew, 吉隆达科技（香港）	NXP	12+	117000	N A
+BZX84-C6V2，215	from hqew, 吉隆达科技（香港）	NXP	12+	183030	N A
+BZX84-C6V8，215	from hqew, 吉隆达科技（香港）	NXP	12+	357000	N A
+BZX84-C8V2，215	from hqew, 吉隆达科技（香港）	NXP	12+	411000	N A
+BZX85C43-TR	from hqew, 吉隆达科技（香港）	Vishay	12+	205000	N A
+CD3314EO	from hqew, 吉隆达科技（香港）	CSC	06+	4	SOP
+CF70200NW	from hqew, 吉隆达科技（香港）	TI	0551+	56	DIP
+CRCW2010100KJNEF	from hqew, 吉隆达科技（香港）	Vishay	12+	576000	N A
+CRCW2512200RJNEG	from hqew, 吉隆达科技（香港）	Vishay	12+	418000	N A
+CRCW2512270RJNEG	from hqew, 吉隆达科技（香港）	Vishay	12+	176000	N A
+CS8412-CS	from hqew, 吉隆达科技（香港）	CS	0026+	102	SOP
+DF04S-E3/77	from hqew, 吉隆达科技（香港）	Vishay	12+	1500	N A
+DG412DY-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	14300	N A
+DG417DY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	12500	N A
+EPF6024AQC204-1	from hqew, 吉隆达科技（香港）	ALTERA	0219+	48	QFP
+FZL4141D	from hqew, 吉隆达科技（香港）	SIEMENS	&nbsp;	44	DIP-18
+GBPC3508W-E4/51	from hqew, 吉隆达科技（香港）	Vishay	12+	7700	N A
+GBU6J-E3/51	from hqew, 吉隆达科技（香港）	Vishay	12+	21746	N A
+GL41G-E3/96	from hqew, 吉隆达科技（香港）	Vishay	12+	126000	N A
+GL41Y-E3/96	from hqew, 吉隆达科技（香港）	Vishay	12+	316500	N A
+HD614080S	from hqew, 吉隆达科技（香港）	HI	C35+	35	DIP
+HEF4002BP，652	from hqew, 吉隆达科技（香港）	NXP	12+	4775	N A
+HEF40244BT，653	from hqew, 吉隆达科技（香港）	NXP	12+	2000	N A
+HEF4049BP，652	from hqew, 吉隆达科技（香港）	NXP	12+	3075	N A
+HEF4104BT，653	from hqew, 吉隆达科技（香港）	NXP	12+	7500	N A
+HEF4521BT，653	from hqew, 吉隆达科技（香港）	NXP	12+	7500	N A
+HN27C4096AHCC-85	from hqew, 吉隆达科技（香港）	HITACHI	9844+	13	QFP
+IL300-DEFG	from hqew, 吉隆达科技（香港）	Vishay	12+	1600	N A
+ILD206T	from hqew, 吉隆达科技（香港）	Vishay	12+	8000	N A
+ILD256T	from hqew, 吉隆达科技（香港）	Vishay	12+	6000	N A
+IRF9640STRLPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	8000	N A
+IRFBE30PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	4650	N A
+IRFBF20STRLPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	22400	N A
+IRFD9014PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	41100	N A
+IRFL9110TRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	7500	N A
+IRFP360PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	15100	N A
+IRFP9240PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	11900	N A
+K3023P	from hqew, 吉隆达科技（香港）	Vishay	12+	38730	N A
+KBL06-E4/51	from hqew, 吉隆达科技（香港）	Vishay	12+	12960	N A
+LD6806TD/30H，125	from hqew, 吉隆达科技（香港）	NXP	12+	12000	N A
+LH1546ADFTR	from hqew, 吉隆达科技（香港）	Vishay	12+	8000	N A
+LM75AD，118	from hqew, 吉隆达科技（香港）	NXP	12+	132500	N A
+LPC1111FHN33/102，5	from hqew, 吉隆达科技（香港）	NXP	12+	1560	N A
+LPC1112FHN33/101，5	from hqew, 吉隆达科技（香港）	NXP	12+	1300	N A
+LPC1112FHN33/201，5	from hqew, 吉隆达科技（香港）	NXP	12+	2600	N A
+LPC1114FHN33/302，5	from hqew, 吉隆达科技（香港）	NXP	12+	4000	N A
+LPC1224FBD48/101，1	from hqew, 吉隆达科技（香港）	NXP	12+	1000	N A
+LPC1343FHN33，551	from hqew, 吉隆达科技（香港）	NXP	12+	25740	N A
+LPC1756FBD80，551	from hqew, 吉隆达科技（香港）	NXP	12+	2023	N A
+LPC2292FBD144/01，5	from hqew, 吉隆达科技（香港）	NXP	12+	1740	N A
+LPC2362FBD100，551	from hqew, 吉隆达科技（香港）	NXP	12+	1080	N A
+LPC2366FBD100，551	from hqew, 吉隆达科技（香港）	NXP	12+	51930	N A
+LPC2368FBD100，551	from hqew, 吉隆达科技（香港）	NXP	12+	30060	N A
+LPC2478FET208，551	from hqew, 吉隆达科技（香港）	NXP	12+	1648	N A
+LTC7545ACN	from hqew, 吉隆达科技（香港）	LT	0429+	3	DIP
+LXT974BHC	from hqew, 吉隆达科技（香港）	LEVECONE	0013+	24	QFP
+MB2S-E3/80	from hqew, 吉隆达科技（香港）	Vishay	12+	24000	N A
+MBRS1100TRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	132000	N A
+MC144111P	from hqew, 吉隆达科技（香港）	MOTOROLA	03+	10	DIP
+MFRC53101T/0FE，112	from hqew, 吉隆达科技（香港）	NXP	12+	34872	N A
+MMSZ5245B-E3-08	from hqew, 吉隆达科技（香港）	Vishay	12+	72000	N A
+NTCS0603E3473FHT	from hqew, 吉隆达科技（香港）	Vishay	12+	36000	N A
+P6KE39A-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	64000	N A
+P6SMB12CA-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	148500	N A
+P80C31SBAA，512	from hqew, 吉隆达科技（香港）	NXP	12+	6890	N A
+P80C31SFAA，512	from hqew, 吉隆达科技（香港）	NXP	12+	1508	N A
+P80C32UFAA，518	from hqew, 吉隆达科技（香港）	NXP	12+	2000	N A
+P80C32X2BBD，157	from hqew, 吉隆达科技（香港）	NXP	12+	2400	N A
+P82B715TD，118	from hqew, 吉隆达科技（香港）	NXP	12+	22500	N A
+P82B96TD，112	from hqew, 吉隆达科技（香港）	NXP	12+	11000	N A
+P87C51FB-4A，512	from hqew, 吉隆达科技（香港）	NXP	12+	3354	N A
+P87C52SBAA，512	from hqew, 吉隆达科技（香港）	NXP	12+	1755	N A
+P87C52SFAA，512	from hqew, 吉隆达科技（香港）	NXP	12+	1352	N A
+P87C52X2FA，512	from hqew, 吉隆达科技（香港）	NXP	12+	1300	N A
+P87C54X2FA，512	from hqew, 吉隆达科技（香港）	NXP	12+	1508	N A
+P87LPC764FD，512	from hqew, 吉隆达科技（香港）	NXP	12+	1870	N A
+P89LPC920FDH，529	from hqew, 吉隆达科技（香港）	NXP	12+	2775	N A
+PCA82C250T/YM，115	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+PCA9500PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	20000	N A
+PCA9514ADP，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+PCA9515AD，118	from hqew, 吉隆达科技（香港）	NXP	12+	12500	N A
+PCA9515ADP，118	from hqew, 吉隆达科技（香港）	NXP	12+	67500	N A
+PCA9536DP，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+PCA9547PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+PCA9548APW，112	from hqew, 吉隆达科技（香港）	NXP	12+	1386	N A
+PCA9551PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	2500	N A
+PCA9554PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	30020	N A
+PCA9555PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	22500	N A
+PCA9633DP1，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+PCF7991AT/1081/M，1	from hqew, 吉隆达科技（香港）	NXP	12+	5020	N A
+PCF8523T/1，118	from hqew, 吉隆达科技（香港）	NXP	12+	7400	N A
+PCF8563T/5，518	from hqew, 吉隆达科技（香港）	NXP	12+	40000	N A
+PCF8563T/F4，118	from hqew, 吉隆达科技（香港）	NXP	12+	155000	N A
+PCF8574ATS/3，118	from hqew, 吉隆达科技（香港）	NXP	12+	25000	N A
+PCF8574T/3，512	from hqew, 吉隆达科技（香港）	NXP	12+	8297	N A
+PCF8574TS/3，112	from hqew, 吉隆达科技（香港）	NXP	12+	3300	N A
+PCF8574TS/3，118	from hqew, 吉隆达科技（香港）	NXP	12+	7500	N A
+PCF8575TS/1，118	from hqew, 吉隆达科技（香港）	NXP	12+	61000	N A
+PCF8582C-2P/03，112	from hqew, 吉隆达科技（香港）	NXP	12+	1050	N A
+PCF8593T/1，118	from hqew, 吉隆达科技（香港）	NXP	12+	12500	N A
+PCF8883T/1，118	from hqew, 吉隆达科技（香港）	NXP	12+	2500	N A
+PESD5V0L2BT，215	from hqew, 吉隆达科技（香港）	NXP	12+	435000	N A
+PESD5V0S4UD，115	from hqew, 吉隆达科技（香港）	NXP	12+	114000	N A
+PHC2300，118	from hqew, 吉隆达科技（香港）	NXP	12+	10000	N A
+PLVA656A，215	from hqew, 吉隆达科技（香港）	NXP	12+	108000	N A
+PMEG3030EP，115	from hqew, 吉隆达科技（香港）	NXP	12+	12000	N A
+PMEG4010CEJ，115	from hqew, 吉隆达科技（香港）	NXP	12+	3771000	N A
+PMEG6030EP，115	from hqew, 吉隆达科技（香港）	NXP	12+	42000	N A
+PMLL4448，115	from hqew, 吉隆达科技（香港）	NXP	12+	307500	N A
+PMV213SN，215	from hqew, 吉隆达科技（香港）	NXP	12+	12000	N A
+PMV31XN，215	from hqew, 吉隆达科技（香港）	NXP	12+	45000	N A
+PSMN012-100YS，115	from hqew, 吉隆达科技（香港）	NXP	12+	7500	N A
+PSMN1R5-40PS，127	from hqew, 吉隆达科技（香港）	NXP	12+	4000	N A
+PSMN2R5-30YL，115	from hqew, 吉隆达科技（香港）	NXP	12+	3000	N A
+PSMN3R5-80PS，127	from hqew, 吉隆达科技（香港）	NXP	12+	7000	N A
+RS1D-E3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	19800	N A
+S1G-E3/5AT	from hqew, 吉隆达科技（香港）	Vishay	12+	97500	N A
+S1MHE3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	167400	N A
+S3D-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	70550	N A
+S3G-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	68850	N A
+SC16C550BIA44，512	from hqew, 吉隆达科技（香港）	NXP	12+	2600	N A
+SC16C550BIA44，518	from hqew, 吉隆达科技（香港）	NXP	12+	2510	N A
+SCC2691AC1A28，518	from hqew, 吉隆达科技（香港）	NXP	12+	3000	N A
+SDA2506	from hqew, 吉隆达科技（香港）	INF/SIEMENS	&nbsp;	21	DIP8
+SFH6186-3T	from hqew, 吉隆达科技（香港）	Vishay	12+	101000	N A
+SFH6206-3T	from hqew, 吉隆达科技（香港）	Vishay	12+	5000	N A
+SI1012R-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	90000	N A
+SI2305CDS-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	1785000	N A
+SI4410BDY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	20000	N A
+SI4435DDY-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	35000	N A
+SI4804BDY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	42500	N A
+SI4850EY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	117500	N A
+SI7848BDP-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	3000	N A
+SI7850DP-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	84000	N A
+SI7866ADP-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	3000	N A
+SI7880ADP-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	6000	N A
+SI9407BDY-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	60000	N A
+SI9410BDY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	37500	N A
+SI9986DY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	5000	N A
+SL02-GS08	from hqew, 吉隆达科技（香港）	Vishay	12+	60000	N A
+SMAJ33A-E3/61	from hqew, 吉隆达科技（香港）	Vishay	12+	70200	N A
+SMBJ10CA-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	48000	N A
+SMBJ28A-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	313500	N A
+SMBJ36CA-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	62250	N A
+SMCJ15CA-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	49300	N A
+SMCJ22CA-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	8500	N A
+SMCJ26CA-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	5100	N A
+ST20TP4CX-60S	from hqew, 吉隆达科技（香港）	ST	0341+	456	QFP
+SUD40N10-25-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	58000	N A
+SUD50P06-15L-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	12000	N A
+SUP85N10-10-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	23900	N A
+T83B226K016ESBL	from hqew, 吉隆达科技（香港）	Vishay	12+	4000	N A
+T83B335K035ESBL	from hqew, 吉隆达科技（香港）	Vishay	12+	4000	N A
+TA2024AF	from hqew, 吉隆达科技（香港）	TOSHIBA	03+02	45	SOP16
+TC5501P	from hqew, 吉隆达科技（香港）	TOSHIBA	&nbsp;	26	DIP22
+TCST1103	from hqew, 吉隆达科技（香港）	Vishay	12+	50065	N A
+TCST5250	from hqew, 吉隆达科技（香港）	Vishay	12+	29160	N A
+TDA3629T/YM，118	from hqew, 吉隆达科技（香港）	NXP	12+	100000	N A
+TDA8007BHL/C3，118	from hqew, 吉隆达科技（香港）	NXP	12+	2000	N A
+TDA8541T/N1，118	from hqew, 吉隆达科技（香港）	NXP	12+	55000	N A
+TDA8922CTH/N1，118	from hqew, 吉隆达科技（香港）	NXP	12+	2000	N A
+TDA8932BT/N2，118	from hqew, 吉隆达科技（香港）	NXP	12+	8000	N A
+TDA8932BTW/N2，112	from hqew, 吉隆达科技（香港）	NXP	12+	1100	N A
+TDA8954TH/N1，118	from hqew, 吉隆达科技（香港）	NXP	12+	7500	N A
+TDF5140AP/C1，112	from hqew, 吉隆达科技（香港）	NXP	12+	13000	N A
+TEF6606T/V5，518	from hqew, 吉隆达科技（香港）	NXP	12+	3000	N A
+TEMT6000X01	from hqew, 吉隆达科技（香港）	Vishay	12+	6000	N A
+TFDU6300-TR1	from hqew, 吉隆达科技（香港）	Vishay	12+	3000	N A
+TJA1050T/CM，118	from hqew, 吉隆达科技（香港）	NXP	12+	7500	N A
+TL072MFKB	from hqew, 吉隆达科技（香港）	TI	01+	20	QFN
+TR3C107K010C0100	from hqew, 吉隆达科技（香港）	Vishay	12+	44000	N A
+TR3C107M6R3C0150	from hqew, 吉隆达科技（香港）	Vishay	12+	25500	N A
+TSAL6100	from hqew, 吉隆达科技（香港）	Vishay	12+	80000	N A
+TSOP6238TT	from hqew, 吉隆达科技（香港）	Vishay	12+	3570	N A
+TZMC5V1-GS08	from hqew, 吉隆达科技（香港）	Vishay	12+	257500	N A
+U2793B	from hqew, 吉隆达科技（香港）	TFK	0345+	147	SOP
+UDA1334BTS/N2，118	from hqew, 吉隆达科技（香港）	NXP	12+	2500	N A
+UPD70325L-10	from hqew, 吉隆达科技（香港）	NEC	0222+	2	PLCC
+US1K-E3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	365400	N A
+US1M-E3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	792000	N A
+V10P10-M3/86A	from hqew, 吉隆达科技（香港）	Vishay	12+	66000	N A
+VLMD3100-GS08	from hqew, 吉隆达科技（香港）	Vishay	12+	67500	N A
+VR37000002704JA100	from hqew, 吉隆达科技（香港）	Vishay	12+	322000	N A
+VSKE320-08PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	112	N A
+W9NB80	from hqew, 吉隆达科技（香港）	ST	06+	8	TO247
+WSL2010R0330FEA	from hqew, 吉隆达科技（香港）	Vishay	12+	16000	N A
+WSR2R0200FEA	from hqew, 吉隆达科技（香港）	Vishay	12+	16500	N A
+XC8572-PQG100A	from hqew, 吉隆达科技（香港）	XILINX	0635+	63	QFP
+ZM4734A-GS18	from hqew, 吉隆达科技（香港）	Vishay	12+	80000	N A
+10MQ040NTRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	217500	N A
+10MQ100NTRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	105000	N A
+16CTQ100PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	6749	N A
+16CTQ100SPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	200	N A
+1890MHZ	from hqew, 吉隆达科技（香港）	PANAS	03+	43	QNF
+1N4001-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	907500	N A
+1PS79SB10，115	from hqew, 吉隆达科技（香港）	NXP	12+	102000	N A
+293D106X0035D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	49500	N A
+293D106X9010A2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	96000	N A
+293D106X9016C2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	123500	N A
+293D156X9035D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	50000	N A
+293D475X9035C2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	200000	N A
+293D476X9010D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	51000	N A
+293D476X96R3C2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	52000	N A
+2PC4081S，115	from hqew, 吉隆达科技（香港）	NXP	12+	207000	N A
+30BQ100TRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	123000	N A
+32CTQ030PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	19400	N A
+40TPS12APBF	from hqew, 吉隆达科技（香港）	Vishay	12+	1250	N A
+47N60C3	from hqew, 吉隆达科技（香港）	INF	0713+	1	TO247
+4N35	from hqew, 吉隆达科技（香港）	Vishay	12+	43250	N A
+593D107X0010D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	60000	N A
+593D107X9016E2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	133200	N A
+74AHC123APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	47500	N A
+74AHC1G14GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	345000	N A
+74AHCT1G125GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	96000	N A
+74AHCT1G14GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	30000	N A
+74ALVT162245DGG:11	from hqew, 吉隆达科技（香港）	NXP	12+	2000	N A
+74HC123D，653	from hqew, 吉隆达科技（香港）	NXP	12+	77515	N A
+74HC125D，653	from hqew, 吉隆达科技（香港）	NXP	12+	87500	N A
+74HC132D，653	from hqew, 吉隆达科技（香港）	NXP	12+	40000	N A
+74HC164D，653	from hqew, 吉隆达科技（香港）	NXP	12+	302500	N A
+74HC1G00GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	141000	N A
+74HC20D，653	from hqew, 吉隆达科技（香港）	NXP	12+	17500	N A
+74HC259D，653	from hqew, 吉隆达科技（香港）	NXP	12+	65000	N A
+74HC273N，652	from hqew, 吉隆达科技（香港）	NXP	12+	4266	N A
+74HC365N，652	from hqew, 吉隆达科技（香港）	NXP	12+	3725	N A
+74HC4024DB，118	from hqew, 吉隆达科技（香港）	NXP	12+	4000	N A
+74HC4024N，652	from hqew, 吉隆达科技（香港）	NXP	12+	3975	N A
+74HC4051D，652	from hqew, 吉隆达科技（香港）	NXP	12+	16500	N A
+74HC4051D，653	from hqew, 吉隆达科技（香港）	NXP	12+	200000	N A
+74HC4052BQ，115	from hqew, 吉隆达科技（香港）	NXP	12+	21000	N A
+74HC4052D，652	from hqew, 吉隆达科技（香港）	NXP	12+	12700	N A
+74HC4052PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	82500	N A
+74HC574D，653	from hqew, 吉隆达科技（香港）	NXP	12+	26000	N A
+74HC74D，653	from hqew, 吉隆达科技（香港）	NXP	12+	275010	N A
+74HC7540D，118	from hqew, 吉隆达科技（香港）	NXP	12+	4000	N A
+74HCT00D，653	from hqew, 吉隆达科技（香港）	NXP	12+	17500	N A
+74HCT03D，653	from hqew, 吉隆达科技（香港）	NXP	12+	40000	N A
+74HCT132N，652	from hqew, 吉隆达科技（香港）	NXP	12+	5675	N A
+74HCT165N，652	from hqew, 吉隆达科技（香港）	NXP	12+	3700	N A
+74HCT4046AN，112	from hqew, 吉隆达科技（香港）	NXP	12+	2900	N A
+74HCT4051D，112	from hqew, 吉隆达科技（香港）	NXP	12+	13400	N A
+74HCT573N，652	from hqew, 吉隆达科技（香港）	NXP	12+	7632	N A
+74HCU04D，652	from hqew, 吉隆达科技（香港）	NXP	12+	113430	N A
+74LV273DB，118	from hqew, 吉隆达科技（香港）	NXP	12+	23000	N A
+74LV4060D，118	from hqew, 吉隆达科技（香港）	NXP	12+	67500	N A
+74LVC00AD，118	from hqew, 吉隆达科技（香港）	NXP	12+	35010	N A
+74LVC00APW，112	from hqew, 吉隆达科技（香港）	NXP	12+	31008	N A
+74LVC07AD，118	from hqew, 吉隆达科技（香港）	NXP	12+	35000	N A
+74LVC07APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	22500	N A
+74LVC08AD，118	from hqew, 吉隆达科技（香港）	NXP	12+	180090	N A
+74LVC125APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	165020	N A
+74LVC132APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	15000	N A
+74LVC16245ADGG，118	from hqew, 吉隆达科技（香港）	NXP	12+	256000	N A
+74LVC1G02GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	297000	N A
+74LVC1G125GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	441000	N A
+74LVC1G126GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	480000	N A
+74LVC1G14GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	240000	N A
+74LVC1G32GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	204000	N A
+74LVC1G34GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	312000	N A
+74LVC1G66GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	930000	N A
+74LVC244APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	400060	N A
+74LVC2G08DC，125	from hqew, 吉隆达科技（香港）	NXP	12+	9000	N A
+74LVC2G14GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	18000	N A
+74LVC32APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	145010	N A
+74LVC3G34DC，125	from hqew, 吉隆达科技（香港）	NXP	12+	12000	N A
+74LVC541APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	10000	N A
+74LVT162244BDGG:11	from hqew, 吉隆达科技（香港）	NXP	12+	22000	N A
+74LVTH125BQ，115	from hqew, 吉隆达科技（香港）	NXP	12+	6000	N A
+82CNQ030APBF	from hqew, 吉隆达科技（香港）	Vishay	12+	800	N A
+AC03000003300JAC00	from hqew, 吉隆达科技（香港）	Vishay	12+	362500	N A
+AC10000003308JAB00	from hqew, 吉隆达科技（香港）	Vishay	12+	26000	N A
+BAS116，215	from hqew, 吉隆达科技（香港）	NXP	12+	75000	N A
+BAS17，215	from hqew, 吉隆达科技（香港）	NXP	12+	144000	N A
+BAS21H，115	from hqew, 吉隆达科技（香港）	NXP	12+	84000	N A
+BAS32L，115	from hqew, 吉隆达科技（香港）	NXP	12+	2125000	N A
+BAS56，215	from hqew, 吉隆达科技（香港）	NXP	12+	96000	N A
+BAS70-04，215	from hqew, 吉隆达科技（香港）	NXP	12+	420000	N A
+BAT54A，215	from hqew, 吉隆达科技（香港）	NXP	12+	186000	N A
+BAT54C，215	from hqew, 吉隆达科技（香港）	NXP	12+	1036418	N A
+BAT54SW，115	from hqew, 吉隆达科技（香港）	NXP	12+	7782000	N A
+BAV99，215	from hqew, 吉隆达科技（香港）	NXP	12+	7572000	N A
+BB181，115	from hqew, 吉隆达科技（香港）	NXP	12+	48000	N A
+BC807，215	from hqew, 吉隆达科技（香港）	NXP	12+	300160	N A
+BC807-25，215	from hqew, 吉隆达科技（香港）	NXP	12+	4611005	N A
+BC807-40，215	from hqew, 吉隆达科技（香港）	NXP	12+	345000	N A
+BC846BW，115	from hqew, 吉隆达科技（香港）	NXP	12+	1380000	N A
+BC847B，215	from hqew, 吉隆达科技（香港）	NXP	12+	7923000	N A
+BC847BW，115	from hqew, 吉隆达科技（香港）	NXP	12+	444000	N A
+BCP51-16，115	from hqew, 吉隆达科技（香港）	NXP	12+	203000	N A
+BCP56-16，115	from hqew, 吉隆达科技（香港）	NXP	12+	1165000	N A
+BCV62B，215	from hqew, 吉隆达科技（香港）	NXP	12+	210000	N A
+BCX19，215	from hqew, 吉隆达科技（香港）	NXP	12+	1284000	N A
+BCX54-16，115	from hqew, 吉隆达科技（香港）	NXP	12+	231000	N A
+BCX55-16，115	from hqew, 吉隆达科技（香港）	NXP	12+	209000	N A
+BCX56-16，115	from hqew, 吉隆达科技（香港）	NXP	12+	573000	N A
+BFG480W，115	from hqew, 吉隆达科技（香港）	NXP	12+	15000	N A
+BFT25A，215	from hqew, 吉隆达科技（香港）	NXP	12+	9000	N A
+BGA2022，115	from hqew, 吉隆达科技（香港）	NXP	12+	27050	N A
+BSH105，215	from hqew, 吉隆达科技（香港）	NXP	12+	42000	N A
+BSH111，215	from hqew, 吉隆达科技（香港）	NXP	12+	42000	N A
+BSV52，215	from hqew, 吉隆达科技（香港）	NXP	12+	54000	N A
+BT168GWF，115	from hqew, 吉隆达科技（香港）	NXP	12+	1906000	N A
+BT169G，112	from hqew, 吉隆达科技（香港）	NXP	12+	100000	N A
+BUK9875-100A，115	from hqew, 吉隆达科技（香港）	NXP	12+	63000	N A
+BUT92	from hqew, 吉隆达科技（香港）	MOTO	0125+	250	TO-92
+BYG10Y-E3/TR	from hqew, 吉隆达科技（香港）	Vishay	12+	79200	N A
+BYG21M-E3/TR	from hqew, 吉隆达科技（香港）	Vishay	12+	250200	N A
+BYG22D-E3/TR	from hqew, 吉隆达科技（香港）	Vishay	12+	25200	N A
+BYM13-40-E3/96	from hqew, 吉隆达科技（香港）	Vishay	12+	52500	N A
+BYQ28ED-200，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+BYT79-500，127	from hqew, 吉隆达科技（香港）	NXP	12+	4000	N A
+BYV27-200-TR	from hqew, 吉隆达科技（香港）	Vishay	12+	60000	N A
+BYV28-200-TR	from hqew, 吉隆达科技（香港）	Vishay	12+	17500	N A
+BZA462A，115	from hqew, 吉隆达科技（香港）	NXP	12+	21000	N A
+BZT52H-B3V0，115	from hqew, 吉隆达科技（香港）	NXP	12+	84000	N A
+BZV55-B5V1，115	from hqew, 吉隆达科技（香港）	NXP	12+	565000	N A
+BZV55-C20，115	from hqew, 吉隆达科技（香港）	NXP	12+	525000	N A
+BZX384-B39，115	from hqew, 吉隆达科技（香港）	NXP	12+	147000	N A
+BZX585-B12，115	from hqew, 吉隆达科技（香港）	NXP	12+	663000	N A
+BZX585-B16，115	from hqew, 吉隆达科技（香港）	NXP	12+	60000	N A
+BZX585-B4V3，115	from hqew, 吉隆达科技（香港）	NXP	12+	51000	N A
+BZX79-C9V1，143	from hqew, 吉隆达科技（香港）	NXP	12+	140000	N A
+BZX84-C20，215	from hqew, 吉隆达科技（香港）	NXP	12+	132000	N A
+BZX84-C39，215	from hqew, 吉隆达科技（香港）	NXP	12+	192070	N A
+BZX84-C3V3，215	from hqew, 吉隆达科技（香港）	NXP	12+	501030	N A
+BZX84-C75，215	from hqew, 吉隆达科技（香港）	NXP	12+	207000	N A
+CA3082	from hqew, 吉隆达科技（香港）	HARRIS	9927+	69	DIP16
+CD54HC04F3A	from hqew, 吉隆达科技（香港）	TI	0539+	50	DIP
+CRCW251262R0JNEG	from hqew, 吉隆达科技（香港）	Vishay	12+	438000	N A
+CRCW251282R0JNEG	from hqew, 吉隆达科技（香港）	Vishay	12+	200000	N A
+CY7C291A-35WC	from hqew, 吉隆达科技（香港）	CY	0145+	14	DIP
+DF01S-E3/77	from hqew, 吉隆达科技（香港）	Vishay	12+	34500	N A
+DG333ADW-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	13500	N A
+DG408DQ-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	9000	N A
+DG409DY-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	16200	N A
+DG409DY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	10000	N A
+DG411DY-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	3970	N A
+EPM7256SQC208-7N	from hqew, 吉隆达科技（香港）	ALTERA	0415+	80	QFP
+ES2D-E3/52T	from hqew, 吉隆达科技（香港）	Vishay	12+	146250	N A
+GBPC3506-E4/51	from hqew, 吉隆达科技（香港）	Vishay	12+	7610	N A
+GBPC3510W-E4/51	from hqew, 吉隆达科技（香港）	Vishay	12+	39700	N A
+GBU4J-E3/51	from hqew, 吉隆达科技（香港）	Vishay	12+	36100	N A
+GBU6K-E3/51	from hqew, 吉隆达科技（香港）	Vishay	12+	6000	N A
+GBU8J-E3/51	from hqew, 吉隆达科技（香港）	Vishay	12+	34600	N A
+GF1M-E3/67A	from hqew, 吉隆达科技（香港）	Vishay	12+	411000	N A
+GI756-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	72000	N A
+GL34B-E3/98	from hqew, 吉隆达科技（香港）	Vishay	12+	15000	N A
+GL41J-E3/96	from hqew, 吉隆达科技（香港）	Vishay	12+	84000	N A
+GTL2005PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	150020	N A
+HEF4013BP，652	from hqew, 吉隆达科技（香港）	NXP	12+	9600	N A
+HEF4020BT，653	from hqew, 吉隆达科技（香港）	NXP	12+	7500	N A
+HEF4050BT，653	from hqew, 吉隆达科技（香港）	NXP	12+	35000	N A
+HEF4053BT，653	from hqew, 吉隆达科技（香港）	NXP	12+	50000	N A
+HEF4082BP，652	from hqew, 吉隆达科技（香港）	NXP	12+	6000	N A
+HEF4514BP，652	from hqew, 吉隆达科技（香港）	NXP	12+	1830	N A
+HI3-7159A-5	from hqew, 吉隆达科技（香港）	HARRIS	9931+	1	DIP
+ICL8048BCJE	from hqew, 吉隆达科技（香港）	INTERSIL	0327+	1	CDIP
+IHD3EB222L	from hqew, 吉隆达科技（香港）	Vishay	12+	570	N A
+IL4208	from hqew, 吉隆达科技（香港）	Vishay	12+	4000	N A
+ILD223T	from hqew, 吉隆达科技（香港）	Vishay	12+	4000	N A
+ILX506	from hqew, 吉隆达科技（香港）	SONY	707A4KK	13	DIP
+IP4223CZ6，125	from hqew, 吉隆达科技（香港）	NXP	12+	1194000	N A
+IRF644PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	24500	N A
+IRF740APBF	from hqew, 吉隆达科技（香港）	Vishay	12+	7900	N A
+IRF840PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	400	N A
+IRF840SPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	13400	N A
+IRF9540PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	22650	N A
+IRFBG20PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	16000	N A
+IRFBG30PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	119350	N A
+IRFD110PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	53800	N A
+IRFD120PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	19200	N A
+IRFL210TRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	65000	N A
+IRFP264PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	1050	N A
+IRFU220PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	21000	N A
+JRC4558D	from hqew, 吉隆达科技（香港）	JRC	03+	406	SOP
+K1500	from hqew, 吉隆达科技（香港）	NEC	07+	310	TO-3
+K4T511030E-ZCE6	from hqew, 吉隆达科技（香港）	SAMSUNG	07+	1012	BGA
+K4T511630E-ZCE6	from hqew, 吉隆达科技（香港）	SAMSUNG	07+	200	FBGA
+K6T4008C1B-GB55	from hqew, 吉隆达科技（香港）	SAMSUNG	0416+	272	SOP
+KA2915	from hqew, 吉隆达科技（香港）	SAMSUNG	0214+	87	DIP
+KBL04-E4/51	from hqew, 吉隆达科技（香港）	Vishay	12+	21610	N A
+KTY84/130，153	from hqew, 吉隆达科技（香港）	NXP	12+	6000	N A
+LH1510AT	from hqew, 吉隆达科技（香港）	Vishay	12+	4000	N A
+LL4448-GS08	from hqew, 吉隆达科技（香港）	Vishay	12+	1040000	N A
+LM387AN	from hqew, 吉隆达科技（香港）	NS	0325+	37	DIP8
+LM75BD，118	from hqew, 吉隆达科技（香港）	NXP	12+	10000	N A
+LM75BDP，118	from hqew, 吉隆达科技（香港）	NXP	12+	47500	N A
+LPC1114FBD48/302，1	from hqew, 吉隆达科技（香港）	NXP	12+	1500	N A
+LPC11U24FBD48/401，	from hqew, 吉隆达科技（香港）	NXP	12+	9500	N A
+LPC1752FBD80，551	from hqew, 吉隆达科技（香港）	NXP	12+	18607	N A
+LPC1788FBD208，551	from hqew, 吉隆达科技（香港）	NXP	12+	3744	N A
+LPC2134FBD64/01，15	from hqew, 吉隆达科技（香港）	NXP	12+	7690	N A
+LPC2138FBD64/01，15	from hqew, 吉隆达科技（香港）	NXP	12+	8640	N A
+LPC2210FBD144/01，5	from hqew, 吉隆达科技（香港）	NXP	12+	2640	N A
+LPC2387FBD100，551	from hqew, 吉隆达科技（香港）	NXP	12+	1895	N A
+LPC2478FBD208，551	from hqew, 吉隆达科技（香港）	NXP	12+	1224	N A
+LPC3250FET296/01，5	from hqew, 吉隆达科技（香港）	NXP	12+	3286	N A
+MB6S-E3/80	from hqew, 吉隆达科技（香港）	Vishay	12+	96000	N A
+MBR1645-E3/45	from hqew, 吉隆达科技（香港）	Vishay	12+	34850	N A
+MC3363DW	from hqew, 吉隆达科技（香港）	MOTOROLA	0436+	7	SOP
+MC44608P40	from hqew, 吉隆达科技（香港）	ON SEMI	0426+	198	DIP
+MM58174AN	from hqew, 吉隆达科技（香港）	NS	9532+	206	DIP
+MMB02070C4993FB200	from hqew, 吉隆达科技（香港）	Vishay	12+	110000	N A
+MSP2400	from hqew, 吉隆达科技（香港）	ITT	0340+	282	PLCC
+MUR2020CTPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	21150	N A
+MURS160-E3/52T	from hqew, 吉隆达科技（香港）	Vishay	12+	726000	N A
+M1543C-A1	from hqew, 吉隆达科技（香港）	ALI	99+	880	BGA
+M27C2001-15FI	from hqew, 吉隆达科技（香港）	ST	9705+	334	DIP
+MACH215-15JC-18JI	from hqew, 吉隆达科技（香港）	AMD	9844+	40	PLCC
+OPA277UA	from hqew, 吉隆达科技（香港）	TI	04+	14	SOP
+OPA4227UA	from hqew, 吉隆达科技（香港）	BB	0212+	498	SOP
+P600M-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	29600	N A
+P80C31SBPN，112	from hqew, 吉隆达科技（香港）	NXP	12+	16551	N A
+P80C32UBAA，512	from hqew, 吉隆达科技（香港）	NXP	12+	6370	N A
+P82B715TD，112	from hqew, 吉隆达科技（香港）	NXP	12+	11900	N A
+P89C750EBPN	from hqew, 吉隆达科技（香港）	PHILIPS	98+00+	150	DIP24
+P89LPC921FDH，518	from hqew, 吉隆达科技（香港）	NXP	12+	2500	N A
+P89LPC922FDH，512	from hqew, 吉隆达科技（香港）	NXP	12+	2025	N A
+P89LPC930FDH，129	from hqew, 吉隆达科技（香港）	NXP	12+	2652	N A
+PBSS4041PT，215	from hqew, 吉隆达科技（香港）	NXP	12+	63000	N A
+PBSS5120T，215	from hqew, 吉隆达科技（香港）	NXP	12+	30030	N A
+PCA82C250T/YM，112	from hqew, 吉隆达科技（香港）	NXP	12+	4700	N A
+PCA8574D，512	from hqew, 吉隆达科技（香港）	NXP	12+	1920	N A
+PCA8574PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	27500	N A
+PCA9509DP，118	from hqew, 吉隆达科技（香港）	NXP	12+	40010	N A
+PCA9512ADP，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+PCA9513ADP，118	from hqew, 吉隆达科技（香港）	NXP	12+	12500	N A
+PCA9517AD，118	from hqew, 吉隆达科技（香港）	NXP	12+	17500	N A
+PCA9518PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	15000	N A
+PCA9534BS，118	from hqew, 吉隆达科技（香港）	NXP	12+	6000	N A
+PCA9536D，118	from hqew, 吉隆达科技（香港）	NXP	12+	15000	N A
+PCA9539BS，118	from hqew, 吉隆达科技（香港）	NXP	12+	6000	N A
+PCA9544APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	37500	N A
+PCA9554ATS，118	from hqew, 吉隆达科技（香港）	NXP	12+	2500	N A
+PCA9554D，118	from hqew, 吉隆达科技（香港）	NXP	12+	2000	N A
+PCA9557PW，112	from hqew, 吉隆达科技（香港）	NXP	12+	5388	N A
+PCA9559PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	2500	N A
+PCF8562TT/2，118	from hqew, 吉隆达科技（香港）	NXP	12+	2010	N A
+PCF8563BS/4，118	from hqew, 吉隆达科技（香港）	NXP	12+	12000	N A
+PCF8563T/F4，112	from hqew, 吉隆达科技（香港）	NXP	12+	13900	N A
+PCF8576CT/1，118	from hqew, 吉隆达科技（香港）	NXP	12+	120510	N A
+PCF8576CU/F1，026	from hqew, 吉隆达科技（香港）	NXP	12+	18000	N A
+PCF8577CU/F3，026	from hqew, 吉隆达科技（香港）	NXP	12+	21504	N A
+PCF8582C-2T/03，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+PCF8583T/5，512	from hqew, 吉隆达科技（香港）	NXP	12+	1768	N A
+PCF8584T/2，518	from hqew, 吉隆达科技（香港）	NXP	12+	2000	N A
+PCF8593T/1，112	from hqew, 吉隆达科技（香港）	NXP	12+	2600	N A
+PDTC114EU，115	from hqew, 吉隆达科技（香港）	NXP	12+	549000	N A
+PDTC143ET，215	from hqew, 吉隆达科技（香港）	NXP	12+	540000	N A
+PDZ15B，115	from hqew, 吉隆达科技（香港）	NXP	12+	75000	N A
+PDZ3.3B，115	from hqew, 吉隆达科技（香港）	NXP	12+	75000	N A
+PESD1CAN，215	from hqew, 吉隆达科技（香港）	NXP	12+	255008	N A
+PESD24VL1BA，115	from hqew, 吉隆达科技（香港）	NXP	12+	42000	N A
+PESD3V3L1BA，115	from hqew, 吉隆达科技（香港）	NXP	12+	30000	N A
+PESD3V3V4UW，115	from hqew, 吉隆达科技（香港）	NXP	12+	136050	N A
+PESD5V0S1UB，115	from hqew, 吉隆达科技（香港）	NXP	12+	2196000	N A
+PMBF4393，215	from hqew, 吉隆达科技（香港）	NXP	12+	15020	N A
+PMBFJ620，115	from hqew, 吉隆达科技（香港）	NXP	12+	171000	N A
+PMBT2222A，215	from hqew, 吉隆达科技（香港）	NXP	12+	23565000	N A
+PMBT2369，215	from hqew, 吉隆达科技（香港）	NXP	12+	1284000	N A
+PMBT3904YS，115	from hqew, 吉隆达科技（香港）	NXP	12+	75000	N A
+PMBT3906，215	from hqew, 吉隆达科技（香港）	NXP	12+	183000	N A
+PMEG2005ET，215	from hqew, 吉隆达科技（香港）	NXP	12+	126000	N A
+PMEG3010EJ，115	from hqew, 吉隆达科技（香港）	NXP	12+	189000	N A
+PMEG4010BEA，115	from hqew, 吉隆达科技（香港）	NXP	12+	186000	N A
+PMEG6010CEH，115	from hqew, 吉隆达科技（香港）	NXP	12+	30000	N A
+PMV40UN，215	from hqew, 吉隆达科技（香港）	NXP	12+	21000	N A
+PSMN4R3-100PS，127	from hqew, 吉隆达科技（香港）	NXP	12+	9150	N A
+PTVS15VS1UR，115	from hqew, 吉隆达科技（香港）	NXP	12+	30000	N A
+PUMB3，115	from hqew, 吉隆达科技（香港）	NXP	12+	141000	N A
+PXAS30KBA，512	from hqew, 吉隆达科技（香港）	NXP	12+	3334	N A
+PZTA92，115	from hqew, 吉隆达科技（香港）	NXP	12+	51000	N A
+R4553A	from hqew, 吉隆达科技（香港）	RPSON	0512+	115	SOP
+R6501AQ	from hqew, 吉隆达科技（香港）	ROCKWELL	&nbsp;	123	DIP-64
+RSST7605M	from hqew, 吉隆达科技（香港）	CONEXANT	0328+	342	QFP
+S1J-E3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	1258200	N A
+S3B-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	37400	N A
+S87C751-2N24	from hqew, 吉隆达科技（香港）	PHILIPS	99+	102	DIP
+SA56004EDP，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+SAA5246GP/E	from hqew, 吉隆达科技（香港）	PHILIPS	0018+	456	QFP
+SB560-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	36400	N A
+SC16C2550BIB48，151	from hqew, 吉隆达科技（香港）	NXP	12+	1000	N A
+SC16IS752IPW，112	from hqew, 吉隆达科技（香港）	NXP	12+	3162	N A
+SC16IS762IBS，151	from hqew, 吉隆达科技（香港）	NXP	12+	1470	N A
+SC26C92C1A，512	from hqew, 吉隆达科技（香港）	NXP	12+	1274	N A
+SFH618A-5	from hqew, 吉隆达科技（香港）	Vishay	12+	23700	N A
+SI4442DY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	20000	N A
+SI4464DY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	12503	N A
+SI6913DQ-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	12000	N A
+SI8405DB-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	39000	N A
+SI9933CDY-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	42500	N A
+SIR466DP-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	12000	N A
+SJA1000T/N1，112	from hqew, 吉隆达科技（香港）	NXP	12+	12555	N A
+SMAJ40A-E3/61	from hqew, 吉隆达科技（香港）	Vishay	12+	135000	N A
+SMAJ43CA-E3/61	from hqew, 吉隆达科技（香港）	Vishay	12+	115200	N A
+SMBJ17A-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	98250	N A
+SMBJ24A-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	36000	N A
+SMBJ26CA-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	76500	N A
+SMBJ30A-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	39000	N A
+SMBJ30CAHE3/5B	from hqew, 吉隆达科技（香港）	Vishay	12+	35200	N A
+SMBJ5.0A-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	1096500	N A
+SMCJ48CA-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	11900	N A
+SMCJ60CA-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	5100	N A
+SS14-E3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	205200	N A
+SS2P3L-M3/84A	from hqew, 吉隆达科技（香港）	Vishay	12+	18000	N A
+SS34-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	118150	N A
+SSL21151T/1，118	from hqew, 吉隆达科技（香港）	NXP	12+	2500	N A
+STA471A	from hqew, 吉隆达科技（香港）	SANKEN	6121+	2649	SIP11
+SUD50P04-13L-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	10000	N A
+T83A105K035ESBL	from hqew, 吉隆达科技（香港）	Vishay	12+	4000	N A
+TCC112	from hqew, 吉隆达科技（香港）	TELCHIP	04+	200	SOP
+TCMT1100	from hqew, 吉隆达科技（香港）	Vishay	12+	3000	N A
+TCMT1107	from hqew, 吉隆达科技（香港）	Vishay	12+	90000	N A
+TCST1300	from hqew, 吉隆达科技（香港）	Vishay	12+	10285	N A
+TDA1308T/N2，115	from hqew, 吉隆达科技（香港）	NXP	12+	164000	N A
+TDA8029HL/C207，118	from hqew, 吉隆达科技（香港）	NXP	12+	56000	N A
+TDA8587J	from hqew, 吉隆达科技（香港）	PHILIPS	&nbsp;	22	ZIP-27
+TDA8950TH/N1，118	from hqew, 吉隆达科技（香港）	NXP	12+	3003	N A
+TDSR0750	from hqew, 吉隆达科技（香港）	Vishay	12+	99990	N A
+TH5E475K024A2500	from hqew, 吉隆达科技（香港）	Vishay	12+	800	N A
+TIL311	from hqew, 吉隆达科技（香港）	KOREA	&nbsp;	8	DIP
+TJA1040T/VM，118	from hqew, 吉隆达科技（香港）	NXP	12+	27500	N A
+TJA1042T/3，118	from hqew, 吉隆达科技（香港）	NXP	12+	62500	N A
+TJA1050T/VM，118	from hqew, 吉隆达科技（香港）	NXP	12+	7500	N A
+TJA1055T/CM，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+TJA1080ATS/2/T，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+TL074MFKB	from hqew, 吉隆达科技（香港）	TI	03+	20	QFN
+TL431AIDBZR，215	from hqew, 吉隆达科技（香港）	NXP	12+	222000	N A
+TL431BIDBZR，215	from hqew, 吉隆达科技（香港）	NXP	12+	135000	N A
+TNPW120610K0BEEA	from hqew, 吉隆达科技（香港）	Vishay	12+	40000	N A
+TSML1020	from hqew, 吉隆达科技（香港）	Vishay	12+	46000	N A
+TSOP34838	from hqew, 吉隆达科技（香港）	Vishay	12+	7920	N A
+UAA3220TS/V1S，118	from hqew, 吉隆达科技（香港）	NXP	12+	2005	N A
+UF4007-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	456500	N A
+US1D-E3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	144000	N A
+US1G-E3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	226800	N A
+V12P10-M3/86A	from hqew, 吉隆达科技（香港）	Vishay	12+	60000	N A
+VJ0805Y104KXAAT	from hqew, 吉隆达科技（香港）	Vishay	12+	264000	N A
+VSMY2850RG	from hqew, 吉隆达科技（香港）	Vishay	12+	24000	N A
+VY2222M35Y5US63V7	from hqew, 吉隆达科技（香港）	Vishay	12+	87000	N A
+WKP472MCPEJ0KR	from hqew, 吉隆达科技（香港）	Vishay	12+	29200	N A
+WSL0805R0200FEA18	from hqew, 吉隆达科技（香港）	Vishay	12+	10000	N A
+WSL12062L000FEA	from hqew, 吉隆达科技（香港）	Vishay	12+	16000	N A
+X28C512J-12	from hqew, 吉隆达科技（香港）	XICOR	96+	190	PLCC
+ZDA041111000KF2000	from hqew, 吉隆达科技（香港）	Vishay	12+	60000	N A
+1.5KE180AHE3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	11200	N A
+1.5KE180CA-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	11200	N A
+11DQ03TR	from hqew, 吉隆达科技（香港）	Vishay	12+	115000	N A
+15MQ040NTRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	105000	N A
+1N4007-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	330000	N A
+293D106X0025C2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	218500	N A
+293D106X9020B2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	204000	N A
+293D106X9025C2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	311500	N A
+293D156X9050E2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	26000	N A
+293D226X0025D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	86500	N A
+293D226X9035E2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	18400	N A
+293D685X9035D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	87500	N A
+2KBP06M-E4/45	from hqew, 吉隆达科技（香港）	Vishay	12+	50197	N A
+2N7002-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	21000	N A
+30CPQ100PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	3599	N A
+40CTQ045-1PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	1300	N A
+593D106X9025C2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	8500	N A
+593D106X9035D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	37500	N A
+593D107X9010D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	112500	N A
+593D107X9020E2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	18400	N A
+593D226X9035D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	25500	N A
+593D227X0010E2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	48400	N A
+593D227X9010D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	24500	N A
+593D336X0025E2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	20400	N A
+70TPS12PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	1850	N A
+74AHC00PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	52500	N A
+74AHC1G08GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	195000	N A
+74AHC1G79GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	24000	N A
+74AHC273PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	60000	N A
+74AHCT08PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	230000	N A
+74AHCT257PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	15050	N A
+74HC00N，652	from hqew, 吉隆达科技（香港）	NXP	12+	7025	N A
+74HC08D，653	from hqew, 吉隆达科技（香港）	NXP	12+	197500	N A
+74HC112PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	10000	N A
+74HC138PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	55000	N A
+74HC151D，652	from hqew, 吉隆达科技（香港）	NXP	12+	117674	N A
+74HC1G02GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	63000	N A
+74HC238D，653	from hqew, 吉隆达科技（香港）	NXP	12+	75000	N A
+74HC240PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	35000	N A
+74HC245PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	145000	N A
+74HC2G04GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	123000	N A
+74HC4024D，653	from hqew, 吉隆达科技（香港）	NXP	12+	27500	N A
+74HC4053D，653	from hqew, 吉隆达科技（香港）	NXP	12+	22500	N A
+74HC4066D，652	from hqew, 吉隆达科技（香港）	NXP	12+	41441	N A
+74HC4514PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	12500	N A
+74HC4538D，653	from hqew, 吉隆达科技（香港）	NXP	12+	25000	N A
+74HC4538PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	10000	N A
+74HC573PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	25005	N A
+74HC93N，112	from hqew, 吉隆达科技（香港）	NXP	12+	1500	N A
+74HCT273PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	95000	N A
+74HCT4051D，118	from hqew, 吉隆达科技（香港）	NXP	12+	25000	N A
+74HCT540N，652	from hqew, 吉隆达科技（香港）	NXP	12+	4302	N A
+74LVC14AD，118	from hqew, 吉隆达科技（香港）	NXP	12+	200055	N A
+74LVC14APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	322500	N A
+74LVC157APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	15000	N A
+74LVC161PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+74LVC1G04GV，125	from hqew, 吉隆达科技（香港）	NXP	12+	564025	N A
+74LVC1G07GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	165000	N A
+74LVC1G126GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	111000	N A
+74LVC1G3157GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	105000	N A
+74LVC1G32GW，125	from hqew, 吉隆达科技（香港）	NXP	12+	330000	N A
+74LVC86APW，118	from hqew, 吉隆达科技（香港）	NXP	12+	130000	N A
+74LVCH162245ADGG，1	from hqew, 吉隆达科技（香港）	NXP	12+	9910	N A
+74LVT04PW，112	from hqew, 吉隆达科技（香港）	NXP	12+	19200	N A
+74LVT16245BDGG，118	from hqew, 吉隆达科技（香港）	NXP	12+	22000	N A
+893D226X0016D2TE3	from hqew, 吉隆达科技（香港）	Vishay	12+	22000	N A
+APT1001RBN	from hqew, 吉隆达科技（香港）	APT	0641+	7	TO247
+B2545G	from hqew, 吉隆达科技（香港）	ON SEMI	0832+	13	TO252
+BAS16，215	from hqew, 吉隆达科技（香港）	NXP	12+	5886000	N A
+BAS16W，115	from hqew, 吉隆达科技（香港）	NXP	12+	3323849	N A
+BAS28，215	from hqew, 吉隆达科技（香港）	NXP	12+	1278000	N A
+BAS40-04W，115	from hqew, 吉隆达科技（香港）	NXP	12+	300000	N A
+BAS70-05，215	from hqew, 吉隆达科技（香港）	NXP	12+	51000	N A
+BAS85，115	from hqew, 吉隆达科技（香港）	NXP	12+	792500	N A
+BAT54S，215	from hqew, 吉隆达科技（香港）	NXP	12+	4245000	N A
+BAT74，215	from hqew, 吉隆达科技（香港）	NXP	12+	270000	N A
+BAT754A，215	from hqew, 吉隆达科技（香港）	NXP	12+	399000	N A
+BAW56W，115	from hqew, 吉隆达科技（香港）	NXP	12+	768000	N A
+BC817，215	from hqew, 吉隆达科技（香港）	NXP	12+	198000	N A
+BC817-25，215	from hqew, 吉隆达科技（香港）	NXP	12+	4134000	N A
+BC817-40，215	from hqew, 吉隆达科技（香港）	NXP	12+	2553000	N A
+BC847，215	from hqew, 吉隆达科技（香港）	NXP	12+	1221040	N A
+BC850C，215	from hqew, 吉隆达科技（香港）	NXP	12+	1548000	N A
+BC869，115	from hqew, 吉隆达科技（香港）	NXP	12+	147000	N A
+BCP53-16，115	from hqew, 吉隆达科技（香港）	NXP	12+	43000	N A
+BCX51-16，115	from hqew, 吉隆达科技（香港）	NXP	12+	283000	N A
+BCX52-16，115	from hqew, 吉隆达科技（香港）	NXP	12+	26000	N A
+BCX53-16，115	from hqew, 吉隆达科技（香港）	NXP	12+	283000	N A
+BCX56，115	from hqew, 吉隆达科技（香港）	NXP	12+	288000	N A
+BCX56-10，115	from hqew, 吉隆达科技（香港）	NXP	12+	92000	N A
+BFT92，215	from hqew, 吉隆达科技（香港）	NXP	12+	12000	N A
+BPW96C	from hqew, 吉隆达科技（香港）	Vishay	12+	28000	N A
+BSP030，115	from hqew, 吉隆达科技（香港）	NXP	12+	11000	N A
+BST82，215	from hqew, 吉隆达科技（香港）	NXP	12+	45020	N A
+BT138Y-600E，127	from hqew, 吉隆达科技（香港）	NXP	12+	3000	N A
+BT151S-500R，118	from hqew, 吉隆达科技（香港）	NXP	12+	7500	N A
+BT152-800R，127	from hqew, 吉隆达科技（香港）	NXP	12+	4150	N A
+BTA204S-800C，118	from hqew, 吉隆达科技（香港）	NXP	12+	7500	N A
+BU931ZPFI	from hqew, 吉隆达科技（香港）	ST	9735+	2	TO247
+BYT12PI-1000	from hqew, 吉隆达科技（香港）	ST	0615+	57	TO220
+BYV26C-TR	from hqew, 吉隆达科技（香港）	Vishay	12+	30000	N A
+BYV32E-200，127	from hqew, 吉隆达科技（香港）	NXP	12+	16550	N A
+BZA408B，115	from hqew, 吉隆达科技（香港）	NXP	12+	141000	N A
+BZB784-C4V3，115	from hqew, 吉隆达科技（香港）	NXP	12+	39000	N A
+BZB984-C2V7，115	from hqew, 吉隆达科技（香港）	NXP	12+	76000	N A
+BZD27C200P-GS08	from hqew, 吉隆达科技（香港）	Vishay	12+	75000	N A
+BZG03C22TR	from hqew, 吉隆达科技（香港）	Vishay	12+	10500	N A
+BZT52H-C62，115	from hqew, 吉隆达科技（香港）	NXP	12+	81000	N A
+BZV55-B5V6，115	from hqew, 吉隆达科技（香港）	NXP	12+	397500	N A
+BZV55-C15，115	from hqew, 吉隆达科技（香港）	NXP	12+	125000	N A
+BZV55-C18，115	from hqew, 吉隆达科技（香港）	NXP	12+	152500	N A
+BZV55-C6V8，115	from hqew, 吉隆达科技（香港）	NXP	12+	157500	N A
+BZX384-B4V7，115	from hqew, 吉隆达科技（香港）	NXP	12+	66000	N A
+BZX585-C7V5，115	from hqew, 吉隆达科技（香港）	NXP	12+	219000	N A
+BZX79-C5V6，133	from hqew, 吉隆达科技（香港）	NXP	12+	240000	N A
+BZX84-B5V1，215	from hqew, 吉隆达科技（香港）	NXP	12+	123000	N A
+BZX84-B5V6，215	from hqew, 吉隆达科技（香港）	NXP	12+	123000	N A
+BZX84-C24，215	from hqew, 吉隆达科技（香港）	NXP	12+	114000	N A
+BZX84-C3V9，215	from hqew, 吉隆达科技（香港）	NXP	12+	252000	N A
+BZX84-C5V1，215	from hqew, 吉隆达科技（香港）	NXP	12+	1176019	N A
+CBTD3306PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	40000	N A
+DF06S-E3/77	from hqew, 吉隆达科技（香港）	Vishay	12+	79500	N A
+DF10S-E3/45	from hqew, 吉隆达科技（香港）	Vishay	12+	82700	N A
+DF10S-E3/77	from hqew, 吉隆达科技（香港）	Vishay	12+	6000	N A
+DG211BDJ-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	12450	N A
+DG408DY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	70000	N A
+DG412DY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	12500	N A
+DG419DY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	10000	N A
+DG441DY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	12500	N A
+DG444DY-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	13402	N A
+DP8473N	from hqew, 吉隆达科技（香港）	NS	1987+	240	DIP
+ES3B-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	40800	N A
+FEP16HT-E3/45	from hqew, 吉隆达科技（香港）	Vishay	12+	18000	N A
+GBPC3506W-E4/51	from hqew, 吉隆达科技（香港）	Vishay	12+	800	N A
+GBU4K-E3/51	from hqew, 吉隆达科技（香港）	Vishay	12+	6000	N A
+GF1G-E3/67A	from hqew, 吉隆达科技（香港）	Vishay	12+	60000	N A
+GL41M-E3/96	from hqew, 吉隆达科技（香港）	Vishay	12+	75000	N A
+GSIB1560-E3/45	from hqew, 吉隆达科技（香港）	Vishay	12+	19000	N A
+GSOT36C-E3-08	from hqew, 吉隆达科技（香港）	Vishay	12+	189000	N A
+HEF4051BP，652	from hqew, 吉隆达科技（香港）	NXP	12+	9600	N A
+HEF4060BT，653	from hqew, 吉隆达科技（香港）	NXP	12+	22500	N A
+HFA30TA60CPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	32000	N A
+HM6224LP-70	from hqew, 吉隆达科技（香港）	HMC	0048+	6	DIP
+ICL7106CPL	from hqew, 吉隆达科技（香港）	INTERS	9740+	50	DIP
+IMT901	from hqew, 吉隆达科技（香港）	NANOTEC	&nbsp;	2	ZIP
+IP4221CZ6-S，115	from hqew, 吉隆达科技（香港）	NXP	12+	175000	N A
+IRF540PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	11250	N A
+IRF730PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	22650	N A
+IRF740STRLPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	9600	N A
+IRF820PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	21752	N A
+IRF9630PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	18300	N A
+IRFL110TRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	27500	N A
+IRFP450PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	28000	N A
+IRFR420TRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	54000	N A
+IRFU9120PBF	from hqew, 吉隆达科技（香港）	Vishay	12+	6525	N A
+IRLL110TRPBF	from hqew, 吉隆达科技（香港）	Vishay	12+	135000	N A
+IX1443-BM06	from hqew, 吉隆达科技（香港）	ITT	01+	300	PLCC
+K6R4008C1C-JC12	from hqew, 吉隆达科技（香港）	SAMSUNG	02+	100	SOJ
+KBU8M-E4/51	from hqew, 吉隆达科技（香港）	Vishay	12+	5750	N A
+KTY81/210，112	from hqew, 吉隆达科技（香港）	NXP	12+	30000	N A
+KTY81/221，112	from hqew, 吉隆达科技（香港）	NXP	12+	4000	N A
+LH1503AB	from hqew, 吉隆达科技（香港）	Vishay	12+	900	N A
+LH1511BABTR	from hqew, 吉隆达科技（香港）	Vishay	12+	4000	N A
+LH7A404N0F000B3，55	from hqew, 吉隆达科技（香港）	NXP	12+	1350	N A
+LM387N	from hqew, 吉隆达科技（香港）	NS	&nbsp;	63	DIP8
+LPC11U35FBD64/401，	from hqew, 吉隆达科技（香港）	NXP	12+	3200	N A
+LPC1225FBD48/301，1	from hqew, 吉隆达科技（香港）	NXP	12+	10750	N A
+LPC1311FHN33，551	from hqew, 吉隆达科技（香港）	NXP	12+	1300	N A
+LPC1764FBD100，551	from hqew, 吉隆达科技（香港）	NXP	12+	2675	N A
+LPC1827JBD144E	from hqew, 吉隆达科技（香港）	NXP	12+	1020	N A
+LPC2470FET208，551	from hqew, 吉隆达科技（香港）	NXP	12+	6930	N A
+LTC1376CN8	from hqew, 吉隆达科技（香港）	LT	0224+	8	DIP
+MBR20100CT-M3/4W	from hqew, 吉隆达科技（香港）	Vishay	12+	2000	N A
+MBR745-E3/45	from hqew, 吉隆达科技（香港）	Vishay	12+	20400	N A
+MM74C922N	from hqew, 吉隆达科技（香港）	NS	0016+	88	DIP
+MSP06A01-102G	from hqew, 吉隆达科技（香港）	DALE	8052+	1000	SIP
+M80C85AH	from hqew, 吉隆达科技（香港）	OKI	&nbsp;	11	DIP
+MAC223A	from hqew, 吉隆达科技（香港）	ON SEMI	0818+	60	TO220
+N74F04N，602	from hqew, 吉隆达科技（香港）	NXP	12+	5950	N A
+NTCLE203E3103GB0	from hqew, 吉隆达科技（香港）	Vishay	12+	31500	N A
+P6KE36A-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	52000	N A
+P6KE36CA-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	60000	N A
+P80C32SBAA，512	from hqew, 吉隆达科技（香港）	NXP	12+	5616	N A
+P80C32SBPN，112	from hqew, 吉隆达科技（香港）	NXP	12+	16038	N A
+P80C32X2FN，112	from hqew, 吉隆达科技（香港）	NXP	12+	2232	N A
+P82B715PN，112	from hqew, 吉隆达科技（香港）	NXP	12+	1500	N A
+P87C51FA-4N，112	from hqew, 吉隆达科技（香港）	NXP	12+	1530	N A
+P87C51RB2BN，112	from hqew, 吉隆达科技（香港）	NXP	12+	3024	N A
+P87C552SBAA，512	from hqew, 吉隆达科技（香港）	NXP	12+	3834	N A
+P89LPC936FDH，518	from hqew, 吉隆达科技（香港）	NXP	12+	32500	N A
+PCA82C251T/YM，112	from hqew, 吉隆达科技（香港）	NXP	12+	9065	N A
+PCA82C251T/YM，118	from hqew, 吉隆达科技（香港）	NXP	12+	67500	N A
+PCA9508DP，118	from hqew, 吉隆达科技（香港）	NXP	12+	10000	N A
+PCA9517DP，118	from hqew, 吉隆达科技（香港）	NXP	12+	50000	N A
+PCA9534PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	7500	N A
+PCA9544APW，112	from hqew, 吉隆达科技（香港）	NXP	12+	1875	N A
+PCA9554PW/DG，118	from hqew, 吉隆达科技（香港）	NXP	12+	2500	N A
+PCA9555D，112	from hqew, 吉隆达科技（香港）	NXP	12+	2550	N A
+PCA9555D，118	from hqew, 吉隆达科技（香港）	NXP	12+	10018	N A
+PCA9555DB，118	from hqew, 吉隆达科技（香港）	NXP	12+	25000	N A
+PCA9564PW，112	from hqew, 吉隆达科技（香港）	NXP	12+	1950	N A
+PCA9620H/Q900/1，51	from hqew, 吉隆达科技（香港）	NXP	12+	1000	N A
+PCA9673PW，118	from hqew, 吉隆达科技（香港）	NXP	12+	2500	N A
+PCF8566T/1，118	from hqew, 吉隆达科技（香港）	NXP	12+	8000	N A
+PCF8574AP，112	from hqew, 吉隆达科技（香港）	NXP	12+	7300	N A
+PCF8574AT/3，512	from hqew, 吉隆达科技（香港）	NXP	12+	8600	N A
+PCF8574AT/3，518	from hqew, 吉隆达科技（香港）	NXP	12+	12000	N A
+PCF8575TS/1，112	from hqew, 吉隆达科技（香港）	NXP	12+	2668	N A
+PCF8583T/5，518	from hqew, 吉隆达科技（香港）	NXP	12+	6000	N A
+PDTC114ET，215	from hqew, 吉隆达科技（香港）	NXP	12+	444000	N A
+PESD5V0L2UM，315	from hqew, 吉隆达科技（香港）	NXP	12+	70000	N A
+PESD5V0U1UT，215	from hqew, 吉隆达科技（香港）	NXP	12+	210000	N A
+PHT8N06LT，135	from hqew, 吉隆达科技（香港）	NXP	12+	40000	N A
+PLVA650A，215	from hqew, 吉隆达科技（香港）	NXP	12+	267000	N A
+PMBD914，215	from hqew, 吉隆达科技（香港）	NXP	12+	291000	N A
+PMBT2907A，215	from hqew, 吉隆达科技（香港）	NXP	12+	2982000	N A
+PMBT5551，215	from hqew, 吉隆达科技（香港）	NXP	12+	216000	N A
+PMBTA56，215	from hqew, 吉隆达科技（香港）	NXP	12+	363000	N A
+PMBTA92，215	from hqew, 吉隆达科技（香港）	NXP	12+	570000	N A
+PMEG3005ELD，315	from hqew, 吉隆达科技（香港）	NXP	12+	60000	N A
+PMEG6020ER，115	from hqew, 吉隆达科技（香港）	NXP	12+	141000	N A
+PMST3904，115	from hqew, 吉隆达科技（香港）	NXP	12+	156000	N A
+PRTR5V0U2AX，215	from hqew, 吉隆达科技（香港）	NXP	12+	33000	N A
+PSMN1R5-30YL，115	from hqew, 吉隆达科技（香港）	NXP	12+	22530	N A
+PSMN2R0-30PL，127	from hqew, 吉隆达科技（香港）	NXP	12+	5030	N A
+PSMN2R7-30PL，127	from hqew, 吉隆达科技（香港）	NXP	12+	70600	N A
+PSMN8R5-60YS，115	from hqew, 吉隆达科技（香港）	NXP	12+	12000	N A
+PSSI2021SAY，115	from hqew, 吉隆达科技（香港）	NXP	12+	66000	N A
+PXAG30KBA，512	from hqew, 吉隆达科技（香港）	NXP	12+	4706	N A
+QL12X16B-OPL68C	from hqew, 吉隆达科技（香港）	QUICK	9810+	10	PLCC
+RGF1M-E3/67A	from hqew, 吉隆达科技（香港）	Vishay	12+	43500	N A
+S1B-E3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	547200	N A
+S1M-E3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	6933600	N A
+S2G-E3/52T	from hqew, 吉隆达科技（香港）	Vishay	12+	599250	N A
+S2GHE3/52T	from hqew, 吉隆达科技（香港）	Vishay	12+	143250	N A
+S2J-E3/52T	from hqew, 吉隆达科技（香港）	Vishay	12+	20250	N A
+SA58631TK，115	from hqew, 吉隆达科技（香港）	NXP	12+	3000	N A
+SA602AD/01，118	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+SA614AD/01，118	from hqew, 吉隆达科技（香港）	NXP	12+	15000	N A
+SB160-E3/54	from hqew, 吉隆达科技（香港）	Vishay	12+	44000	N A
+SC18IS602BIPW，112	from hqew, 吉隆达科技（香港）	NXP	12+	2400	N A
+SC18IS602BIPW，128	from hqew, 吉隆达科技（香港）	NXP	12+	2500	N A
+SC28L198A1A，518	from hqew, 吉隆达科技（香港）	NXP	12+	2250	N A
+SDE2506	from hqew, 吉隆达科技（香港）	INF	&nbsp;	2	DIP8
+SGL41-40-E3/96	from hqew, 吉隆达科技（香港）	Vishay	12+	22500	N A
+SGW25N120	from hqew, 吉隆达科技（香港）	INFINEON	08+	170	TO-247
+SI2302CDS-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	69000	N A
+SI2315BDS-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	21000	N A
+SI2328DS-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	33000	N A
+SI2343DS-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	30000	N A
+SI3459BDV-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	12000	N A
+SI4384DY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	7500	N A
+SI4423DY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	5000	N A
+SI4490DY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	17500	N A
+SI4816BDY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	17500	N A
+SI4848DY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	182500	N A
+SI4874BDY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	5000	N A
+SI4947ADY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	17500	N A
+SI7106DN-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	126000	N A
+SI7164DP-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	6000	N A
+SI7810DN-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	15000	N A
+SI7940DP-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	27000	N A
+SI9200EY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	2500	N A
+SI9926CDY-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	5000	N A
+SI9936BDY-T1-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	25000	N A
+SIA456DJ-T1-GE3	from hqew, 吉隆达科技（香港）	Vishay	12+	9000	N A
+SMAJ30A-E3/61	from hqew, 吉隆达科技（香港）	Vishay	12+	178200	N A
+SMAJ36A-E3/61	from hqew, 吉隆达科技（香港）	Vishay	12+	77400	N A
+SMAJ58A-E3/61	from hqew, 吉隆达科技（香港）	Vishay	12+	153000	N A
+SMBJ12CA-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	114000	N A
+SMBJ18A-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	150750	N A
+SMBJ33A-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	141750	N A
+SMBJ33CA-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	99000	N A
+SMBJ3V3-E3/52	from hqew, 吉隆达科技（香港）	Vishay	12+	24750	N A
+SMCJ22A-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	73100	N A
+SMCJ24A-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	65450	N A
+SMCJ33CA-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	58650	N A
+SMCJ36A-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	27200	N A
+SMCJ5.0A-E3/57T	from hqew, 吉隆达科技（香港）	Vishay	12+	184450	N A
+SS16-E3/61T	from hqew, 吉隆达科技（香港）	Vishay	12+	117000	N A
+SS24-E3/52T	from hqew, 吉隆达科技（香港）	Vishay	12+	56250	N A
+SSL21084T/1，118	from hqew, 吉隆达科技（香港）	NXP	12+	2730	N A
+ST20TP4CX60S	from hqew, 吉隆达科技（香港）	ST	&nbsp;	14	QFP
+STA471A	from hqew, 吉隆达科技（香港）	SANKEN	0910+	4229	SIP11
+STG3699AQTR	from hqew, 吉隆达科技（香港）	ST	09+	9000	QFN
+SUD15N15-95-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	84000	N A
+SUD50P04-09L-E3	from hqew, 吉隆达科技（香港）	Vishay	12+	10000	N A
+T2800D	from hqew, 吉隆达科技（香港）	ON SEMI	0329+	15	TO220
+T83A106K016ESBL	from hqew, 吉隆达科技（香港）	Vishay	12+	4000	N A
+TCMT1104	from hqew, 吉隆达科技（香港）	Vishay	12+	39000	N A
+TCPT1300X01	from hqew, 吉隆达科技（香港）	Vishay	12+	8000	N A
+TDA8002CG/C1，518	from hqew, 吉隆达科技（香港）	NXP	12+	16000	N A
+TEMT1000	from hqew, 吉隆达科技（香港）	Vishay	12+	38000	N A
+TEMT1020	from hqew, 吉隆达科技（香港）	Vishay	12+	23000	N A
+TFDU4101-TT3	from hqew, 吉隆达科技（香港）	Vishay	12+	18000	N A
+TJA1041T/VM，518	from hqew, 吉隆达科技（香港）	NXP	12+	5000	N A
+TZMC5V6-GS08	from hqew, 吉隆达科技（香港）	Vishay	12+	282500	N A
+UAA145	from hqew, 吉隆达科技（香港）	TFK	&nbsp;	3	DIP
+UDA1341TS/N1，518	from hqew, 吉隆达科技（香港）	NXP	12+	3010	N A
+VB020	from hqew, 吉隆达科技（香港）	ST	00+	9	TO247
+VBPW34S	from hqew, 吉隆达科技（香港）	Vishay	12+	75000	N A
+VEMT2020X01	from hqew, 吉隆达科技（香港）	Vishay	12+	192000	N A
+VY2103M63Y5US6TV7	from hqew, 吉隆达科技（香港）	Vishay	12+	37000	N A
+XC4010XL-PQ208C	from hqew, 吉隆达科技（香港）	XILINX	0317+	8	QFP
+XC95144-PQ160AEM	from hqew, 吉隆达科技（香港）	XILINX	0445+	71	QFP
+Z0107MN，135	from hqew, 吉隆达科技（香港）	NXP	12+	28000	N A

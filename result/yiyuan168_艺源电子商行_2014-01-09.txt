@@ -1,0 +1,980 @@
+1SMB58AT3G	from hqew, 艺源电子商行	ON SEMI	1337	120000	
+1SMB5929BT3G	from hqew, 艺源电子商行	ON SEMI	12141133	534000	DO-214AA
+2N7002	from hqew, 艺源电子商行	NXP	2013	2520000	SOT23
+2N7002	from hqew, 艺源电子商行	NXP	1309/131	48000	SOT23
+2N7002BK	from hqew, 艺源电子商行	NXP	13+	120000	SOT23
+74AHCT164D	from hqew, 艺源电子商行	NXP	1024+	10000	SOP14
+74VHC123AMTCX	from hqew, 艺源电子商行	FAIRCHILD	1229/123	2500	TSSOP
+74VHCT244AMTCX	from hqew, 艺源电子商行	Fairchild	2011	91000	SOT-23
+BAP64-05W	from hqew, 艺源电子商行	NXP	1230	9000	SOT323
+BAS16LT1G	from hqew, 艺源电子商行	ON SEMI	13+	1191000	SOT23
+BAS21LT1G.	from hqew, 艺源电子商行	ON SEMI	12+	270000	SOT23
+BAS70-04	from hqew, 艺源电子商行	NXP	1311/131	120000	SOT23
+BAS70-04	from hqew, 艺源电子商行	NXP	1322/132	57000	SOT23
+BAT46	from hqew, 艺源电子商行	ST	2010	345000	SOT-123
+BAT54CLT1G.	from hqew, 艺源电子商行	ON SEMI	2013	270000	SOT23
+BAV70W	from hqew, 艺源电子商行	NXP	13+	840000	SOT323
+BC817	from hqew, 艺源电子商行	NXP	2012	9000	SOT-23
+BC817-40	from hqew, 艺源电子商行	NXP	1322	720000	SOT23
+BC846BW	from hqew, 艺源电子商行	NXP	1224	183000	SOT323
+BC857A	from hqew, 艺源电子商行	NXP	1307+	30000	SOT23
+BC857B	from hqew, 艺源电子商行	NXP	1240	1200000	SOT23
+BCP53-16	from hqew, 艺源电子商行	NXP	1323+	60000	SOT223
+BCP56T1G	from hqew, 艺源电子商行	ON SEMI	1344+	29000	SOT223
+BCR562	from hqew, 艺源电子商行	INFINEON	1237	30000	SOT23
+BFR93A	from hqew, 艺源电子商行	NXP	1037	3000	SOT23
+BSH103	from hqew, 艺源电子商行	NXP	1221	3000	SOT23
+BSR16	from hqew, 艺源电子商行	FAIRCHILD	1203	6000	SOT-23
+BTA316-600C	from hqew, 艺源电子商行	NXP	1249	1000	TO-220
+BUK7275-100A.	from hqew, 艺源电子商行	NXP	12+	270000	TO252
+BUK7606-75B	from hqew, 艺源电子商行	NXP	1224+	800	
+BZX79-B10	from hqew, 艺源电子商行	NXP	12+	12000	DO-35
+ESD9X5.0ST5G	from hqew, 艺源电子商行	ON SEMI	2010	8000	SOD923
+ESDALC5-1BT2	from hqew, 艺源电子商行	ST	12321234	2830	SOD882
+FCP9N60N	from hqew, 艺源电子商行	Fairchild	1124	24000	TO-220
+FDN372S	from hqew, 艺源电子商行	Fairchild	0902/090	12	SOT23
+FJP13007H1TU.	from hqew, 艺源电子商行	Fairchild	10+	270000	TO-220
+FQP6N90C	from hqew, 艺源电子商行	Fairchild	11+	10875	TO-220
+HEF40106BT	from hqew, 艺源电子商行	NXP	1335+	32500	SOP14
+ICE3BR1765J	from hqew, 艺源电子商行	INFINEON	1128+	5000	DIP8
+ILD2.	from hqew, 艺源电子商行	Vishay	2010	270000	DIPSOP
+IP4223CZ6	from hqew, 艺源电子商行	NXP	1306+	2000	SOT23-6
+KA34063A.	from hqew, 艺源电子商行	Fairchild	1124	270000	DIP
+LF247D	from hqew, 艺源电子商行	ST	1130	4000	SOP14SOI
+LM217LZ-TR	from hqew, 艺源电子商行	ST	2011	2000	TO-92
+LM358MX	from hqew, 艺源电子商行	Fairchild	1147	113	SOP-8
+MBRS320	from hqew, 艺源电子商行	Fairchild	2010	5000	SMC
+MJD127T4	from hqew, 艺源电子商行	ST	1021	380	TO-252
+MMBT3904TT1G	from hqew, 艺源电子商行	ON SEMI	2010	222000	SOT-523
+MMBT3904TT1G	from hqew, 艺源电子商行	ON SEMI	10+	270000	SOT-523
+MURS320T3G	from hqew, 艺源电子商行	ON SEMI	13+	60000	DO-214AB
+M24C64-RDW6TP	from hqew, 艺源电子商行	ST	2012	45523	SOP8
+M24C64-RDW6TP	from hqew, 艺源电子商行	ST	1215	102612	TSSOP-8
+M74HC4051RM13TR	from hqew, 艺源电子商行	ST	1123+	22500	SOP16
+M95320-WMN6TP	from hqew, 艺源电子商行	ST	1206	2500	SOP-8
+NANOSMDC110F-2	from hqew, 艺源电子商行	Raychem	1127	3000	SMD
+NDS332P	from hqew, 艺源电子商行	Fairchild	1131	4000	SOT23
+NTMD6P02R2G.	from hqew, 艺源电子商行	ON SEMI	10+	270000	SOP
+P80C32UFAA	from hqew, 艺源电子商行	NXP	1212+	24000	PLCC-44
+PDTA144EE	from hqew, 艺源电子商行	NXP	13+	120000	SOT416
+PESD12VL1BA	from hqew, 艺源电子商行	NXP	1310	192000	SOD-323
+PHK12NQ03LT	from hqew, 艺源电子商行	NXP	1231+	2500	SOT96
+PMBT2907A	from hqew, 艺源电子商行	NXP	1302+	470	SOT23
+PMBT4401.	from hqew, 艺源电子商行	NXP	13+	270000	SOT23
+SEDS-9886	from hqew, 艺源电子商行	AVAGO	09+10+	25000	DIP6
+SG6841DZ	from hqew, 艺源电子商行	FAIRCHILD	1210	3422	DIP-8
+STD1NK60T4	from hqew, 艺源电子商行	ST	1133	10000	SOT-252
+STD7NS20T4	from hqew, 艺源电子商行	ST	1142+	55000	TO252
+STM809TWX6F	from hqew, 艺源电子商行	ST	1130	800	SOT23-3
+STP60NF10	from hqew, 艺源电子商行	ST	1206+	1000	TO-220
+STPS10150CT	from hqew, 艺源电子商行	ST	2010	1000	TO-220
+STTH102A	from hqew, 艺源电子商行	ST	1038	5000	DO-214AC
+TLE4205G	from hqew, 艺源电子商行	INFINEON	1212+	878	SOP-20
+TS951ILT	from hqew, 艺源电子商行	ST	2011	12500	SOT23-5
+TSH72CDT	from hqew, 艺源电子商行	ST	1204	10000	SOP8
+ZEN056V130A24LS	from hqew, 艺源电子商行	RAYCHEM	1313/132	15	SMD
+ZEN056V230A16LS	from hqew, 艺源电子商行	Raychem	1228	12000	SMD
+ZEN056V230A16LS	from hqew, 艺源电子商行	RAYCHEM	1238	120000	SMD
+2N7002	from hqew, 艺源电子商行	NXP	1309+/13	832160	SOT-23
+2SA1837	from hqew, 艺源电子商行	TOSHIBA	1317	3206	TO-220
+2SA1930	from hqew, 艺源电子商行	TOSHIBA	2010	2500	TO220
+2SC2712-Y(T5L,F,T)	from hqew, 艺源电子商行	TOSHIBA	12+	120000	SOT23
+74ABT244D	from hqew, 艺源电子商行	NXP	1139+	2000	SSOP20
+74AHC1G126GW	from hqew, 艺源电子商行	NXP	1234+	2500	SOT-353
+74AHCT373PW	from hqew, 艺源电子商行	NXP	1246	1000	SOT360
+74HC08D	from hqew, 艺源电子商行	NXP	1241	2400	SOT108
+74HC132PW	from hqew, 艺源电子商行	NXP	1204	1000	SOT402
+74HC366D	from hqew, 艺源电子商行	NXP	1121	1520	SOP
+74HC373D	from hqew, 艺源电子商行	NXP	1230+	2500	SOP20
+74HC597D	from hqew, 艺源电子商行	NXP	1108+	2280	SOP
+74HCT299D	from hqew, 艺源电子商行	NXP	1246	17500	SOT163
+74LCX16240MTDX	from hqew, 艺源电子商行	Fairchild	2010	5000	TSSOP48
+74LV273DB	from hqew, 艺源电子商行	NXP	10+	6000	SSOP20
+74LVC273D	from hqew, 艺源电子商行	NXP	1221+	3000	SOT163
+74LVC2G66GD	from hqew, 艺源电子商行	NXP	1030+	3000	SOT996
+74LVT126PW	from hqew, 艺源电子商行	NXP	11491151	12500	TSSOP14
+74LVT16244MTDX	from hqew, 艺源电子商行	Fairchild	1141	500	TSSOP48
+74LVX4245MTCX	from hqew, 艺源电子商行	FAIRCHILD	1311/131	10000	TSSOP
+74VCX163245MTDX	from hqew, 艺源电子商行	Fairchild	2011	1034	TSSOP
+74VHC04MTC	from hqew, 艺源电子商行	FAIRCHILD	12+	1974	TSSOP
+74VHC04MTC	from hqew, 艺源电子商行	Fairchild	&nbsp;	5000	TSSOP
+BA17805FP-E2	from hqew, 艺源电子商行	ROHM	2012	120000	
+BAR43CFILM.	from hqew, 艺源电子商行	ST	11+	270000	SOT23
+BAS17	from hqew, 艺源电子商行	NXP	1247+	455050	SOD-323
+BAS21	from hqew, 艺源电子商行	NXP	1305	480000	SOT23
+BAS29	from hqew, 艺源电子商行	NXP	10471140	1490	SOT-23
+BAS316	from hqew, 艺源电子商行	NXP	1320	240000	SOD323
+BAS40-05	from hqew, 艺源电子商行	NXP	1305	120000	SOT23
+BAS40-05	from hqew, 艺源电子商行	NXP	12+	96000	SOT23
+BAS70-04	from hqew, 艺源电子商行	NXP	1328+	180000	SOT23
+BAT120C	from hqew, 艺源电子商行	NXP	1302	8000	SOT-223
+BAT54	from hqew, 艺源电子商行	NXP	1240	371965	SOT23
+BAT54A	from hqew, 艺源电子商行	NXP	1309	600000	SOT23
+BAT54A	from hqew, 艺源电子商行	NXP	1218	3700	SOT23
+BAT54C	from hqew, 艺源电子商行	NXP	1229/124	1062000	SOT23
+BAT54C RF	from hqew, 艺源电子商行	TSC	13+	120000	
+BAT54S.	from hqew, 艺源电子商行	NXP	13+	270000	SOT23
+BAT54SLT1G	from hqew, 艺源电子商行	ON SEMI	13+	1413000	SOT23
+BAT54W.	from hqew, 艺源电子商行	NXP	10+	270000	SOT23-3
+BAT62-02W	from hqew, 艺源电子商行	INFINEON	1108	120000	SOD523
+BAV70	from hqew, 艺源电子商行	NXP	2013	837000	SOT23
+BAV70	from hqew, 艺源电子商行	NXP	13011302	1440000	SOT23
+BAV70	from hqew, 艺源电子商行	NXP	1301+/13	42000	SOT23
+BAV70W	from hqew, 艺源电子商行	NXP	1303	1356230	SOT323
+BAV70W	from hqew, 艺源电子商行	NXP	12+	660000	SOT323
+BAV99	from hqew, 艺源电子商行	NXP	1308	21000	SOT23
+BAV99S	from hqew, 艺源电子商行	NXP	1320/132	132000	SOT363
+BAW56LT1G	from hqew, 艺源电子商行	ON SEMI	12+	3360000	SOT23
+BAW56LT1G	from hqew, 艺源电子商行	ON SEMI	2013	102000	SOT23
+BAW56W	from hqew, 艺源电子商行	NXP	12+	63000	SOT323
+BB143	from hqew, 艺源电子商行	NXP	13+	120000	SOD523
+BC807-25	from hqew, 艺源电子商行	NXP	1311	360000	SOT23
+BC807-25	from hqew, 艺源电子商行	NXP	1312	960000	SOT21
+BC807-40.	from hqew, 艺源电子商行	NXP	13+	270000	SOT23
+BC817	from hqew, 艺源电子商行	NXP	1235+	144000	SOT-23
+BC817	from hqew, 艺源电子商行	NXP	1232	132000	SOT23
+BC817-16	from hqew, 艺源电子商行	NXP	1209+121	240000	SOT-23
+BC817-25	from hqew, 艺源电子商行	NXP	1241	63000	SOT23
+BC817-25	from hqew, 艺源电子商行	NXP	1242	105000	SOT23
+BC817-25	from hqew, 艺源电子商行	NXP	1243/132	24000	SOT23
+BC846B	from hqew, 艺源电子商行	NXP	1338+/13	591398	SOT23
+BC847	from hqew, 艺源电子商行	NXP	09+	120000	
+BC847B	from hqew, 艺源电子商行	NXP	1334+	201000	SOT23
+BC847BPN	from hqew, 艺源电子商行	NXP	13+	57000	SOT363
+BC847BPN	from hqew, 艺源电子商行	NXP	1342+	66000	SOT363
+BC847BS	from hqew, 艺源电子商行	NXP	1338+	195000	SOT363
+BC857B	from hqew, 艺源电子商行	NXP	1341+	240000	SOT23
+BC857BS	from hqew, 艺源电子商行	NXP	1328+/13	15000	SOT363
+BC857BW	from hqew, 艺源电子商行	NXP	1243	153000	SOT323
+BC857C	from hqew, 艺源电子商行	NXP	1316	357000	SOT23
+BC858B	from hqew, 艺源电子商行	NXP	1305/130	840000	SOT23
+BCP52-16	from hqew, 艺源电子商行	NXP	1311+	104990	SOT223
+BCP52-16	from hqew, 艺源电子商行	NXP	1304	26110	SOT-223
+BCP53	from hqew, 艺源电子商行	NXP	1321+	60000	SOT223
+BCP55	from hqew, 艺源电子商行	NXP	1308/130	145830	SOT223
+BCP55-10	from hqew, 艺源电子商行	NXP	1215+	60000	SOT223
+BCP56	from hqew, 艺源电子商行	NXP	12171218	60000	SOT223
+BCP56-16	from hqew, 艺源电子商行	NXP	1243+	92590	SOT223
+BCP56-16	from hqew, 艺源电子商行	NXP	1229	30000	SOT223
+BCP56-16T1G	from hqew, 艺源电子商行	ON SEMI	1303/131	5000	SOT223
+BCP69-16	from hqew, 艺源电子商行	NXP	1325	12000	SOT223
+BCV47	from hqew, 艺源电子商行	NXP	1316+	44000	SOT23
+BCX53-16	from hqew, 艺源电子商行	NXP	1331/133	23000	SOT89
+BFG540W/X	from hqew, 艺源电子商行	NXP	1248	6000	SOT343
+BFM520	from hqew, 艺源电子商行	NXP	1236+	24000	SOT363
+BFP196	from hqew, 艺源电子商行	INFINEON	2010	3000	SOT343
+BFR505	from hqew, 艺源电子商行	NXP	1126+	3000	SOT23
+BFS17W	from hqew, 艺源电子商行	NXP	12+	30000	SOT323
+BGA2712.	from hqew, 艺源电子商行	NXP	12+	270000	SOT363
+BSC042N03MSG	from hqew, 艺源电子商行	INFINON	1123	9000	TDSON-8
+BSH111	from hqew, 艺源电子商行	NXP	1221+	303000	SOT-23
+BSS123	from hqew, 艺源电子商行	NXP	13+	120000	SOT23
+BT134-600	from hqew, 艺源电子商行	NXP	1110	3000	TO-126
+BT134-800E	from hqew, 艺源电子商行	NXP	1145	1000	SOT-82
+BT134W-800	from hqew, 艺源电子商行	NXP	1230+	1000	SOT-223
+BT136X-600E	from hqew, 艺源电子商行	NXP	1127	24000	TO126
+BTA06-600CWRG	from hqew, 艺源电子商行	ST	1242	2000	TO-220
+BTA204-800E	from hqew, 艺源电子商行	NXP	1223	2000	TO-220
+BTA208-600E	from hqew, 艺源电子商行	NXP	1123+	1000	SOT78
+BUJ403A	from hqew, 艺源电子商行	NXP	2009+	2500	TO-220
+BUK7275-100A	from hqew, 艺源电子商行	NXP	1210+	2500	TO252
+BUK7510-100B	from hqew, 艺源电子商行	NXP	10361039	800	TO-220
+BUK7608-40B	from hqew, 艺源电子商行	NXP	1150+	4000	TO-263-3
+BUK98150-55A	from hqew, 艺源电子商行	NXP	1309	912	TO-223
+BZT52C6V2-7-F	from hqew, 艺源电子商行	DIODES INC	1323	120000	SOD123
+BZX384-B2V7	from hqew, 艺源电子商行	NXP	13+	120000	SOD323
+BZX585-B2V7	from hqew, 艺源电子商行	NXP	12+	190000	SOD-523
+CBT3257AD	from hqew, 艺源电子商行	NXP	2011	90000	SOP16
+ECLAMP1002A.TCT	from hqew, 艺源电子商行	SEMTECH	2010	8000	SOT666
+FDMS86300	from hqew, 艺源电子商行	FAIRCHILD	1301	3000	QFN8
+FDN336P	from hqew, 艺源电子商行	Fairchild	2006	12000	SOT23
+FDS6898A	from hqew, 艺源电子商行	Fairchild	2011	2400	SOP
+FDS6910	from hqew, 艺源电子商行	Fairchild	1224	1500	SOP-8
+FDS6930B	from hqew, 艺源电子商行	Fairchild	2011	7400	SOP
+FDS6930B.	from hqew, 艺源电子商行	Fairchild	11+	270000	SOP
+FDS8884	from hqew, 艺源电子商行	Fairchild	2010	4785	SOP
+FDS8949	from hqew, 艺源电子商行	Fairchild	2011	6000	SOP-8
+FDV304P	from hqew, 艺源电子商行	FAIRCHILD	950	18835	SOT-23
+FEP16DT	from hqew, 艺源电子商行	Fairchild	12+	280	TO-220
+FJP13007H1TU,	from hqew, 艺源电子商行	Fairchild	10+	270000	TO-220
+FMMT449	from hqew, 艺源电子商行	FAIRCHILD	1209	9100	SOT23
+FOD817A	from hqew, 艺源电子商行	FAIRCHILD	1235	19500	DIP-4
+FODM124R2	from hqew, 艺源电子商行	FAIRCHILD	1234	10160	SOP-4
+FQN1N60CTA	from hqew, 艺源电子商行	Fairchild	13+	58000	TO-92
+FQN1N60CTA	from hqew, 艺源电子商行	Fairchild	12+	890	TO-92
+FQP13N50	from hqew, 艺源电子商行	Fairchild	2010	670	TO-220
+FQP17P06	from hqew, 艺源电子商行	Fairchild	2011	330	TO-220
+GF1M	from hqew, 艺源电子商行	Fairchild	1216	3000	DO214
+HCF4098M013TR	from hqew, 艺源电子商行	ST	2011	900	SOP16
+HCPL-0700-500E	from hqew, 艺源电子商行	Avago	2010	27	LED
+HDSP-5501	from hqew, 艺源电子商行	Avago	2010	320	SMD
+HDSP-5501.	from hqew, 艺源电子商行	Avago	10+	270000	SMD
+HEF4016BT	from hqew, 艺源电子商行	NXP	1206+	725	SOP1414-
+HLMP-1401.	from hqew, 艺源电子商行	Avago	2009	270000	LED
+HSMC-C680	from hqew, 艺源电子商行	Avago	2010	2000	SMD
+ICL8001G	from hqew, 艺源电子商行	INFINEON	1129+	5000	SOP8
+IHW30N90R.	from hqew, 艺源电子商行	INFINEON	2011	270000	TO-220F
+IPP50R299CP	from hqew, 艺源电子商行	INFINEON	2010	12000	TO-220
+IRF8113TRPBF	from hqew, 艺源电子商行	IR	&nbsp;	2464	SOIC-8
+IRF8113TRPBF	from hqew, 艺源电子商行	IR	12+	15800	SOP-8
+KSD882YSTU	from hqew, 艺源电子商行	Fairchild	1237	12000	TO-126
+L4973D5.1	from hqew, 艺源电子商行	ST	1221	1820	SOP-20
+L4981BD013TR	from hqew, 艺源电子商行	ST	1147	375	SOP-20
+L6506	from hqew, 艺源电子商行	ST	1038	300	DIP
+L6571BD	from hqew, 艺源电子商行	ST	12+	2880	SOP8
+LD1117ADT18TR	from hqew, 艺源电子商行	ST	1134	1364	TO252
+LD2980ABM30TR	from hqew, 艺源电子商行	ST	2011	3000	SOT-23-5
+LD2980ABM30TR.	from hqew, 艺源电子商行	ST	2011	270000	SOT-23-5
+LD2985BM50R	from hqew, 艺源电子商行	ST	2010	830	SOT23-5
+LM2901D	from hqew, 艺源电子商行	ST	1127	3000	SOP14
+LM2903M	from hqew, 艺源电子商行	Fairchild	1207	13715	SOP-8
+LM2903M,	from hqew, 艺源电子商行	Fairchild	1207	270000	SOP-8
+LM2903M.	from hqew, 艺源电子商行	FAIRCHILD	1207	270000	SOP-8
+LM2903PT	from hqew, 艺源电子商行	ST	1208	8000	TSSOP8
+LM2904N.	from hqew, 艺源电子商行	ST	1129	270000	DIP8
+LM2904NG	from hqew, 艺源电子商行	ON SEMI	1138+113	20000	DIP-8
+LM555CMX	from hqew, 艺源电子商行	FAIRCHILD	1225	2141	SOP-8
+LS4148-GS08	from hqew, 艺源电子商行	Vishay	1137	90	LL34
+LUDZS6.2BT1G	from hqew, 艺源电子商行	LRC	13+	120000	SOD323
+MBRD360T4G.	from hqew, 艺源电子商行	ON SEMI	2011	270000	SOT252
+MC14053BDR2G	from hqew, 艺源电子商行	ON SEMI	1225	2500	SOP-16
+MC14504BDR2G	from hqew, 艺源电子商行	ON SEMI	1242	1000	SOP-16
+MC145406D	from hqew, 艺源电子商行	NXP	1043+	1000	SOP-16
+MJD44H11T4G	from hqew, 艺源电子商行	ON SEMI	1116	12500	TO-252
+MJD44H11T4G	from hqew, 艺源电子商行	ON SEMI	1333+	9000	TO-252
+MMBD7000LT1G	from hqew, 艺源电子商行	ONsemi	1232	783000	SOT23
+MMBD7000LT1G	from hqew, 艺源电子商行	ONsemi	13+	1182000	SOT23
+MMBD7000LT1G	from hqew, 艺源电子商行	ONsemi	1226+	36000	SOT23
+MMBD914LT1G	from hqew, 艺源电子商行	ON SEMI	12+	1920000	SOT23
+MMBF0201NLT1G	from hqew, 艺源电子商行	ON SEMI	1211	6000	SOT23
+MMBT2222ALT1G	from hqew, 艺源电子商行	ON SEMI	13+	2520000	SOT23
+MMBT3904LT1G	from hqew, 艺源电子商行	ON SEMI	13+	1080000	SOT23
+MMBT3904LT1G	from hqew, 艺源电子商行	ON SEMI	1310	120000	SOT23
+MMBT3904LT1G,	from hqew, 艺源电子商行	ON SEMI	13+	270000	SOT23
+MMBT3904TT1G/	from hqew, 艺源电子商行	ON SEMI	10+	270000	SOT-523
+MMBT3906LT1G	from hqew, 艺源电子商行	ON SEMI	12+/13+	720000	SOT23
+MMBT3906LT1G	from hqew, 艺源电子商行	ON SEMI	13+	1380000	SOT23
+MMBT4401LT1G	from hqew, 艺源电子商行	ON SEMI	13+	6000	SOT23
+MPSA06.	from hqew, 艺源电子商行	Fairchild	10+	270000	TO92
+MURS260T3G	from hqew, 艺源电子商行	ON SEMI	1025	2448	SMB
+MURS320T3G	from hqew, 艺源电子商行	ON SEMI	1311	2500	DO-214AB
+M24512-RMN6TP	from hqew, 艺源电子商行	ST	2010	19610	SOP
+M24C64-WDW6TP	from hqew, 艺源电子商行	ST	1152/121	52000	TSSOP-8
+M24C64-WDW6TP	from hqew, 艺源电子商行	ST	1214+	2500	TSSOP-8
+M24C64-WMN6TP	from hqew, 艺源电子商行	ST	2010	47500	SOP
+M24C64-WMN6TP	from hqew, 艺源电子商行	ST	1210/121	2600	SOP8
+M48T02-150PC1	from hqew, 艺源电子商行	ST	1043+	1126	DIP-24
+M4T32-BR12SH6	from hqew, 艺源电子商行	ST	1217	10000	DIP4
+M74HC4052RM13TR	from hqew, 艺源电子商行	ST	1042	7500	SOP-16
+M93C86-WMN6TP	from hqew, 艺源电子商行	ST	2010	880	SOP
+M95320-WMN6TP	from hqew, 艺源电子商行	ST	2011	4000	SOP-8
+M95512-RDW6TP	from hqew, 艺源电子商行	ST	1221	9000	TSSOP8
+NC7ST02M5X	from hqew, 艺源电子商行	Fairchild	2011	12000	SOT-153
+NC7SZ384M5X	from hqew, 艺源电子商行	FAIRCHILD	1232	30000	SOT-23-5
+NCV3063DR2G	from hqew, 艺源电子商行	ON SEMI	11+	800	SOP-8
+NDB6020P	from hqew, 艺源电子商行	Fairchild	11+	8650	TO-263
+NDP6020P	from hqew, 艺源电子商行	Fairchild	2011	3000	T0220
+NE556N	from hqew, 艺源电子商行	ST	13+	280000	DIP14
+NE556N.	from hqew, 艺源电子商行	ST	2013	270000	DIP14
+P6KE400A	from hqew, 艺源电子商行	ST	2011	10000	DO-41
+P6SMB68AT3G	from hqew, 艺源电子商行	ON SEMI	2010	70000	DO214
+P6SMB68AT3G.	from hqew, 艺源电子商行	ON SEMI	10+	270000	DO214
+PBSS5250X	from hqew, 艺源电子商行	NXP	1027+	16000	SOT-89
+PBSS5250X	from hqew, 艺源电子商行	NXP	1023+	56000	SOT-89
+PBSS5250X	from hqew, 艺源电子商行	NXP	1032	20000	SOT-89
+PBSS5250X.	from hqew, 艺源电子商行	NXP	10+	270000	SOT-89
+PDTA143ZE	from hqew, 艺源电子商行	NXP	1238	192000	SOT416
+PDTC143ZE	from hqew, 艺源电子商行	NXP	1241+	546000	SOT416
+PDTC143ZE	from hqew, 艺源电子商行	NXP	1240/124	120000	SOT416
+PDTC144ET	from hqew, 艺源电子商行	NXP	1222/122	135000	SOT23
+PEMH9	from hqew, 艺源电子商行	NXP	1212	8000	SOT666
+PEMH9	from hqew, 艺源电子商行	NXP	1212+	10	SOT666
+PESD0402-140	from hqew, 艺源电子商行	Raychem	2009	108718	SMD
+PESD0603-240	from hqew, 艺源电子商行	Raychem	2011	36000	SMD
+PESD12VL1BA.	from hqew, 艺源电子商行	NXP	13+	270000	SOD-323
+PESD1CAN.	from hqew, 艺源电子商行	NXP	13+	270000	SOT23
+PESD24VL1BA	from hqew, 艺源电子商行	NXP	1315	54000	SOD323
+PESD24VL1BA	from hqew, 艺源电子商行	NXP	1322/132	6000	SOD323
+PESD36VS2UT	from hqew, 艺源电子商行	NXP	1334+	69859	SOT23
+PESD5V0F1BL	from hqew, 艺源电子商行	NXP	1226	1920	SOD882
+PESD5V0S1BA	from hqew, 艺源电子商行	NXP	1308+	703000	SOD323
+PESD5V0S2BT	from hqew, 艺源电子商行	NXP	1303/130	21000	SOT23
+PESD5V0S2BT	from hqew, 艺源电子商行	NXP	1324+	96300	SOT23
+PGB1010603NR	from hqew, 艺源电子商行	Littelfuse	1318	3000	SMD0603
+PGB1010603NR	from hqew, 艺源电子商行	Littelfuse	12+	65000	SMD0603
+PHK18NQ03LT.	from hqew, 艺源电子商行	NXP	09+	270000	SOP-8
+PMBT2222A	from hqew, 艺源电子商行	NXP	12261236	273000	SOT23
+PMBT2222A	from hqew, 艺源电子商行	NXP	12+	594000	SOT23
+PMBT3904	from hqew, 艺源电子商行	NXP	12+	225000	SOT23
+PMBT3906	from hqew, 艺源电子商行	NXP	13+	240000	SOT-23
+PMBT4401	from hqew, 艺源电子商行	NXP	1317+	360000	SOT23
+PMBTA42	from hqew, 艺源电子商行	NXP	1206	6000	SOT23
+PMEG2005EH	from hqew, 艺源电子商行	NXP	1246	3000	SOD123
+PMN45EN	from hqew, 艺源电子商行	NXP	2010	60000	SOT163
+PMN45EN.	from hqew, 艺源电子商行	NXP	10+	270000	SOT163
+PRF949	from hqew, 艺源电子商行	NXP	1207+	800	SOT-523
+PSMN004-60B	from hqew, 艺源电子商行	NXP	1217+	1000	SOT404
+PSMN035-150P	from hqew, 艺源电子商行	NXP	1302	1600	TO-220
+PUMD3	from hqew, 艺源电子商行	NXP	1039	4000	SOT363
+RB751V40	from hqew, 艺源电子商行	NXP	2010	2080	SOT323
+RS1D	from hqew, 艺源电子商行	Fairchild	1213	2500	DO-214AC
+S1B	from hqew, 艺源电子商行	Fairchild	1121	22500	DO-214AC
+SG6841DZ	from hqew, 艺源电子商行	FAIRCHILD	12+	7021	DIP8
+SM05.TCT	from hqew, 艺源电子商行	SEMTECH	1147	3000	SOT-23
+SM15T100CA	from hqew, 艺源电子商行	ST	1132	7500	SMC
+SMBJ85CA-TR	from hqew, 艺源电子商行	ST	1103	3000	DO-214AA
+SMCJ26CA	from hqew, 艺源电子商行	Fairchild	1103	300	DO-214AB
+SPD02N60C3	from hqew, 艺源电子商行	INFINEON	1118	105	TO-252
+SPP04N60C3	from hqew, 艺源电子商行	INFINEON	2011	6000	TO-220
+SPP24N60C3	from hqew, 艺源电子商行	INFINEON	1103	5380	TO-220
+STB20NM60D	from hqew, 艺源电子商行	ST	1227	1629	D2PAK
+STB25NM50N	from hqew, 艺源电子商行	ST	1129	1000	D2PAK
+STD15NF10T4	from hqew, 艺源电子商行	ST	1221/122	7500	TO-252
+STD30NF06LT4	from hqew, 艺源电子商行	ST	2011	5000	TO-252
+STD7NS20T4	from hqew, 艺源电子商行	ST	11+	32500	TO252
+STGF7NC60HD	from hqew, 艺源电子商行	ST	2010	5903	TO220F
+STGF7NC60HD.	from hqew, 艺源电子商行	ST	10+	270000	TO220F
+STGP14NC60KD	from hqew, 艺源电子商行	ST	1229	180	TO-220F
+STM706RM6F	from hqew, 艺源电子商行	ST	12361247	42000	SOP8
+STM809TWX6F	from hqew, 艺源电子商行	ST	1133+	207000	SOT23-3
+STP11NM60FP	from hqew, 艺源电子商行	ST	11+	1700	TO-220F
+STP3NK90ZFP	from hqew, 艺源电子商行	ST	1138	18000	TO-220F
+STP4NK50Z.	from hqew, 艺源电子商行	ST	11+	270000	TO-220
+STP5NK60Z	from hqew, 艺源电子商行	ST	1137	6000	TO-220
+STP5NK80Z	from hqew, 艺源电子商行	ST	1117	3000	TO-220
+STP6NK60ZFP	from hqew, 艺源电子商行	ST	1034	3472	TO-220
+STPS15L30CB	from hqew, 艺源电子商行	ST	1123	6000	TO-252-3
+STPS160A	from hqew, 艺源电子商行	ST	1216/121	900	SMD
+STPS20L60CG-TR	from hqew, 艺源电子商行	ST	2010	3000	TO263
+STPS40L15CW	from hqew, 艺源电子商行	ST	1245/130	1000	SOP-8
+STPS41H100CG	from hqew, 艺源电子商行	ST	1219	2940	D2PAK
+STT818B	from hqew, 艺源电子商行	ST	1210	1750	SOT23-6
+STTH102A	from hqew, 艺源电子商行	ST	2011	4000	DO-214AC
+STTH15L06FP	from hqew, 艺源电子商行	ST	2010	950	TO220F
+STTH1L06U	from hqew, 艺源电子商行	ST	1216	5000	DO-214AA
+STTH3R02	from hqew, 艺源电子商行	ST	12091206	1850	DO201
+STW18NM60N	from hqew, 艺源电子商行	ST	1214+	380	TO-247
+STW42N65M5	from hqew, 艺源电子商行	ST	1137	600	TO-247
+STW42N65M5	from hqew, 艺源电子商行	ST	1138	600	
+STW42N65M5	from hqew, 艺源电子商行	ST	12+	750	TO-247
+TC74HC07AP.	from hqew, 艺源电子商行	TOSHIBA	10+	270000	DIP
+TCST2103	from hqew, 艺源电子商行	VISHAY	1240	2992	DIP
+TIP137	from hqew, 艺源电子商行	ST	1213	4500	TO-220
+TL431ACDT	from hqew, 艺源电子商行	ST	1142	5720	SOP
+TL431BVDR2G	from hqew, 艺源电子商行	ON SEMI	2011	2500	SOP-8
+TLE4242G	from hqew, 艺源电子商行	INFINEON	1129	2500	TO-263-7
+TLE4251D	from hqew, 艺源电子商行	INFINEON	1223+	2000	TO-252
+TLE4905L	from hqew, 艺源电子商行	INFINEON	1134+	4000	P-SSO-3-
+TLE4905L	from hqew, 艺源电子商行	INFINEON	1231+	480	P-SSO-3-
+TMS320LF2406APZA	from hqew, 艺源电子商行	TI	2011	11000	QFP
+TPCP8001-H	from hqew, 艺源电子商行	TOSHIBA	2010	15000	SOP
+TS2431BILT	from hqew, 艺源电子商行	ST	2010	1950	SOT-23
+TS274CD	from hqew, 艺源电子商行	ST	1144	3000	SOP14
+TS4041CILT-1.2	from hqew, 艺源电子商行	ST	1230	5000	SOT-23
+TS4990EIJT	from hqew, 艺源电子商行	ST	935	25000	BGA
+TS555IDT	from hqew, 艺源电子商行	ST	11+	152500	SOP8
+TS555IDT	from hqew, 艺源电子商行	ST	11+	50000	SOP
+UC2844BD1	from hqew, 艺源电子商行	ST	1125	9000	SOP
+UC3844BD1013TR	from hqew, 艺源电子商行	ST	2011	45000	SOP8
+UCLAMP0501P.TCT	from hqew, 艺源电子商行	SEMTECH	2011	5000	SLP1006P
+UDA1334BTS/N2	from hqew, 艺源电子商行	NXP	2011	7387	SSOP16
+VND5025AK-E	from hqew, 艺源电子商行	ST	1117	1155	SSOP24
+VND5025AK-E,	from hqew, 艺源电子商行	ST	11+	270000	SSOP24
+VNN3NV0413TR	from hqew, 艺源电子商行	ST	12+	320	SOT223
+Z0405MF	from hqew, 艺源电子商行	ST	1220/123	34	TO-202
+ZEN056V130A24LS	from hqew, 艺源电子商行	RAYCHEM	12+	30000	SMD
+ZEN056V230A16LS	from hqew, 艺源电子商行	Raychem	2012	1935	SMD
+1N5402	from hqew, 艺源电子商行	FAIRCHILD	1226	3000	DO201
+2N3904S	from hqew, 艺源电子商行	KEC	13+	120000	SOT23
+2N7002CK	from hqew, 艺源电子商行	NXP	13+	120000	SOT23
+2PD601AR	from hqew, 艺源电子商行	NXP	09+	120000	SOT23
+2SA1941	from hqew, 艺源电子商行	TOSHIBA	1049/105	8600	TO-3P
+74AC04SC	from hqew, 艺源电子商行	FAIRCHILD	1217	2500	SOP14
+74AHC123APW	from hqew, 艺源电子商行	NXP	1118	6000	TSSOP-16
+74HC04D	from hqew, 艺源电子商行	NXP	1209	969	SOP14
+74HC366D	from hqew, 艺源电子商行	NXP	1121+	7400	SOP16
+74HC373D	from hqew, 艺源电子商行	NXP	1230	1520	SOP20
+74HC4016D	from hqew, 艺源电子商行	NXP	1238	2500	SOT108
+74HC4046APW	from hqew, 艺源电子商行	NXP	1122	2000	TSSOP16
+74HC4538D	from hqew, 艺源电子商行	NXP	1214	766	SOT109
+74HC573DB	from hqew, 艺源电子商行	NXP	2010	3000	SSOP
+74HC573DB.	from hqew, 艺源电子商行	NXP	10+	270000	SSOP
+74HC597D	from hqew, 艺源电子商行	NXP	1147	5000	SOP
+74HCT00D	from hqew, 艺源电子商行	NXP	1226/122	2000	SOT108SO
+74LV273DB	from hqew, 艺源电子商行	NXP	1027	6000	SSOP20
+74LVC2G66GD	from hqew, 艺源电子商行	NXP	1030	6000	SOT996
+74LVC2G66GD	from hqew, 艺源电子商行	NXP	1027/103	16800	SOT996
+74LVT14PW	from hqew, 艺源电子商行	NXP	1214+	14990	TSSOP14
+74LVT14PW.	from hqew, 艺源电子商行	NXP	12+	270000	TSSOP14
+74LVX4245MTCX	from hqew, 艺源电子商行	FAIRCHILD	1331	10000	TSSOP
+74V1G125STR	from hqew, 艺源电子商行	ST	1051	225	SOT23-5
+74VHC04MTC	from hqew, 艺源电子商行	Fairchild	1225	1974	TSSOP14
+928999-1	from hqew, 艺源电子商行	RAYCHEM	1313	3539	
+ADP3211AMNR2G	from hqew, 艺源电子商行	ON SEMI	2011	12000	QFN32
+BAP64-05W	from hqew, 艺源电子商行	NXP	1234	15000	SOT323
+BAR43CFILM	from hqew, 艺源电子商行	ST	2011	21000	SOT23
+BAS16	from hqew, 艺源电子商行	NXP	1304+	9000	SOT23
+BAS16W	from hqew, 艺源电子商行	NXP	1308	3000	SOT323
+BAS316	from hqew, 艺源电子商行	NXP	1237+	126000	SOD323
+BAS316	from hqew, 艺源电子商行	NXP	1309	1320000	SOD323
+BAS316	from hqew, 艺源电子商行	NXP	13+	87000	SOD323
+BAS40-05	from hqew, 艺源电子商行	NXP	1304	120000	SOT23
+BAS40-05W	from hqew, 艺源电子商行	NXP	1033	540000	SOT-323
+BAS516	from hqew, 艺源电子商行	NXP	1301	18000	SOD523
+BAS70-05	from hqew, 艺源电子商行	NXP	1319	12000	SOT23
+BAS86	from hqew, 艺源电子商行	NXP	1239+	2000	SOD-80CL
+BAT54	from hqew, 艺源电子商行	NXP	2012	570000	SOT23
+BAT54A	from hqew, 艺源电子商行	NXP	2012	600000	SOT23
+BAT54C	from hqew, 艺源电子商行	NXP	2013	1800000	SOT23
+BAT54C	from hqew, 艺源电子商行	NXP	1309/133	240000	SOT23
+BAT54CLT1G	from hqew, 艺源电子商行	ON SEMI	13+	474000	SOT23
+BAT54S	from hqew, 艺源电子商行	NXP	1321/133	297000	SOT23
+BAT54S	from hqew, 艺源电子商行	NXP	1316+	480000	SOT23
+BAT54S	from hqew, 艺源电子商行	NXP	1335+/13	1047000	SOT23
+BAT54SLT1G	from hqew, 艺源电子商行	ON SEMI	12+	27000	SOT23
+BAT54W	from hqew, 艺源电子商行	NXP	2010	141000	SOT23-3
+BAV23S	from hqew, 艺源电子商行	NXP	1208	48000	SOT23
+BAV23S	from hqew, 艺源电子商行	NXP	1251	1052	SOT23
+BAV70W	from hqew, 艺源电子商行	NXP	1238	168000	SOT323
+BAV99S	from hqew, 艺源电子商行	NXP	1331+	600000	SOT363
+BAV99W	from hqew, 艺源电子商行	NXP	1308	267610	SOT323
+BAW56	from hqew, 艺源电子商行	NXP	1316/131	6000	SOT23
+BAW56LT1G	from hqew, 艺源电子商行	ONsemi	1213	207000	SOT23
+BAW56LT1G	from hqew, 艺源电子商行	ON SEMI	13+	1200000	SOT23
+BC807	from hqew, 艺源电子商行	NXP	1334+	162000	SOT23
+BC807-16	from hqew, 艺源电子商行	NXP	1326	231000	SOT23
+BC807-16	from hqew, 艺源电子商行	NXP	1312/131	2860	SOT23
+BC807-25	from hqew, 艺源电子商行	NXP	1321/132	30000	SOT23
+BC807-25	from hqew, 艺源电子商行	NXP	2012	51000	SOT-23
+BC807-40	from hqew, 艺源电子商行	NXP	1312	81000	SOT23
+BC807-40LT1G	from hqew, 艺源电子商行	ON SEMI	1219+	195000	SOT23
+BC817-16	from hqew, 艺源电子商行	NXP	1329	18000	SOT23
+BC817-25	from hqew, 艺源电子商行	NXP	1228/124	21000	SOT23
+BC817-25	from hqew, 艺源电子商行	NXP	1242/124	831000	SOT23
+BC817-40	from hqew, 艺源电子商行	NXP	1335+/13	297000	SOT23
+BC817-40	from hqew, 艺源电子商行	NXP	1324	216000	SOT23
+BC817-40W	from hqew, 艺源电子商行	NXP	1243	147000	SOT323
+BC846B	from hqew, 艺源电子商行	NXP	1339+	450000	SOT23
+BC846B	from hqew, 艺源电子商行	NXP	1324+/13	111000	SOT23
+BC846BW	from hqew, 艺源电子商行	NXP	1309	30000	SOT323
+BC847A	from hqew, 艺源电子商行	NXP	12461247	120000	SOT23
+BC847A	from hqew, 艺源电子商行	NXP	12+	54000	SOT23
+BC847BW	from hqew, 艺源电子商行	NXP	1308	120000	SOT323
+BC856A.	from hqew, 艺源电子商行	NXP	13+	270000	SOT23
+BC856B	from hqew, 艺源电子商行	NXP	1322	480000	SOT23
+BC856B	from hqew, 艺源电子商行	NXP	13+	573000	SOT-23
+BC856B	from hqew, 艺源电子商行	NXP	1317+	84000	SOT-23
+BC856BW	from hqew, 艺源电子商行	NXP	1224/124	75000	SOT323
+BC857	from hqew, 艺源电子商行	NXP	09+	120000	
+BC857A	from hqew, 艺源电子商行	NXP	1308+	240000	SOT23
+BC857BW	from hqew, 艺源电子商行	NXP	1319	381000	SOT323
+BC858B.	from hqew, 艺源电子商行	NXP	13+	270000	SOT23
+BC858CLT1G	from hqew, 艺源电子商行	ON SEMI	+	2300	SOT23
+BCP51	from hqew, 艺源电子商行	NXP	1323/132	2990	SOT223
+BCP51-16	from hqew, 艺源电子商行	NXP	1323+/13	60000	SOT-223
+BCP51-16	from hqew, 艺源电子商行	NXP	1133	4000	SOT-223
+BCP53-16	from hqew, 艺源电子商行	NXP	1246	60000	SOT223
+BCP53-16.	from hqew, 艺源电子商行	NXP	12+	270000	SOT223
+BCP54	from hqew, 艺源电子商行	NXP	1322/132	26000	SOT223
+BCP54-16	from hqew, 艺源电子商行	NXP	1323	30000	SOT223
+BCP55	from hqew, 艺源电子商行	NXP	1309/130	60000	SOT223
+BCP55-10	from hqew, 艺源电子商行	NXP	1325+	1000	SOT223
+BCP55-16	from hqew, 艺源电子商行	NXP	1325	62100	SOT223
+BCP55-16	from hqew, 艺源电子商行	NXP	1130	120000	SOT-223
+BCP56	from hqew, 艺源电子商行	NXP	1217	180000	SOT223
+BCP69	from hqew, 艺源电子商行	NXP	1229	118000	SOT223
+BCV46	from hqew, 艺源电子商行	NXP	1339+	114000	SOT23
+BCX55-16	from hqew, 艺源电子商行	NXP	1250	1900	SOT-89
+BFG31	from hqew, 艺源电子商行	NXP	1239	48000	SOT-223
+BFG425W	from hqew, 艺源电子商行	NXP	1316/131	249000	SOT-343
+BFG425W	from hqew, 艺源电子商行	NXP	1311/131	3000	SOT-343
+BFP640H6327	from hqew, 艺源电子商行	INFINEON	1045	2960	SOP
+BFR505	from hqew, 艺源电子商行	NXP	1135+	36000	SOT23
+BFR505	from hqew, 艺源电子商行	NXP	1126	48000	SOT23
+BFS17A	from hqew, 艺源电子商行	NXP	1309	18000	SOT23
+BGA2712	from hqew, 艺源电子商行	NXP	1210	63000	SOT363
+BSH111	from hqew, 艺源电子商行	NXP	1221	54000	SOT-23
+BSH111	from hqew, 艺源电子商行	NXP	12+	36000	SOT-23
+BSN20	from hqew, 艺源电子商行	NXP	1321+/13	174000	SOT-23
+BSP62	from hqew, 艺源电子商行	NXP	1303	6000	SOT223
+BSS123	from hqew, 艺源电子商行	NXP	1306+	254770	SOT23
+BSS84	from hqew, 艺源电子商行	NXP	1228+	495000	SOT23
+BT134-600	from hqew, 艺源电子商行	NXP	12+	2950	TO-126
+BT151X-500R	from hqew, 艺源电子商行	NXP	1149	745	TO220F
+BT152-800R	from hqew, 艺源电子商行	NXP	1223+	1000	TO-220
+BT152-800R	from hqew, 艺源电子商行	NXP	1223	65950	T0220
+BTA212X-600B	from hqew, 艺源电子商行	NXP	1236	2000	TO-220F
+BTS4130QGA	from hqew, 艺源电子商行	INFINEON	1252+	1000	SOP20
+BUK7275-100A	from hqew, 艺源电子商行	NXP	1210	2500	TO252
+BZA968A	from hqew, 艺源电子商行	NXP	1222	12500	SOT665
+BZV55-B30	from hqew, 艺源电子商行	NXP	12+	60000	SOD80
+BZV55-C75	from hqew, 艺源电子商行	NXP	1311+	3000	SOD80LL3
+BZX284-B5V6	from hqew, 艺源电子商行	NXP	09260925	15000	SOD
+BZX284-B5V6	from hqew, 艺源电子商行	NXP	1001	9000	SOD
+BZX384-B15	from hqew, 艺源电子商行	NXP	13+	120000	SOD323
+BZX84-C11	from hqew, 艺源电子商行	NXP	2010	12000	SOT-23
+CBT3257AD.	from hqew, 艺源电子商行	NXP	11+	270000	SOP16
+ESD9X5.0ST5G.	from hqew, 艺源电子商行	ON SEMI	10+	270000	SOD923
+ESDA6V1-4BC6	from hqew, 艺源电子商行	ST	1217	3000	SOT23-6
+FAN8100N	from hqew, 艺源电子商行	Fairchild	2010	687	DIP
+FCA20N60	from hqew, 艺源电子商行	Fairchild	2011	800	TO-3P
+FDC5661N	from hqew, 艺源电子商行	Fairchild	1225/122	9000	SOT-23-6
+FDC6302P	from hqew, 艺源电子商行	FAIRCHILD	1219	3000	SOT163
+FDC6329L	from hqew, 艺源电子商行	Fairchild	2010	1695	SOT23
+FDD6685	from hqew, 艺源电子商行	Fairchild	2011	2500	TO-252
+FDMA1029PZ	from hqew, 艺源电子商行	Fairchild	2009	3000	QFN
+FDN372S	from hqew, 艺源电子商行	FAIRCHILD	200902	15000	SOT23
+FDN372S	from hqew, 艺源电子商行	Fairchild	1052	24000	SOT23
+FDP047AN08A0	from hqew, 艺源电子商行	Fairchild	1112	9400	TO-220
+FDP150N10	from hqew, 艺源电子商行	Fairchild	11381211	796	TO-220
+FDS4953	from hqew, 艺源电子商行	Fairchild	2010	1726	SOP8
+FDS7088N7	from hqew, 艺源电子商行	Fairchild	2010	2500	SOP8
+FDV304P	from hqew, 艺源电子商行	Fairchild	2009	9000	SOT-23
+FEP16DT	from hqew, 艺源电子商行	Fairchild	1139	23950	TO-220
+FEP16DT	from hqew, 艺源电子商行	Fairchild	1139	32000	TO220
+FEP16GT	from hqew, 艺源电子商行	FAIRCHILD	1102	122	TO220
+FFPF10UP20STU	from hqew, 艺源电子商行	Fairchild	1149	3900	TO-220F
+FQD12N20LTM	from hqew, 艺源电子商行	Fairchild	2011	20000	TO-252
+FQP32N20C	from hqew, 艺源电子商行	Fairchild	2011	1000	TO-220
+FQP46N15	from hqew, 艺源电子商行	Fairchild	12+	10	TO-220
+FQPF9N25C	from hqew, 艺源电子商行	Fairchild	1138	15000	TO-220F
+FSUSB30UMX	from hqew, 艺源电子商行	Fairchild	2009	9955	QFN
+FXL2T245L10X	from hqew, 艺源电子商行	FAIRCHILD	930	10000	QFN10
+FXL2T245L10X	from hqew, 艺源电子商行	Fairchild	2011	5000	MAC010A
+H11L3M	from hqew, 艺源电子商行	FAIRCHILD	1223/122	32000	DIP-6
+HEF40106BT.	from hqew, 艺源电子商行	NXP	13+	270000	SOP14
+HGTG5N120BND	from hqew, 艺源电子商行	FAIRCHILD	1143	175	TO-247
+HGTP7N60B3D	from hqew, 艺源电子商行	Fairchild	2011	800	TO220
+HGTP7N60B3D.	from hqew, 艺源电子商行	Fairchild	11+	270000	TO220
+HSMC-C190	from hqew, 艺源电子商行	Avago	2009	3000	LED
+HSMM-A100-S00J1	from hqew, 艺源电子商行	Avago	2010	12	SMD
+HZU12B2TRF-E	from hqew, 艺源电子商行	RENESAS	10+	120000	SOD323
+ICE1PCS01G	from hqew, 艺源电子商行	INFINEON	2010	7410	SOP
+ICE2PCS01G	from hqew, 艺源电子商行	INFINEON	11+	1500	SOP
+IDW75E60	from hqew, 艺源电子商行	INFINEON	1149+	720	
+IHW30N90R	from hqew, 艺源电子商行	INFINEON	2011	1680	TO-220F
+IHW30N90R,	from hqew, 艺源电子商行	INFINEON	2011	270000	TO-220F
+IKW30N60T	from hqew, 艺源电子商行	INFINEON	2011	120	TO-247
+IKW50N60H3	from hqew, 艺源电子商行	INFINEON	12+	180	TO-247
+ILD2	from hqew, 艺源电子商行	Vishay	2010	12000	DIPSOP
+IPA60R950C6	from hqew, 艺源电子商行	INFINEON	1112+	2500	TO-220F
+IPD060N03LG	from hqew, 艺源电子商行	INFINEON	1232	500	TO-252
+JDP2S04E	from hqew, 艺源电子商行	TOSHIBA	2010	948	SOD523
+L6390DTR	from hqew, 艺源电子商行	ST	1121	785	SOP-16
+L6920DBTR	from hqew, 艺源电子商行	ST	1213	8000	MSOP8
+L6920DBTR.	from hqew, 艺源电子商行	ST	1213	270000	MSOP8
+L78L15ACUTR	from hqew, 艺源电子商行	ST	1043	47602	SOT-89
+LD1117ASTR	from hqew, 艺源电子商行	ST	2010	15000	SOT223
+LD1117DT18TR	from hqew, 艺源电子商行	ST	1150	27450	TO-252
+LD29080DT50R	from hqew, 艺源电子商行	ST	2010	3000	TO252
+LL4148-GS08	from hqew, 艺源电子商行	Vishay	2013	2000	LL34
+LM2901D	from hqew, 艺源电子商行	ST	1127+	8100	SOP14
+LM2904N	from hqew, 艺源电子商行	ST	1129	16000	DIP8
+LM3886TF/NOPB	from hqew, 艺源电子商行	NSC	2010	400	ZIP
+LM3886TF/NOPB.	from hqew, 艺源电子商行	NSC	2010	270000	ZIP
+LM5Z5V1T1G	from hqew, 艺源电子商行	LRC	13+	120000	SOD523
+LRB520S-30T1G	from hqew, 艺源电子商行	LRC	13+	120000	SOD523
+MBR0520L	from hqew, 艺源电子商行	Fairchild	1129	21000	SOD123
+MBRS1100T3G	from hqew, 艺源电子商行	ON SEMI	1333+	9000	SMB
+MBRS1100T3G	from hqew, 艺源电子商行	ON SEMI	2011	10000	SMB
+MC33202VDR2G	from hqew, 艺源电子商行	ON SEMI	1235/124	2500	SOP8
+MM5Z18VT1G	from hqew, 艺源电子商行	ON SEMI	2009	10000	SOD-523
+MMBD914LT1G	from hqew, 艺源电子商行	ON SEMI	2012	9000	SOT-23
+MMBF5462	from hqew, 艺源电子商行	Fairchild	1151	801000	SOT23
+MMBT2222ALT1G	from hqew, 艺源电子商行	ON SEMI	2013	1020000	SOT23
+MMBT3904LT1G.	from hqew, 艺源电子商行	ON SEMI	13+	270000	SOT23
+MMBT3906LT1G	from hqew, 艺源电子商行	ON SEMI	12+	2860	SOT23
+MMBT5087	from hqew, 艺源电子商行	Fairchild	2010	3000	SOT23
+MMSZ5250BF	from hqew, 艺源电子商行	LITEON	3916	120000	SOD123
+MOC205M	from hqew, 艺源电子商行	Fairchild	2009	1540	SOP8
+MPP4203-206	from hqew, 艺源电子商行	MICROSEMI	2002	120000	
+MURS320T3G	from hqew, 艺源电子商行	ON SEMI	1219	67500	DO-214AB
+MURS320T3G	from hqew, 艺源电子商行	ON SEMI	1248	10000	DO-214A
+MURS360T3G	from hqew, 艺源电子商行	ON SEMI	1212	2500	DO-214
+M24C02-WDW6TP	from hqew, 艺源电子商行	ST	2010	7135	TSSOP
+M41T81SM6F	from hqew, 艺源电子商行	ST	1230	58	SOP-8
+M4T28-BR12SH1	from hqew, 艺源电子商行	ST	1242/124	815	DIP
+M93C66-WDW6TP	from hqew, 艺源电子商行	ST	2010	2500	TSSOP8
+M95020-WMN6TP	from hqew, 艺源电子商行	ST	1151	2500	SOP
+MAX809TD	from hqew, 艺源电子商行	NXP	13+	120000	SOT23
+N74F74D	from hqew, 艺源电子商行	NXP	1245+	6000	SOP14
+NC7S00P5X	from hqew, 艺源电子商行	Fairchild	2011	5000	SC70-5
+NC7SP04L6X	from hqew, 艺源电子商行	Fairchild	2010	3000	QFN
+NC7SZ384M5X.	from hqew, 艺源电子商行	Fairchild	12+	270000	SOT-23-5
+NC7WP08K8X	from hqew, 艺源电子商行	Fairchild	2010	2500	VSSOP
+NCP1200D100R2G	from hqew, 艺源电子商行	ON SEMI	1229	12000	SOP-8
+NCP500SN30T1G	from hqew, 艺源电子商行	ON SEMI	2010	7323	SOT23-5
+NE1617ADS	from hqew, 艺源电子商行	NXP	1217	160000	SSOP-16
+NIF5002NT1G	from hqew, 艺源电子商行	ON SEMI	1219	2000	SOT223
+NIF5002NT1G	from hqew, 艺源电子商行	ON SEMI	1228+	106134	SOT223
+NIF5002NT1G	from hqew, 艺源电子商行	ON SEMI	1227+122	146000	SOT-223
+NIF5002NT1G.	from hqew, 艺源电子商行	ON SEMI	12+	270000	SOT223
+NTMD6P02R2G	from hqew, 艺源电子商行	ON SEMI	2010	10000	SOP
+NUP1105LT1G	from hqew, 艺源电子商行	ON SEMI	1313/131	4000	SOT-23
+PBSS5350D	from hqew, 艺源电子商行	NXP	1125	2500	MSOP
+PDTA143ZE	from hqew, 艺源电子商行	NXP	1238+	66000	SOT416
+PDTC114TE	from hqew, 艺源电子商行	NXP	1236	6000	SOT416
+PDTC114YE	from hqew, 艺源电子商行	NXP	1232/123	150000	SOT523
+PDTC114YE.	from hqew, 艺源电子商行	NXP	1232	270000	SOT523
+PDTC114YE.	from hqew, 艺源电子商行	NXP	12+	270000	SOT523
+PESD12VL1BA	from hqew, 艺源电子商行	NXP	13141315	72000	SOD323
+PESD1CAN	from hqew, 艺源电子商行	NXP	1303	120000	SOT23
+PESD24VL1BA	from hqew, 艺源电子商行	NXP	1321	174000	SOD323
+PESD2CAN	from hqew, 艺源电子商行	NXP	13+	99000	SOT23
+PESD2CAN	from hqew, 艺源电子商行	NXP	1322	30000	SOT23
+PESD3V3L1BA	from hqew, 艺源电子商行	NXP	1303+/13	32000	SOD323
+PESD5V0L1BA	from hqew, 艺源电子商行	NXP	1245	18000	SOD323
+PESD5V0L1BA	from hqew, 艺源电子商行	NXP	1308/130	354000	SOD323
+PESD5V0L1BA	from hqew, 艺源电子商行	NXP	1311	360000	SOD323
+PESD5V0L1BA	from hqew, 艺源电子商行	NXP	13+	4000	SOD323
+PESD5V0S1BA	from hqew, 艺源电子商行	NXP	1310	17400	SOD323
+PESD5V2S2UT	from hqew, 艺源电子商行	NXP	1243	2550	SOT23
+PGB1010402KR	from hqew, 艺源电子商行	Littelfuse	2011	50000	SMD
+PGB1010402KR.	from hqew, 艺源电子商行	Littelfuse	11	270000	SMD
+PGB1010603NR	from hqew, 艺源电子商行	Littelfuse	12+	4390	SMD
+PH6325L	from hqew, 艺源电子商行	NXP	1239+	2500	SOT669
+PHK18NQ03LT	from hqew, 艺源电子商行	NXP	1209	2500	SOP-8
+PHP21N06T	from hqew, 艺源电子商行	NXP	1131/113	180000	TO-220
+PMBT2222A	from hqew, 艺源电子商行	NXP	1236+	303000	SOT23
+PMBT2222A	from hqew, 艺源电子商行	NXP	1228+123	1080000	SOT23
+PMBT2222A.	from hqew, 艺源电子商行	NXP	12+	270000	SOT23
+PMBT4403	from hqew, 艺源电子商行	NXP	1245+	15000	SOT23
+PMBTA06	from hqew, 艺源电子商行	NXP	1037+	48000	SOT23-3
+PMEG3005AEA	from hqew, 艺源电子商行	NXP	1236	3000	SOD323
+PMEG3005EJ	from hqew, 艺源电子商行	NXP	1146	30000	SOD323
+PMLL4148L	from hqew, 艺源电子商行	NXP	13+	25000	LL34
+PZTA06	from hqew, 艺源电子商行	FAIRCHILD	1223	78000	SOT-223
+PZU6.2B2	from hqew, 艺源电子商行	NXP	13+	120000	SOD323
+RFD14N05LSM	from hqew, 艺源电子商行	Fairchild	2011	350	TO-252
+RHRP3060	from hqew, 艺源电子商行	Fairchild	2011	7500	TO-220
+RUEF500	from hqew, 艺源电子商行	Raychem	1226	7500	DIP
+SE95DP	from hqew, 艺源电子商行	NXP	1212	47	TSSOP8
+SEDS9886	from hqew, 艺源电子商行	AVAGO	10+	25000	DIP6
+SG6841DZ	from hqew, 艺源电子商行	Fairchild	1209	1000	DIP-8
+SGP15N120	from hqew, 艺源电子商行	INFINEON	1212	2500	TO-220
+SGP15N120	from hqew, 艺源电子商行	INFINEON	1210	6000	TO-220
+SM12.TCT	from hqew, 艺源电子商行	SEMTECH	1113	5000	SOT-23
+SM15T100CA.	from hqew, 艺源电子商行	ST	11+	270000	SMC
+SM6T220A	from hqew, 艺源电子商行	ST	1125	30000	DO-214AA
+SM6T68A	from hqew, 艺源电子商行	ST	2010	10000	DO214AA
+SMAJ58CA-TR	from hqew, 艺源电子商行	ST	1048+	6000	DO-214AC
+SN74LVTH162244DGGR	from hqew, 艺源电子商行	TI	2010	1950	TSSOP
+SPA06N60C3	from hqew, 艺源电子商行	INFINEON	1106	400	TO-220
+SPA15N60CFD	from hqew, 艺源电子商行	INFINEON	1112	2500	TO-220F
+SR3.3.TCT	from hqew, 艺源电子商行	SEMTECH	2010	2500	SOT143
+ST232EBDR	from hqew, 艺源电子商行	ST	2010	2000	SOP-16
+ST62T00CM6	from hqew, 艺源电子商行	ST	2010	10000	SOP16
+ST890BDR	from hqew, 艺源电子商行	ST	2010	4000	SOP
+STB20NM50T4	from hqew, 艺源电子商行	ST	1219+	4000	TO-263
+STB25NM60ND	from hqew, 艺源电子商行	ST	1230	2300	TO-263AB
+STD15NF10T4	from hqew, 艺源电子商行	ST	1221+	25000	TO-252
+STD35NF3LLT4	from hqew, 艺源电子商行	ST	1123	17500	TO-252
+STGW20NC60VD	from hqew, 艺源电子商行	ST	2010	2300	TO-247
+STM811SW16F	from hqew, 艺源电子商行	ST	2011	5	SOT-143
+STM8S105S4T6C	from hqew, 艺源电子商行	ST	2011	5000	LQFP44
+STMAV340TTR.	from hqew, 艺源电子商行	ST	11+	270000	TSSOP16
+STP11NK40ZFP	from hqew, 艺源电子商行	ST	1202+121	14850	TO-220F
+STP11NK40ZFP	from hqew, 艺源电子商行	ST	1217	430	TO220
+STP3NK90ZFP	from hqew, 艺源电子商行	ST	1143+	1720	TO-220F
+STP5NK60Z	from hqew, 艺源电子商行	ST	11+	15000	TO220
+STP5NK60Z	from hqew, 艺源电子商行	ST	2011	10000	TO-220
+STPS20120D	from hqew, 艺源电子商行	ST	2011	865	TO-220
+STPS20L60CT	from hqew, 艺源电子商行	ST	2011	1000	TO-220
+STPS40150CG	from hqew, 艺源电子商行	ST	2011	1200	D2PAK
+STS5NF60L	from hqew, 艺源电子商行	ST	13061308	4950	SOP-8
+STSR30D-TR	from hqew, 艺源电子商行	ST	1133+113	5900	SOP8
+STTH110	from hqew, 艺源电子商行	ST	12081210	430	DO-41
+STTH1L06U	from hqew, 艺源电子商行	ST	1152	45	DO-214AA
+STTH2003CR	from hqew, 艺源电子商行	ST	1033	2500	TO-262-3
+STTH5R06D	from hqew, 艺源电子商行	ST	1147	4800	TO220AC
+TB6560AHQ	from hqew, 艺源电子商行	TOSHIBA	2011	6486	ZIP25
+TDA7801	from hqew, 艺源电子商行	ST	1212/121	3300	27-Flexi
+TIP137	from hqew, 艺源电子商行	ST	1209	4005	TO-220
+TL084ID	from hqew, 艺源电子商行	ST	2011	2000	SOP
+TL431ACLPG	from hqew, 艺源电子商行	ON SEMI	1126+112	84000	TO-92
+TL431ACLPG.	from hqew, 艺源电子商行	ON SEMI	11+	270000	TO-92
+TL431ACZ	from hqew, 艺源电子商行	ST	1121	2500	TO92
+TLE4251D	from hqew, 艺源电子商行	INFINEON	1223	2500	TO-252
+TLE6361G	from hqew, 艺源电子商行	INFINEON	1110	1	HSSOP-36
+TLP785(GB,F(C	from hqew, 艺源电子商行	TOSHIBA	12+	120000	DIP4
+TS4990IQT	from hqew, 艺源电子商行	ST	2010	24000	QFN
+TS4990IST	from hqew, 艺源电子商行	ST	1207	2500	MSOP-8
+TS555IDT	from hqew, 艺源电子商行	ST	11+	10000	SOP-8
+TS555IDT	from hqew, 艺源电子商行	ST	1135	50000	SOP8
+TS556IN,	from hqew, 艺源电子商行	ST	11+	270000	DIP14
+TS912AIDT	from hqew, 艺源电子商行	ST	1243	5000	SOP8
+TS924IDT	from hqew, 艺源电子商行	ST	1138	19332	SOP-14
+UBA2021T/N2	from hqew, 艺源电子商行	NXP	10361038	2650	SOP14
+UC2844BD1	from hqew, 艺源电子商行	ST	2011	7000	SOP
+UC2844BD1,	from hqew, 艺源电子商行	ST	11+	270000	SOP
+WJLXT971ALE.A4	from hqew, 艺源电子商行	INTEL	2010	3875	LQFP64
+1N4148	from hqew, 艺源电子商行	NXP	1213/121	1095360	DO35SOD2
+1N4148	from hqew, 艺源电子商行	NXP	1215/124	8330	DO35SOD2
+1PS76SB40	from hqew, 艺源电子商行	NXP	1105	24000	SOD-323
+2N7002E	from hqew, 艺源电子商行	NXP	1310	105000	SOT23
+2N7002E	from hqew, 艺源电子商行	NXP	1322+/13	8600	SOT23
+2N7002K-T1-GE3	from hqew, 艺源电子商行	VISHAY	13+	120000	SOT23
+2SC4793	from hqew, 艺源电子商行	TOSHIBA	1321	1520	TO-220
+2SK2962(TE6,F,M)	from hqew, 艺源电子商行	TOSHIBA	12+	120000	SOT23
+74AHCT164D	from hqew, 艺源电子商行	NXP	1024	5000	SOP14
+74AHCT164D	from hqew, 艺源电子商行	NXP	2010	2500	SOP14
+74HC03N	from hqew, 艺源电子商行	NXP	1242+	1140	DIP
+74HC1G86GV	from hqew, 艺源电子商行	NXP	1227+	3000	SOT753
+74HC1G86GW	from hqew, 艺源电子商行	NXP	1152	4890	SOT353
+74LCX125MX	from hqew, 艺源电子商行	Fairchild	11251127	1000	SOP
+74LVX4245MTCX	from hqew, 艺源电子商行	Fairchild	1329+/13	9000	TSSOP
+74V1G04STR	from hqew, 艺源电子商行	ST	1127	12000	SOT-153
+A3986SLDTR-T	from hqew, 艺源电子商行	ALLEGRO	2011	2500	TSSOP
+BAS16	from hqew, 艺源电子商行	NXP	1301+	780000	SOT23
+BAS21	from hqew, 艺源电子商行	NXP	2013	453000	SOT23
+BAS21LT1G	from hqew, 艺源电子商行	ON SEMI	1237	960000	SOT23
+BAS316	from hqew, 艺源电子商行	NXP	1324	358000	SOD323
+BAS70-05	from hqew, 艺源电子商行	NXP	1322	300000	SOT23
+BAS70-06	from hqew, 艺源电子商行	NXP	1332	5000	SOT-23
+BAV199	from hqew, 艺源电子商行	NXP	1331+/13	27000	SOT23
+BAV23A	from hqew, 艺源电子商行	NXP	1217	48000	SOT-23
+BAV23S	from hqew, 艺源电子商行	NXP	1212+	120000	SOT23
+BAV23S	from hqew, 艺源电子商行	NXP	1207	165000	SOT23
+BAV70LT1G	from hqew, 艺源电子商行	ON SEMI	1306	1074000	SOT23
+BAV99W	from hqew, 艺源电子商行	NXP	1309	891000	SOT323
+BAW56LT1G	from hqew, 艺源电子商行	ON SEMI	13+	53800	SOT23
+BB133	from hqew, 艺源电子商行	NXP	09+	120000	SOD323
+BB804SF2E6327	from hqew, 艺源电子商行	INFINEON	2010	90000	SOT23
+BC807-40	from hqew, 艺源电子商行	NXP	1321	306000	SOT23
+BC807-40	from hqew, 艺源电子商行	NXP	1242	480000	SOT23
+BC807-40	from hqew, 艺源电子商行	NXP	1337	705000	SOT22
+BC817.	from hqew, 艺源电子商行	NXP	12+	270000	SOT-23
+BC817-25	from hqew, 艺源电子商行	NXP	1321/132	30000	SOT23
+BC846A	from hqew, 艺源电子商行	NXP	1144+	240000	SOT23
+BC847A	from hqew, 艺源电子商行	NXP	1305+	120000	SOT23
+BC847A	from hqew, 艺源电子商行	NXP	1302+	60000	SOT23
+BC847B	from hqew, 艺源电子商行	NXP	1336+	960000	SOT-23
+BC847BS	from hqew, 艺源电子商行	NXP	1323+	120000	SOT363
+BC847BS	from hqew, 艺源电子商行	NXP	1332/133	66000	SOT363
+BCP51-16.	from hqew, 艺源电子商行	NXP	11+	270000	SOT-223
+BCP53	from hqew, 艺源电子商行	NXP	1302	110000	SOT223
+BCP54	from hqew, 艺源电子商行	NXP	1324+	119495	SOT223
+BCP55	from hqew, 艺源电子商行	NXP	1308/130	1000	SOT-223
+BCP56-10	from hqew, 艺源电子商行	NXP	1323+/13	16500	SOT223
+BCP56T1G	from hqew, 艺源电子商行	ON SEMI	1335+/13	89000	SOT223
+BCX55-10	from hqew, 艺源电子商行	NXP	1249/125	1000	SOT-89
+BF1205	from hqew, 艺源电子商行	NXP	2008	3000	SOT363
+BFG10/X	from hqew, 艺源电子商行	NXP	1225	2000	SOT143
+BFR505	from hqew, 艺源电子商行	NXP	1135	18000	SOT23
+BSN20	from hqew, 艺源电子商行	NXP	1333+	2000	SOT-23
+BSS84	from hqew, 艺源电子商行	NXP	1228	657000	SOT23
+BSS84.	from hqew, 艺源电子商行	NXP	12+	270000	SOT23
+BT136-600	from hqew, 艺源电子商行	NXP	1210	10600	TO-220
+BT148-400R	from hqew, 艺源电子商行	NXP	1145	10000	SOT82
+BT168GW	from hqew, 艺源电子商行	NXP	1150	4000	SOT223
+BUK7606-55B	from hqew, 艺源电子商行	NXP	1117+	800	TO263
+BUK7606-55B	from hqew, 艺源电子商行	NXP	1117	1600	TO263
+BZX384-B10	from hqew, 艺源电子商行	NXP	12+	12000	SOD-323
+BZX84C18	from hqew, 艺源电子商行	Fairchild	2011	37300	SOT23
+D44H11	from hqew, 艺源电子商行	ST	1128	2600	TO-220
+ESDA6V1BC6	from hqew, 艺源电子商行	ST	2010	48000	SOT-163
+FDD8870	from hqew, 艺源电子商行	Fairchild	2010	7500	TO-252
+FDD8870.	from hqew, 艺源电子商行	Fairchild	10+	270000	TO-252
+FDG328P	from hqew, 艺源电子商行	Fairchild	2011	3000	SC70-6
+FOD817A300W	from hqew, 艺源电子商行	Fairchild	12+	4400	DIP-4
+FQB55N10TM	from hqew, 艺源电子商行	FAIRCHILD	1113	2010	TO-263
+FXLP34L6X	from hqew, 艺源电子商行	FAIRCHILD	1218	3790	QFN6
+HLMP-1401	from hqew, 艺源电子商行	Avago	2009	10000	LED
+IKA10N60T	from hqew, 艺源电子商行	INFINEON	1118	8	TO220
+IKW50N60H3	from hqew, 艺源电子商行	INFINEON	1143+	1989	TO-247
+IPA60R950C6	from hqew, 艺源电子商行	INFINEON	1112	2500	TO-220F
+IPP08CN10N	from hqew, 艺源电子商行	INFINEON	1041	345	TO-220
+IPP200N25N3	from hqew, 艺源电子商行	INFINEON	12+	5000	TO-220
+IPP50R140CP	from hqew, 艺源电子商行	INFINEON	1217	3940	TO-220
+IRF7458TRPBF	from hqew, 艺源电子商行	IR	1149	706	SOP-8
+L6207PD	from hqew, 艺源电子商行	ST	1252	5000	36-BSSOP
+L78M05CV	from hqew, 艺源电子商行	ST	2010+	7000	TO-220
+L7912CV	from hqew, 艺源电子商行	ST	1231	5000	TO-220
+LF253D	from hqew, 艺源电子商行	ST	1236	4790	SOP8
+LL4148-GS08	from hqew, 艺源电子商行	VISHAY	1329/133	1200000	LL34
+LM2903M/	from hqew, 艺源电子商行	FAIRCHILD	1207	270000	SOP-8
+LM2903PT	from hqew, 艺源电子商行	ST	1201	4000	TSSOP8
+LM2903PT	from hqew, 艺源电子商行	ST	1213	3790	TSSOP8
+LM2904NG	from hqew, 艺源电子商行	ON SEMI	1139	2370	DIP-8
+LM339N	from hqew, 艺源电子商行	Fairchild	1129	3000	DIP
+LM7805CT	from hqew, 艺源电子商行	Fairchild	2010	40000	TO-220
+MBR130T1G	from hqew, 艺源电子商行	ON SEMI	1233	730	SOD123
+MBRD360T4G	from hqew, 艺源电子商行	ON SEMI	2011	12500	SOT252
+MC145406D	from hqew, 艺源电子商行	NXP	1029	2500	SOP16
+MC33174DT	from hqew, 艺源电子商行	ST	1127	34500	SOP
+MM74HC86MX	from hqew, 艺源电子商行	Fairchild	2011	21000	SOP
+MMBD2838LT1G	from hqew, 艺源电子商行	ON SEMI	2010	246000	SOT-23
+MMBD914LT1G	from hqew, 艺源电子商行	ON SEMI	1311	837000	SOT23
+MMBT2907ALT1G	from hqew, 艺源电子商行	ON SEMI	13	219000	SOT23
+MMSZ5250B-7-F	from hqew, 艺源电子商行	DIODES INC	1220	120000	SOD123
+MPSA06	from hqew, 艺源电子商行	Fairchild	2010	14000	TO92
+M24128-BWDW6TP	from hqew, 艺源电子商行	ST	1043	2298	SOP-8
+M24C64-WMN6TP	from hqew, 艺源电子商行	ST	1210/121	140000	SOP
+M27C512-90F6	from hqew, 艺源电子商行	ST	1220	2500	DIP28
+M74HC32RM13TR	from hqew, 艺源电子商行	ST	1233	7500	SOP14
+NC7ST32M5X	from hqew, 艺源电子商行	FAIRCHILD	1216	750	SOT153
+NC7SZ126M5	from hqew, 艺源电子商行	Fairchild	1152	29830	SOT23-5
+NC7SZ384M5X	from hqew, 艺源电子商行	FAIRCHILD	1208	21000	SOT23-5
+NE556DT	from hqew, 艺源电子商行	ST	1334+/13	6000	SOP14
+NIF5002NT1G	from hqew, 艺源电子商行	ON SEMI	12+	73800	SOT223
+NJW0281G	from hqew, 艺源电子商行	ON SEMI	2011	477	TO3P
+NTD2955T4G	from hqew, 艺源电子商行	ON SEMI	2011	1500	SOT252
+P6KE33CA	from hqew, 艺源电子商行	Fairchild	2010	6000	DO-15
+PBSS306NZ	from hqew, 艺源电子商行	NXP	1144+	12000	SOT223
+PBSS5250X	from hqew, 艺源电子商行	NXP	1023	12000	SOT89
+PBSS5350D	from hqew, 艺源电子商行	NXP	1125	15000	SOT457
+PESD1CAN	from hqew, 艺源电子商行	NXP	1212	75000	SOT23
+PESD1CAN	from hqew, 艺源电子商行	NXP	1310	240000	SOT23
+PESD3V3L4UW	from hqew, 艺源电子商行	NXP	2010	139000	SOT665
+PESD5V0L4UW	from hqew, 艺源电子商行	NXP	1222	1000	SOT665
+PHK18NQ03LT	from hqew, 艺源电子商行	NXP	1209	4000	SOT96
+PMBF170	from hqew, 艺源电子商行	NXP	1324+/13	6000	SOT23
+PMBS3904	from hqew, 艺源电子商行	NXP	12+	2470	SOT23
+PMBS3906	from hqew, 艺源电子商行	NXP	12101211	141000	SOT23
+PMBS3906	from hqew, 艺源电子商行	NXP	1224/122	126000	SOT23
+S6S2RP	from hqew, 艺源电子商行	LITTELFUSE	1306	2500	
+SMBJ11A	from hqew, 艺源电子商行	Fairchild	2010	21000	DO-214AA
+SMBJ22CA	from hqew, 艺源电子商行	Fairchild	2010	5000	SOD-523
+SPP08N50C3	from hqew, 艺源电子商行	INFINEON	1247	4250	TO-220
+SPP20N60C3	from hqew, 艺源电子商行	INFINEON	1247+	39	TO-220
+ST1480ACDR	from hqew, 艺源电子商行	ST	1138	7500	SOP
+STB6NK90ZT4	from hqew, 艺源电子商行	ST	1130	4000	D2PAK
+STD7NS20T4	from hqew, 艺源电子商行	ST	1140	3000	TO-252
+STMAV340TTR	from hqew, 艺源电子商行	ST	2011	14770	TSSOP16
+STP40NF20	from hqew, 艺源电子商行	ST	1213+	1000	TO-220
+STP4NK50Z	from hqew, 艺源电子商行	ST	2011	2500	TO-220
+STP5NK60Z	from hqew, 艺源电子商行	ST	1137+114	6900	TO-220
+STP5NK60Z.	from hqew, 艺源电子商行	ST	11+	270000	TO-220
+STP80NF55-08	from hqew, 艺源电子商行	ST	1318	950	TO-220
+STPS10H100CFP	from hqew, 艺源电子商行	ST	1230	2410	TO-220F
+STPS160A	from hqew, 艺源电子商行	ST	12111214	20000	DO-214AC
+STPS20L15G-TR	from hqew, 艺源电子商行	ST	2011	1000	TO-263
+STSR30D-TR	from hqew, 艺源电子商行	ST	1120	5000	SOP-8
+STTH102A	from hqew, 艺源电子商行	ST	1036+	20000	DO-214AC
+STW18NM60N	from hqew, 艺源电子商行	ST	12+	4800	TO247
+TC74HC07AP	from hqew, 艺源电子商行	TOSHIBA	2010	7996	DIP
+TDA6111	from hqew, 艺源电子商行	NXP	2008	9693	ZIP9
+TDA6111.	from hqew, 艺源电子商行	NXP	08+	270000	ZIP9
+TDA7801	from hqew, 艺源电子商行	ST	12+	714	27-Flexi
+TIP31A	from hqew, 艺源电子商行	ST	1215	1000	TO-220
+TL084ID.	from hqew, 艺源电子商行	ST	11+	270000	SOP
+TLP361J(F,T)	from hqew, 艺源电子商行	TOSHIBA	12+	120000	SOP4
+TS4990EIJT.	from hqew, 艺源电子商行	ST	09+	270000	BGA
+TS555IDT	from hqew, 艺源电子商行	ST	12+	37900	SOP8
+TS556IN	from hqew, 艺源电子商行	ST	1137+	16000	DIP14
+TSH62CDT	from hqew, 艺源电子商行	ST	1220	5000	SOP-8
+TSH72CDT,	from hqew, 艺源电子商行	ST	12+	270000	SOP8
+UC3844BD1	from hqew, 艺源电子商行	ST	2011	5000	SOP8
+UDA1334BTS/N2,	from hqew, 艺源电子商行	NXP	11+	270000	SSOP16
+UDZSTE-176.2B	from hqew, 艺源电子商行	ROHM	13+	120000	SOD323
+1PS79SB10	from hqew, 艺源电子商行	NXP	1210	2445	SOD-523
+74ABT240D	from hqew, 艺源电子商行	NXP	1244+	1520	SSOP20
+74HC138D	from hqew, 艺源电子商行	NXP	1208	33000	SOT109
+74HC597D	from hqew, 艺源电子商行	NXP	1325+	5000	SOP
+74LVC1G00GW	from hqew, 艺源电子商行	NXP	1232+	2000	SOT-353
+74LVC74APW	from hqew, 艺源电子商行	NXP	2011	2500	TSSOP
+74LVT14PW	from hqew, 艺源电子商行	NXP	1214	20000	TSSOP14
+74LVX4245MTCX	from hqew, 艺源电子商行	FAIRCHILD	1327+	1438	TSSOP
+BAS16	from hqew, 艺源电子商行	NXP	1318	387000	SOT-23
+BAS16LT1G.	from hqew, 艺源电子商行	ON SEMI	2013	270000	SOT23
+BAS29	from hqew, 艺源电子商行	Fairchild	2011	15000	SOT-23
+BAS40-04	from hqew, 艺源电子商行	NXP	1321+	120000	SOT23
+BAS40-04.	from hqew, 艺源电子商行	NXP	13+	270000	SOT23
+BAS40-05	from hqew, 艺源电子商行	NXP	1322/132	3000	SOT23
+BAS70	from hqew, 艺源电子商行	NXP	1233	36000	SOT23
+BAT54C	from hqew, 艺源电子商行	NXP	12331241	27000	SOT23
+BAT54S	from hqew, 艺源电子商行	NXP	1335+	666000	SOT23
+BAV170	from hqew, 艺源电子商行	NXP	1310+/13	120000	SOT23
+BAV23A	from hqew, 艺源电子商行	NXP	1217+	39000	SOT23
+BAV70LT1G	from hqew, 艺源电子商行	ON SEMI	12+	480000	SOT23
+BAV70LT1G	from hqew, 艺源电子商行	ON SEMI	13+	12000	SOT23
+BAV99	from hqew, 艺源电子商行	NXP	13+	16800000	SOT23
+BAV99 RF	from hqew, 艺源电子商行	TSC	13+	120000	
+BAW56LT1G.	from hqew, 艺源电子商行	ON SEMI	13+	270000	SOT23
+BC807-40	from hqew, 艺源电子商行	NXP	1242+	33000	SOT23
+BC807-40	from hqew, 艺源电子商行	NXP	12+	360000	SOT-23
+BC807-40W	from hqew, 艺源电子商行	NXP	1305	9000	SOT323
+BC817	from hqew, 艺源电子商行	NXP	1232+	174000	SOT23
+BC847A.	from hqew, 艺源电子商行	NXP	12+	270000	SOT23
+BC847B	from hqew, 艺源电子商行	NXP	1341+/13	12000	SOT23
+BC856A	from hqew, 艺源电子商行	NXP	1322+	120000	SOT23
+BC856BW	from hqew, 艺源电子商行	NXP	1224	237000	SOT323
+BC857B	from hqew, 艺源电子商行	NXP	1236+	696000	SOT23
+BCP53-10	from hqew, 艺源电子商行	NXP	1322	42500	SOT223
+BCP53T1G	from hqew, 艺源电子商行	ON SEMI	1201	58000	SOT-223
+BD437	from hqew, 艺源电子商行	ST	2011	12000	TO-126
+BFG97	from hqew, 艺源电子商行	NXP	1251	6000	SOT223
+BSH111	from hqew, 艺源电子商行	NXP	2012	132000	SOT-23
+BSS123	from hqew, 艺源电子商行	NXP	1251	33000	SOT23
+BUL742C	from hqew, 艺源电子商行	ST	2011	450	TO-220
+BYV79E-200	from hqew, 艺源电子商行	NXP	1201	2000	TO-220
+BYW29E-150	from hqew, 艺源电子商行	NXP	1214	72000	TO-220
+DF10S	from hqew, 艺源电子商行	DIODES INC	2009	6000	SOP-4
+FCA20N60	from hqew, 艺源电子商行	Fairchild	1132+	10000	TO-3P
+FDMS2672	from hqew, 艺源电子商行	Fairchild	2010	3000	QFN
+FFA60UP20DNTU	from hqew, 艺源电子商行	Fairchild	2011	10000	TO-3P
+FJP13007H1TU	from hqew, 艺源电子商行	Fairchild	2010	5877	TO-220
+HCF4066BEY	from hqew, 艺源电子商行	ST	2012+	12500	DIP-14
+ICE3A3565P	from hqew, 艺源电子商行	INFINEON	1210	26968	TO220-6
+ICL8001G	from hqew, 艺源电子商行	INFINEON	1129	60	SOP8
+IKW50N60H3	from hqew, 艺源电子商行	INFINEON	1138	1200	TO-247
+IPP057N08N3G	from hqew, 艺源电子商行	INFINEON	12+	450	TO-220
+IPP200N25N3 G	from hqew, 艺源电子商行	INFINEON	1129	1000	TO-220
+KA34063A	from hqew, 艺源电子商行	Fairchild	1124	3000	DIP
+KSP94TA	from hqew, 艺源电子商行	Fairchild	1135	3000	SOP-8
+L5991AD	from hqew, 艺源电子商行	ST	2010	1240	SOP
+LBZT52C16T1G	from hqew, 艺源电子商行	LRC	13+	120000	SOD123
+LD1117ASTR.	from hqew, 艺源电子商行	ST	2010	270000	SOT223
+LIS35DETR	from hqew, 艺源电子商行	ST	1106	945000	LGA14
+LM7805CT.	from hqew, 艺源电子商行	Fairchild	2010	270000	TO-220
+LVR012S	from hqew, 艺源电子商行	Raychem	2011	8000	DIP
+MC145406D	from hqew, 艺源电子商行	NXP	2011	1000	SOP16
+MMBF5461	from hqew, 艺源电子商行	Fairchild	2011	3000	SOT-23
+MMBT2222ALT1G.	from hqew, 艺源电子商行	ON SEMI	13+	270000	SOT23
+MMBT9013LT1G	from hqew, 艺源电子商行	ON SEMI	13+	120000	SOT23
+M24C02-WBN6P	from hqew, 艺源电子商行	ST	1246	4000	DIP8
+M24C02-WMN6TP	from hqew, 艺源电子商行	ST	1125	92000	SOP-8
+M74HC132RM13TR	from hqew, 艺源电子商行	ST	11+	45000	SOP
+M93C56-WMN6TP	from hqew, 艺源电子商行	ST	12+	12000	SOP8
+NDF10N60ZG	from hqew, 艺源电子商行	ON SEMI	1241/124	100	TO-220F
+NTD2955T4G	from hqew, 艺源电子商行	ON SEMI	1335+/13	2026	SOT252
+PCA9512AD	from hqew, 艺源电子商行	NXP	1239	27000	SOT96
+PDTC114YE	from hqew, 艺源电子商行	NXP	1232	42000	SOT523
+PDTC144ET	from hqew, 艺源电子商行	NXP	1219	8000	SOT23
+PESD12VL1BA	from hqew, 艺源电子商行	NXP	1309	84000	SOD-323
+PESD1CAN	from hqew, 艺源电子商行	NXP	13+	38950	SOT23
+PRF949	from hqew, 艺源电子商行	NXP	1207+	6000	SOT523
+PRF949	from hqew, 艺源电子商行	NXP	12+	6000	SOT523SO
+PSMN070-200B	from hqew, 艺源电子商行	NXP	1228/123	30000	SOT404
+RHRP1560	from hqew, 艺源电子商行	Fairchild	1122	826	TO-220
+SG6841DZ	from hqew, 艺源电子商行	FAIRCHILD	1209	1680	
+SI2304BDS-T1-E3	from hqew, 艺源电子商行	VISHAY	1241	6000	SOT-23
+SI2307CDS-T1-E3	from hqew, 艺源电子商行	VISHAY	1225	15000	SOT-23
+SI2307CDS-T1-GE3	from hqew, 艺源电子商行	VISHAY	12401241	6000	SOT-23
+ST485BDR	from hqew, 艺源电子商行	ST	2011	6850	SOP
+STA559BW13TR	from hqew, 艺源电子商行	ST	2010	1000	SOP
+STB11NM80T4	from hqew, 艺源电子商行	ST	11+	2000	TO-263
+STB11NM80T4	from hqew, 艺源电子商行	ST	1147	1000	TO-263
+STB160N75F3	from hqew, 艺源电子商行	ST	1031	720	TO-263
+STB6NK90ZT4	from hqew, 艺源电子商行	ST	12+	4000	D2PAK
+STB6NK90ZT4.	from hqew, 艺源电子商行	ST	11+	270000	D2PAK
+STM6824SWY6F	from hqew, 艺源电子商行	ST	2010	12500	SOT23-5
+STP80NF55-08	from hqew, 艺源电子商行	ST	13+	6000	TO220
+STPS5H100B	from hqew, 艺源电子商行	ST	1125	5000	DPAK
+STTH15L06FP.	from hqew, 艺源电子商行	ST	10+	270000	TO220F
+STTH2002CT	from hqew, 艺源电子商行	ST	2011	2000	SMB
+STTH3L06U	from hqew, 艺源电子商行	ST	1125	6600	TO-220
+T435-800W	from hqew, 艺源电子商行	ST	1106	2	TO220F
+TC4069UBP(F,N,M)	from hqew, 艺源电子商行	TOSHIBA	12+	120000	MFSOP16
+TC4S66F(T5L,F,T)	from hqew, 艺源电子商行	TOSHIBA	12+	120000	SOT23-
+TL431AIDT	from hqew, 艺源电子商行	ST	1209	2500	SOP-8
+TL431BVDR2G.	from hqew, 艺源电子商行	ON SEMI	2011	270000	SOP-8
+TLE4905L	from hqew, 艺源电子商行	INFINEON	1131+	10000	P-SSO-3-
+TLP161J(TPL,U,C,F)	from hqew, 艺源电子商行	TOSHIBA	12+	120000	MFSOP6
+TMS320F28335PGFA	from hqew, 艺源电子商行	TI	2011	2	LQFP
+TS555IDT.	from hqew, 艺源电子商行	ST	11+	270000	SOP-8
+TS556IN	from hqew, 艺源电子商行	ST	11+	3855	DIP14
+TSH72CDT	from hqew, 艺源电子商行	ST	12+	7500	SOP8
+VIPER25HN	from hqew, 艺源电子商行	ST	1217+	225	DIP7
+ZEN056V130A24LS	from hqew, 艺源电子商行	RAYCHEM	1233	56840	SMD
+ZEN056V130A24LS	from hqew, 艺源电子商行	Raychem	2012	1788	SMD

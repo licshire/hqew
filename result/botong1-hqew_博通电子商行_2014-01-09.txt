@@ -1,0 +1,3571 @@
+CAT9555WI-T1	from hqew, 博通电子商行	ON SEMI	07+	500	QFP
+MAX121EWE	from hqew, 博通电子商行	MAXIM	&nbsp;	3	SOP
+MAX154ACWG	from hqew, 博通电子商行	MAXIM	&nbsp;	17	SOP
+MAX250CSD	from hqew, 博通电子商行	MAXIM	&nbsp;	14	SOP
+MAX251CSD	from hqew, 博通电子商行	MAXIM	&nbsp;	21	SOP
+NE555P	from hqew, 博通电子商行	TI	&nbsp;	27	DIP8
+NHE313	from hqew, 博通电子商行	NIPPON	11+	10000	SOT143
+NHE520SR	from hqew, 博通电子商行	NIPPON	11+	10000	SOT143
+OM5234/FBP/536	from hqew, 博通电子商行	NXP	9740+	18	DIP-40
+OPA2735AIDR	from hqew, 博通电子商行	TI	08+	2045	SOP
+OPA277UA/2K5	from hqew, 博通电子商行	TI	1019	14800	SOP8
+PM6344-RI	from hqew, 博通电子商行	PMC	0035+	5	QFP
+QMV123BP5	from hqew, 博通电子商行	NORTEL	0039+	49	DIP-28
+RL5E825-LQFP216	from hqew, 博通电子商行	RICOH	0237+	4935	QFP
+ROS-1023-119+	from hqew, 博通电子商行	MINI	11+	56	
+ROS-1700W+	from hqew, 博通电子商行	MINI	11+	153	
+ROS-470+	from hqew, 博通电子商行	MINI	11+	50	
+RT9163-28CG	from hqew, 博通电子商行	RICHTEK	04+	835	SOT-223
+RT9163-33CG	from hqew, 博通电子商行	RICHTEK	N/A	1560	SOT-223
+RT9221CS	from hqew, 博通电子商行	RICHTEK	10+	1000	SOP-24
+RTL8100CL	from hqew, 博通电子商行	RTL	0925+	34	QFP100
+S29AL032D70TFI040	from hqew, 博通电子商行	SPANSING	09+	15	TSOP
+SAK-XC161CJ-16F40F	from hqew, 博通电子商行	INF	0437+	6	QFP
+SI32178-FM	from hqew, 博通电子商行	SILICON	09+	33	QFN
+SIS649BODA	from hqew, 博通电子商行	SIS	0547+	210	BGA
+SMP8635-LF	from hqew, 博通电子商行	SIGMRDES	06+	500	
+SN74HC14N	from hqew, 博通电子商行	TI	08+	198	DIP14
+SP485EEN-L/TR	from hqew, 博通电子商行	SIPEX	1050+	21753	SOP8
+SST39VF1601-70-4C-EKE	from hqew, 博通电子商行	SST	1101+	5	TSSOP
+ST16C545IJ	from hqew, 博通电子商行	ST	0631+	3	PLCC
+TDA7415C	from hqew, 博通电子商行	ST	09+	544	QFP64
+TL5001C	from hqew, 博通电子商行	TI	10+	652	SOP8
+TLE6250G	from hqew, 博通电子商行	INF	0722+	5	SOP8
+TMS320F2811PBKA	from hqew, 博通电子商行	TI	2010+	540	QFP
+TQ5131-2.8	from hqew, 博通电子商行	TRIQUINT	04+	40000	sot8
+UPD42280GU-30	from hqew, 博通电子商行	NEC	01+	139	SO28
+UPDS201C	from hqew, 博通电子商行	NEC	1020+	20	DIP
+V560MC03-LF	from hqew, 博通电子商行	Z-COMM	11+	56	VCO(
+V580ME13-LF	from hqew, 博通电子商行	Z-COMM	11+	34	VCO(
+V585ME08-LF	from hqew, 博通电子商行	Z-COMM	11+	41	VCO(
+V585ME28-LF	from hqew, 博通电子商行	Z-COMM	11+	45	VCO(
+V602ME26-LF	from hqew, 博通电子商行	Z-COMM	11+	66	VCO(
+V610ME04-LF	from hqew, 博通电子商行	Z-COMM	11+	45	VCO(
+V614ME06-LF	from hqew, 博通电子商行	Z-COMM	11+	52	VCO(
+XC17S20LVC	from hqew, 博通电子商行	XILINX	02+	95	TSOP
+XC9572XL-10VQ64C	from hqew, 博通电子商行	XILINX	05+	238	
+XCS10XL-4VQ100C	from hqew, 博通电子商行	XILINX	9949+	2	QFP-100
+ZFBT-4R2G+	from hqew, 博通电子商行	MINI	11+	100	Bias-Tee
+ADC0809CCV	from hqew, 博通电子商行	NS	12+	1500	PLCC
+ADC0809CCV	from hqew, 博通电子商行	NS	0931+	1500	PLCC
+MFCM200/FAA	from hqew, 博通电子商行	PHL	07+	379	DIP
+MAX122BCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	65	SOP
+MAX132EWG	from hqew, 博通电子商行	MAXIM	&nbsp;	4	SOP
+MAX1482CSD	from hqew, 博通电子商行	MAXIM	&nbsp;	55	SOP
+MAX148BCAP	from hqew, 博通电子商行	MAXIM	&nbsp;	31	SSOP
+MAX158ACWI	from hqew, 博通电子商行	MAXIM	&nbsp;	4	SOP
+MAX1617AMEE	from hqew, 博通电子商行	MAXIM	&nbsp;	95	SSOP
+MAX1630CAI	from hqew, 博通电子商行	MAXIM	&nbsp;	309	SSOP
+MAX1632EAI	from hqew, 博通电子商行	MAXIM	&nbsp;	74	SSOP
+MAX234EWE	from hqew, 博通电子商行	MAXIM	&nbsp;	24	SOP
+MAX236EWG	from hqew, 博通电子商行	MAXIM	&nbsp;	8	SOP
+MAX274ACWI	from hqew, 博通电子商行	MAXIM	&nbsp;	7	SOP
+MAX297CWE	from hqew, 博通电子商行	MAXIM	&nbsp;	66	SOP
+MAX3243EIPW	from hqew, 博通电子商行	TI	07+	24	TSSOP
+MAX4541ESA	from hqew, 博通电子商行	MAX	08+	319	SOP
+N89C026LT	from hqew, 博通电子商行	INTEL	98+	96	PLCC-68
+NHE524	from hqew, 博通电子商行	NIPPON	11+	10000	SOT23
+NHE528	from hqew, 博通电子商行	NIPPON	11+	10000	SOT343
+NMP4370515	from hqew, 博通电子商行	M/ACOM	0426+	484	SSOP
+OM5234/FBP/536	from hqew, 博通电子商行	NXP	9741+	54	DIP-40
+OP290GP	from hqew, 博通电子商行	Other	0821+	7	DIP8
+OPA128LM	from hqew, 博通电子商行	BB	0216+	1	CAN-8
+OPA2131UJ	from hqew, 博通电子商行	BB	09+	7	SOP
+OPA2137U	from hqew, 博通电子商行	BB	08+	25	SOP
+OTIP11LP	from hqew, 博通电子商行	OAK	9713+	177	QFP
+P154DTWQ12	from hqew, 博通电子商行	TEMIC	99+	72	DIP40
+P87LPC769HD	from hqew, 博通电子商行	PHILIPS	05+	64	SOP
+P89C51RD2HBA	from hqew, 博通电子商行	NXP	10+	32	PLCC
+P9373-11	from hqew, 博通电子商行	CONEXANT	0011+	498	TQFP
+PCM1723E	from hqew, 博通电子商行	BB	0048+	464	SSOP24
+PDFI	from hqew, 博通电子商行	TI	08+	116	SOT23
+PEB4265V1.1	from hqew, 博通电子商行	Other	08+	67	
+PEF2091FV5.3	from hqew, 博通电子商行	INFINE	0344+	40	QFP
+PGT830	from hqew, 博通电子商行	TI	11+	710	tssop20
+PIC16F76-I/SS	from hqew, 博通电子商行	MICROC	0812+	178	SSOP28
+PLSI1016-90LT	from hqew, 博通电子商行	LATTICE	95+	327	QFP
+PM49FL004T-33JCE	from hqew, 博通电子商行	SST	09+	930	PLCC
+PM5344-RI	from hqew, 博通电子商行	PMC	0051+	24	QFP
+PM5371-RI	from hqew, 博通电子商行	PMC	0038+	12	QFP
+PMD1000	from hqew, 博通电子商行	ALLEGRO	07+	9	QFP
+PSDB13F2A-90M	from hqew, 博通电子商行	ST	10+	18	QFP64
+QMV123BP5	from hqew, 博通电子商行	NORTEL	0114+	234	DIP-28
+QMV123BP5	from hqew, 博通电子商行	NORTEL	0036+	364	DIP-28
+QMV123BP5	from hqew, 博通电子商行	NORTEL	0028+	143	DIP-28
+QMV179AT5	from hqew, 博通电子商行	NORTEL	99+	2539	PLCC-44
+R2A15108FP	from hqew, 博通电子商行	RENESAS	08+	1037	QFP48
+RAV14101	from hqew, 博通电子商行	ERICSSON	02+	5	
+RCRSZ0007QSZZ	from hqew, 博通电子商行	KDS	N/A	1000	
+ROS-1500+	from hqew, 博通电子商行	MINI	11+	80	
+ROS-1600PV+	from hqew, 博通电子商行	MINI	11+	74	
+ROS-1631-119	from hqew, 博通电子商行	MINI	11+	54	
+ROS-2500+	from hqew, 博通电子商行	MINI	11+	130	
+ROS-2700-1819+	from hqew, 博通电子商行	MINI	11+	34	
+ROS-660PV+	from hqew, 博通电子商行	MINI	11+	62	
+ROS-675PV+	from hqew, 博通电子商行	MINI	11+	68	
+RT2527L	from hqew, 博通电子商行	RALINK	10+	2600	qfn48
+RT9161-25CG	from hqew, 博通电子商行	RICHTEK	03+	209	SOT-223
+RT9161-27CG	from hqew, 博通电子商行	RICHTEK	04+	281	SOT-223
+RT9161-28CG	from hqew, 博通电子商行	RICHTEK	04+	638	SOT-223
+RT9161-33CG	from hqew, 博通电子商行	RICHTEK	04+	364	SOT-223
+RT9161A-18CG	from hqew, 博通电子商行	RICHTEK	06+	8000	SOT-223
+RT9163-33PG	from hqew, 博通电子商行	RICHTEK	N/A	3988	SOT-223
+RT9164-25CG	from hqew, 博通电子商行	RICHTEK	04+	59	SOT-223
+RT9164-33CG	from hqew, 博通电子商行	RICHTEK	07+	2500	SOT-223
+RT9164-33CL	from hqew, 博通电子商行	RICHTEK	04+	80	SOT-223
+S29GL064N90TFI040	from hqew, 博通电子商行	SPANSION	10+	7	TSSOP
+S29GL128N90FFIR2	from hqew, 博通电子商行	SPANSI	0617+	22	BGA
+S2EB-24V	from hqew, 博通电子商行	PANASONIC	06+	13	
+S3C8075X18-ATB5	from hqew, 博通电子商行	samsung	0228+	136	DIP
+s3c8075x21-atB5	from hqew, 博通电子商行	samsung	0248+	1288	DIP64
+S87C752-4DB	from hqew, 博通电子商行	TI	01+	5	SSOP
+SA56614-31GW	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+SA56615-28D	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+SA56616-30D	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+SA8025A	from hqew, 博通电子商行	NXP	06+	2500	SSOP-20
+SC-1140	from hqew, 博通电子商行	Other	99+	6	
+SC505517PB	from hqew, 博通电子商行	MOTORO	0012+	235	QFP
+SG2524DRG4	from hqew, 博通电子商行	TI	08+	103	SOP
+SG3842M	from hqew, 博通电子商行	LINFINITY	9746+	1489	DIP-8
+SG-615P	from hqew, 博通电子商行	SG	04+	906	SOJ-4
+SG-8002DB	from hqew, 博通电子商行	EPSON	9542+	11	DIP-14
+SI4123-BT	from hqew, 博通电子商行	SILICON	08+	2	SOP24
+SMP8635-LF	from hqew, 博通电子商行	SIGMRDES	&nbsp;	150	
+SN65C1168NSR	from hqew, 博通电子商行	TI	10+	66	SOP16
+SN65LBC184P	from hqew, 博通电子商行	TI	07+	128	DIP-8
+SN65LVDS95DGG	from hqew, 博通电子商行	TI	06+	24	SSOP
+SN74F04DR	from hqew, 博通电子商行	TI	09+	500	SOP14
+SN74F21DR	from hqew, 博通电子商行	TI	9910+	2490	SOP-14
+SN74LS32DR	from hqew, 博通电子商行	TI	09+	2000	SOP14
+SN755870	from hqew, 博通电子商行	TI	05+	9	QFP
+SNJ54ABT16245AWD 5962-9317501MXA	from hqew, 博通电子商行	TI	01+	10	CFP48
+SP213ECA	from hqew, 博通电子商行	SIPEX	06+	64	SSOP
+SP213EHCA	from hqew, 博通电子商行	SIPEX	0447+	578	SSOP
+SP213EHCA-L	from hqew, 博通电子商行	SIPEX	0617+	169	SSOP
+SP232EEN-L/TR	from hqew, 博通电子商行	SIPEX	10+	2500	SOP-16L
+SP232EEP-L	from hqew, 博通电子商行	SIPEX	10+	1306	DIP-16L
+SP232EET	from hqew, 博通电子商行	SIPEX	0644+	2	SOP16
+SP233ACT	from hqew, 博通电子商行	SIPEX	05+	13	SOP
+SP3220EEA-L/TR	from hqew, 博通电子商行	SIPEX	10+	623	SSOP
+SP3232EEA-L/TR	from hqew, 博通电子商行	SIPEX	10+	407	SSOP
+SP4422ACN	from hqew, 博通电子商行	SPIX	0816+	150	SOP
+SP485ECN	from hqew, 博通电子商行	SIPEX	03+	106	SOP
+SP490EEN	from hqew, 博通电子商行	SIPEX	1023+	1850	SOP-8L
+SP690TCN	from hqew, 博通电子商行	SIPEX	3075V	3	SOP
+SP706CN	from hqew, 博通电子商行	SIPEX	00+	1901	SOP
+SP706EN	from hqew, 博通电子商行	SIPEX	44V	61	SOP
+SP708SEN-L	from hqew, 博通电子商行	SIPEX	293V	80	SOP
+SP708SEN-L	from hqew, 博通电子商行	SIPEX	11+	2500	SOP
+SP8719	from hqew, 博通电子商行	GPS	09+	10	DIP
+SPX3819M5L-3.3	from hqew, 博通电子商行	SIPEX	10+	2500	SOT-23-5
+SST49LF0048B-33-4C-NHE	from hqew, 博通电子商行	SST	10+	6000	PLCC
+SST49LF004B-33-4C-NHE	from hqew, 博通电子商行	SST	0633+	104	PLCC
+SST49LF004B-70-4C-NHE	from hqew, 博通电子商行	SST	10+	441	PLCC
+ST7FLITE29F2B6	from hqew, 博通电子商行	ST	0625+	18	DIP20
+TC3097F-8	from hqew, 博通电子商行	TAMARCK	0021+	113	QFP
+TDA1085C	from hqew, 博通电子商行	ON SEMI	04+	98	
+TDA1308T	from hqew, 博通电子商行	PHILIPS	03+	3	SOP
+THS8134BCPHP	from hqew, 博通电子商行	TI	07+	5	
+TL16C550CIPT	from hqew, 博通电子商行	TI	07+	54	
+TLC04ID	from hqew, 博通电子商行	Other	&nbsp;	730	
+TLC3702IDRG4	from hqew, 博通电子商行	TI	&nbsp;	18	SOP8
+TLC7225IDWR	from hqew, 博通电子商行	TI	2010	10000	SOP
+TLC7226CN	from hqew, 博通电子商行	TI	07+	40	DIP
+TLE2021ACDRG4	from hqew, 博通电子商行	TI	08+	1800	SOP
+TLE2021ACDRG4	from hqew, 博通电子商行	TI	&nbsp;	9	SOP8
+TLE4275G	from hqew, 博通电子商行	INF	0802+	24	TO263
+TMS320F2811PBKA	from hqew, 博通电子商行	TI	09+	56	QFP
+TMS320F2812PGFA	from hqew, 博通电子商行	TI	09+	1	QFP
+TMS320VC549PGE100	from hqew, 博通电子商行	TI	03+	180	QFP
+TPA2012D2	from hqew, 博通电子商行	TI	10+	1700	QFN
+TPA6112A2DGQR	from hqew, 博通电子商行	TI	0819+	2047	MSOP
+TPS2062DR	from hqew, 博通电子商行	TI	10+	25	SOP8
+TPS3613-01DGS	from hqew, 博通电子商行	TI	&nbsp;	10	MSOP10
+TPS3825-50DBV	from hqew, 博通电子商行	TI	08+	116	SOT23
+TPS54040DGQR	from hqew, 博通电子商行	TI	10+	19	MSOP
+TPS54614PWP	from hqew, 博通电子商行	TI	&nbsp;	34	TSSOP28
+TPS54972PWP	from hqew, 博通电子商行	TI	&nbsp;	8	TSSOP28
+TPS75225QPWPRG4	from hqew, 博通电子商行	TI	04+	42	SOP20
+TPS78601DCQ	from hqew, 博通电子商行	TI	07+	30	SOT223
+TVP5146M2PFP	from hqew, 博通电子商行	TI	08+	23	QFP
+TVP5160	from hqew, 博通电子商行	TI	10+	800	QFP80
+TW8827	from hqew, 博通电子商行	Other	0923+	7	QFP
+UP7534DSA8-15	from hqew, 博通电子商行	UPI	11+	2500	SOP8
+UPC271C	from hqew, 博通电子商行	NEC	10+	28	DIP
+UPD431000ACZ-70LL	from hqew, 博通电子商行	NEC	04+	48	
+UPD78F0527GB-UET-A	from hqew, 博通电子商行	NEC	08+	281	QFP52
+V110ME01	from hqew, 博通电子商行	Z-COMM	11+	152	VCO(
+V330ME04-LF	from hqew, 博通电子商行	Z-COMM	11+	215	VCO(
+V500ME01-LF	from hqew, 博通电子商行	Z-COMM	11+	23	VCO(
+V580ME02-LF	from hqew, 博通电子商行	Z-COMM	11+	85	VCO(
+V582ME18-LF	from hqew, 博通电子商行	Z-COMM	11+	52	VCO(
+V585ME06-LF	from hqew, 博通电子商行	Z-COMM	11+	84	VCO(
+V585ME07-LF	from hqew, 博通电子商行	Z-COMM	11+	62	VCO(
+V585ME09	from hqew, 博通电子商行	Z-COMM	11+	52	VCO(
+V585ME30-LF	from hqew, 博通电子商行	Z-COMM	11+	240	VCO(
+V585ME47-LF	from hqew, 博通电子商行	Z-COMM	11+	132	VCO(
+V585ME73-LF	from hqew, 博通电子商行	Z-COMM	11+	33	VCO(
+V600ME20-LF	from hqew, 博通电子商行	Z-COMM	11+	52	VCO(
+V602ME20-LF	from hqew, 博通电子商行	Z-COMM	11+	85	VCO(
+V602ME37-LF	from hqew, 博通电子商行	Z-COMM	11+	53	VCO(
+V614ME09-LF	from hqew, 博通电子商行	Z-COMM	11+	52	VCO(
+V630ME09-LF	from hqew, 博通电子商行	Z-COMM	11+	24	VCO(
+V674ME35-LF	from hqew, 博通电子商行	Z-COMM	11+	58	VCO(
+V700ME02-LF	from hqew, 博通电子商行	Z-COMM	11+	59	VCO(
+V708ME02-LF	from hqew, 博通电子商行	Z-COMM	11+	65	VCO(
+V87C54A	from hqew, 博通电子商行	samsung	06+	1737	DIP
+W78E516B40PL	from hqew, 博通电子商行	WINBOND	08+	41	PLCC
+W89C841F	from hqew, 博通电子商行	WINBOND	04+	5250	QFP128
+WSR-2	from hqew, 博通电子商行	DALE	9939+	1500	SMD
+XC2S30-5PQ208C	from hqew, 博通电子商行	XILINX	04+	12	QFP208
+XC4052XLA-09HQ304I	from hqew, 博通电子商行	XILINX	05+	11	QFP
+XC4VLX80-10FFG1148I	from hqew, 博通电子商行	XINLINX	10+	2	BGA
+XC5202-15PQG100C	from hqew, 博通电子商行	XILINX	0801	43	QFP
+XC5VLX50T-1FFG1136I	from hqew, 博通电子商行	XINLINX	10+	3	BGA
+XC95144XL-10TQG100I	from hqew, 博通电子商行	XILINX	0821+	56	
+XCR3032XL-10VQG44C	from hqew, 博通电子商行	XILINX	10+	226	QFP
+XCS20-4PQ208C	from hqew, 博通电子商行	XILINX	9937+	1	QFP-208
+XCS20XL-4VQ100C	from hqew, 博通电子商行	XILINX	0009+	2	QFP-100
+XSN755870	from hqew, 博通电子商行	TI	05+	116	QFP
+Z84C3010PEC	from hqew, 博通电子商行	ZILOG	9915+	408	DIP-28
+Z84C4210	from hqew, 博通电子商行	ZILOG	9914+	2910	DIP-40
+ZA4PD-2-S+	from hqew, 博通电子商行	MINI	11+	100	
+ZB8PD-4 +	from hqew, 博通电子商行	MINI	11+	100	
+ZFBT-4R2G-FT+	from hqew, 博通电子商行	MINI	11+	100	Bias-Tee
+ZFSC-2-372-S+	from hqew, 博通电子商行	MINI	11+	100	
+ZFSC-4-1-S+	from hqew, 博通电子商行	MINI	11+	100	
+ZN2PD-20+	from hqew, 博通电子商行	MINI	11+	100	
+ZN2PD-920-S+	from hqew, 博通电子商行	MINI	11+	100	
+ZN2PD-920W-S+	from hqew, 博通电子商行	MINI	11+	100	
+ZN2PD-9G-S +	from hqew, 博通电子商行	MINI	11+	100	
+ZN8PD1-53-S+，	from hqew, 博通电子商行	MINI	11+	100	
+MAX117CAI	from hqew, 博通电子商行	MAXIM	&nbsp;	20	SOP
+MAX120EWG	from hqew, 博通电子商行	MAXIM	&nbsp;	29	SOP
+MAX121CWE	from hqew, 博通电子商行	MAXIM	&nbsp;	6	SOP
+MAX125CEAX	from hqew, 博通电子商行	MAXIM	07+	18	SSOP36
+MAX132CWG	from hqew, 博通电子商行	MAXIM	&nbsp;	6	SOP
+MAX1487ECSA	from hqew, 博通电子商行	MAXIM	06+	43	SOP
+MAX153CAP	from hqew, 博通电子商行	MAXIM	&nbsp;	83	SSOP
+MAX155BCWI	from hqew, 博通电子商行	MAXIM	0538+	2	SOP
+MAX1636EAP	from hqew, 博通电子商行	MAXIM	&nbsp;	91	SSOP
+MAX232CWE+T	from hqew, 博通电子商行	MAX	00+	243	SOP16
+MAX237CWG	from hqew, 博通电子商行	MAXIM	&nbsp;	19	SOP
+MAX241CWI	from hqew, 博通电子商行	MAXIM	&nbsp;	49	SOP
+MAX250ESD	from hqew, 博通电子商行	MAXIM	&nbsp;	20	SOP
+MAX251ESD	from hqew, 博通电子商行	MAXIM	&nbsp;	21	SOP
+MAX294CWE	from hqew, 博通电子商行	MAXIM	&nbsp;	9	SOP
+MAX3222CAP	from hqew, 博通电子商行	MAXIM	&nbsp;	8	SSOP
+MAX3222ECAP	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SSOP
+MAX3232EEAE	from hqew, 博通电子商行	MAXIM	05+	24	SSOP
+MAX3232EEAE	from hqew, 博通电子商行	MAXIM	00+	20	SSOP
+MAX3443EESA	from hqew, 博通电子商行	MAX	08+	400	SOP
+NAIS1211	from hqew, 博通电子商行	NAIS	08+	5	DIP
+NHE520	from hqew, 博通电子商行	NIPPON	11+	10000	SOT143
+OM5234/FBP/536	from hqew, 博通电子商行	NXP	9752+	81	DIP-40
+OP177	from hqew, 博通电子商行	AD	1017+	11	sop
+OP27GS	from hqew, 博通电子商行	AD	07+	5	
+OPA228U	from hqew, 博通电子商行	TI	04+	5	SO8
+OPA4131PA	from hqew, 博通电子商行	BB	04+	498	DIP
+P80C31SBAA	from hqew, 博通电子商行	NXP	1043+	23	PLCC
+P89C51RD2BA	from hqew, 博通电子商行	PHILIPS	05+	13	PLCC
+P89C51RD2BBD	from hqew, 博通电子商行	NXP	0638+	231	QFP64
+P89C51RD2HBA	from hqew, 博通电子商行	PHILIPS	05+	5000	
+PA04	from hqew, 博通电子商行	APEX	06+	5	can
+PC68HC708KH12FU	from hqew, 博通电子商行	MOTORO	9937+	144	QFP
+PCA82C250	from hqew, 博通电子商行	NXP	0901+	8	SOP8
+PI5C3257QX	from hqew, 博通电子商行	PERICOM	04+	2998	SSOP-16
+PIC16F84A-04I/SO	from hqew, 博通电子商行	MICROCHIP	10+	588	SOP
+PM5312-SI	from hqew, 博通电子商行	PMC	0115+	6	QFP
+PMB2354	from hqew, 博通电子商行	N/A	00+	368	QFP-48
+PS321-B1	from hqew, 博通电子商行	PS	0809+	253	QFP80
+PSD813F5A-90M	from hqew, 博通电子商行	ST	&nbsp;	89	QFP
+PTWL6030BCMR	from hqew, 博通电子商行	TI	07+	208	BGA
+QL2009-OPQ208C	from hqew, 博通电子商行	QUICKLOGLC	9727+	30	QFP
+QL8X12B-XPL44C	from hqew, 博通电子商行	QUICKLOG	&nbsp;	37	PLCC
+QMV123BP5	from hqew, 博通电子商行	NORTEL	0104+	91	DIP-28
+QMV123BP5	from hqew, 博通电子商行	NORTEL	0035+	338	DIP-28
+QMV123BP5	from hqew, 博通电子商行	NORTEL	0034+	26	DIP-28
+R2A10407	from hqew, 博通电子商行	RENESAS	08+	1040	tssop
+R5F61527FPV	from hqew, 博通电子商行	RENESER	0933+	9	QFP100
+R8583A	from hqew, 博通电子商行	EPSON	0743+	12	SOP-14
+R96DFX/R6633-13	from hqew, 博通电子商行	ROCKWELL	98+	750	PLCC68
+REF02BU	from hqew, 博通电子商行	AD	05+	5	SOP-8
+RFP50N06	from hqew, 博通电子商行	FAIRCHILD	05+	74	TO-220
+ROS-1100V+	from hqew, 博通电子商行	MINI	11+	120	
+ROS-1215-119+	from hqew, 博通电子商行	MINI	11+	23	
+ROS-1540-419+	from hqew, 博通电子商行	MINI	11+	65	
+ROS-1624+	from hqew, 博通电子商行	MINI	11+	62	
+ROS-1720+	from hqew, 博通电子商行	MINI	11+	102	
+ROS-205PV+	from hqew, 博通电子商行	MINI	11+	85	
+ROS-2160W+	from hqew, 博通电子商行	MINI	11+	142	
+ROS-2170-1319+	from hqew, 博通电子商行	MINI	11+	25	
+ROS-355-219+	from hqew, 博通电子商行	MINI	11+	36	
+ROS-400+	from hqew, 博通电子商行	MINI	11+	52	
+ROS-535+	from hqew, 博通电子商行	MINI	11+	60	
+ROS-550PV+	from hqew, 博通电子商行	MINI	11+	80	
+RT9164-ACG	from hqew, 博通电子商行	RICHTEK	04+	2320	SOT-223
+RT9172-25CG	from hqew, 博通电子商行	RICHTEK	04+	38	SOT-223
+RT9173BPS	from hqew, 博通电子商行	RTL	06+	100	
+RT9614-33CG	from hqew, 博通电子商行	RICHTEK	04+	286	SOT-223
+RTL82018L	from hqew, 博通电子商行	REALTEK	0907	44	QFP
+S29GL128N11FI02	from hqew, 博通电子商行	SPANSION	06+	36	
+S3C8075X19-ATB5	from hqew, 博通电子商行	samsung	0227+	132	DIP
+SA56616-28D	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+SA57031-24UK	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+SAA8116HL	from hqew, 博通电子商行	NXP	10+	12	QFP80
+SAB80C537-16N	from hqew, 博通电子商行	INFINEON	04+	934	
+SC87C451CCA68	from hqew, 博通电子商行	PHILIPS	01+	9	
+SDC96B	from hqew, 博通电子商行	SDC	1219+	2000	TO-92
+SG3842M	from hqew, 博通电子商行	LINFINITY	9732+	400	DIP-8
+SG3842M	from hqew, 博通电子商行	LINFINITY	9730+	100	DIP-8
+SHC5320KU	from hqew, 博通电子商行	BB	04+	11	
+Si9945AEY	from hqew, 博通电子商行	SI	0828+	11	SOP8
+SN55451BTG	from hqew, 博通电子商行	TI	1018+	6	CDIP
+SN74LV21AD	from hqew, 博通电子商行	ti	&nbsp;	9	
+SP202EEN-L/TR	from hqew, 博通电子商行	SIPEX	1018+	2500	SOP-16L
+SP213ECA	from hqew, 博通电子商行	SIPEX	02+	1357	SSOP
+SP232ECT	from hqew, 博通电子商行	SIPEX	02+	959	SOP16
+SP3223EEA-L	from hqew, 博通电子商行	SIPEX	10+	1280	SSOP
+SP3232EEY-L/TR	from hqew, 博通电子商行	SIPEX	10+	1700	TSSOP
+SP334ET	from hqew, 博通电子商行	EXAR	11+	1000	SSOP
+SP485CN	from hqew, 博通电子商行	SIPEX	05+	131	SOP-8L
+SP485ECN	from hqew, 博通电子商行	SIPEX	05+	254	SOP-8L
+SP485EEP-L/TR	from hqew, 博通电子商行	SIPEX	10+	9892	DIP-8
+SP485REN	from hqew, 博通电子商行	SIPEX	10+	18	SO8
+SP490ECN	from hqew, 博通电子商行	SIPEX	0446+	197	SOP-8L
+SP491EEN-L/TR	from hqew, 博通电子商行	SIPEX	10+	2088	SOP-14
+SP690SEN	from hqew, 博通电子商行	SIPEX	2925V	2	SOP
+SP706RCN	from hqew, 博通电子商行	SIPEX	263V	196	SOP
+SP706REN-L	from hqew, 博通电子商行	SIPEX	1052+	1850	SOP
+SP706SEN-L/TR	from hqew, 博通电子商行	SIPEX	11+	30000	SOP
+SSM2210P	from hqew, 博通电子商行	AD	00+	8	DIP8
+SST39VF040-70-4C-WHE	from hqew, 博通电子商行	SST	1018+	665	TSSOP
+SST39VF080-70-4C-EIE	from hqew, 博通电子商行	SST	0630+	1440	PLCC
+SST49LF004A-70-4C-NHE	from hqew, 博通电子商行	SST	10+	64	PLCC
+SST89VF400A	from hqew, 博通电子商行	SST	N/A	18	BGA
+ST202CN	from hqew, 博通电子商行	ST	99+	910	DIP
+STLC2500CTR	from hqew, 博通电子商行	ST	08+	1973	WFBGA
+STLC3055N	from hqew, 博通电子商行	ST	10+	22	QFP64
+STV0042A	from hqew, 博通电子商行	ST	02+	13	DIP-42
+TC4420EOA	from hqew, 博通电子商行	MICROCHIP	1013+	52	SOP
+TC6102	from hqew, 博通电子商行	TAMARACK	99+	16	QFP
+TC6102	from hqew, 博通电子商行	TAMARACK	0022+	48	QFP
+TDA1519CTD	from hqew, 博通电子商行	PHILIPS	05+	22	
+TDA7313ND	from hqew, 博通电子商行	ST	0628+	468	SOP28
+THS8134BCPHP	from hqew, 博通电子商行	TI	05+	564	QFP
+TL072CDR	from hqew, 博通电子商行	TI	03+	2264	SOP
+TLC7528C	from hqew, 博通电子商行	TI	09+	11	SOP28
+TLE4275D	from hqew, 博通电子商行	INF	&nbsp;	32	TO252
+TMS320LC548PGE80	from hqew, 博通电子商行	TI	03+	220	QFP
+TMS320LF2403APAGS	from hqew, 博通电子商行	TI	06+	833	QFP
+TMS320VC5409PGE100	from hqew, 博通电子商行	TI	09+	19	QFP144
+TMS320VC5410PGE100	from hqew, 博通电子商行	TI	07+	63	QFP
+TMXP376	from hqew, 博通电子商行	THALES	0306+	1020	QFN-4
+TPA2012D2RTJR	from hqew, 博通电子商行	TI	11+	7000	QFN
+TPIC1335ADBTRG4	from hqew, 博通电子商行	TI	08+	4000	TSSOP44
+TPS51125ARGER	from hqew, 博通电子商行	TI	11+	3000	QFN
+TPS5420DRG4	from hqew, 博通电子商行	TI	08+	47	SOP8
+TPS54612PWP	from hqew, 博通电子商行	TI	&nbsp;	51	TSSOP28
+TPS54615PWP	from hqew, 博通电子商行	TI	&nbsp;	31	TSSOP28
+TPS65053RGERG4	from hqew, 博通电子商行	TI	07+	5	
+TPS65721RSNR	from hqew, 博通电子商行	ti	11+	1500	qfn
+TPS76930DBVT	from hqew, 博通电子商行	TI	04+	1063	SOT-23
+TPS79501DCQR	from hqew, 博通电子商行	TI	0925+	5000	SOT23-6
+TS7812	from hqew, 博通电子商行	TS	&nbsp;	10	TO220
+TSB12LV26PZT	from hqew, 博通电子商行	TI	07+	10	QFP
+TVP5150	from hqew, 博通电子商行	TI	10+	2207	QFP32
+TXC-04002-BIPL	from hqew, 博通电子商行	TRANSWIT	00+	26	PLCC-84
+TXC04252AIPQ	from hqew, 博通电子商行	TRANSWITCH	01+	199	QFP-16
+U4089B-P	from hqew, 博通电子商行	ATMEL	0530+	35	SOP44
+U4089B-P	from hqew, 博通电子商行	ATMEL	05+	36	
+UC2844BDG	from hqew, 博通电子商行	ON SEMI	09+	196	SOP
+UC3872DW	from hqew, 博通电子商行	UC	03+	998	SOP
+UPC2712TB-E3	from hqew, 博通电子商行	NEC	00+	2000	SOT363
+USBN9603-28M	from hqew, 博通电子商行	NSC	07+	24	SOP
+V240ME01	from hqew, 博通电子商行	Z-COMM	11+	262	VCO(
+V350ME11-LF	from hqew, 博通电子商行	Z-COMM	11+	258	VCO(
+V440MC02-LF	from hqew, 博通电子商行	Z-COMM	11+	252	VCO(
+V480MEM1-LF	from hqew, 博通电子商行	Z-COMM	11+	56	VCO(
+V580ME10-LF	from hqew, 博通电子商行	Z-COMM	11+	55	VCO(
+V580ME16-LF	from hqew, 博通电子商行	Z-COMM	11+	75	VCO(
+V585ME19-LF	from hqew, 博通电子商行	Z-COMM	11+	153	VCO(
+V585ME40-LF	from hqew, 博通电子商行	Z-COMM	11+	153	VCO(
+V585ME48-LF	from hqew, 博通电子商行	Z-COMM	11+	152	VCO(
+V585ME72-LF	from hqew, 博通电子商行	Z-COMM	11+	52	VCO(
+V585ME81-LF	from hqew, 博通电子商行	Z-COMM	11+	52	VCO(
+V600ME05-LF	from hqew, 博通电子商行	Z-COMM	11+	150	VCO(
+V602ME07-LF	from hqew, 博通电子商行	Z-COMM	11+	55	VCO(
+V602ME15-LF	from hqew, 博通电子商行	Z-COMM	11+	55	VCO(
+V602ME31-LF	from hqew, 博通电子商行	Z-COMM	11+	65	VCO(
+V602ME33-LF	from hqew, 博通电子商行	Z-COMM	11+	62	VCO(
+V602ME35-LF	from hqew, 博通电子商行	Z-COMM	11+	52	VCO(
+V614ME01-LF	from hqew, 博通电子商行	Z-COMM	11+	61	VCO(
+V630ME01-LF	from hqew, 博通电子商行	Z-COMM	11+	45	VCO(
+V630ME02	from hqew, 博通电子商行	Z-COMM	11+	51	VCO(
+V630ME05-LF	from hqew, 博通电子商行	Z-COMM	11+	65	VCO(
+V637MC02-LF	from hqew, 博通电子商行	Z-COMM	11+	65	VCO(
+V674ME01-LF	from hqew, 博通电子商行	Z-COMM	11+	85	VCO(
+V674ME02-LF	from hqew, 博通电子商行	Z-COMM	11+	75	VCO(
+V805ME04-LF	from hqew, 博通电子商行	Z-COMM	11+	57	VCO(
+V846ME07-LF	from hqew, 博通电子商行	Z-COMM	11+	68	VCO(
+V846ME30-LF	from hqew, 博通电子商行	Z-COMM	11+	45	VCO(
+V940ME27-LF	from hqew, 博通电子商行	Z-COMM	11+	59	VCO(
+V950ME09-LF	from hqew, 博通电子商行	Z-COMM	11+	41	VCO(
+W27C010-70	from hqew, 博通电子商行	WINDONB	0150+	31	DIP-32
+W27C01-70	from hqew, 博通电子商行	WINBOND	05+	16	
+W29C020CP-90Z	from hqew, 博通电子商行	WINBOND	10+	363	PLCC
+W78E62BP-40	from hqew, 博通电子商行	WINBOND	03+	9	PLCC-44
+XC17V01VO8I	from hqew, 博通电子商行	XILINX	06+	5	
+XC3S100E-5TQG144I	from hqew, 博通电子商行	XINLINX	1021+	1	QFP
+XC95288XL-10CTQ144	from hqew, 博通电子商行	Other	&nbsp;	58	
+XC95288XL-10TQG144C	from hqew, 博通电子商行	XILINX	09+	160	QFP
+XC9572-15PCG84C	from hqew, 博通电子商行	XINLINX	11+	250	PLCC68
+XCS10-4TQ144C	from hqew, 博通电子商行	XILINX	0009+	1	QFP-144
+XCS30XL-4PQ208C	from hqew, 博通电子商行	XILINX	0021+	3	QFP-208
+XCS40XL-4PQ240C	from hqew, 博通电子商行	XILINX	0025+	2	QFP-240
+YB9D10T09	from hqew, 博通电子商行	MURATA	99+	1032	NA
+Z9023106PSC	from hqew, 博通电子商行	ZILOG	9912+	5	DIP-42
+ZAPD-2DC-S+	from hqew, 博通电子商行	MINI	11+	100	
+ZFSC-4-1W-S+	from hqew, 博通电子商行	MINI	11+	100	
+ZN2PD-1900+	from hqew, 博通电子商行	MINI	11+	100	
+ZN2PD-1900W+	from hqew, 博通电子商行	MINI	11+	100	
+ZN2PD-63+	from hqew, 博通电子商行	MINI	11+	100	
+ZN4PD1-63W-S+	from hqew, 博通电子商行	MINI	11+	100	
+ZX05-42MH+	from hqew, 博通电子商行	MINI	11+	100	
+LM334MX	from hqew, 博通电子商行	NS	11+	20000	SOP
+MAX127BCAI+	from hqew, 博通电子商行	MAXIM	07+	52	SSOP28
+MAX1406CWE	from hqew, 博通电子商行	MAXIM	&nbsp;	59	SOP
+MAX1406EWE	from hqew, 博通电子商行	MAXIM	&nbsp;	23	SOP
+MAX1482ESD	from hqew, 博通电子商行	MAXIM	&nbsp;	12	SOP
+MAX152EAP	from hqew, 博通电子商行	MAXIM	&nbsp;	60	SOP
+MAX153CWP	from hqew, 博通电子商行	MAXIM	03+	68	SOP
+MAX154AEWG	from hqew, 博通电子商行	MAXIM	&nbsp;	6	SOP
+MAX1607ESA+	from hqew, 博通电子商行	MAXIM	07+	62	SO8
+MAX234CWE	from hqew, 博通电子商行	MAXIM	&nbsp;	54	SOP
+MAX242EWN	from hqew, 博通电子商行	MAXIM	&nbsp;	5	SOP
+MAX243CWE	from hqew, 博通电子商行	MAXIM	&nbsp;	20	SOP
+MAX274AEWI	from hqew, 博通电子商行	MAXIM	&nbsp;	2	SOP
+MAX3095ESE	from hqew, 博通电子商行	MAXIM	&nbsp;	23	SOP
+MAX3223EAP	from hqew, 博通电子商行	MAXIM	&nbsp;	14	SSOP
+MAX3237CAI	from hqew, 博通电子商行	MAXIM	&nbsp;	3	SSOP
+N80C188XL20	from hqew, 博通电子商行	INTEL	N/A	456	PLCC-68
+NDB603AL	from hqew, 博通电子商行	NS	9812+	2005	TO-263
+NHE529	from hqew, 博通电子商行	ETC	11+	10000	SOT143
+OPA277UA	from hqew, 博通电子商行	BB	08+	9	SOP8
+PBL38772/1	from hqew, 博通电子商行	INFINEON	0633+	34	SOP24
+PC3Q67Q	from hqew, 博通电子商行	SHARP	08+	10	SOP16
+PDIUSBD12D	from hqew, 博通电子商行	NXP	1030+	10	SOP28
+PIC16LF876A-I/ML	from hqew, 博通电子商行	MICROCHI	06+	5	QFN
+QL4009-OPF100C-4101	from hqew, 博通电子商行	QUICK	01+	990	TQFP-100
+ROS-1480-119+	from hqew, 博通电子商行	MINI	11+	25	
+ROS-1600W+	from hqew, 博通电子商行	MINI	11+	85	
+ROS-200+	from hqew, 博通电子商行	MINI	11+	26	
+ROS-810LN+	from hqew, 博通电子商行	MINI	11+	10	
+RT9163-50CG	from hqew, 博通电子商行	RICHTEK	04+	221	SOT-223
+RT9164CG	from hqew, 博通电子商行	RICHTEK	04+	156	SOT-223
+RT9172-25CG	from hqew, 博通电子商行	RICHTEK	03+	28	SOT-223
+RTL8102E	from hqew, 博通电子商行	RTL	11+	11	QFN
+S29GL064A11FFIS4	from hqew, 博通电子商行	SPANSI	0533+	49	BGA
+S3C44B0X01	from hqew, 博通电子商行	SAMSUNG	1018+	4	QFP48
+S3C8075X22-ATB5	from hqew, 博通电子商行	samsung	0235+	446	DIP64
+S3F9454BZZ-DKB4	from hqew, 博通电子商行	SAMSUNG	05+	23	DIP
+SEC-200G	from hqew, 博通电子商行	samsung	&nbsp;	681	DIP
+SEC-300B	from hqew, 博通电子商行	samsung	&nbsp;	1089	DIP
+SI3065	from hqew, 博通电子商行	SILICON	0934+	51	SOP10
+SI32919-A-FS	from hqew, 博通电子商行	SILICON	0949+	162	QFN
+SJA1000T	from hqew, 博通电子商行	NXP	10+	11	SOP24
+SMP8635LF	from hqew, 博通电子商行	SIGMA	0628	12	BGA
+SN755870KPZT-P	from hqew, 博通电子商行	TI	05+	80	QFP
+SP232EEN-L/TR	from hqew, 博通电子商行	SIPEX	1039+	1080	SOP-16L
+SP233AET	from hqew, 博通电子商行	SIPEX	04+	11	SOP
+SP3223EEY-L/TR	from hqew, 博通电子商行	SIPEX	10+	1093	TSSOP
+SP3232EEN-L/TR	from hqew, 博通电子商行	SIPEX	10+	811	SOP
+SP3243EEA-L/TR	from hqew, 博通电子商行	SIPEX	10+	1200	SSOP
+SP706PEN	from hqew, 博通电子商行	SIPEX	03/05+	5	SOP
+SP706SEN-L/TR	from hqew, 博通电子商行	SIPEX	1012+	304	SOP
+SP706TEN-L/TR	from hqew, 博通电子商行	SIPEX	0952L	1414	SOP
+SRM21016LLTT	from hqew, 博通电子商行	EPSON	02+	99	TSSOP-44
+SST25VF040B-50-4C-S2AF	from hqew, 博通电子商行	SST	0845+	999	SOP8
+ST232CDR	from hqew, 博通电子商行	ST	09+	48	SOP16
+TC524256BZ-70	from hqew, 博通电子商行	N/A	9720+	447	ZIP
+TDA1308	from hqew, 博通电子商行	NXP	09+	305	SOP-8
+TEA1098TV	from hqew, 博通电子商行	PHLIP	09+	298	TSSOP
+TEA1098TV	from hqew, 博通电子商行	PHILIPS	09+	298	SSOP40
+TL062CDR	from hqew, 博通电子商行	TI	04+	2411	SOP
+TL594CNSR	from hqew, 博通电子商行	TI	00+	4000	SOP
+TL7705ACD	from hqew, 博通电子商行	TI	06+	290	SO8
+TLE4205G	from hqew, 博通电子商行	INFINEON	0512+	243	SOP
+TLE4262G	from hqew, 博通电子商行	INFINEON	04+	924	SOP20
+TMS320F2811PBKQ	from hqew, 博通电子商行	TI	09+	63	QFP
+TMS320LF2406APZA	from hqew, 博通电子商行	TI	&nbsp;	10	QFP
+TPA2012D2RTJR	from hqew, 博通电子商行	TI	08+	1600	QFN
+TPS5430DDAR	from hqew, 博通电子商行	TI	10+	77	SOP8
+TQ4-L2-12V	from hqew, 博通电子商行	PANASONIC	08+	27	DIP
+TSC87C52-12CA	from hqew, 博通电子商行	TEMIC	9905+	216	DIP40
+UPC2712TB-E3	from hqew, 博通电子商行	NEC	08+	6000	SOT
+UPD753016AGK	from hqew, 博通电子商行	NEC	98+	900	QFP
+V582ME20-LF	from hqew, 博通电子商行	Z-COMM	11+	63	VCO(
+V585ME09-LF	from hqew, 博通电子商行	Z-COMM	11+	32	VCO(
+V585ME21	from hqew, 博通电子商行	Z-COMM	11+	98	VCO(
+V585ME41-LF	from hqew, 博通电子商行	Z-COMM	11+	152	VCO(
+V585ME46-LF	from hqew, 博通电子商行	Z-COMM	11+	128	VCO(
+V585ME51-LF	from hqew, 博通电子商行	Z-COMM	11+	152	VCO(
+V585ME55-LF	from hqew, 博通电子商行	Z-COMM	11+	120	VCO(
+V586ME12-LF	from hqew, 博通电子商行	Z-COMM	11+	212	VCO(
+V590ME01-LF	from hqew, 博通电子商行	Z-COMM	11+	120	VCO(
+V600ME10-LF	from hqew, 博通电子商行	Z-COMM	11+	126	VCO(
+V600ME14-LF	from hqew, 博通电子商行	Z-COMM	11+	45	VCO(
+W27E512P-12	from hqew, 博通电子商行	WINBOND	04+	6	
+X9C103S	from hqew, 博通电子商行	INTERSIL	10+	706	SOP8
+XC9536-15PC44I	from hqew, 博通电子商行	XINLINX	0933+	3	PLCC
+XC9572-15PCG84C	from hqew, 博通电子商行	XILINX	08+	21	
+Z0868108	from hqew, 博通电子商行	ZILOG	9142+	8	DIP-40
+ZA4PD-4-S+	from hqew, 博通电子商行	MINI	11+	100	
+ZB4PD-42+	from hqew, 博通电子商行	MINI	11+	100	
+ZFSC-4-3-S+	from hqew, 博通电子商行	MINI	11+	100	
+ZN8PD1-53-S+	from hqew, 博通电子商行	MINI	11+	100	
+ZX05-153LH+	from hqew, 博通电子商行	MINI	11+	100	
+MAX120CWG	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SOP
+MAX1232EWE	from hqew, 博通电子商行	MAXIM	&nbsp;	16	SOP
+MAX153EAP	from hqew, 博通电子商行	MAXIM	&nbsp;	87	SSOP
+MAX153EWP	from hqew, 博通电子商行	MAXIM	&nbsp;	3	SOP
+MAX154BCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	19	SOP
+MAX158BCWI	from hqew, 博通电子商行	MAXIM	&nbsp;	2	SOP
+MAX236CWG	from hqew, 博通电子商行	MAXIM	&nbsp;	34	SOP
+MAX238CWG	from hqew, 博通电子商行	MAXIM	&nbsp;	102	SOP
+MAX242CWN	from hqew, 博通电子商行	MAXIM	&nbsp;	29	SOP
+MAX3222EEAP	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SSOP
+MAX3222EEWN	from hqew, 博通电子商行	MAXIM	06+	122	SOP
+MAX3434EESA	from hqew, 博通电子商行	Other	&nbsp;	400	
+NMP4370831	from hqew, 博通电子商行	M/ACOM	0249+	1843	SSOP
+NZQA6V8AXV5T3G	from hqew, 博通电子商行	ON SEMI	09+	5060	SOT
+OPA4244EA	from hqew, 博通电子商行	BB	04+	82	TSSOP
+OTIP10	from hqew, 博通电子商行	OAK	9702+	67	QFP
+P80C31SBAA	from hqew, 博通电子商行	NXP	10+	39	PLCC
+P89C668HBBD	from hqew, 博通电子商行	PHILIPS	0625+	8	QFP
+PCA82C250	from hqew, 博通电子商行	NAXP	0927+	6	SOP8
+PEF2091IEC-QV5.3	from hqew, 博通电子商行	INFINE	0344+	40	QFP
+PIC16LC505-04/SL	from hqew, 博通电子商行	MIC	08+	10	SOP
+ROS-150+	from hqew, 博通电子商行	MINI	11+	56	
+ROS-1862-119+	from hqew, 博通电子商行	MINI	11+	63	
+ROS-2150VW+	from hqew, 博通电子商行	MINI	11+	138	
+ROS-960PV+	from hqew, 博通电子商行	MINI	11+	96	
+RT9161A-18CG	from hqew, 博通电子商行	RICHTEK	04+	420	SOT-223
+RT9163-50CG	from hqew, 博通电子商行	RICHTEK	03+	654	SOT-223
+S29GL256N11FFI02	from hqew, 博通电子商行	SPANSI	0607+	5	BGA
+SA56606-44GW	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+SA56610-45GW	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+SA630D	from hqew, 博通电子商行	PHILIPS	09+	2206	SOP8
+SN74CBTD16211DLR	from hqew, 博通电子商行	Other	05+	58	TSOP56
+SP232AEN	from hqew, 博通电子商行	SPIEX	0804	26	SOP
+SP3072EEN-TR	from hqew, 博通电子商行	SIPEX	0521+	2290	SOP8
+SP322CF-L	from hqew, 博通电子商行	SIPEX	0619+	102	LQFP
+SP3238EEA-L	from hqew, 博通电子商行	SIPEX	10+	591	SSOP
+SP3485EN-L	from hqew, 博通电子商行	SIPEX	11+	10000	SOP8
+SP3485EN-L	from hqew, 博通电子商行	SIPEX	10+	463	SOP8
+SP3490EN-L	from hqew, 博通电子商行	SIPEX	06+	295	SOP-8
+SP6201EM5-1.8-L	from hqew, 博通电子商行	SIPEX	0615+	515	SOT-23-5
+SP6201EM5-2.85-L	from hqew, 博通电子商行	SIPEX	0615+	125	SOT-23-5
+SP6201EM5-3.3-L	from hqew, 博通电子商行	SIPEX	10+	2100	SOT-23-5
+SP690ACN	from hqew, 博通电子商行	SPIEX	00+	65	SOP8
+SP690SCN	from hqew, 博通电子商行	SIPEX	2925V	2	SOP
+SP706TCN-L	from hqew, 博通电子商行	SIPEX	0602+	801	SOP
+SST39VF040-70-4C-NHE	from hqew, 博通电子商行	SST	08+	1483	PLCC
+ST16C554DCQ	from hqew, 博通电子商行	XR	06+	5	
+ST7FAUDIO	from hqew, 博通电子商行	ST	0720+	152	QFP64
+ST8024C	from hqew, 博通电子商行	ST	08+	16	SOP
+STI5105ALC	from hqew, 博通电子商行	ST	08+	11	QFP
+STR-2300	from hqew, 博通电子商行	MOTOROLA	9345+	18	DIP56
+TC74HC02AP	from hqew, 博通电子商行	TOSHIBA	01+	228	DIP
+TEA5711T	from hqew, 博通电子商行	PHILIPS	07+	15	SOP32
+TL082CDR	from hqew, 博通电子商行	TI	04+	2474	SOP
+TLV320AIC22CPTR	from hqew, 博通电子商行	TI	08+	17	QFP48
+TN87C196KB16	from hqew, 博通电子商行	INTEL	0417+	297	PLCC
+TS556CN	from hqew, 博通电子商行	ST	04+	5	
+TVP5147M1	from hqew, 博通电子商行	TI	08+	60	QFP80
+US3021MCWTR	from hqew, 博通电子商行	UNISEN	0043+	988	SOP-8
+V110ME02-LF	from hqew, 博通电子商行	Z-COMM	11+	54	VCO(
+V560ME04-LF	from hqew, 博通电子商行	Z-COMM	11+	95	VCO(
+V585ME20-LF	from hqew, 博通电子商行	Z-COMM	11+	153	VCO(
+V585ME66-LF	from hqew, 博通电子商行	Z-COMM	11+	52	VCO(
+V600ME12-LF	from hqew, 博通电子商行	Z-COMM	11+	416	VCO(
+V637ME02-LF	from hqew, 博通电子商行	Z-COMM	11+	75	VCO(
+V700ME04-LF	from hqew, 博通电子商行	Z-COMM	11+	57	VCO(
+W2465S-70LL	from hqew, 博通电子商行	WINBOND	00+	41	SOP28
+XCR3032XL-10IVQ44	from hqew, 博通电子商行	Other	&nbsp;	40	
+XCS05-3VQ100C	from hqew, 博通电子商行	XILINX	0013+	2	QFP-100
+XCS10-3TQ144C	from hqew, 博通电子商行	XILINX	9945+	1	QFP-144
+ZN428E-8	from hqew, 博通电子商行	GPS	9936+	6	DIP16
+10D-03S05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+10D-05S05N	from hqew, 博通电子商行	电源模块	10+	2000	
+10D-05S12R	from hqew, 博通电子商行	电源模块	10+	2000	
+10D-48S12N2	from hqew, 博通电子商行	电源模块	10+	2000	
+11D-05S12N1	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D09NC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D09NNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D12N2C2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D12N2C6KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D12NC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S05NC2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S05NC3KVAC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12D12NC3KVAC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12S05NC2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12S05NC3KVAC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12S12NC3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-15D15N2W3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-15S15N2C6KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24D12N	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24D15N2CNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24S05N2C2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24S09NC2W3KVAC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24S12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24S24N2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-48S05N2NL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S05N1	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S05NANL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S09NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-12D15N	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-12S05N2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-15S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-15S09NC3NL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-24S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-24S09N4NL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-48D12N4	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS2-12S05N	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS3-03S21NNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS3M-05S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13DSM-12S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05D05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05D05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05D12N	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05S05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05S05NC0.25WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05S05R3KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12D05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12D09NNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12D15NNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12S09NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-15D15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24S05NC2	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24S24N2CNL	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-05S05R3	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-05S05R3NL	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-12S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-24S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-24S05R0.5W	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-24S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+16D-05S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+16D-12S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+16D-12S09RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+17D-05D0503NNL	from hqew, 博通电子商行	电源模块	10+	2000	
+17D-05D0505N	from hqew, 博通电子商行	电源模块	10+	2000	
+17D-05D0524N22WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+17D-12D0512N	from hqew, 博通电子商行	电源模块	10+	2000	
+18D3-12D0505RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-05D12NC	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-05D12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-05D15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-05S03NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-07NS03R	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-12D09NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-12S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-24D12NBNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-24D15N	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-24D15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-24S12N	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-24S24N2KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-48D12NNL	from hqew, 博通电子商行	电源模块	10+	2000	
+24D-24D05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+24D-24S05N	from hqew, 博通电子商行	电源模块	10+	2000	
+24LC512-I/SM	from hqew, 博通电子商行	MICROCHI	10+	102	SOP8
+26D-05D05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+26D-05S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+26D-24D15N	from hqew, 博通电子商行	电源模块	10+	2000	
+27D-05D12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+27D-24D12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+27D-24D15R	from hqew, 博通电子商行	电源模块	10+	2000	
+27D-24S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+30D-05D05N	from hqew, 博通电子商行	电源模块	10+	2000	
+30D-05D12N	from hqew, 博通电子商行	电源模块	10+	2000	
+3R3TI30E-080	from hqew, 博通电子商行	FUJITSU	10+	567	
+45D-05S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+46D-05D12R	from hqew, 博通电子商行	电源模块	10+	2000	
+54D-05D12N	from hqew, 博通电子商行	电源模块	10+	2000	
+54D-05D12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+54D-24D15R	from hqew, 博通电子商行	电源模块	10+	2000	
+61D-12S12R	from hqew, 博通电子商行	电源模块	10+	2000	
+61D-24D15RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+61D-24S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+61D-48S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+61D-48S24	from hqew, 博通电子商行	电源模块	10+	2000	
+61F-GP-N	from hqew, 博通电子商行	OMRON	12+	1000	
+62D-24S05R3WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+66D-80D05R	from hqew, 博通电子商行	电源模块	10+	2000	
+67D-12S12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+67D-24D0505R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D1-05S12R5W	from hqew, 博通电子商行	电源模块	10+	2000	
+68D1-12D05R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D1-12D15R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D1-12S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D1-24D12R3KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+68D1-48D05R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D2-48S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D5-12D12R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D5-24S03RV	from hqew, 博通电子商行	电源模块	10+	2000	
+68DW10-12S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+69D1-24S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+69D-24D15RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+69D-24S12RV	from hqew, 博通电子商行	电源模块	10+	2000	
+6RI30FE-080	from hqew, 博通电子商行	FUJITSU	10+	567	
+74F273	from hqew, 博通电子商行	NS	97+	100	SOP
+74HC32	from hqew, 博通电子商行	TI	08+	50	SOP
+74HC573	from hqew, 博通电子商行	TI	09+	10	SOP
+95D-48S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+95D-48S12R	from hqew, 博通电子商行	电源模块	10+	2000	
+95D-48S12R15WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+A1101LLHLT-T	from hqew, 博通电子商行	ALLEGRO	10+	100000	SOT-23
+A1101LUA-T	from hqew, 博通电子商行	ALLEGRO	10+	10000	TO-92
+A1102ELHLT-T	from hqew, 博通电子商行	ALLEGRO	10+	10000	SOT-23
+A1102EUA-T	from hqew, 博通电子商行	ALLEGRO	10+	10000	TO-92
+A1104EUA-T	from hqew, 博通电子商行	ALLEGRO	10+	12300	TO-92
+A1104LUA-T	from hqew, 博通电子商行	ALLEGRO	10+	25000	TO-92
+A3212ELHLT-T	from hqew, 博通电子商行	ALLEGRO	10+	12500	SOT-23
+ABL2REM24015H	from hqew, 博通电子商行	Schneider	12+	1000	
+ABL2REM24150H	from hqew, 博通电子商行	Schneider	12+	1000	
+ABL7RP2410	from hqew, 博通电子商行	Schneider	12+	1000	
+AD45203ZBCPZ	from hqew, 博通电子商行	ADI	1129+	362	QFN
+AD5344BRU	from hqew, 博通电子商行	AD	0935+	4	SSOP28
+AD600JR	from hqew, 博通电子商行	ADI	1018+	10	SOP
+AD633J	from hqew, 博通电子商行	AD	1016+	19	DIP
+AD669BR	from hqew, 博通电子商行	AD	02/03+	4	SOP
+AD8022AR	from hqew, 博通电子商行	AD	00+	387	SOP
+AD8184AR	from hqew, 博通电子商行	AD	04+	80	SOP14
+ADC78H90CIMT	from hqew, 博通电子商行	NS	10+	134	TSSOP
+ADF4193BCPZ	from hqew, 博通电子商行	ADI	1124+	1176	QFN
+ADF4350ABCPZ	from hqew, 博通电子商行	ADI	1133+	2885	QFN
+ADSP-TS201SABP-050	from hqew, 博通电子商行	AD	1013+	1	BGA
+ADUC7020BCPZ62I	from hqew, 博通电子商行	ADI	1128+	321	QFN
+ADV7180KCP32Z	from hqew, 博通电子商行	ADI	1136+	103	QFN
+AN8399SA	from hqew, 博通电子商行	PANASONI	05+	18	SOP
+AT89S52-24PI	from hqew, 博通电子商行	ATMEL	0532+	70	DIP
+ATMEGA48V-10PU	from hqew, 博通电子商行	ATMEL	09+	48	DIP
+ATV12H075M2	from hqew, 博通电子商行	Schneider	12+	1000	
+ATV21H075N4	from hqew, 博通电子商行	Schneider	12+	1000	
+AZ7121	from hqew, 博通电子商行	Panasonic	12+	1000	
+AZD1002	from hqew, 博通电子商行	Panasonic	12+	1000	
+BH-D6 3P D16A	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+BRF6300CZSLR	from hqew, 博通电子商行	TI	0927+	236	BGA
+C120H 3P C80A	from hqew, 博通电子商行	Schneider	12+	1000	
+C120H 3P D125A	from hqew, 博通电子商行	Schneider	12+	1000	
+C120H 3P D63A	from hqew, 博通电子商行	Schneider	12+	1000	
+C120H 4P D100A	from hqew, 博通电子商行	Schneider	12+	1000	
+C120H 4P D125A	from hqew, 博通电子商行	Schneider	12+	1000	
+C120H 4P D80A	from hqew, 博通电子商行	Schneider	12+	1000	
+C2026	from hqew, 博通电子商行	KEC	0735+	257	TO220
+C65 ELE 3P 63A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65H-DC 2P C16A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65N 1P C16A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65N 1P C4A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65N 4P D40A	from hqew, 博通电子商行	Schneider	12+	1000	
+CA2KN40M7	from hqew, 博通电子商行	Schneider	12+	1000	
+CAD32B7C	from hqew, 博通电子商行	Schneider	12+	1000	
+CAD32FDC	from hqew, 博通电子商行	Schneider	12+	1000	
+CAE22CC5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CA-E22M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CAE31CC5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CA-E31CC5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CA-E31F5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CA-E40F5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CAE40M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CL-PD6720-QC-E	from hqew, 博通电子商行	CIRRUSL	9603+	240	QFP
+CLV0600A-LF	from hqew, 博通电子商行	Z-COMM	11+	125	VCO(
+CLV0625E-LF	from hqew, 博通电子商行	Z-COMM	11+	152	VCO(
+CLV0700E-LF	from hqew, 博通电子商行	Z-COMM	11+	163	VCO(
+CLV0795B-LF	from hqew, 博通电子商行	Z-COMM	11+	145	VCO(
+CLV1225A-LF	from hqew, 博通电子商行	Z-COMM	11+	45	VCO(
+CLV1320E-LF	from hqew, 博通电子商行	Z-COMM	11+	95	VCO(
+CLV1410E-LF	from hqew, 博通电子商行	Z-COMM	11+	81	VCO(
+CP32FI/15	from hqew, 博通电子商行	FUJIFe	12+	1000	
+CS4218-KQ	from hqew, 博通电子商行	CRYSTAL	0022+	1600	TQFP44
+CVS250F 3P 200A	from hqew, 博通电子商行	Schneider	12+	1000	
+CVS400F 3P 320A	from hqew, 博通电子商行	Schneider	12+	1000	
+CXD1175AM	from hqew, 博通电子商行	SONY	00+	30	SOP
+CY62126EV30LL-45ZSXIT	from hqew, 博通电子商行	CY	0719+	303	TSSOP
+D2VW-5L2-2M	from hqew, 博通电子商行	OMRON	12+	1000	
+D4MC-5020	from hqew, 博通电子商行	OMRON	12+	1000	
+DG509ACWE	from hqew, 博通电子商行	MAXIM	&nbsp;	36	SOP
+DPNa 1P C6A	from hqew, 博通电子商行	Schneider	12+	1000	
+DS1010S-050	from hqew, 博通电子商行	DALLAS	&nbsp;	17	SOP
+DS1302Z	from hqew, 博通电子商行	DALLS	09+	8	SOP
+DS1603	from hqew, 博通电子商行	DALLS	0909+	14	DIP7
+DS1620	from hqew, 博通电子商行	DALLS	09+	7	DIP
+E2E-X10ME1	from hqew, 博通电子商行	OMRON	12+	1000	
+E2E-X1R5E1	from hqew, 博通电子商行	OMRON	12+	1000	
+E2E-X3D1-N	from hqew, 博通电子商行	OMRON	12+	1000	
+E2E-X5E1-Z	from hqew, 博通电子商行	OMRON	12+	1000	
+E32-DC200	from hqew, 博通电子商行	OMRON	12+	1000	
+E3JK-R4M1	from hqew, 博通电子商行	OMRON	12+	1000	
+E5CZ-Q2MT	from hqew, 博通电子商行	OMRON	12+	1000	
+E5CZ-R2MT	from hqew, 博通电子商行	OMRON	12+	1000	
+E6B2-CWZ6C 100P/R	from hqew, 博通电子商行	OMRON	12+	1000	40
+E6B2-CWZ6C 2000P/R	from hqew, 博通电子商行	OMRON	12+	1000	40
+E6B2-CWZ6C 600P/R	from hqew, 博通电子商行	OMRON	12+	1000	40
+EA103C 60A	from hqew, 博通电子商行	FUJIFe	12+	1000	
+EA9AN1C16	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN1C32	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN1C40	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN1C6 6A	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN2C10	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN2C6	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN3C6	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9X210	from hqew, 博通电子商行	Schneider	12+	1000	2  10A
+EA9X416	from hqew, 博通电子商行	Schneider	12+	1000	
+EL2244CS	from hqew, 博通电子商行	EL	&nbsp;	93	SOP
+EL4501IUZ	from hqew, 博通电子商行	EL	10+	476	SSOP24
+EL5108ISZ	from hqew, 博通电子商行	EL	07+	36	SOP8
+EL5427CLZ	from hqew, 博通电子商行	EL	07+	126	QFN
+EL8183ES	from hqew, 博通电子商行	EL	04+	105	SOP8
+EPM7032LC44-15T	from hqew, 博通电子商行	ALTERA	9631+	587	PLCC
+EZAROTDS	from hqew, 博通电子商行	Schneider	12+	1000	
+EZASHT200AC	from hqew, 博通电子商行	Schneider	12+	1000	
+EZD100E 3P 80A	from hqew, 博通电子商行	Schneider	12+	1000	
+FC-0 /G	from hqew, 博通电子商行	FUJIFe	12+	1000	
+G2R-2-SN(S)	from hqew, 博通电子商行	OMRON	12+	1000	
+G2R-2-SND(S)	from hqew, 博通电子商行	OMRON	12+	1000	
+G3B-205S 5A	from hqew, 博通电子商行	OMRON	12+	1000	
+G3F-203SN	from hqew, 博通电子商行	OMRON	12+	1000	
+G3NA-220B	from hqew, 博通电子商行	OMRON	12+	1000	
+G3NB-240B-UTU	from hqew, 博通电子商行	OMRON	12+	1000	
+G3PE-225B	from hqew, 博通电子商行	OMRON	12+	1000	
+G558F-30	from hqew, 博通电子商行	NETVOX	98+	900	QFP
+GAA30337AAA1	from hqew, 博通电子商行	MICREL	00+	6	SSOP-28
+GAA30337AAA1	from hqew, 博通电子商行	MAXIM	99+	6	SOP
+GV2 K011	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2AF3	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2G454	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-ME01C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-ME03C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-ME08C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-ME14C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-PM10C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2RT14	from hqew, 博通电子商行	Schneider	12+	1000	
+GV3-A09	from hqew, 博通电子商行	OMRON	12+	1000	
+GV3-P50	from hqew, 博通电子商行	Schneider	12+	1000	
+GV-AE1	from hqew, 博通电子商行	Schneider	12+	1000	
+GVAM11	from hqew, 博通电子商行	Schneider	12+	1000	
+GVA-X115	from hqew, 博通电子商行	Schneider	12+	1000	
+H3DE-M2	from hqew, 博通电子商行	OMRON	12+	1000	
+H3Y-2 AC220 5S	from hqew, 博通电子商行	OMRON	12+	1000	
+H3Y-2 DC24 5S	from hqew, 博通电子商行	OMRON	12+	1000	
+H5L-A	from hqew, 博通电子商行	OMRON	12+	1000	
+H7EC-NV	from hqew, 博通电子商行	OMRON	12+	1000	
+HC595A	from hqew, 博通电子商行	ON SEMI	05+	2	SOP
+HWXR693W-1	from hqew, 博通电子商行	瑞萨	09+	1926	QFN
+IC65 1P+N 40A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65 2P 63A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65 3P 40A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65 4P 40A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65H-DC 2P C40A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P C16A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P C25A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P C2A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P D32A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P C25A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P C50A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P C63A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P D10A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P D1A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P D2A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P D4A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P D50A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P C10A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P C1A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P C4A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P D40A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P C16A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P C4A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P D63A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P D6A	from hqew, 博通电子商行	Schneider	12+	1000	
+ICT 2NO 40A A9C20842	from hqew, 博通电子商行	Schneider	12+	1000	
+IDPNa C 25A	from hqew, 博通电子商行	Schneider	12+	1000	
+IDPNa C 32A	from hqew, 博通电子商行	Schneider	12+	1000	
+IDT7130LA25PF	from hqew, 博通电子商行	IDT	0018+	1	QFP
+IDT71V124SA12PH	from hqew, 博通电子商行	IDT	01+	2	SOP
+IOF	from hqew, 博通电子商行	Schneider	12+	1000	
+IRF7309TR	from hqew, 博通电子商行	IR	09+	46	SOP8
+IS61WV10248BLL-10TLI	from hqew, 博通电子商行	ISSI	10+	6	TSSOP
+ISD	from hqew, 博通电子商行	Schneider	12+	1000	
+ISL34341IRZ	from hqew, 博通电子商行	ISL	&nbsp;	343	QFN
+ISL6227CA	from hqew, 博通电子商行	INTERSIL	05+	2000	SSOP28
+ISL6442IAZ	from hqew, 博通电子商行	ISL	05+	6	SSOP
+IST20 2P	from hqew, 博通电子商行	Schneider	12+	1000	
+K4S510832D-UC75	from hqew, 博通电子商行	SAMSUNG	0918+	9	TSSOP
+K9F1G08U0B-PIB0	from hqew, 博通电子商行	SAMSUNG	0946+	1	TSSOP
+KAF1PZ	from hqew, 博通电子商行	Schneider	12+	1000	
+KCF1PZC	from hqew, 博通电子商行	Schneider	12+	1000	V
+L6561D	from hqew, 博通电子商行	ST	09+	22	SOP8
+L7805	from hqew, 博通电子商行	ST	09+	40	TO220
+LA1-KN22	from hqew, 博通电子商行	Schneider	12+	1000	
+LAD311	from hqew, 博通电子商行	Schneider	12+	1000	
+LAD-7B106	from hqew, 博通电子商行	Schneider	12+	1000	
+LAD8N11	from hqew, 博通电子商行	Schneider	12+	1000	
+LAD9R1V	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-DN02C	from hqew, 博通电子商行	Schneider	12+	1000	
+LADR0	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-DR0	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-DR2	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-DR4	from hqew, 博通电子商行	Schneider	12+	1000	
+LADS2	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-DS2	from hqew, 博通电子商行	Schneider	12+	1000	
+LAEN20N	from hqew, 博通电子商行	Schneider	12+	1000	
+LAEN22N	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-EN22N	from hqew, 博通电子商行	Schneider	12+	1000	
+LAEN40N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D09EL	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D09F7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D09M7	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D12BDC	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D15000B7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D15000F7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D17000B7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D18BDC	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D18EDC	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D205M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D25EL	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D25M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D25Q7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D32M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D38M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D40AF7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D40AM7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D40AQ7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D50AB7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D50AB7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D50ABD	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D50AF7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D50AQ7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D50CC5	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D50F7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D65F7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D80F7	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D80M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D80Q7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D95M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E0610M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E0901M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E0910M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E1201B5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E1201M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E1210M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E2501M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E2501M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E3201M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E3201M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1K0610M7	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-K0910M7	from hqew, 博通电子商行	Schneider	12+	1000	
+LC2-K0610M7	from hqew, 博通电子商行	Schneider	12+	1000	
+LC4128V75TN100-10I	from hqew, 博通电子商行	LATTICE	04+	5	BGA
+LGS-8G52-A1-C-LQ1-P	from hqew, 博通电子商行	LS	0831+	1044	QFP144
+LM1881M	from hqew, 博通电子商行	NS	10+	3	SOP8
+LM25576MH	from hqew, 博通电子商行	NS	10+	376	TSSOP
+LM2640MTC-ADJ	from hqew, 博通电子商行	NS	10+	25	TSSOP
+LM2660M	from hqew, 博通电子商行	NS	09+	57	SOP8
+LM317LDR2G	from hqew, 博通电子商行	ON SEMI	10+	14000	SOP-8
+LM334MX/NOPB	from hqew, 博通电子商行	NS	1024+	2953	SOP
+LM5576MH	from hqew, 博通电子商行	NS	10+	420	TSSOP
+LMX1602TMA	from hqew, 博通电子商行	NS	04+	28	TSSOP16
+LP1K090085MD	from hqew, 博通电子商行	Schneider	12+	1000	
+LP1-K12103BD3	from hqew, 博通电子商行	Schneider	12+	1000	
+LP1K1210BD	from hqew, 博通电子商行	Schneider	12+	1000	
+LP2985-33D	from hqew, 博通电子商行	TPS76333DBVT	&nbsp;	3000	SOT-23
+LP4K0910BW3	from hqew, 博通电子商行	Schneider	12+	1000	
+LR2K0308	from hqew, 博通电子商行	Schneider	12+	1000	
+LR2K0310	from hqew, 博通电子商行	Schneider	12+	1000	
+LR97D25M7	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD01C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D03C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD04C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD06KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD07C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D07KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D08KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD10C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D10C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD21C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D21KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD32C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D32C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D3322C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D332C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD3353C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD3359C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D3361C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D3365C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD340C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D35KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D365C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-E01N	from hqew, 博通电子商行	Schneider	12+	1000	
+LRE02N	from hqew, 博通电子商行	Schneider	12+	1000	
+LRE06N	from hqew, 博通电子商行	Schneider	12+	1000	
+LRE07N	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-E07N	from hqew, 博通电子商行	Schneider	12+	1000	
+LRE14N	from hqew, 博通电子商行	Schneider	12+	1000	
+LRE32N	from hqew, 博通电子商行	Schneider	12+	1000	
+LT1073CS8	from hqew, 博通电子商行	LINEAR	&nbsp;	69	SOP
+LT1085CT-12	from hqew, 博通电子商行	LINEAR	03+	10	TO-220-3
+LT1170CQ	from hqew, 博通电子商行	LINEAR	03+	76	TO-263
+LT1171HVIQ	from hqew, 博通电子商行	LINEAR	03+	97	TO-263
+LT1172HVCT	from hqew, 博通电子商行	LINEAR	03+	80	TO-220-5
+LT1172HVCT-5	from hqew, 博通电子商行	LINEAR	03+	8	TO-220-5
+LT1175CQ	from hqew, 博通电子商行	LINEAR	03+	48	TO-263
+LT1186FIS	from hqew, 博通电子商行	LT	10+	122	SOP16
+LT1270ACT	from hqew, 博通电子商行	LINEAR	03+	8	TO-220-5
+LT1270CT	from hqew, 博通电子商行	LINEAR	03+	47	TO-220-5
+LT1529CQ-3.3	from hqew, 博通电子商行	LINEAR	03+	61	TO-263
+LT1585CM-3.3	from hqew, 博通电子商行	LINEAR	03+	12	TO-263
+LT1585CT	from hqew, 博通电子商行	LINEAR	03+	109	TO-220-3
+LT1587CM-3.3	from hqew, 博通电子商行	LINEAR	03+	88	TO-263
+LT1763CS8	from hqew, 博通电子商行	LT	08+	587	SOP8
+LT1763CS8-1.8	from hqew, 博通电子商行	LT	10+	132	SOP8
+LT1763CS8-3.3	from hqew, 博通电子商行	LT	02+	12	SOP8
+LT1763CS8-5	from hqew, 博通电子商行	LT	10+	19	SOP8
+LT1766EGN	from hqew, 博通电子商行	LT	01+	53	SSOP16
+LT1766EGN-5	from hqew, 博通电子商行	LT	03+	30	SSOP16
+LT1766IGN	from hqew, 博通电子商行	LT	01+	51	SSOP16
+LT3071MPUFD	from hqew, 博通电子商行	LT	10+	18	QFN
+LT323AT	from hqew, 博通电子商行	LINEAR	03+	40	TO-220-3
+LT3430IFE	from hqew, 博通电子商行	LT	05+	15	TSSOP
+LT3478EFE	from hqew, 博通电子商行	LT	09+	401	TSSOP
+LT3479EFE	from hqew, 博通电子商行	LT	04+	7	TSSOP
+LT3579EFE	from hqew, 博通电子商行	LT	10+	39	TSOP
+LT3764EUHF	from hqew, 博通电子商行	LT	10+	10	QFN
+LT4256-3IGN	from hqew, 博通电子商行	LT	03+	20	SSOP
+LT511E	from hqew, 博通电子商行	LT	08+	5	SOP8
+LT5514EFE	from hqew, 博通电子商行	LT	09+	369	TSSOP
+LT5517EUF	from hqew, 博通电子商行	LINEAR	10+	169	QFN
+LT5520EUF	from hqew, 博通电子商行	LT	10+	14	QFN
+LT5546EUF	from hqew, 博通电子商行	LINEAR	10+	649	QFN
+LT5572EUF	from hqew, 博通电子商行	LT	10+	20	QFN
+LTC1414CGN	from hqew, 博通电子商行	LT	98+	3	SSOP
+LTC1419AISW	from hqew, 博通电子商行	LT	09+	7	SOP28
+LTC1436ACGN	from hqew, 博通电子商行	LT	98+	11	SSOP
+LTC1603IG	from hqew, 博通电子商行	LT	10+	208	SSOP
+LTC1604CG	from hqew, 博通电子商行	LT	10+	77	SSOP
+LTC1709EG	from hqew, 博通电子商行	LT	99+	8	SSOP
+LTC1744CFW	from hqew, 博通电子商行	LT	08+	11	SSOP
+LTC1750CFW	from hqew, 博通电子商行	LT	10+	139	TSSOP
+LTC1760CFW	from hqew, 博通电子商行	LT	10+	474	TSSOP
+LTC2175CUKG-14	from hqew, 博通电子商行	LINEAR	10+	40	QFN52
+LTC2257CUJ-14	from hqew, 博通电子商行	LT	10+	8	QFN
+LTC2259IUJ-12	from hqew, 博通电子商行	LT	10+	8	QFN
+LTC2260IUJ-14	from hqew, 博通电子商行	LINEAR	09+	33	QFN
+LTC2273IUJ	from hqew, 博通电子商行	LT	10+	9	QFN
+LTC2350LIFW	from hqew, 博通电子商行	LT	04+	10	TSSOP
+LTC2393CLX-16	from hqew, 博通电子商行	LT	09+	76	QFP
+LTC2393HLX-16	from hqew, 博通电子商行	LT	09+	76	QFP
+LTC2400ES	from hqew, 博通电子商行	LT	08+	8	SOP8
+LTC2450CDC	from hqew, 博通电子商行	LT	10+	21	DFN6
+LTC2450IDC-1	from hqew, 博通电子商行	LT	10+	12	DFN
+LTC2657BIFE-H16	from hqew, 博通电子商行	LT	09+	15	TSSOP
+LTC2704IGW-16	from hqew, 博通电子商行	LT	07+	4	SSOP44
+LTC2752ACLX	from hqew, 博通电子商行	LT	10+	51	LQFP-48
+LTC2753ACUK-16	from hqew, 博通电子商行	LT	06+	4	QFN
+LTC2753BIUK-16	from hqew, 博通电子商行	LT	06+	4	QFN
+LTC2933IGN	from hqew, 博通电子商行	LT	09+	11	SSOP
+LTC2934CDC-1	from hqew, 博通电子商行	LT	10+	1962	DFN
+LTC2934IDC-2	from hqew, 博通电子商行	LT	10+	1697	DFN
+LTC2935CDC-1	from hqew, 博通电子商行	LT	10+	1806	DFN
+LTC3220T	from hqew, 博通电子商行	LINEAR	10+	257	QFN28
+LTC3412AEUF	from hqew, 博通电子商行	LINEAR	10+	196	QFN
+LTC3412EFE	from hqew, 博通电子商行	LT	10+	104	TSSOP
+LTC3603EUF	from hqew, 博通电子商行	LT	09+	10	QFN
+LTC3609EWKG	from hqew, 博通电子商行	LT	10+	94	QFN
+LTC3610EWP	from hqew, 博通电子商行	LT	10+	5	QFN
+LTC3611EWP	from hqew, 博通电子商行	LT	10+	4	QFN
+LTC3615EFE	from hqew, 博通电子商行	LT	10+	14	TSSOP
+LTC3616IUDD	from hqew, 博通电子商行	LT	09+	75	QFN
+LTC3778EF	from hqew, 博通电子商行	LT	05+	10	TSSOP
+LTC3785EUF-1	from hqew, 博通电子商行	LT	10+	15	QFN
+LTC3788GN-1	from hqew, 博通电子商行	LT	09+	2	SSOP
+LTC3789	from hqew, 博通电子商行	LT	10+	25	QFN
+LTC3819EG	from hqew, 博通电子商行	LT	05+	2	SSOP
+LTC3833EFE	from hqew, 博通电子商行	LT	09+	235	TSSOP
+LTC3850GN-1	from hqew, 博通电子商行	LT	08+	43	SSOP
+LTC3850GN-2	from hqew, 博通电子商行	LT	09+	81	SSOP
+LTC3850IUF	from hqew, 博通电子商行	LINEAR	10+	1366	QFN
+LTC3850IUFD	from hqew, 博通电子商行	LINEAR	10+	1366	QFN
+LTC3853IUJ	from hqew, 博通电子商行	LT	10+	477	QFN
+LTC3855EUJ	from hqew, 博通电子商行	LINEAR	10+	785	QFN
+LTC3855IUJ	from hqew, 博通电子商行	LINEAR	10+	785	QFN
+LTC3856IFE	from hqew, 博通电子商行	LT	10+	101	TSSOP
+LTC3859IUHF	from hqew, 博通电子商行	LINEAR	10+	187	QFN
+LTC3862HUH-1	from hqew, 博通电子商行	LINEAR	10+	38	QFN
+LTC3869GN-2	from hqew, 博通电子商行	LT	10+	4	SSOP
+LTC4006EGN-2	from hqew, 博通电子商行	LT	03+	19	SSOP16
+LTC4006EGN-4	from hqew, 博通电子商行	LT	03+	9	SSOP16
+LTC4066EUF	from hqew, 博通电子商行	LINEAR	10+	994	QFN
+LTC4361CDC-1	from hqew, 博通电子商行	LINEAR	10+	18	DFN
+LTC4365IDDB	from hqew, 博通电子商行	LT	10+	118	DFN
+LTC6079IDHC	from hqew, 博通电子商行	LT	10+	265	QFN
+LTC7522CUJ	from hqew, 博通电子商行	LT	07+	5	QFN
+LTM2883Y-3S	from hqew, 博通电子商行	LT	10+	3	LGA
+LTM4601EV	from hqew, 博通电子商行	LT	10+	2	LGA
+LTM4612EV	from hqew, 博通电子商行	LT	09+	864	LGA
+LTM4614EV	from hqew, 博通电子商行	LT	10+	110	LGA
+LTM4627EV	from hqew, 博通电子商行	LT	10+	208	LGA
+LTM8021EV	from hqew, 博通电子商行	LT	09+	125	LGA
+LTM8046EV	from hqew, 博通电子商行	LT	09+	31	LGA
+LUB32	from hqew, 博通电子商行	Schneider	12+	1000	
+LXT821TC	from hqew, 博通电子商行	INTEL	&nbsp;	159	QFP
+LXT908LC	from hqew, 博通电子商行	INTEL	&nbsp;	19	QFP
+MC145159P1	from hqew, 博通电子商行	MOTOROLA	03+	27	DIP
+MD-113-PIN	from hqew, 博通电子商行	M/A-COM	11+	100	
+MGNEA9A45C16	from hqew, 博通电子商行	Schneider	12+	1000	
+MGNEA9C45C1030C	from hqew, 博通电子商行	Schneider	12+	1000	
+MGNEA9C45C1630C	from hqew, 博通电子商行	Schneider	12+	1000	
+MGNEA9C45C2530C	from hqew, 博通电子商行	Schneider	12+	1000	
+MK3P5-S	from hqew, 博通电子商行	OMRON	12+	1000	
+MM54HC574J/883C	from hqew, 博通电子商行	NS	&nbsp;	10	DIP
+MMBF170LT1G	from hqew, 博通电子商行	ON SEMI	1007+	270	SOT-23
+MR27T12800L	from hqew, 博通电子商行	OKI	0636+	150	TSSOP
+MR27T3202L-094MAZ038	from hqew, 博通电子商行	OKI	0648+	168	TSOP
+MR27V3202F-18PMAZ060	from hqew, 博通电子商行	OKI	0533+	600	SOP
+MSD189CL-LF	from hqew, 博通电子商行	MSTAR	0910+	936	QFP256
+MSOD-Q19	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+MSOD-QR11	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+MSP430F135IPM	from hqew, 博通电子商行	TI	10+	43	QFP64
+MX29LV008CBTC-70G	from hqew, 博通电子商行	MX	0719+	167	TSSOP
+MY2N-CR-J	from hqew, 博通电子商行	OMRON	12+	1000	
+MY2N-D2-J	from hqew, 博通电子商行	OMRON	12+	1000	
+MY2N-J	from hqew, 博通电子商行	OMRON	12+	1000	
+MY4N-D2	from hqew, 博通电子商行	OMRON	12+	1000	
+MY4N-J	from hqew, 博通电子商行	OMRON	12+	1000	
+MAX17113ETL	from hqew, 博通电子商行	MAXIM	10+	1442	QFN
+MAX1811ESA	from hqew, 博通电子商行	MAXIN	09+	1	SOP8
+MAX189BCWE	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SOP
+MAX189BEWE	from hqew, 博通电子商行	MAXIM	&nbsp;	8	SOP
+MAX1924XEEE	from hqew, 博通电子商行	MAXIM	02+	45	SSOP
+MAX202CSE	from hqew, 博通电子商行	MAXIM	&nbsp;	270	SOP
+MAX202ECPE	from hqew, 博通电子商行	MAXIM	0637+	103	DIP
+MAX212EAG	from hqew, 博通电子商行	MAXIM	&nbsp;	2	SSOP
+MAX213EEWI	from hqew, 博通电子商行	MAXIM	&nbsp;	15	SOP
+MAX220ESE	from hqew, 博通电子商行	MAXIM	&nbsp;	2	SOP
+MAX232ACWE	from hqew, 博通电子商行	MAXIM	&nbsp;	28	SOP
+MAX232AEWE	from hqew, 博通电子商行	MAXIM	05+	14	SOP
+MAX3238CAI	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SSOP
+MAX3238EAI	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SSOP
+MAX3238EEAI	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SSOP
+MAX3243EEAI	from hqew, 博通电子商行	MAXIM	00+	178	SSOP
+MAX333CWP	from hqew, 博通电子商行	MAXIM	&nbsp;	67	SOP
+MAX358CWE	from hqew, 博通电子商行	MAXIM	&nbsp;	99	SOP
+MAX391CSE	from hqew, 博通电子商行	MAXIM	&nbsp;	88	SOP
+MAX4219ESD+	from hqew, 博通电子商行	MAXIM	0835+	11	SOP14
+MAX4272ESA	from hqew, 博通电子商行	MAXIM	&nbsp;	80	SOP
+MAX453CSA	from hqew, 博通电子商行	MAXIM	98+	500	SOP8
+MAX483ECSA	from hqew, 博通电子商行	MAXIM	&nbsp;	39	SOP
+MAX485ECSA	from hqew, 博通电子商行	MAXIM	&nbsp;	9	SOP
+MAX487EPA	from hqew, 博通电子商行	MAXIM	06+	22	DIP
+MAX489ESD	from hqew, 博通电子商行	MAXIM	03+	34	SOP
+MAX5025EUT	from hqew, 博通电子商行	MAXIM	10+	18	SOP
+MAX505BCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	20	SOP
+MAX506AEWP	from hqew, 博通电子商行	MAXIM	&nbsp;	10	SOP
+MAX506BCWP	from hqew, 博通电子商行	MAXIM	&nbsp;	196	SOP
+MAX507BCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	32	SOP
+MAX516BCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	3	SOP
+MAX526ACWG	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SOP
+MAX526CCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	2	SOP
+MAX527CCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SOP
+MAX530ACAG	from hqew, 博通电子商行	MAXIM	&nbsp;	5	SSOP
+MAX530BCAG	from hqew, 博通电子商行	MAXIM	&nbsp;	26	SSOP
+MAX532ACWE	from hqew, 博通电子商行	MAXIM	&nbsp;	25	SOP
+MAX532BEWE	from hqew, 博通电子商行	MAXIM	&nbsp;	2	SOP
+MAX536AJCWE	from hqew, 博通电子商行	MAXIM	&nbsp;	4	SOP
+MAX543ACWE	from hqew, 博通电子商行	MAXIM	&nbsp;	13	SOP
+MAX562CWI	from hqew, 博通电子商行	MAXIM	&nbsp;	15	SOP
+MAX574AJCWI	from hqew, 博通电子商行	MAXIM	&nbsp;	5	SOP
+MAX603CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	3	SOP
+MAX705CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	2	SOP
+MAX712CSE	from hqew, 博通电子商行	MAXIM	03+	174	SOP
+MAX7219CNG	from hqew, 博通电子商行	MAXIM	A	22	DIP
+MAX7219CWG	from hqew, 博通电子商行	MAXIM	00+	1	SOP
+MAX732EWE	from hqew, 博通电子商行	MAXIM	&nbsp;	29	SOP
+MAX744AEWE	from hqew, 博通电子商行	MAXIM	&nbsp;	8	SOP
+MAX776CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	70	SOP
+MAX776ESA	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SOP
+MAX7824KCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	10	SOP
+MAX7824LEWG	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SOP
+MAX805LESA	from hqew, 博通电子商行	MAXIM	&nbsp;	4	SOP
+MAX809MD	from hqew, 博通电子商行	PHILIPS	&nbsp;	2765	SOT-23
+MAX809RD	from hqew, 博通电子商行	PHILIPS	263v	688	SOT-23
+MAX809SD	from hqew, 博通电子商行	PHILIPS	293v	1795	SOT-23
+MAX809TW	from hqew, 博通电子商行	PHILIPS	&nbsp;	811	SOT-23
+MAX830CWE	from hqew, 博通电子商行	MAXIM	&nbsp;	43	SOP
+NF125-CW	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+NF250-CWB	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+NF30-CS	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+NSC100AUX10	from hqew, 博通电子商行	Schneider	12+	1000	
+NSC100SHT200AC	from hqew, 博通电子商行	Schneider	12+	1000	
+NSE100N 3P 60A	from hqew, 博通电子商行	Schneider	12+	1000	
+NSE100N 3P 80A	from hqew, 博通电子商行	Schneider	12+	1000	
+NSE400N 3P 400A	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX100-63	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX100F TM63D 3P3	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX100N 3P MA100	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX160F TM160D 4P3	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX250F TM250D 4P3	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX400H MIC2.3 3P 400A	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX400N 3P MIC2.3 400A	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX630N 3P MIC2.3	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX80H-MA 3P 80A	from hqew, 博通电子商行	Schneider	12+	1000	
+NV63-CW	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+P2CF-08	from hqew, 博通电子商行	OMRON	12+	1000	
+P2CF-11	from hqew, 博通电子商行	OMRON	12+	1000	
+P3G-08	from hqew, 博通电子商行	OMRON	12+	1000	
+PCF2112T	from hqew, 博通电子商行	PHILIPS	95+	31	SSOP
+PD110F120	from hqew, 博通电子商行	SanRex	10+	567	
+PD25F120	from hqew, 博通电子商行	SanRex	10+	567	
+PD55F120	from hqew, 博通电子商行	SanRex	10+	567	
+PD70F160	from hqew, 博通电子商行	SanRex	10+	567	
+PD90FG120	from hqew, 博通电子商行	SanRex	10+	567	
+PD90FG160	from hqew, 博通电子商行	SanRex	10+	567	
+PE130FG120	from hqew, 博通电子商行	SanRex	10+	567	
+PE130FG160	from hqew, 博通电子商行	SanRex	10+	567	
+PE25FG120	from hqew, 博通电子商行	SanRex	10+	567	
+PE40F120	from hqew, 博通电子商行	SanRex	10+	567	
+PE40F160	from hqew, 博通电子商行	SanRex	10+	567	
+PE55FG120	from hqew, 博通电子商行	SanRex	10+	567	
+PE55FG160	from hqew, 博通电子商行	SanRex	10+	567	
+PE90F120	from hqew, 博通电子商行	SanRex	10+	567	
+PF083A-E	from hqew, 博通电子商行	OMRON	12+	1000	
+PK25FG120	from hqew, 博通电子商行	SanRex	10+	567	
+PK40FG120	from hqew, 博通电子商行	SanRex	10+	567	
+PK40FG160	from hqew, 博通电子商行	SanRex	10+	567	
+R27T3202L-094MAZ038	from hqew, 博通电子商行	OKI	0648+	168	TSOP
+R27V3202F-18PMAZ060	from hqew, 博通电子商行	OKI	0431+	276	TSOP
+R27V3202F-T9MAZ03B	from hqew, 博通电子商行	OKI	0608+	565	SOP
+RC4558DR	from hqew, 博通电子商行	TI	04+	670	SOP
+RE11LAMW	from hqew, 博通电子商行	Schneider	12+	1000	
+RE11RAMU	from hqew, 博通电子商行	Schneider	12+	1000	
+RE11RMMW	from hqew, 博通电子商行	Schneider	12+	1000	
+RE7MY13BU	from hqew, 博通电子商行	Schneider	12+	1000	
+RE7RB11MW	from hqew, 博通电子商行	Schneider	12+	1000	
+RE7RB13MW	from hqew, 博通电子商行	Schneider	12+	1000	
+REXL2TMBD	from hqew, 博通电子商行	Schneider	12+	1000	
+REXL2TMP7	from hqew, 博通电子商行	Schneider	12+	1000	
+RM35HZ21FM	from hqew, 博通电子商行	Schneider	12+	1000	
+RPM12BD	from hqew, 博通电子商行	Schneider	12+	1000	
+RPZF1	from hqew, 博通电子商行	Schneider	12+	1000	
+RSB2A080BD	from hqew, 博通电子商行	Schneider	12+	1000	
+RUMC3AB2F7	from hqew, 博通电子商行	Schneider	12+	1000	
+RXM2AB2BD	from hqew, 博通电子商行	Schneider	12+	1000	
+RXM2LB2BD	from hqew, 博通电子商行	Schneider	12+	1000	
+RXM4AB2BD	from hqew, 博通电子商行	Schneider	12+	1000	
+RXM4AB2JD	from hqew, 博通电子商行	Schneider	12+	1000	
+RXZE2M114	from hqew, 博通电子商行	Schneider	12+	1000	
+RXZE2S108M	from hqew, 博通电子商行	Schneider	12+	1000	
+S8JC-Z03512C	from hqew, 博通电子商行	OMRON	12+	1000	
+S8JC-Z05024C	from hqew, 博通电子商行	OMRON	12+	1000	
+S8VS-12024	from hqew, 博通电子商行	OMRON	12+	1000	
+SC-4-0	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-4-1/G	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-5-1	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-E2	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-N5	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SD 26927	from hqew, 博通电子商行	Schneider	12+	1000	
+SD-Q12	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SD-QR11	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SH-4 3A1B 110V	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SH-4 4A 110V	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SJ-0GRM+TR-ON/3	from hqew, 博通电子商行	FUJIFe	12+	1000	
+S-N180	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+S-N220	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+S-N50	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SN74HC244dwr	from hqew, 博通电子商行	TI	07+	2000	SOP
+SN74HC244NSR	from hqew, 博通电子商行	TI	07+	1055	SOP
+SN74HCT04AN	from hqew, 博通电子商行	TI	0750+	4421	DIP
+SP708SEU	from hqew, 博通电子商行	SP	07+	19	SSOP
+SR-N8	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SS496B	from hqew, 博通电子商行	HONEYWELL	10+	100000	TO-92
+SS-5GL	from hqew, 博通电子商行	OMRON	12+	1000	
+SSM2603CPZ	from hqew, 博通电子商行	ADI	1134+	1242	QFN
+S-V40	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SW-0 9-13A	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SW-03	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SZ-A20	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SZ-A31-C	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SZ-Z5	from hqew, 博通电子商行	FUJIFe	12+	1000	
+TC74HC174AF	from hqew, 博通电子商行	TOSHIBA	0524+	1995	SOP
+TH-N20KP 9-13A	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+TK-E3-C	from hqew, 博通电子商行	FUJIFe	12+	1000	
+TLC5510Insr	from hqew, 博通电子商行	TI	06+	40	SOP
+TLE4729	from hqew, 博通电子商行	INTINEON	06+	8	SOP
+TLP521-2	from hqew, 博通电子商行	FAIRCHILD	09+	200	SOP
+TLP521-4	from hqew, 博通电子商行	TOSHIBA	9933+	25	DIP
+TR-N2/3	from hqew, 博通电子商行	FUJIFe	12+	1000	
+TR-ON/3	from hqew, 博通电子商行	FUJIFe	12+	1000	
+TRV00121	from hqew, 博通电子商行	Schneider	12+	1000	
+TSXCRJMD25	from hqew, 博通电子商行	Schneider	12+	1000	USB
+TSXCUSB485	from hqew, 博通电子商行	Schneider	12+	1000	
+UGN3503UA	from hqew, 博通电子商行	ALLEGRO	10+	14444	TO-92
+US1881ESE	from hqew, 博通电子商行	MELEXIS	10+	52104	SOT-23
+US1881LSE	from hqew, 博通电子商行	MELEXIS	10+	152005	SOT-23
+US5881LUA	from hqew, 博通电子商行	MELEXIS	10+	20000	TO-92
+V0	from hqew, 博通电子商行	Schneider	12+	1000	
+V02	from hqew, 博通电子商行	Schneider	12+	1000	
+V05SWEF	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+V0C 25A	from hqew, 博通电子商行	Schneider	12+	1000	
+V-15-1C25	from hqew, 博通电子商行	OMRON	12+	1000	
+V-152-1C25	from hqew, 博通电子商行	OMRON	12+	1000	
+V2 40A	from hqew, 博通电子商行	Schneider	12+	1000	
+V3C 63A	from hqew, 博通电子商行	Schneider	12+	1000	
+Vigi C65 ELE 2P 63A	from hqew, 博通电子商行	Schneider	12+	1000	
+VZ1	from hqew, 博通电子商行	Schneider	12+	1000	
+VZ2	from hqew, 博通电子商行	Schneider	12+	1000	
+WLCA2-2N	from hqew, 博通电子商行	OMRON	12+	1000	
+WLCA32-41	from hqew, 博通电子商行	OMRON	12+	1000	
+XBTN400	from hqew, 博通电子商行	Schneider	12+	1000	Magelis
+XBT-Z9780	from hqew, 博通电子商行	Schneider	12+	1000	
+XCS-DMP791L01M12	from hqew, 博通电子商行	Schneider	12+	1000	
+XPSAK371144	from hqew, 博通电子商行	Schneider	12+	1000	
+XS1M08PC410D	from hqew, 博通电子商行	Schneider	12+	1000	
+XS1N08PA349	from hqew, 博通电子商行	Schneider	12+	1000	
+XS1-N08PA349	from hqew, 博通电子商行	Schneider	12+	1000	
+XS218BLPAL2	from hqew, 博通电子商行	Schneider	12+	1000	
+XS2-30ALNAL2	from hqew, 博通电子商行	Schneider	12+	1000	
+XS2-D18PA140DC	from hqew, 博通电子商行	Schneider	12+	1000	
+XS4P18MA230	from hqew, 博通电子商行	Schneider	12+	1000	
+XS618B1MBL2	from hqew, 博通电子商行	Schneider	12+	1000	
+XSD-A500519	from hqew, 博通电子商行	Schneider	12+	1000	
+XY2CE2A250	from hqew, 博通电子商行	Schneider	12+	1000	
+XZCP1264L2	from hqew, 博通电子商行	Schneider	12+	1000	
+Y92F-30	from hqew, 博通电子商行	OMRON	12+	1000	
+Z-15GD55-B	from hqew, 博通电子商行	OMRON	12+	1000	
+Z-15GD-B	from hqew, 博通电子商行	OMRON	12+	1000	
+Z-15GQ22-B	from hqew, 博通电子商行	OMRON	12+	1000	
+Z-15GW55	from hqew, 博通电子商行	OMRON	12+	1000	
+Z-15HW24-B	from hqew, 博通电子商行	OMRON	12+	1000	
+ZC-N2255	from hqew, 博通电子商行	OMRON	12+	1000	
+ZC-Q2255	from hqew, 博通电子商行	OMRON	12+	1000	
+ZE-QA2-2	from hqew, 博通电子商行	OMRON	12+	1000	
+10D-05S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+10D-12S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+10D-24S09NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+11D-05S05NC0.01WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+11D-05S09N2NL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D05NC3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D12N0.5W	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D15N2W1KV	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S03NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S05N2C3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S05NC0.5WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S05NC3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S12NC2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S12NC3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S15NC3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S24NC2W3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12D12NC3KVDC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12S05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12S12N	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12S12NC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12S15N2C6KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-15D15N2C2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24D12N23KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24D12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24D15NC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24D15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24S12N2W3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S03NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S05N	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S05NC0.5WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S05NC2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S12N	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S12N2W	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S12NC	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S15N2W	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S15NC3	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-12S05N	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-12S05NC3NL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-12S12NC	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-12S15N	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-24S15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-24S24N2CNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-48S05N2C	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS1-05S05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS1-05S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS1-05S15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS2-05D05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS2-05D15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS2-12D12NC	from hqew, 博通电子商行	电源模块	10+	2000	
+13DSM-12S12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05D12N0.25WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05S05N	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05S05N2W	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05S05NC3KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05S12NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12D05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12D12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12S05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12S12NC0.5WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12S24NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24D12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24D15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24S05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24S15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24S24NANL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-48S05N2CNL	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-03S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-12S03RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-12S24RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-48S12R4	from hqew, 博通电子商行	电源模块	10+	2000	
+16D-12S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+17D-05D0512N	from hqew, 博通电子商行	电源模块	10+	2000	
+17D-15D0505NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+18D-12S05RA22WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-05D05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-05D09NC	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-05S24NNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-07NS05R	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-12S03N1.3WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-12S12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-12S15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-24D05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-24D12NC1.5KVDC	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-24D12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-24S12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-24S24N	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-24S24NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+22D-05D12N2	from hqew, 博通电子商行	电源模块	10+	2000	
+22D-05D12N2NL	from hqew, 博通电子商行	电源模块	10+	2000	
+22D-05D12NANL	from hqew, 博通电子商行	电源模块	10+	2000	
+22D-05S05NANL	from hqew, 博通电子商行	电源模块	10+	2000	
+22D-12D12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+22D-48D09N2	from hqew, 博通电子商行	电源模块	10+	2000	
+24C04	from hqew, 博通电子商行	ST	0051+	99	SOP-8
+24C32	from hqew, 博通电子商行	ST	&nbsp;	272	SOP-8
+24D-05D05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+24D-12D05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+24LC512	from hqew, 博通电子商行	MIC	10+	16	SOP8
+26D-05S12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+26D-12S48NC2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+27D-12D12R	from hqew, 博通电子商行	电源模块	10+	2000	
+27D-12S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+27D-48D12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+30D-05D12R	from hqew, 博通电子商行	电源模块	10+	2000	
+30D-05S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+30D-05S09R	from hqew, 博通电子商行	电源模块	10+	2000	
+36D-24S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+3R3TI20E-080	from hqew, 博通电子商行	FUJITSU	10+	567	
+45D-05D12R	from hqew, 博通电子商行	电源模块	10+	2000	
+45D-12S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+54D-05D15R	from hqew, 博通电子商行	电源模块	10+	2000	
+54D-05S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+54D-05S09R	from hqew, 博通电子商行	电源模块	10+	2000	
+54D-12D15RD	from hqew, 博通电子商行	电源模块	10+	2000	
+54D-24D15RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+54D-24S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+580ME16-LF	from hqew, 博通电子商行	Z-COMM	11+	150	VCO(
+61D-12D12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+61D-48D12R	from hqew, 博通电子商行	电源模块	10+	2000	
+61D-90D0505R	from hqew, 博通电子商行	电源模块	10+	2000	
+61F-G3 AC110/220V	from hqew, 博通电子商行	OMRON	12+	1000	
+66D-12S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+66D-48S03R	from hqew, 博通电子商行	电源模块	10+	2000	
+67D-12D12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+67D-48S12R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D1-05D15R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D1-12D12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+68D1-24D05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+68D1-24D12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+68D1-48S12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+68D-48S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D5-24D12R	from hqew, 博通电子商行	电源模块	10+	2000	
+6RI30E-080	from hqew, 博通电子商行	FUJITSU	10+	567	
+74HC138	from hqew, 博通电子商行	TI	00+	200	SOP
+74HC4511AF	from hqew, 博通电子商行	TOSHIBA	0534+	2000	SOP
+93C56	from hqew, 博通电子商行	ST	0230+	194	SOP-8
+93C86	from hqew, 博通电子商行	ST	9841	125	SOP-8
+95D-12S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+95D-48S15RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+A1102LLHLT-T	from hqew, 博通电子商行	ALLEGRO	10+	32500	SOT-23
+A1102LUA-T	from hqew, 博通电子商行	ALLEGRO	10+	12500	TO-92
+A2V28S40CTP-G6	from hqew, 博通电子商行	PSC	0739+	153	TSSOP54
+A3141LUA-T	from hqew, 博通电子商行	ALLEGRO	08+	21000	TO-92
+A3212EUA	from hqew, 博通电子商行	ALLEGRO	10+	14200	TO-92
+ABL2REM24045H	from hqew, 博通电子商行	Schneider	12+	1000	
+ABL2REM24065H	from hqew, 博通电子商行	Schneider	12+	1000	
+ABL2REM24085H	from hqew, 博通电子商行	Schneider	12+	1000	
+ABL6TS16U	from hqew, 博通电子商行	Schneider	12+	1000	
+ABT7PDU016B	from hqew, 博通电子商行	Schneider	12+	1000	
+AD620AR	from hqew, 博通电子商行	AD	1020+	50	SOP
+ADC1173CIMTC	from hqew, 博通电子商行	NS	10+	29	TSSOP
+ADE7953ACPZ	from hqew, 博通电子商行	ADI	1127+	128	QFN
+ADM7001	from hqew, 博通电子商行	INFINEON	1011+	1	QFP48
+ADM706SAR	from hqew, 博通电子商行	AD	04+	98	SOP8
+ADN4670BCPZ	from hqew, 博通电子商行	ADI	1133+	82	QFN
+ADN4670BCPZ	from hqew, 博通电子商行	ADI	1132+	40	QFN
+ADN4670BCPZ	from hqew, 博通电子商行	ADI	1130+	47	QFN
+ADN4670BCPZ	from hqew, 博通电子商行	ADI	1111+	182	QFN
+ADP1877ACPZ	from hqew, 博通电子商行	ADI	11+	5070	QFN
+ADS1211U	from hqew, 博通电子商行	TI	07+	95	SO24
+ADUC7020BCPZ62I	from hqew, 博通电子商行	ADI	11+	1900	QFN
+ADV7180KCP32Z	from hqew, 博通电子商行	ADI	1134+	72	QFN
+ADV7180KCP32Z	from hqew, 博通电子商行	ADI	1132+	65	QFN
+AT29C010A-15PC	from hqew, 博通电子商行	ATMEL	00+	50	DIP
+AT43301-SC	from hqew, 博通电子商行	ATMEL	05+	915	SOP
+AT89S8253-24PC	from hqew, 博通电子商行	ATMEL	0547+	112	DIP
+AT89S8253-24PU	from hqew, 博通电子商行	ATMEL	10+	240	DIP
+AT91RM9200CJ-101	from hqew, 博通电子商行	ATMEL	10+	4000	BGA
+AT93C56	from hqew, 博通电子商行	ATMEL	0848+	4096	SOP8
+AZ7141	from hqew, 博通电子商行	Panasonic	12+	1000	
+AZ7312	from hqew, 博通电子商行	Panasonic	12+	1000	
+AZ8108	from hqew, 博通电子商行	Panasonic	12+	1000	
+AZD1001	from hqew, 博通电子商行	Panasonic	12+	1000	
+AZD1004	from hqew, 博通电子商行	Panasonic	12+	1000	
+AZD1008	from hqew, 博通电子商行	Panasonic	12+	1000	
+B30140-D2008-R116-A13	from hqew, 博通电子商行	EPCOS	08+	7260	QFN
+BA5813FM	from hqew, 博通电子商行	ROHM	08+	27	SOP
+BH-D6	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+BS62LV4006EIP55	from hqew, 博通电子商行	ISSI	10+	1300	TSSOP32
+BT827AKPF	from hqew, 博通电子商行	BT	9747+	330	QFP
+BZ6N10D	from hqew, 博通电子商行	FUJIFe	12+	1000	
+C120H 2P D80A	from hqew, 博通电子商行	Schneider	12+	1000	
+C120H 3P D100A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65H-DC 1P C16A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65H-DC 1P C6A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65H-DC 2P C40A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65N 3P C10A	from hqew, 博通电子商行	Schneider	12+	1000	
+CA2KN40P7	from hqew, 博通电子商行	Schneider	12+	1000	
+CA3049T	from hqew, 博通电子商行	HARRIS	99+	23	CAN
+CAD32BD	from hqew, 博通电子商行	Schneider	12+	1000	
+CAD32BDC	from hqew, 博通电子商行	Schneider	12+	1000	
+CAD32E7C	from hqew, 博通电子商行	Schneider	12+	1000	
+CA-D32FDC	from hqew, 博通电子商行	Schneider	12+	1000	
+CAD32Q7C	from hqew, 博通电子商行	Schneider	12+	1000	
+CAE22F5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CAE22M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CAE22Q5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CA-E22Q5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CAE31Q5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CA-E31Q5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CAE40CC5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CAE40F5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CA-E40M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CA-E40Q5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CAT9555WI	from hqew, 博通电子商行	CAT	11+	1000	SOP
+CD4050BM	from hqew, 博通电子商行	TI	07+	2000	SOP
+CLV0462A-LF	from hqew, 博通电子商行	Z-COMM	11+	150	VCO(
+CLV1015E-LF	from hqew, 博通电子商行	Z-COMM	11+	182	VCO(
+CLV1025E-LF	from hqew, 博通电子商行	Z-COMM	11+	145	VCO(
+CLV1185A	from hqew, 博通电子商行	Z-COMM	11+	80	VCO(
+CLV1385E-LF	from hqew, 博通电子商行	Z-COMM	11+	76	VCO(
+CLV1440E-LF	from hqew, 博通电子商行	Z-COMM	11+	87	VCO(
+CLV1605E	from hqew, 博通电子商行	Z-COMM	11+	153	VCO(
+CLV2560A	from hqew, 博通电子商行	Z-COMM	11+	162	VCO(
+CM1671B	from hqew, 博通电子商行	CMO	0924+	4483	QFP
+CP31TM	from hqew, 博通电子商行	FUJIFe	12+	1000	
+CP32FS/15W 15A	from hqew, 博通电子商行	FUJIFe	12+	1000	
+CS5340CZZ	from hqew, 博通电子商行	CIRRUS	05+	1187	TSSOP
+D4MC-1000	from hqew, 博通电子商行	OMRON	12+	1000	
+D4N-2120	from hqew, 博通电子商行	OMRON	12+	1000	
+DF30AC160	from hqew, 博通电子商行	SANREX	10+	567	
+DG409DY	from hqew, 博通电子商行	MAXIM	00+	13	SOP
+DG442DJ	from hqew, 博通电子商行	SILICONI	11+	2500	DIP16
+DPNa-K 1P C20A	from hqew, 博通电子商行	Schneider	12+	1000	
+DS12C887	from hqew, 博通电子商行	DALLS	1028+	4	DIP
+DS1302S	from hqew, 博通电子商行	DS	07+	20	SOP
+DS1339U-33	from hqew, 博通电子商行	DALLS	1107+	15	MSOP8
+DS7831J/883	from hqew, 博通电子商行	NS	&nbsp;	3	DIP
+E2E-X10E1	from hqew, 博通电子商行	OMRON	12+	1000	
+E2E-X20MD1-Z	from hqew, 博通电子商行	OMRON	12+	1000	
+E2E-X5ME1	from hqew, 博通电子商行	OMRON	12+	1000	
+E2E-X7D1-N	from hqew, 博通电子商行	OMRON	12+	1000	
+E3JK-R4M2	from hqew, 博通电子商行	OMRON	12+	1000	
+E3Z-T61	from hqew, 博通电子商行	OMRON	12+	1000	
+E5EZ-Q3T	from hqew, 博通电子商行	OMRON	12+	1000	
+E5EZ-R3T	from hqew, 博通电子商行	OMRON	12+	1000	
+E6B2-CWZ6C 1000P/R	from hqew, 博通电子商行	OMRON	12+	1000	40
+EA9AN2C16	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN2C50	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN3C16	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN3C20	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9B24030GC 2P 40A	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9L658Fr400	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9L659F230	from hqew, 博通电子商行	Schneider	12+	1000	
+EE-SX670	from hqew, 博通电子商行	OMRON	12+	1000	
+EE-SX671	from hqew, 博通电子商行	OMRON	12+	1000	
+EE-SX674	from hqew, 博通电子商行	OMRON	12+	1000	
+EL1519CS	from hqew, 博通电子商行	EL	&nbsp;	99	SOP
+EL5263IS	from hqew, 博通电子商行	EL	04+	684	SOP8
+EL7222CS	from hqew, 博通电子商行	EL	&nbsp;	89	SOP
+EL8182ES	from hqew, 博通电子商行	EL	04+	85	SOP8
+EW632	from hqew, 博通电子商行	AKE	10+	14410	SOT-23
+EW732	from hqew, 博通电子商行	AKE	10+	500	TO-92
+EZD100E 3P 60A	from hqew, 博通电子商行	Schneider	12+	1000	
+F-05S	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+G2R-2	from hqew, 博通电子商行	OMRON	12+	1000	
+G2R-2-S	from hqew, 博通电子商行	OMRON	12+	1000	
+G3NA-205B	from hqew, 博通电子商行	OMRON	12+	1000	
+G3NA-210B	from hqew, 博通电子商行	OMRON	12+	1000	
+GV2G254	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-G254	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-ME05C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-ME22C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-ME32C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-RT14	from hqew, 博通电子商行	Schneider	12+	1000	
+GV3-ME80	from hqew, 博通电子商行	Schneider	12+	1000	
+GV3P50	from hqew, 博通电子商行	Schneider	12+	1000	
+GVAD1001	from hqew, 博通电子商行	Schneider	12+	1000	
+GVAE20 GV-AE20	from hqew, 博通电子商行	Schneider	12+	1000	
+GVAN11	from hqew, 博通电子商行	Schneider	12+	1000	
+GVAU207 220V	from hqew, 博通电子商行	Schneider	12+	1000	
+GVAU385	from hqew, 博通电子商行	Schneider	12+	1000	
+GV-AU385	from hqew, 博通电子商行	Schneider	12+	1000	
+GV-AX225	from hqew, 博通电子商行	Schneider	12+	1000	
+H3BF-N8	from hqew, 博通电子商行	OMRON	12+	1000	
+H3CR-A8	from hqew, 博通电子商行	OMRON	12+	1000	
+H3CR-F8	from hqew, 博通电子商行	OMRON	12+	1000	
+H3Y-2 AC220 10S	from hqew, 博通电子商行	OMRON	12+	1000	
+H3Y-2 DC24 1S	from hqew, 博通电子商行	OMRON	12+	1000	
+H5CN-XCN-Z	from hqew, 博通电子商行	OMRON	12+	1000	
+H5CX-ASD	from hqew, 博通电子商行	OMRON	12+	1000	
+HA17358	from hqew, 博通电子商行	HITACHI	0042+	1637	DIP
+HC85	from hqew, 博通电子商行	FAIRCHILD	00+	10	SOP
+HCPL-J454-600E	from hqew, 博通电子商行	avgao	11+	4500	SOP8
+HL-5000	from hqew, 博通电子商行	OMRON	12+	1000	
+HL-5200	from hqew, 博通电子商行	OMRON	12+	1000	
+HM6116LP-3	from hqew, 博通电子商行	HM	00+	13	SOP
+HM628128ALFP-7	from hqew, 博通电子商行	Other	0705+	4	sop32
+HY57V641620ETP	from hqew, 博通电子商行	HY	06+	30	TSSOP
+IC65 4P 63A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65H-DC 2P C6A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P C20A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P C4A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P C50A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P C6A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P D2A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P D4A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P D50A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P C10A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P C20A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P C6A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P D25A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P D32A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P C40A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P D16A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P D20A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P D25A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P D2A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P D6A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P C20A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P C2A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P C32A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P C40A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P C50A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P C63A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P D16A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P D40A	from hqew, 博通电子商行	Schneider	12+	1000	
+ICL7650CPDZ	from hqew, 博通电子商行	ICL	07+	10	DIP
+IDPN ELE 25A	from hqew, 博通电子商行	Schneider	12+	1000	
+IDPNa C 10A	from hqew, 博通电子商行	Schneider	12+	1000	
+IDPNA VIGI+ C 10A	from hqew, 博通电子商行	Schneider	12+	1000	
+IDT7005S15J	from hqew, 博通电子商行	IDT	O2+	2	PLCC
+INA118U	from hqew, 博通电子商行	TI	08+	448	SOP8
+INS250 3P	from hqew, 博通电子商行	Schneider	12+	1000	
+INS40 3P	from hqew, 博通电子商行	Schneider	12+	1000	
+INS63 3P	from hqew, 博通电子商行	Schneider	12+	1000	
+INS630 4P	from hqew, 博通电子商行	Schneider	12+	1000	
+INT125 3P 63A	from hqew, 博通电子商行	Schneider	12+	1000	
+INT125 3P 80A	from hqew, 博通电子商行	Schneider	12+	1000	
+IS1632N	from hqew, 博通电子商行	ISSC	12+	10000	QFN
+ISL6336ACRZ	from hqew, 博通电子商行	ISL	&nbsp;	52	QFN
+ISO100BP	from hqew, 博通电子商行	INTELSIL	&nbsp;	6	DIP
+JS28F128J3D75	from hqew, 博通电子商行	INTEL	&nbsp;	2	TSSOP
+K4S510832D-UC75	from hqew, 博通电子商行	SAMSUNG	09+	15	TSSOP
+K9F2G08U0B-PIB0	from hqew, 博通电子商行	SAMSUNG	10+	356	TSSOP
+K9F5608UOC-PCBO	from hqew, 博通电子商行	SANSUNG	08+	20	TSSOP
+KCD1PZC	from hqew, 博通电子商行	Schneider	12+	1000	
+L6561D	from hqew, 博通电子商行	ST	10+	17	SOP8
+LA1KN40	from hqew, 博通电子商行	Schneider	12+	1000	
+LA4DA1U	from hqew, 博通电子商行	Schneider	12+	1000	
+LA4DA2U	from hqew, 博通电子商行	Schneider	12+	1000	
+LAD4RCE	from hqew, 博通电子商行	Schneider	12+	1000	
+LAD4RCU	from hqew, 博通电子商行	Schneider	12+	1000	
+LADR2	from hqew, 博通电子商行	Schneider	12+	1000	
+LAEN04N	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-EN11N	from hqew, 博通电子商行	Schneider	12+	1000	
+LAEN31N	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-EN40N	from hqew, 博通电子商行	Schneider	12+	1000	
+LB1663	from hqew, 博通电子商行	SANYAN	0706+	41	DIP10
+LC1-D09B7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D09BD	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D09BDC	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D09F7	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D09Q7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D12B7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D12F7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D12Q7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D15000Q7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D17000M	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D17000Q7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D18BDC	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D18M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D245M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D258M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D25BD	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D25BDC	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D300M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D32BDC	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D32Q7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D38F7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D40AM7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D40F7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D40Q7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D410M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D410M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D50Q7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D65ABD	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D65ABD	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1DT25BD	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-DT25BD	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1DT25M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E1201B5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E1201M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E1801M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E2510M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E3210M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E3210M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E50M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E50Q5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E65M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E65M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-F115	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1F265	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1K0910M7	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1K1210M7	from hqew, 博通电子商行	Schneider	12+	1000	
+LC2K0610M7	from hqew, 博通电子商行	Schneider	12+	1000	
+LC4256V-75FTN256B	from hqew, 博通电子商行	LATTICE	10+	7	BGA256
+LF353DR	from hqew, 博通电子商行	TI	0936+	10000	SOP8
+LM1117-3.3	from hqew, 博通电子商行	NS	05+	50	SOT23
+LM1815MX	from hqew, 博通电子商行	NSC	11+	2500	SOP16
+LM25116MH	from hqew, 博通电子商行	NS	10+	1094	TSSOP
+LM26003QMH	from hqew, 博通电子商行	NS	10+	186	TSSOP
+LM2642MTC	from hqew, 博通电子商行	NS	10+	324	TSSOP
+LM2651MTC-3.3	from hqew, 博通电子商行	NS	10+	301	TSSOP
+LM317LM	from hqew, 博通电子商行	NS	03+	397	SOP-8
+LM317LMLDR	from hqew, 博通电子商行	ON SEMI	08+	369	SOP-8
+LM337LM	from hqew, 博通电子商行	NS	03+	527	SOP-8
+LM393CDR	from hqew, 博通电子商行	TI	03+	29	SOP
+LM5070MTC-50	from hqew, 博通电子商行	NS	10+	90	TSSOP
+LM5118MH	from hqew, 博通电子商行	NS	10+	521	TSSOP
+LM5642XMT	from hqew, 博通电子商行	NS	10+	134	TSSOP
+LME49743MT	from hqew, 博通电子商行	NS	10+	45	TSSOP
+LMH0346MH	from hqew, 博通电子商行	NS	10+	281	SSOP
+LMP90098MH	from hqew, 博通电子商行	NS	10+	11	TSSOP
+LMX2306TMD	from hqew, 博通电子商行	NS	10+	9	TSSOP
+LP1K0910BD	from hqew, 博通电子商行	Schneider	12+	1000	
+LP2K0901BD	from hqew, 博通电子商行	Schneider	12+	1000	
+LP2K0901BD3	from hqew, 博通电子商行	Schneider	12+	1000	
+LR9F5369	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D01KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD03C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD05C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD12C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD12KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D21C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD3322C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD332C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D3355C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD3357C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD3363C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D340C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D4365	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D4367	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D4369	from hqew, 博通电子商行	Schneider	12+	1000	
+LRE04N	from hqew, 博通电子商行	Schneider	12+	1000	
+LRE05N	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-E14N	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-E21N	from hqew, 博通电子商行	Schneider	12+	1000	
+LT1013CS8	from hqew, 博通电子商行	LINEAR	&nbsp;	26	SOP
+LT1033CT	from hqew, 博通电子商行	LINEAR	03+	1	TO-220-3
+LT1129CT-5	from hqew, 博通电子商行	LINEAR	03+	113	TO-220-5
+LT1129IQ	from hqew, 博通电子商行	LINEAR	03+	72	TO-263
+LT1171CT	from hqew, 博通电子商行	LINEAR	03+	4	TO-220-5
+LT1172CQ	from hqew, 博通电子商行	LINEAR	03+	94	TO-263
+LT1580CT7-2.5	from hqew, 博通电子商行	LINEAR	03+	99	TO-220-7
+LT1584CT	from hqew, 博通电子商行	LINEAR	03+	8	TO-220-3
+LT1763CS8-1.5	from hqew, 博通电子商行	LT	10+	67	SOP8
+LT1950EGN	from hqew, 博通电子商行	LT	03+	10	SSOP16
+LT1952IGN	from hqew, 博通电子商行	LT	04+	5	SSOP
+LT1956EFE	from hqew, 博通电子商行	LT	03+	88	TSSOP
+LT1956IGN	from hqew, 博通电子商行	LT	01+	31	SSOP
+LT1976BIFE	from hqew, 博通电子商行	LT	05+	9	TSSOP
+LT1977BEFE	from hqew, 博通电子商行	LT	05+	19	TSOP
+LT3022EDHC	from hqew, 博通电子商行	LT	05+	7	DFN
+LT3050EDDB	from hqew, 博通电子商行	LT	09+	21	DFN
+LT3507HUHF	from hqew, 博通电子商行	LT	10+	21	QFN
+LT3851AEGN	from hqew, 博通电子商行	LT	09+	41	SSOP16
+LT5500EGN	from hqew, 博通电子商行	LT	10+	7	SSOP
+LT5521EUF	from hqew, 博通电子商行	LINEAR	10+	705	QFN
+LT5527EUF	from hqew, 博通电子商行	LINEAR	10+	95	QFN
+LT5557EUF	from hqew, 博通电子商行	LINEAR	10+	1109	QFN
+LT5575EUF	from hqew, 博通电子商行	LINEAR	10+	675	QFN
+LT6005IDHC	from hqew, 博通电子商行	LT	06+	93	DFN
+LT6946EUFD-2	from hqew, 博通电子商行	LINEAR	09+	35	QFN
+LTC1044ACS8	from hqew, 博通电子商行	LINEAR	&nbsp;	159	SOP
+LTC1264CSW	from hqew, 博通电子商行	LT	10+	10	SOP24
+LTC1344CG	from hqew, 博通电子商行	LT	97+	3	SSOP
+LTC1405IGN	from hqew, 博通电子商行	LT	08+	5	SSOP
+LTC1418IG	from hqew, 博通电子商行	LT	09+	4	SSOP
+LTC1419IG	from hqew, 博通电子商行	LT	09+	7	SSOP
+LTC1430CS	from hqew, 博通电子商行	LT	97+	5	SOP
+LTC1435AIS	from hqew, 博通电子商行	LT	98+	159	SOP16
+LTC1485CS8	from hqew, 博通电子商行	LINEAR	&nbsp;	241	SOP
+LTC1545CG	from hqew, 博通电子商行	LINEAR	00+	117	SSOP
+LTC1604ACG	from hqew, 博通电子商行	LT	10+	41	SSOP
+LTC1604AIG	from hqew, 博通电子商行	LT	09+	5	SSOP
+LTC1608CG	from hqew, 博通电子商行	LT	10+	3	SSOP
+LTC1628CG	from hqew, 博通电子商行	LINEAR	&nbsp;	23	SSOP
+LTC1655LIS8	from hqew, 博通电子商行	LT	09+	36	SOP8
+LTC1709EG-7	from hqew, 博通电子商行	LT	00+	2	SSOP
+LTC1746IFW	from hqew, 博通电子商行	LT	09+	2	TSSOP
+LTC1771ES8	from hqew, 博通电子商行	LT	09+	13	SOP8
+LTC1852CFW	from hqew, 博通电子商行	LT	08+	3	TSSOP
+LTC1856IG	from hqew, 博通电子商行	LT	09+	3	SSOP
+LTC1956EGN	from hqew, 博通电子商行	LT	10+	54	SOP8
+LTC2258CUJ-12	from hqew, 博通电子商行	LINEAR	0852+	353	QFN
+LTC2259IUJ-16	from hqew, 博通电子商行	LINEAR	09+	72	QFN
+LTC2260IUJ-12	from hqew, 博通电子商行	LT	08+	4	QFN
+LTC2261IUJ-14	from hqew, 博通电子商行	LINEAR	10+	100	QFN
+LTC2268CUJ-14	from hqew, 博通电子商行	LT	10+	16	QFN
+LTC2268IUJ-14	from hqew, 博通电子商行	LT	10+	16	QFN
+LTC2272IUJ	from hqew, 博通电子商行	LT	08+	7	QFN
+LTC2350LCFW	from hqew, 博通电子商行	LT	04+	12	SSOP
+LTC2393CUK-16	from hqew, 博通电子商行	LT	09+	12	QFN
+LTC2393IUK-16	from hqew, 博通电子商行	LT	09+	12	QFN
+LTC2400CS8	from hqew, 博通电子商行	LT	08+	55	SOP8
+LTC2704AIGW-16	from hqew, 博通电子商行	LT	07+	14	SSOP
+LTC2704IGW-12	from hqew, 博通电子商行	LT	08+	5	SSOP44
+LTC2757ACLX	from hqew, 博通电子商行	LT	10+	87	LQFP48
+LTC2934CDC-2	from hqew, 博通电子商行	LT	10+	1697	DFN
+LTC2935CDC-2	from hqew, 博通电子商行	LT	10+	1854	DFN8
+LTC3415EUHF	from hqew, 博通电子商行	LINEAR	10+	187	QFN
+LTC3507EUHF	from hqew, 博通电子商行	LT	09+	4	QFN
+LTC3534EDHC	from hqew, 博通电子商行	LT	08+	9	DFN
+LTC3610IWP	from hqew, 博通电子商行	LT	10+	5	QFN
+LTC3703EGN	from hqew, 博通电子商行	LT	07+	30	SSOP16
+LTC3728LCGN	from hqew, 博通电子商行	LT	02+	18	SSOP
+LTC3802EUH	from hqew, 博通电子商行	LT	10+	18	QFN
+LTC3812EFE-5	from hqew, 博通电子商行	LT	07+	579	TSSOP
+LTC3813EFE	from hqew, 博通电子商行	LT	08+	23	TSSOP
+LTC3827EG-1	from hqew, 博通电子商行	LT	10+	376	SSOP
+LTC3834EGN-1	from hqew, 博通电子商行	LT	08+	9	SSOP16
+LTC3853EUJ	from hqew, 博通电子商行	LT	10+	477	QFN
+LTC3858GN-1	from hqew, 博通电子商行	LT	09+	9	SSOP
+LTC3859EUHF	from hqew, 博通电子商行	LINEAR	10+	187	QFN
+LTC3862IUH-1	from hqew, 博通电子商行	LINEAR	10+	38	QFN
+LTC3865IUH	from hqew, 博通电子商行	LT	08+	116	QFN-32
+LTC3891EFE	from hqew, 博通电子商行	LT	10+	6	TSSOP
+LTC4055EUF	from hqew, 博通电子商行	LINEAR	10+	23	QFN
+LTC4261CGN	from hqew, 博通电子商行	LT	09+	31	SSOP
+LTC4361IDC-1	from hqew, 博通电子商行	LINEAR	10+	18	DFN
+LTC6079CDHC	from hqew, 博通电子商行	LT	10+	265	QFN
+LTC6079CGN	from hqew, 博通电子商行	LT	05+	7	SSOP16
+LTC6079IGN	from hqew, 博通电子商行	LT	05+	7	SSOP16
+LTC6802IG-2	from hqew, 博通电子商行	LT	09+	5	SSOP
+LTC6810G	from hqew, 博通电子商行	LT	10+	2	SSOP
+LTM4600IV	from hqew, 博通电子商行	LT	06+	14	LGA
+LTM4602EV	from hqew, 博通电子商行	LT	11+	43	LGA
+LTM4616EV	from hqew, 博通电子商行	LT	09+10+	208	LGA
+LTM4617EV	from hqew, 博通电子商行	LT	10+	11	LGA
+LTM8061EV-8.4	from hqew, 博通电子商行	LT	10+	75	LGA
+LTM8062EV	from hqew, 博通电子商行	LT	11+	162	LGA
+LTV-817-B	from hqew, 博通电子商行	LITEON	06+	100	DIP4
+LXT336QE	from hqew, 博通电子商行	INTEL	&nbsp;	21	QFP
+LXT915QC	from hqew, 博通电子商行	INTEL	&nbsp;	76	QFP
+LXT970AHC	from hqew, 博通电子商行	LEVEL	99+	93	QFP
+LXT970AQC	from hqew, 博通电子商行	INTEL	&nbsp;	32	QFP
+LY4N-J	from hqew, 博通电子商行	OMRON	12+	1000	
+MC14LC5480DW	from hqew, 博通电子商行	MOTOROLA	03+	182	SOP
+MC33262P	from hqew, 博通电子商行	ON SEMI	1036+	1000	DIP
+MC3361CP	from hqew, 博通电子商行	MOTOROLA	10+	20	DIP
+MCP3208	from hqew, 博通电子商行	MOTOROLA	00+	20	DIP
+MFRC500	from hqew, 博通电子商行	NXP	10+	3	SOP
+MM2XP	from hqew, 博通电子商行	OMRON	12+	1000	
+MM54HC165J/883C	from hqew, 博通电子商行	NS	&nbsp;	30	DIP
+MR27V3202F-T9MAZ03B	from hqew, 博通电子商行	OKI	0608+	565	SOP
+MX29LV008BBTC-70G	from hqew, 博通电子商行	MX	05+	129	TSSOP
+MX29LV008CBTC-70	from hqew, 博通电子商行	MX	08+	1421	TSSOP
+MXD1210EWE	from hqew, 博通电子商行	MAXIM	&nbsp;	67	SOP
+MY2N	from hqew, 博通电子商行	OMRON	12+	1000	
+MY4IN	from hqew, 博通电子商行	OMRON	12+	1000	
+M48T08-150PC	from hqew, 博通电子商行	ST	03+	100	DIP
+M5M51008CFP-70H	from hqew, 博通电子商行	MITSUMI	701+	30	SOP32
+MAX110BCWE	from hqew, 博通电子商行	MAXIM	&nbsp;	3	SOP
+MAX163BCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SOP
+MAX170DCWE	from hqew, 博通电子商行	MAXIM	&nbsp;	3	SOP
+MAX17108ETI	from hqew, 博通电子商行	MAXIM	0939+	900	QFN
+MAX176BCWE	from hqew, 博通电子商行	MAXIM	&nbsp;	26	SOP
+MAX1771CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	85	SOP
+MAX186DCAP	from hqew, 博通电子商行	MAXIM	&nbsp;	15	SSOP
+MAX189AEWE	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SOP
+MAX212CAG	from hqew, 博通电子商行	MAXIM	&nbsp;	88	SSOP
+MAX213CWI	from hqew, 博通电子商行	MAXIM	&nbsp;	47	SOP
+MAX213ECAI	from hqew, 博通电子商行	MAXIM	&nbsp;	50	SSOP
+MAX220CSE	from hqew, 博通电子商行	MAXIM	&nbsp;	40	SOP
+MAX232CDR	from hqew, 博通电子商行	TI	&nbsp;	6	SOP
+MAX232CWE	from hqew, 博通电子商行	MAXIM	DC0319	295	SOP
+MAX232EWE	from hqew, 博通电子商行	MAXIM	DC0329	66	SOP
+MAX233ACWP	from hqew, 博通电子商行	MAXIM	&nbsp;	15	SOP
+MAX3237EAI	from hqew, 博通电子商行	MAXIM	&nbsp;	13	SSOP
+MAX3237ECAI	from hqew, 博通电子商行	MAXIM	&nbsp;	5	SSOP
+MAX3238ECAI	from hqew, 博通电子商行	MAXIM	&nbsp;	4	SSOP
+MAX3245CAI	from hqew, 博通电子商行	MAXIM	00+	103	SSOP
+MAX324CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	58	SOP
+MAX333ACWP	from hqew, 博通电子商行	MAXIM	&nbsp;	17	SOP
+MAX334CWE	from hqew, 博通电子商行	MAXIM	&nbsp;	85	SOP
+MAX3485CSA	from hqew, 博通电子商行	MAXIM	03+	995	SOP
+MAX392ESE	from hqew, 博通电子商行	MAXIM	&nbsp;	22	SOP
+MAX471ESA	from hqew, 博通电子商行	MAXIM	&nbsp;	2	SOP
+MAX483CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	18	SOP
+MAX485CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	5	SOP
+MAX492CSA	from hqew, 博通电子商行	MAXIM	0007+	128	SOP
+MAX500BCWE	from hqew, 博通电子商行	MAXIM	&nbsp;	3	SOP
+MAX516ACWG	from hqew, 博通电子商行	MAXIM	&nbsp;	6	SOP
+MAX519BCSE	from hqew, 博通电子商行	MAXIM	&nbsp;	96	SOP
+MAX530BCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	4	SOP
+MAX530BEWG	from hqew, 博通电子商行	MAXIM	&nbsp;	21	SOP
+MAX561CAI	from hqew, 博通电子商行	MAXIM	&nbsp;	86	SSOP
+MAX619ESA-T	from hqew, 博通电子商行	MAXIM	&nbsp;	75	SOP
+MAX682ESA	from hqew, 博通电子商行	MAXIM	02+	1	SOP
+MAX708CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	35	SOP
+MAX708RCSA	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SOP
+MAX722CSE	from hqew, 博通电子商行	MAXIM	&nbsp;	91	SOP
+MAX733EWE	from hqew, 博通电子商行	MAXIM	&nbsp;	74	SOP
+MAX735ESA	from hqew, 博通电子商行	MAXIM	&nbsp;	3	SOP
+MAX758ACWE	from hqew, 博通电子商行	MAXIM	&nbsp;	66	SOP
+MAX758CWE	from hqew, 博通电子商行	MAXIM	&nbsp;	28	SOP
+MAX786EAI	from hqew, 博通电子商行	MAXIM	&nbsp;	3	SSOP
+MAX797CSE	from hqew, 博通电子商行	MAXIM	00+	104	SOP
+MAX805LCSA	from hqew, 博通电子商行	MAXIM	&nbsp;	25	SOP
+MAX809JW	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+MAX809LW	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+MAX809MW	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+MAX809SW	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+MAX810MW	from hqew, 博通电子商行	PHILIPS	&nbsp;	2924	SOT-23
+MAX810S	from hqew, 博通电子商行	PHILIPS	&nbsp;	2942	SOT-23
+MAX810T	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+MAX882CSA	from hqew, 博通电子商行	MAXIM	9814+	1099	SOP
+MAX934ESE	from hqew, 博通电子商行	MAXIM	&nbsp;	86	SOP
+NF250-HGW	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+NF630-SEW	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+NF63-CW	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+NF63-SW	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+NSC100B 3P 100A	from hqew, 博通电子商行	Schneider	12+	1000	
+NSC100ROTE	from hqew, 博通电子商行	Schneider	12+	1000	
+NSE100N3100MA	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX160F TM125D 3P3	from hqew, 博通电子商行	Schneider	12+	1000	
+NV32-SV	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+PD110FG120	from hqew, 博通电子商行	SanRex	10+	567	
+PD110FG160	from hqew, 博通电子商行	SanRex	10+	567	
+PD160F160	from hqew, 博通电子商行	SanRex	10+	567	
+PD70FG120	from hqew, 博通电子商行	SanRex	10+	567	
+PD90F120	from hqew, 博通电子商行	SanRex	10+	567	
+PE110F120	from hqew, 博通电子商行	SanRex	10+	567	
+PE110FG120	from hqew, 博通电子商行	SanRex	10+	567	
+PE110FG160	from hqew, 博通电子商行	SanRex	10+	567	
+PE40FG120	from hqew, 博通电子商行	SanRex	10+	567	
+PE70FG120	from hqew, 博通电子商行	SanRex	10+	567	
+PE70FG160	from hqew, 博通电子商行	SanRex	10+	567	
+PE90F160	from hqew, 博通电子商行	SanRex	10+	567	
+PK25F160	from hqew, 博通电子商行	SanRex	10+	567	
+PK25FG160	from hqew, 博通电子商行	SanRex	10+	567	
+PK40F160	from hqew, 博通电子商行	SanRex	10+	567	
+PQ1CG21H	from hqew, 博通电子商行	SHARP	0740+	700	TO263
+PYF08A-E	from hqew, 博通电子商行	OMRON	12+	1000	
+QS32257S1	from hqew, 博通电子商行	IDT	02+	40	SOP
+R27V3202F-18PMAZ060	from hqew, 博通电子商行	OKI	0533+	600	SOP
+RE-7RB13MW	from hqew, 博通电子商行	Schneider	12+	1000	
+RE7TM11BU	from hqew, 博通电子商行	Schneider	12+	1000	
+RM35TF30	from hqew, 博通电子商行	Schneider	12+	1000	
+RPF2ABD	from hqew, 博通电子商行	Schneider	12+	1000	
+RPM41BD	from hqew, 博通电子商行	Schneider	12+	1000	
+RSB2A080JD	from hqew, 博通电子商行	Schneider	12+	1000	
+RUMC2AB1P7	from hqew, 博通电子商行	Schneider	12+	1000	
+RUMC3AB2P7	from hqew, 博通电子商行	Schneider	12+	1000	
+RXM2AB2B7	from hqew, 博通电子商行	Schneider	12+	1000	
+RXM3AB2BD	from hqew, 博通电子商行	Schneider	12+	1000	
+RXZE2M114M	from hqew, 博通电子商行	Schneider	12+	1000	
+S1DX-A4C10S-DC110V	from hqew, 博通电子商行	Panasonic	12+	1000	
+S1DXM-A2C60M-DC24V	from hqew, 博通电子商行	Panasonic	12+	1000	
+S82K-10024	from hqew, 博通电子商行	OMRON	12+	1000	
+S8JC-Z03524C	from hqew, 博通电子商行	OMRON	12+	1000	
+S8JC-Z15024C	from hqew, 博通电子商行	OMRON	12+	1000	
+SC-05	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-4-1	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-4N	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-E04	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-E1 SC-E1P	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-N10	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-N11	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-N2 110V 220V 380V	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-N2S	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-N6	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-O3 3A1b	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SD-Q19	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SD-QR12	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SJ-0G	from hqew, 博通电子商行	FUJIFe	12+	1000	
+S-N150	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+S-N21	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+S-N35	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SN74LV174ANSR	from hqew, 博通电子商行	TI	0714+	653	SOP
+SR-N8 4A4B	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SS441F	from hqew, 博通电子商行	HONEYWELL	09+	1000	TO-92
+SS443A	from hqew, 博通电子商行	HONEYWELL	10+	1000	TO-92
+SS443F	from hqew, 博通电子商行	HONEYWELL	10+	1000	TO-92
+SS49E	from hqew, 博通电子商行	HONEYWELL	10+	1000	TO-92
+SST28SF040A-90	from hqew, 博通电子商行	SST	03+	46	TSSOP
+S-V12	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+S-V18	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SZ-A11	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SZ-A11-C	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SZ-A22-C	from hqew, 博通电子商行	FUJIFe	12+	1000	
+TB272018C7	from hqew, 博通电子商行	Panasonic	12+	1000	
+TC74HC164AP	from hqew, 博通电子商行	TOSHIBA	0615+	773	DIP
+TC74HC4511AF	from hqew, 博通电子商行	TOSHIBA	0534+	2000	SOP
+TH-N12KP	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+TH-N20KP	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+TH-N20TAKP	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+TK-E5-C	from hqew, 博通电子商行	FUJIFe	12+	1000	
+TLP521-4	from hqew, 博通电子商行	TOSHIBA	09+	20	sop
+TLP627	from hqew, 博通电子商行	FAIRCHILD	09+	50	DIP
+TPA6011A4PWPR	from hqew, 博通电子商行	TI	05+	510	TSSOP
+UN-AX4	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+UPD4721GS-GJG-E1-A	from hqew, 博通电子商行	NEC	0638+	1177	SSOP
+UPD65881GK-101-9ET	from hqew, 博通电子商行	NEC	0940+	490	QFP
+US5781ESE	from hqew, 博通电子商行	MELEXIS	10+	12000	SOT-23
+US5781EUA	from hqew, 博通电子商行	MELEXIS	10+	20000	TO-92
+US5881ESE	from hqew, 博通电子商行	MELEXIS	10+	42520	SOT-23
+V01C	from hqew, 博通电子商行	Schneider	12+	1000	
+V1C 32A	from hqew, 博通电子商行	Schneider	12+	1000	
+VIGI IC65 2P 40A	from hqew, 博通电子商行	Schneider	12+	1000	
+VIGI IDPN ELE 40A	from hqew, 博通电子商行	Schneider	12+	1000	
+VZ3	from hqew, 博通电子商行	Schneider	12+	1000	
+WLCA12-2N	from hqew, 博通电子商行	OMRON	12+	1000	
+XBTZ925	from hqew, 博通电子商行	Schneider	12+	1000	
+XBTZG935	from hqew, 博通电子商行	Schneider	12+	1000	
+XS1-M08PC410D	from hqew, 博通电子商行	Schneider	12+	1000	
+XS2-18BLPAL2	from hqew, 博通电子商行	Schneider	12+	1000	
+XS230ALNAL2	from hqew, 博通电子商行	Schneider	12+	1000	
+XS230BLNAL2C	from hqew, 博通电子商行	Schneider	12+	1000	
+XS608B1PAM12	from hqew, 博通电子商行	Schneider	12+	1000	
+XS6-08B1PAM12	from hqew, 博通电子商行	Schneider	12+	1000	
+XS618B1MAL2	from hqew, 博通电子商行	Schneider	12+	1000	
+XS630B1MBL2	from hqew, 博通电子商行	Schneider	12+	1000	
+XSA-V11373	from hqew, 博通电子商行	Schneider	12+	1000	
+XY2-CE2A250	from hqew, 博通电子商行	Schneider	12+	1000	
+Z-15GQ-B	from hqew, 博通电子商行	OMRON	12+	1000	
+Z-15GW2277-B	from hqew, 博通电子商行	OMRON	12+	1000	
+Z-15GW22-B	from hqew, 博通电子商行	OMRON	12+	1000	
+ZC-Q2155	from hqew, 博通电子商行	OMRON	12+	1000	
+ZE-N-2	from hqew, 博通电子商行	OMRON	12+	1000	
+ZE-Q22-2	from hqew, 博通电子商行	OMRON	12+	1000	
+0PA2277U	from hqew, 博通电子商行	TI	08+	8	SOP
+10D-12S09N	from hqew, 博通电子商行	电源模块	10+	2000	
+10D-24S05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+11D-05S03NNL	from hqew, 博通电子商行	电源模块	10+	2000	
+11D-05S05N1NL	from hqew, 博通电子商行	电源模块	10+	2000	
+11D-05S05NC0.05W	from hqew, 博通电子商行	电源模块	10+	2000	
+11D-12S05N	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-03S05N2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-03S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D15N2C6KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D15NC3KVAC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D15NC3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S05N2C6KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S05NA2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S09N2C6KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S12N	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12D09N2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12D12N2C6KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12D12NC3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12S12N2C6KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-15S09N23KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-16D05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24D15N	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24S05N2C3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24S09N2C3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24S15N2W3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24S24N2NL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-03S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05D12N4C2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S05N2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S05NC0.5W	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S05NC3	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S05NC3NL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S09N2W	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S24N2NL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D1-03S03N1NL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D1-05S03N1NL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-12S05N2W	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-12S05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-12S05NC/2W	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-12S09N2W	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-12S12N2W	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-24S05N	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-24S05N2W	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-24S05N4NL	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS-05S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS1-05D05NNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS2-05D05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS2-12D12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS3-05S05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS3-12S05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05D12NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05D12NC3KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05D12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05D15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05S15NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12S05N0.75WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12S05NC2W	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12S12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12S15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24D05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24S05R0.75WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24S12N2NL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24S15NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24S24N2C2KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-05S05R1W	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-05S05R1WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-24S12R2NL	from hqew, 博通电子商行	电源模块	10+	2000	
+16D-05S12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+16D-24D09RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+17D-05D1212N	from hqew, 博通电子商行	电源模块	10+	2000	
+17D-24D0505NANL	from hqew, 博通电子商行	电源模块	10+	2000	
+18D1-24D0909R2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-05S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-12D05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-12D12NC	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-12D12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-12D15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-12S24NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-24S05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-24S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+22D-05D05NANL	from hqew, 博通电子商行	电源模块	10+	2000	
+22D-05S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+22D-12D12NC	from hqew, 博通电子商行	电源模块	10+	2000	
+22D-12S15NC2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+22D-24S05N2ANL	from hqew, 博通电子商行	电源模块	10+	2000	
+24C01	from hqew, 博通电子商行	ST	9902+	210	SOP-8
+24C02	from hqew, 博通电子商行	ST	0102+	118	SOP-8
+24D-24D09N	from hqew, 博通电子商行	电源模块	10+	2000	
+24D-24D15NC	from hqew, 博通电子商行	电源模块	10+	2000	
+24D-24D15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+26D-12S05NC2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+26D-24D12N	from hqew, 博通电子商行	电源模块	10+	2000	
+27D-12D12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+27D-24S12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+30D-05D12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+30D-05S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+40D-05S12R	from hqew, 博通电子商行	电源模块	10+	2000	
+42D-05S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+42D-24S05N	from hqew, 博通电子商行	电源模块	10+	2000	
+45D-12D15RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+46D-05D12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+46DA-24D15RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+50D-18S09N	from hqew, 博通电子商行	电源模块	10+	2000	
+52D-05D15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+52D-12D15RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+54D-05S12R	from hqew, 博通电子商行	电源模块	10+	2000	
+54D-12D05RD	from hqew, 博通电子商行	电源模块	10+	2000	
+61D-12S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+61D-24D05R	from hqew, 博通电子商行	电源模块	10+	2000	
+61D-24S24RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+61F-11	from hqew, 博通电子商行	OMRON	12+	1000	
+61F-G1-OTE AC110/220V	from hqew, 博通电子商行	OMRON	12+	1000	
+61F-G-OTE	from hqew, 博通电子商行	OMRON	12+	1000	
+61F-I AC110/220V	from hqew, 博通电子商行	OMRON	12+	1000	
+66D-12D15R	from hqew, 博通电子商行	电源模块	10+	2000	
+66D-24D12R	from hqew, 博通电子商行	电源模块	10+	2000	
+67D-12D12R	from hqew, 博通电子商行	电源模块	10+	2000	
+67D-12S12R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D12-24S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+68D1-24D15R3KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+68D2-24D15RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+68D5-24S03RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+68D5-24S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D5-24S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+68D5-48S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D8-12D12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+68D8-24D12R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D8-24S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+69D1-24S03RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+6N137	from hqew, 博通电子商行	HP	99+	95	SOP
+6RI150E-080	from hqew, 博通电子商行	FUJITSU	10+	567	
+74AHC125D	from hqew, 博通电子商行	PHILIPS	03+	1300	SOP
+74HC139D	from hqew, 博通电子商行	NXP	09+	20	SOP
+74HC373	from hqew, 博通电子商行	TOSHIBA	0447+	282	SOP
+95D-24S15R	from hqew, 博通电子商行	电源模块	10+	2000	
+A1101ELHLT-T	from hqew, 博通电子商行	ALLEGRO	10+	100000	SOT-23
+A1104LLHLT-T	from hqew, 博通电子商行	ALLEGRO	10+	20000	SOT-23
+A3142EUA-T	from hqew, 博通电子商行	ALLEGRO	08+	21100	TO-92
+A3144EUA-T	from hqew, 博通电子商行	ALLEGRO	08+	41440	TO-92
+A3212LLHLT-T	from hqew, 博通电子商行	ALLEGRO	10+	14200	SOT-23
+A3212LUA	from hqew, 博通电子商行	ALLEGRO	10+	14200	TO-92
+ABL2REM24100H	from hqew, 博通电子商行	Schneider	12+	1000	
+ABL7RE2410	from hqew, 博通电子商行	Schneider	12+	1000	
+ABL8MEM24012	from hqew, 博通电子商行	Schneider	12+	1000	
+ABT-7PDU016B	from hqew, 博通电子商行	Schneider	12+	1000	
+AD589ARZ	from hqew, 博通电子商行	AD	1018+	18	SOP
+AD600JR	from hqew, 博通电子商行	ADI	10+	230	SOP
+AD6537BABC	from hqew, 博通电子商行	AD	03+	175	BGA
+AD667JNZ	from hqew, 博通电子商行	ADI	0819	20	DIP
+AD7195BCPZ	from hqew, 博通电子商行	ADI	1035+	249	QFN
+AD73522BB-80	from hqew, 博通电子商行	AD	02+	15	BGA
+ADC08060CIMTX	from hqew, 博通电子商行	NS	10+	1287	TSSOP
+ADC0809CCV/NOPB	from hqew, 博通电子商行	NS	10+	2673	PLCC
+ADC1175-50CIMT	from hqew, 博通电子商行	NS	10+	52	TSSOP
+ADE7758ARW	from hqew, 博通电子商行	ADI	1032+	1	SOP
+ADE7953ACPZ	from hqew, 博通电子商行	ADI	1129+	130	QFN
+ADF4193BCPZ	from hqew, 博通电子商行	ADI	1131+	793	QFN
+ADF4902BCPZ	from hqew, 博通电子商行	ADI	1131+	453	QFN
+ADG419BR	from hqew, 博通电子商行	AD	0050+	402	SOP
+ADG433BR	from hqew, 博通电子商行	AD	04+	109	SOP
+ADM1458ARZ	from hqew, 博通电子商行	ADI	09+	48	SOP
+ADM1485AR	from hqew, 博通电子商行	AD	09+	312	SOP8
+ADP8860ACPZ	from hqew, 博通电子商行	ADI	11+	2120	QFN
+ADR292G	from hqew, 博通电子商行	AD	04+	1	SOP8
+ADS7846E	from hqew, 博通电子商行	TI	10+	4	SSOP16
+ADUC7020BCPZ62I	from hqew, 博通电子商行	ADI	1129+	224	QFN
+ADUM1300BRWZ	from hqew, 博通电子商行	AD	05+	5	SOP
+AM29LV800BT-70EI	from hqew, 博通电子商行	AMD	09+	33	TSSOP
+AN4801SB	from hqew, 博通电子商行	PANASO	0852+	51	SOP28
+ANNE-50+	from hqew, 博通电子商行	MINI	11+	380	
+ASC10040QCIMT	from hqew, 博通电子商行	NS	10+	19	TSSOP
+AT24C64AN-10SU27	from hqew, 博通电子商行	ATMEL	06+	1463	SOP
+AT43301-SC	from hqew, 博通电子商行	ATMEL	06+	71	SOP
+AT91RM9200-CJ-002	from hqew, 博通电子商行	ATMEL	10+	4000	BGA
+AT91RM9202-CJ-101	from hqew, 博通电子商行	ATMEL	10+	4000	BGA
+AT91SAM7X512-CU	from hqew, 博通电子商行	ATMEL	11+	1813	BGA
+AT91SAM9G45-CU	from hqew, 博通电子商行	ATMEL	10+	2485	BGA
+AZ7311	from hqew, 博通电子商行	Panasonic	12+	1000	
+BB710	from hqew, 博通电子商行	BB	&nbsp;	2	
+BRF6300C	from hqew, 博通电子商行	TI	08+	1174	BGA
+BT827AKPF	from hqew, 博通电子商行	CONEXANT	0021+	330	QFP
+BV-D	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+BW100EAG	from hqew, 博通电子商行	FUJIFe	12+	1000	
+BW63SAG 3P 63A	from hqew, 博通电子商行	FUJIFe	12+	1000	
+C120H 2P D100A	from hqew, 博通电子商行	Schneider	12+	1000	
+C120H 2P D125A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65 ELE 2P 40A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65H-DC 1P C20A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65H-DC 2P C25A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65H-DC 2P C32A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65N-DC 2P C20A	from hqew, 博通电子商行	Schneider	12+	1000	
+C8051F120	from hqew, 博通电子商行	SC	07+	5	QFP
+C8051F310	from hqew, 博通电子商行	SILICON	11+	9	QFP
+CA3KN22BD	from hqew, 博通电子商行	Schneider	12+	1000	
+CAD32F7C	from hqew, 博通电子商行	Schneider	12+	1000	
+CAD32M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+CA-D32M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+CA-E22CC5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CA-E22F5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CA-E31M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CA-E40CC5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CAE40Q5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CLV0950E-LF	from hqew, 博通电子商行	Z-COMM	11+	183	VCO(
+CSK6-YKW 110V 220V	from hqew, 博通电子商行	OMRON	12+	1000	
+CVS400F 3P 400A	from hqew, 博通电子商行	Schneider	12+	1000	
+CY22394FXC	from hqew, 博通电子商行	CY	09+	2483	TSSOP
+CY7C1339-133A	from hqew, 博通电子商行	CY	03+	2	QFP
+D4721GS-GJG-E1-A	from hqew, 博通电子商行	NEC	0638+	1177	SSOP
+D4C-1832	from hqew, 博通电子商行	OMRON	12+	1000	
+D4MC-2020	from hqew, 博通电子商行	OMRON	12+	1000	
+D4V-8104SZ	from hqew, 博通电子商行	OMRON	12+	1000	
+D4V-8108SZ	from hqew, 博通电子商行	OMRON	12+	1000	
+D65881GK-101-9ET	from hqew, 博通电子商行	NEC	0940+	490	QFP
+DAC715P	from hqew, 博通电子商行	TI	0912+	2	DIP
+DG507ACWI	from hqew, 博通电子商行	MAXIM	&nbsp;	18	SOP
+DPNa 1P C10A	from hqew, 博通电子商行	Schneider	12+	1000	
+DPNa 1P C20A	from hqew, 博通电子商行	Schneider	12+	1000	
+DPNa 1P C25A	from hqew, 博通电子商行	Schneider	12+	1000	
+DPNa 1P C32A	from hqew, 博通电子商行	Schneider	12+	1000	
+DS1302Z	from hqew, 博通电子商行	DALLS	09+	542	SOP8
+DS1307+	from hqew, 博通电子商行	MAXIM	10+	3000	DIP-8
+DS90C032TM	from hqew, 博通电子商行	NS	03+	4	SOP
+E3F3-D11	from hqew, 博通电子商行	OMRON	12+	1000	
+E3JK-5M1-N	from hqew, 博通电子商行	OMRON	12+	1000	
+E3Z-T62	from hqew, 博通电子商行	OMRON	12+	1000	
+E5CN-R2MT-500	from hqew, 博通电子商行	OMRON	12+	1000	
+EA9AN1C20	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN1C25 25A	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN1C50	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN1C63	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN2C25	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN3C50	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN3C63	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9B26330GC	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9X316	from hqew, 博通电子商行	Schneider	12+	1000	3  16A
+EA9X425	from hqew, 博通电子商行	Schneider	12+	1000	4  25A
+EE-SX672	from hqew, 博通电子商行	OMRON	12+	1000	
+EL1528CL	from hqew, 博通电子商行	LT	10+	7	QFN
+EL2126CS	from hqew, 博通电子商行	EL	08+	35	SOP8
+EL2227CS	from hqew, 博通电子商行	EL	&nbsp;	99	SOP
+EL4511CUZ	from hqew, 博通电子商行	EL	10+	6116	SSOP24
+EL5455IS	from hqew, 博通电子商行	EL	04+	4	SOP14
+EL6935CL	from hqew, 博通电子商行	EL	04+	729	QFN
+EP2S30F484C5N	from hqew, 博通电子商行	ALTERA	10+	60	PBGA
+EPF10K10L184-4	from hqew, 博通电子商行	ALTERA	&nbsp;	8	PLCC
+EW32AAG	from hqew, 博通电子商行	FUJIFe	12+	1000	
+EW50EAG	from hqew, 博通电子商行	FUJIFe	12+	1000	
+EZAUX10	from hqew, 博通电子商行	Schneider	12+	1000	
+EZD100E 3P 100A	from hqew, 博通电子商行	Schneider	12+	1000	
+EZD100E 3P 40A	from hqew, 博通电子商行	Schneider	12+	1000	
+EZD160E 3P 125A	from hqew, 博通电子商行	Schneider	12+	1000	
+EZDAX	from hqew, 博通电子商行	Schneider	12+	1000	
+EZDROTE	from hqew, 博通电子商行	Schneider	12+	1000	
+F2SWUA	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+G2R-1-SN(S)	from hqew, 博通电子商行	OMRON	12+	1000	
+G2RK-1	from hqew, 博通电子商行	OMRON	12+	1000	
+G3NA-240B	from hqew, 博通电子商行	OMRON	12+	1000	
+G3PA-220B-VD	from hqew, 博通电子商行	OMRON	12+	1000	
+G7SA-2A2B	from hqew, 博通电子商行	OMRON	12+	1000	
+GV1-G09	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-LE22	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-ME02C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-ME04C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-ME07C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-ME10C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-ME16C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-ME21C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-P32	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-PM08C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-RT06	from hqew, 博通电子商行	Schneider	12+	1000	
+GV3ME80	from hqew, 博通电子商行	Schneider	12+	1000	
+GV3P65	from hqew, 博通电子商行	Schneider	12+	1000	
+GVAE11	from hqew, 博通电子商行	Schneider	12+	1000	
+GVAN20 GV-AN20	from hqew, 博通电子商行	Schneider	12+	1000	
+GVAU225	from hqew, 博通电子商行	Schneider	12+	1000	
+GVAU415	from hqew, 博通电子商行	Schneider	12+	1000	
+GVAX115	from hqew, 博通电子商行	Schneider	12+	1000	
+H3BA-N8H	from hqew, 博通电子商行	OMRON	12+	1000	
+H3CR-A	from hqew, 博通电子商行	OMRON	12+	1000	
+H3Y-2 DC24 30S	from hqew, 博通电子商行	OMRON	12+	1000	
+H7CX-AD-N	from hqew, 博通电子商行	OMRON	12+	1000	
+H7EC-N	from hqew, 博通电子商行	OMRON	12+	1000	
+H7ET-NV	from hqew, 博通电子商行	OMRON	12+	1000	
+HD64180RF8X	from hqew, 博通电子商行	HD	05+	50	QFP
+HD6433437WA93X	from hqew, 博通电子商行	HITACHI	00+	2475	QFP
+HD74LS00P	from hqew, 博通电子商行	HITACHI	0046+	25	DIP
+HFA3683AIN	from hqew, 博通电子商行	INTELSIL	&nbsp;	1	TQFP
+HFA3861BIN	from hqew, 博通电子商行	INTELSIL	&nbsp;	1	TQFP
+HL-5030	from hqew, 博通电子商行	OMRON	12+	1000	
+HY57V281620FTP-6	from hqew, 博通电子商行	HYNIX	08+	315	TSSOP54
+IC65H-DC 2P C4A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P C10A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P C40A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P C63A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P D16A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P D25A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P D40A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P C16A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P C2A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P C40A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P D40A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P C16A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P C20A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P C25A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P C63A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P D1A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P D32A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P D50A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P C10A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P C25A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P D20A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P D4A	from hqew, 博通电子商行	Schneider	12+	1000	
+IDT74FCT163245APVG	from hqew, 博通电子商行	IDT	07+	30	SSOP
+INS160 3P	from hqew, 博通电子商行	Schneider	12+	1000	
+INS63 4P	from hqew, 博通电子商行	Schneider	12+	1000	
+INS80 3P	from hqew, 博通电子商行	Schneider	12+	1000	
+INT125 3P 40A	from hqew, 博通电子商行	Schneider	12+	1000	
+INT125 4P 32A	from hqew, 博通电子商行	Schneider	12+	1000	
+IR2103S	from hqew, 博通电子商行	IR	1023+	48	SOP
+IR2103S	from hqew, 博通电子商行	IR	10+	6	SOP8
+ISL6568CRZ	from hqew, 博通电子商行	ISL	05+	9	QFN
+ISL6622ACBZ	from hqew, 博通电子商行	INTERSIL	08+	110	SOP8
+JRC14558D	from hqew, 博通电子商行	JRC	0601+	226	DIP
+K4S161622D-TC60	from hqew, 博通电子商行	SAMSUNG	0744+	11	TSSOP
+K4S281632K-UC75	from hqew, 博通电子商行	SAMSUNG	0932+	46	TSSOP
+K9F2G08U0B-PIB0	from hqew, 博通电子商行	SAMSUNG	1040+	43	TSSP
+K9K8G08U0B-PIBO	from hqew, 博通电子商行	SAMSUNG	10+	824	TSSOP48
+KCE1LZ	from hqew, 博通电子商行	Schneider	12+	1000	
+KCF1YZC	from hqew, 博通电子商行	Schneider	12+	1000	
+KCF2PZ	from hqew, 博通电子商行	Schneider	12+	1000	
+LA1KN22	from hqew, 博通电子商行	Schneider	12+	1000	
+LA1-KN40	from hqew, 博通电子商行	Schneider	12+	1000	
+LA7D3064	from hqew, 博通电子商行	Schneider	12+	1000	
+LAD6K10M	from hqew, 博通电子商行	Schneider	12+	1000	
+LAD7B106	from hqew, 博通电子商行	Schneider	12+	1000	
+LADN02C	from hqew, 博通电子商行	Schneider	12+	1000	
+LADN04C	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-DN04C	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-DN13C	from hqew, 博通电子商行	Schneider	12+	1000	
+LADN40C	from hqew, 博通电子商行	Schneider	12+	1000	
+LADT0	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-DT0	from hqew, 博通电子商行	Schneider	12+	1000	
+LADT2	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-DT2	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-DT4	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-EN31N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D093BD	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D09BD	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D09FDC	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D09FDC	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D11500M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D11500Q7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D123BD	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D12M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D18B7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D18EDC	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D18F7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D205M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D2510M7N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D25B7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D25EL	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D32B7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D32F7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D38Q7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D40AB7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D40ABD	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D40AQ7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D40M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D50AF7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D50AQ7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D50B7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D65AQ7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D65AQ7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D65B7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D65Q7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D95B7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D95Q7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-DPK12M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-DWK12M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E0910M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E1210M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E1810M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E1810M6N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E40M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E40M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E50M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E50Q5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-F150	from hqew, 博通电子商行	Schneider	12+	1000	
+LC4256V75TN144-10	from hqew, 博通电子商行	LATTICE	1040+	2	QFP144
+LC7K09015M7	from hqew, 博通电子商行	Schneider	12+	1000	
+LF124AB	from hqew, 博通电子商行	NS	10+	31	TSSOP
+LF13509N	from hqew, 博通电子商行	NS	95+	25	DIP
+LM1458M	from hqew, 博通电子商行	NS	10+	632	SOP8
+LM20333MH	from hqew, 博通电子商行	NS	10+	273	TSSOP
+LM26003MH	from hqew, 博通电子商行	NS	10+	201	TSSOP
+LM26420XMH	from hqew, 博通电子商行	NS	10+	141	TSSOP
+LM324N	from hqew, 博通电子商行	TI	10+	20	DIP
+LM358	from hqew, 博通电子商行	TI	10+	500	SOP8
+LM5071MT-50	from hqew, 博通电子商行	NS	10+	252	TSSOP
+LM5576QMH	from hqew, 博通电子商行	NS	10+	204	TSSOP
+LM92CIM	from hqew, 博通电子商行	NS	09+	29	SOP
+LMH1251MT	from hqew, 博通电子商行	NS	10+	20	SSOP
+LMH1981MT	from hqew, 博通电子商行	NS	10+	28	SSOP
+LMH6733MQ	from hqew, 博通电子商行	NS	10+	58	SSOP
+LMP90097MH	from hqew, 博通电子商行	NS	10+	14	TSSOP
+LMV342MA	from hqew, 博通电子商行	NS	08+	82	SOP14
+LMV344MA	from hqew, 博通电子商行	NS	08+	27	SOP
+LMV981MGX	from hqew, 博通电子商行	NS	07+	50	SOT23
+LMX1601TMA	from hqew, 博通电子商行	NS	04+	25	TSSOP16
+LP3906ES	from hqew, 博通电子商行	Other	10+	115	
+LR2K0314	from hqew, 博通电子商行	Schneider	12+	1000	K
+LR97D07B	from hqew, 博通电子商行	Schneider	12+	1000	
+LR97D07M7	from hqew, 博通电子商行	Schneider	12+	1000	
+LR9-D5369	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-9F5369	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD01KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD02KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD-04C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD06C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D06C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD07KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D12C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D14C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D14KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D16C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D3353C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD3355C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D350C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D35C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD35KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD365C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD4367	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD4369	from hqew, 博通电子商行	Schneider	12+	1000	
+LRE01N	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-E05N	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-E10N	from hqew, 博通电子商行	Schneider	12+	1000	
+LRE16N	from hqew, 博通电子商行	Schneider	12+	1000	
+LRE21N	from hqew, 博通电子商行	Schneider	12+	1000	
+LRE22N	from hqew, 博通电子商行	Schneider	12+	1000	
+LRE35N	from hqew, 博通电子商行	Schneider	12+	1000	
+LS221	from hqew, 博通电子商行	TI	02+	5	SOP16
+LT1019CN8-5	from hqew, 博通电子商行	LT	95+	15	DIP
+LT1072CT	from hqew, 博通电子商行	LINEAR	03+	6	TO-220-5
+LT1072HVCT	from hqew, 博通电子商行	LINEAR	03+	99	TO-220-5
+LT1076CQ	from hqew, 博通电子商行	LINEAR	03+	98	TO-263
+LT1076CT7-5	from hqew, 博通电子商行	LINEAR	03+	109	TO-220-7
+LT1082IT	from hqew, 博通电子商行	LINEAR	03+	100	TO-220-5
+LT1086CT-3.3	from hqew, 博通电子商行	LINEAR	03+	82	TO-220-3
+LT1112S8	from hqew, 博通电子商行	LT	10+	195	SOP8
+LT1206CT7	from hqew, 博通电子商行	LINEAR	03+	6	TO-220-7
+LT1263CS8	from hqew, 博通电子商行	LT	05+	270	SOP8
+LT1313CS	from hqew, 博通电子商行	LT	99+	2	SOP
+LT1330CG	from hqew, 博通电子商行	LINEAR	&nbsp;	94	SSOP
+LT1354CS8	from hqew, 博通电子商行	LINEAR	&nbsp;	105	SOP
+LT1422CS	from hqew, 博通电子商行	LINEAR	&nbsp;	100	SOP
+LT1485CS8	from hqew, 博通电子商行	LT	08+	14	SOP8
+LT1521CS8	from hqew, 博通电子商行	LINEAR	&nbsp;	106	SOP
+LT1528CQ	from hqew, 博通电子商行	LINEAR	03+	84	TO-263
+LT1580CQ	from hqew, 博通电子商行	LINEAR	03+	99	TO-263
+LT1580CT	from hqew, 博通电子商行	LINEAR	03+	112	TO-220-5
+LT1763CS8-2.5	from hqew, 博通电子商行	LT	08+	44	SOP8
+LT1765EFE	from hqew, 博通电子商行	LT	09+	14	TSSOP
+LT1766EFE	from hqew, 博通电子商行	LT	04+	89	TSSOP
+LT1940EFE	from hqew, 博通电子商行	LT	10+	655	TSSOP
+LT1963AEQ	from hqew, 博通电子商行	LINEAR	03+	48	TO-263
+LT1963AET	from hqew, 博通电子商行	LINEAR	03+	1	TO-220-5
+LT1999CS8-10	from hqew, 博通电子商行	LT	09+	13	SOP8
+LT2391CLX-16	from hqew, 博通电子商行	LT	09+	11	LQFP-48
+LT2410CGN	from hqew, 博通电子商行	LT	02+	26	SSOP16
+LT3071EUFD	from hqew, 博通电子商行	LT	10+	18	QFN
+LT3433IFE	from hqew, 博通电子商行	LT	10+	43	TSSOP
+LT3475EFE	from hqew, 博通电子商行	LT	06+	42	TSSOP
+LT3478IFE	from hqew, 博通电子商行	LT	09+	401	TSSOP
+LT3724IFE	from hqew, 博通电子商行	LT	10+	24	TSSOP
+LT5506EUF	from hqew, 博通电子商行	LINEAR	10+	149	QFN
+LT5512EUF	from hqew, 博通电子商行	LINEAR	10+	767	QFN
+LT5522EUF	from hqew, 博通电子商行	LINEAR	10+	165	QFN
+LT5579IUH	from hqew, 博通电子商行	LINEAR	10+	121	QFN
+LT5581IDDB	from hqew, 博通电子商行	LT	10+	1837	DFN
+LT6600CS8-2.5	from hqew, 博通电子商行	LT	07+	16	SOP8
+LTC1148CS	from hqew, 博通电子商行	LINEAR	&nbsp;	88	SOP
+LTC1266ACS	from hqew, 博通电子商行	LINEAR	&nbsp;	124	SOP
+LTC1420CGN	from hqew, 博通电子商行	LT	10+	214	SSOP
+LTC1470ES8	from hqew, 博通电子商行	LT	04+	10	SOP8
+LTC1604A	from hqew, 博通电子商行	LT	05+	2	SSOP
+LTC1628CG	from hqew, 博通电子商行	LT	99+	6	SSOP
+LTC1629CG	from hqew, 博通电子商行	LT	01+	4	SSOP
+LTC1667CG	from hqew, 博通电子商行	LT	04+	2	SSOP
+LTC2175IUKG-14	from hqew, 博通电子商行	LINEAR	10+	40	QFN52
+LTC2209CUP	from hqew, 博通电子商行	KT	10+	2000	QFN
+LTC2246HLX	from hqew, 博通电子商行	LT	07+	6	QFP
+LTC2257IUJ-14	from hqew, 博通电子商行	LT	10+	8	QFN
+LTC2258CUJ-14	from hqew, 博通电子商行	LT	08+	332	QFN
+LTC2259CUJ-16	from hqew, 博通电子商行	LINEAR	09+	72	QFN
+LTC2260CUJ-12	from hqew, 博通电子商行	LT	08+	4	QFN
+LTC2260CUJ-14	from hqew, 博通电子商行	LINEAR	09+	33	QFN
+LTC2261CUJ-14	from hqew, 博通电子商行	LINEAR	10+	100	QFN
+LTC2264CUJ-14	from hqew, 博通电子商行	LT	09+	6	QFN
+LTC2264IUJ-14	from hqew, 博通电子商行	LT	09+	6	QFN
+LTC2273CUJ	from hqew, 博通电子商行	LT	10+	9	QFN
+LTC2392CUK-16	from hqew, 博通电子商行	LT	09+	4	QFN
+LTC2392IUK-16	from hqew, 博通电子商行	LT	09+	4	QFN
+LTC2413CGN	from hqew, 博通电子商行	LT	02+	5	SSOP16
+LTC2752AILX	from hqew, 博通电子商行	LT	10+	51	LQFP-48
+LTC2754CUKG-12	from hqew, 博通电子商行	LT	09+	8	QFN
+LTC2757AILX	from hqew, 博通电子商行	LT	10+	87	LQFP48
+LTC2935IDC-1	from hqew, 博通电子商行	LT	10+	1806	DFN
+LTC3412AEFE	from hqew, 博通电子商行	LT	10+	1388	TSSOP
+LTC3412AIUF	from hqew, 博通电子商行	LINEAR	10+	196	QFN
+LTC3414EFE	from hqew, 博通电子商行	LT	09+	31	TSSOP
+LTC3455EUF	from hqew, 博通电子商行	LINEAR	10+	435	QFN
+LTC3589EUJ	from hqew, 博通电子商行	LINEAR	10+	268	QFN
+LTC3605EUF	from hqew, 博通电子商行	LT	10+	13	QFN
+LTC3608IWKG	from hqew, 博通电子商行	LINEAR	10+	252	QFN
+LTC3609IWKG	from hqew, 博通电子商行	LT	10+	94	QFN
+LTC3614EUDD	from hqew, 博通电子商行	LT	10+	20	QFN
+LTC3633IUFD	from hqew, 博通电子商行	LT	10+	25	QFN
+LTC3708EG	from hqew, 博通电子商行	LT	03+	4	SSOP
+LTC3714EG	from hqew, 博通电子商行	LT	01+	2	SSOP
+LTC3728LEUH	from hqew, 博通电子商行	LINEAR	10+	136	QFN
+LTC3731HG	from hqew, 博通电子商行	LT	09+	5	SSOP
+LTC3736EUF	from hqew, 博通电子商行	LT	10+	27	QFN
+LTC3787GN	from hqew, 博通电子商行	LT	10+	41	SSOP
+LTC3810G-1	from hqew, 博通电子商行	LT	08+	20	SSOP
+LTC3850EUFD	from hqew, 博通电子商行	LINEAR	10+	1366	QFN
+LTC3850GN	from hqew, 博通电子商行	LT	10+	36	SSOP
+LTC3856EFE	from hqew, 博通电子商行	LT	10+	101	TSSOP
+LTC3858EUFD-1	from hqew, 博通电子商行	LINEAR	10+	40	QFN
+LTC3859IFE	from hqew, 博通电子商行	LT	09+	40	TSSOP
+LTC3862EFE-1	from hqew, 博通电子商行	LT	09+	64	TSSOP
+LTC3862EUH-1	from hqew, 博通电子商行	LINEAR	10+	38	QFN
+LTC3862GN-1	from hqew, 博通电子商行	LT	07+	9	SSOP
+LTC4011CFE	from hqew, 博通电子商行	LT	08+	7	TSSOP
+LTC4065EDC	from hqew, 博通电子商行	LT	06+	25	DFN
+LTC41515CS-2	from hqew, 博通电子商行	LT	09+	2	SOP
+LTC4217CDHC-12	from hqew, 博通电子商行	LT	10+	135	QFN
+LTC4217IDHC-12	from hqew, 博通电子商行	LT	10+	135	QFN
+LTC4267CGN	from hqew, 博通电子商行	LT	04+	7	SSOP16
+LTC4365CDDB	from hqew, 博通电子商行	LT	10+	118	DFN
+LTC4365HDDB	from hqew, 博通电子商行	LT	10+	118	DFN
+LTM2882CY-3	from hqew, 博通电子商行	LT	10+	8	LGA
+LTM4601HVEV	from hqew, 博通电子商行	LT	08+	75	LGA
+LTM4628EV	from hqew, 博通电子商行	LT	10+	82	LGA
+LTM8027EV	from hqew, 博通电子商行	LT	10+	28	LGA
+LTM8048EV	from hqew, 博通电子商行	LT	10+	43	LGA
+LTM8061EV-4.2	from hqew, 博通电子商行	LT	10+	121	LGA
+LTM8061EV-8.2	from hqew, 博通电子商行	LT	10+	121	LGA
+LTM9001CV-AD	from hqew, 博通电子商行	LT	09+	76	LGA
+LTM9003CV-AB	from hqew, 博通电子商行	LT	10+	3	LGA
+MB3516A	from hqew, 博通电子商行	FUJITSU	0735+	37	SOP24
+MB88347PFV	from hqew, 博通电子商行	FUJITSU	10+	5	SOP
+MC145220F	from hqew, 博通电子商行	MOTOROLA	&nbsp;	25	SOP
+MC145436AP	from hqew, 博通电子商行	MOTOROLA	99+	880	DIP
+MC14584BCP	from hqew, 博通电子商行	MOTOROLA	99+	20	DIP
+MC3371	from hqew, 博通电子商行	MOTOROLA	&nbsp;	382	SOP
+MC3371D	from hqew, 博通电子商行	MOTOROLA	&nbsp;	22	SOP
+MC78L09A	from hqew, 博通电子商行	ON SEMI	09+	410	SOP8
+MCZ33883EGR2	from hqew, 博通电子商行	FREESCALE	10+	3242	SOP20
+MDD-Q020A	from hqew, 博通电子商行	AD/BB	&nbsp;	2	DIP27
+MGNEA9C45C3230C	from hqew, 博通电子商行	Schneider	12+	1000	
+MM54HC174J/883C	from hqew, 博通电子商行	NS	&nbsp;	3	DIP
+MR27V3202F-18PMAZ060	from hqew, 博通电子商行	OKI	0431+	276	TSOP
+MSP430F1101AIDWR	from hqew, 博通电子商行	TI	10+	375	SOP
+MT48LC32M16A2P-75	from hqew, 博通电子商行	MICRON	1030+	8	TSSOP
+MT9123AP	from hqew, 博通电子商行	MITER	0514+	39	PLCC28
+MX29LV008CBTC-70G	from hqew, 博通电子商行	MX	0832+	1127	TSSOP
+MXD1210CWE	from hqew, 博通电子商行	MAXIM	&nbsp;	14	SOP
+M29F800AT-90N1	from hqew, 博通电子商行	ST	00+	300	TSOP
+MAX1100CWG	from hqew, 博通电子商行	MAXIM	&nbsp;	87	SOP
+MAX172BCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	15	SOP
+MAX186DEWP	from hqew, 博通电子商行	MAXIM	&nbsp;	41	SOP
+MAX192BCWP	from hqew, 博通电子商行	MAXIM	&nbsp;	59	SOP
+MAX202EPE	from hqew, 博通电子商行	MAXIM	&nbsp;	51	DIP
+MAX203CWP	from hqew, 博通电子商行	MAXIM	&nbsp;	34	SOP
+MAX203ECWP	from hqew, 博通电子商行	MAXIM	&nbsp;	7	SOP
+MAX230CWP	from hqew, 博通电子商行	MAXIM	&nbsp;	107	SOP
+MAX232ACSE	from hqew, 博通电子商行	MAXIM	&nbsp;	31	SOP
+MAX232CSE-T	from hqew, 博通电子商行	MAXIM	04+	6	SOP
+MAX232CWE-T	from hqew, 博通电子商行	MAXIM	0513+	146	SOP
+MAX232ECPE	from hqew, 博通电子商行	MAXIM	06+	385	DIP
+MAX232EPE	from hqew, 博通电子商行	MAXIM	04+	76	DIP
+MAX232MJE	from hqew, 博通电子商行	MAXIM	&nbsp;	5	DIP
+MAX3245ECAI	from hqew, 博通电子商行	MAXIM	99+	5	SSOP
+MAX4052ACSE	from hqew, 博通电子商行	MAXIM	&nbsp;	56	SOP
+MAX471CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	330	SOP
+MAX481ECSA	from hqew, 博通电子商行	MAXIM	01+	193	SOP
+MAX485EPA	from hqew, 博通电子商行	MAX	08+	100	DIP
+MAX489CSD	from hqew, 博通电子商行	MAXIM	03+	34	SOP
+MAX490ECSA	from hqew, 博通电子商行	MAXIM	&nbsp;	161	SOP
+MAX505ACWG	from hqew, 博通电子商行	MAXIM	&nbsp;	6	SOP
+MAX505BCAG	from hqew, 博通电子商行	MAXIM	&nbsp;	9	SSOP
+MAX506BEWP	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SOP
+MAX511ESD	from hqew, 博通电子商行	MAXIM	&nbsp;	93	SOP
+MAX532BCWE	from hqew, 博通电子商行	MAXIM	&nbsp;	3	SOP
+MAX560CAI	from hqew, 博通电子商行	MAXIM	&nbsp;	5	SSOP
+MAX706CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	31	SOP
+MAX707CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	43	SOP
+MAX707ESA	from hqew, 博通电子商行	MAXIM	&nbsp;	27	SOP
+MAX709LCSA	from hqew, 博通电子商行	MAXIM	&nbsp;	82	SOP
+MAX739CPD	from hqew, 博通电子商行	MAXIM	95+	2	DIP
+MAX744EWE	from hqew, 博通电子商行	MAXIM	&nbsp;	3	SOP
+MAX755CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	99	SOP
+MAX765CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	75	SOP
+MAX809RW	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+MAX810JW	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+MAX810L	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+MAX810MD	from hqew, 博通电子商行	PHILIPS	438v	3000	SOT-23
+MAX810RD	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+MAX873BESA	from hqew, 博通电子商行	MAX	07+	95	SOP
+NF100-CWB	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+NF32-SW	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+NF630-CW	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+NF630-SW	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+NSC100ROTDS	from hqew, 博通电子商行	Schneider	12+	1000	
+NSE100N 4P 100A	from hqew, 博通电子商行	Schneider	12+	1000	
+NSE250N 4P 250A	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX160N 3P TM100D	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX250F 4P MT	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX250F TM250D 3P3	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX400F MIC2.3 3P3D	from hqew, 博通电子商行	Schneider	12+	1000	
+NV60-KC	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+OF/AX 29452	from hqew, 博通电子商行	Schneider	12+	1000	
+P2RF-05-E	from hqew, 博通电子商行	OMRON	12+	1000	
+PD130F120	from hqew, 博通电子商行	SanRex	10+	567	
+PD130FG120	from hqew, 博通电子商行	SanRex	10+	567	
+PD130FG160	from hqew, 博通电子商行	SanRex	10+	567	
+PD25F160	from hqew, 博通电子商行	SanRex	10+	567	
+PD70FG160	from hqew, 博通电子商行	SanRex	10+	567	
+PD90F160	from hqew, 博通电子商行	SanRex	10+	567	
+PE110F160	from hqew, 博通电子商行	SanRex	10+	567	
+PE130F160	from hqew, 博通电子商行	SanRex	10+	567	
+PE160F160	from hqew, 博通电子商行	SanRex	10+	567	
+PE40FG160	from hqew, 博通电子商行	SanRex	10+	567	
+PE70F120	from hqew, 博通电子商行	SanRex	10+	567	
+PE70F160	from hqew, 博通电子商行	SanRex	10+	567	
+PK25F120	from hqew, 博通电子商行	SanRex	10+	567	
+PTF08A-E	from hqew, 博通电子商行	OMRON	12+	1000	
+PYF14A-E	from hqew, 博通电子商行	OMRON	12+	1000	
+R27T12800L	from hqew, 博通电子商行	OKI	0636+	150	TSSOP
+RE48ATM12MW	from hqew, 博通电子商行	Schneider	12+	1000	
+RE7TL11BU	from hqew, 博通电子商行	Schneider	12+	1000	
+RE7TP13BU	from hqew, 博通电子商行	Schneider	12+	1000	
+RM4JA32M	from hqew, 博通电子商行	Schneider	12+	1000	
+RM4TG20	from hqew, 博通电子商行	Schneider	12+	1000	
+RM4TR32	from hqew, 博通电子商行	Schneider	12+	1000	
+RSB-2A080JD	from hqew, 博通电子商行	Schneider	12+	1000	
+RXM2AB2P7	from hqew, 博通电子商行	Schneider	12+	1000	
+RXM2LB2P7	from hqew, 博通电子商行	Schneider	12+	1000	
+RXM4LB2BD	from hqew, 博通电子商行	Schneider	12+	1000	
+RXZE2S111M	from hqew, 博通电子商行	Schneider	12+	1000	
+S8JC-Z10024C	from hqew, 博通电子商行	OMRON	12+	1000	
+S8JC-Z35024C	from hqew, 博通电子商行	OMRON	12+	1000	
+S8JX-G05024C	from hqew, 博通电子商行	OMRON	12+	1000	
+SC-0	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-E03	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-E03/G	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-E2S	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-E3	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-N1	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-N12	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-N5P	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-N8	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SD-N11	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SD-N35	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SD-N50	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SD-N65	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SD-N80	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SH-4 2A2B 110V	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SH-4 2A2B 220V	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SH-4 3A1B 220V	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SH-4 4A 220V	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SHL-Q2255	from hqew, 博通电子商行	OMRON	12+	1000	
+S-N10	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+S-N11	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+S-N125	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+S-N18	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+S-N38	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SN74LV573APWR	from hqew, 博通电子商行	TI	09+	200	TSSOP
+SP708EN	from hqew, 博通电子商行	SP	04+	20	SOP
+SRD-N4	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SR-N4 2A2B	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SS40A	from hqew, 博通电子商行	HONEYWELL	10+	1000	TO-92
+SS41F	from hqew, 博通电子商行	HONEYWELL	10+	1000	TO-92
+SS441A	from hqew, 博通电子商行	HONEYWELL	09+	1000	TO-92
+SS-5	from hqew, 博通电子商行	OMRON	12+	1000	
+SS-5GL13	from hqew, 博通电子商行	OMRON	12+	1000	
+ST7066U-0A-QG	from hqew, 博通电子商行	SITRONIX	0707+	500	QFP
+S-V09	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+S-V50	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SZ-A02-C	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SZ-Z2	from hqew, 博通电子商行	FUJIFe	12+	1000	
+TB118KC7S	from hqew, 博通电子商行	Panasonic	12+	1000	
+TB38809KC7S	from hqew, 博通电子商行	Panasonic	12+	1000	
+TC74HCT04AF	from hqew, 博通电子商行	TOSHIBA	0709+	1017	SOP
+TC74HCT174AF	from hqew, 博通电子商行	TOSHIBA	0605+	546	SOP
+TC74LCX08FT	from hqew, 博通电子商行	TOSHIBA	0727+	902	SSOP
+TC74LCX138FT	from hqew, 博通电子商行	TOSHIBA	0651+	1520	TSSOP
+TC74VHC153FT	from hqew, 博通电子商行	TOSHIBA	0637+	912	SSOP
+tc7S08fu	from hqew, 博通电子商行	Other	09+	500	SOT23
+TH-N60KP	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+TH-V12KP	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+TK-E02	from hqew, 博通电子商行	FUJIFe	12+	1000	
+TR-N3	from hqew, 博通电子商行	FUJIFe	12+	1000	
+TR-N5	from hqew, 博通电子商行	FUJIFe	12+	1000	
+TSX3710101	from hqew, 博通电子商行	Schneider	12+	1000	PLC
+TSXDMZ28DT	from hqew, 博通电子商行	Schneider	12+	1000	PLC
+TSXPLP01	from hqew, 博通电子商行	Schneider	12+	1000	
+UN-AX2	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+US1881KSE	from hqew, 博通电子商行	MELEXIS	10+	15522	SOT-23
+US1881LUA	from hqew, 博通电子商行	MELEXIS	10+	152220	TO-92
+US5681ESE	from hqew, 博通电子商行	MELEXIS	10+	250010	SOT-23
+US5781LSE	from hqew, 博通电子商行	MELEXIS	10+	12000	SOT-23
+US5881KUA	from hqew, 博通电子商行	MELEXIS	10+	20000	TO-92
+US-N20	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+V-155-1C25	from hqew, 博通电子商行	OMRON	12+	1000	
+V2GSW	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+V3 63A	from hqew, 博通电子商行	Schneider	12+	1000	
+V4 80A	from hqew, 博通电子商行	Schneider	12+	1000	
+V4C 80A	from hqew, 博通电子商行	Schneider	12+	1000	
+V5C 125A	from hqew, 博通电子商行	Schneider	12+	1000	
+V6C 175A	from hqew, 博通电子商行	Schneider	12+	1000	
+VCFXGE1	from hqew, 博通电子商行	Schneider	12+	1000	
+VIGI IC65 3P 63A	from hqew, 博通电子商行	Schneider	12+	1000	
+VZ0	from hqew, 博通电子商行	Schneider	12+	1000	
+VZ01	from hqew, 博通电子商行	Schneider	12+	1000	
+VZ02	from hqew, 博通电子商行	Schneider	12+	1000	
+VZ12	from hqew, 博通电子商行	Schneider	12+	1000	
+VZ4	from hqew, 博通电子商行	Schneider	12+	1000	
+WLCA2-2-Q	from hqew, 博通电子商行	OMRON	12+	1000	
+WLNJ	from hqew, 博通电子商行	OMRON	12+	1000	
+XBTZ9780	from hqew, 博通电子商行	Schneider	12+	1000	
+XMLB035A2S11	from hqew, 博通电子商行	Schneider	12+	1000	
+XMLB070D2S11	from hqew, 博通电子商行	Schneider	12+	1000	
+XS130B3PAL2	from hqew, 博通电子商行	Schneider	12+	1000	
+XS4-P18MA230	from hqew, 博通电子商行	Schneider	12+	1000	
+XS530B1DAL2	from hqew, 博通电子商行	Schneider	12+	1000	
+XS6-18B1MBL2	from hqew, 博通电子商行	Schneider	12+	1000	
+XUK2ANANL2R	from hqew, 博通电子商行	Schneider	12+	1000	Te
+XVG-B3H	from hqew, 博通电子商行	Schneider	12+	1000	
+Z-15GW2-B	from hqew, 博通电子商行	OMRON	12+	1000	
+Z-15GW-B	from hqew, 博通电子商行	OMRON	12+	1000	
+0PA335AIPBVR	from hqew, 博通电子商行	TI	10+	24	SOT
+10D-03S05N	from hqew, 博通电子商行	电源模块	10+	2000	
+10D-03S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+10D-05D05	from hqew, 博通电子商行	电源模块	10+	2000	
+10D-12S05N	from hqew, 博通电子商行	电源模块	10+	2000	
+11D-05S05NC0.025W	from hqew, 博通电子商行	电源模块	10+	2000	
+11D-12S09N	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D05N2C2W6KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D05N2C6KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05D12N2C3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S05N	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S05NC2W3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S09NC2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S15N2C2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S15NC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-05S24N2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12D12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-12S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-15S15N2C2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-15S15NC3KVACNL	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24D12NC	from hqew, 博通电子商行	电源模块	10+	2000	
+12D-24S15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S05N2W	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S05NC/2W	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S09NC	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S09NC2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S09NC3NL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-05S15N2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-12S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-12S15NC2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-24D10N4	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-24S09N2CNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-24S15N2CNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-24S15N4NL	from hqew, 博通电子商行	电源模块	10+	2000	
+13D-48S12N4	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS2-05S05N	from hqew, 博通电子商行	电源模块	10+	2000	
+13DS3-05S05NNL	from hqew, 博通电子商行	电源模块	10+	2000	
+13DSM-05S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-03S12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05D12N2W	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05S12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05S15NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05S24N2CNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-05S24RANL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-12S12NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-15S05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24D05NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24D12N	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24D12N2CNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24D15N	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24D15NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24S05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24S05R2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-24S24NC	from hqew, 博通电子商行	电源模块	10+	2000	
+14D-48D12N2NL	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-05S05R1W2KVDC	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-05S05R2NL	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-05S12R	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-05S12R43KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-12S12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+15D-24S05R4NL	from hqew, 博通电子商行	电源模块	10+	2000	
+16D-12S12R	from hqew, 博通电子商行	电源模块	10+	2000	
+16D-24D15RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+16D-24S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+17D-05D0505NC2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+17D-24D0505N22KVNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-05D05NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-05D12N	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-05D15NC	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-05S12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-05S15NC	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-15S15NC	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-24D15NC	from hqew, 博通电子商行	电源模块	10+	2000	
+19D-24S05NC/2W	from hqew, 博通电子商行	电源模块	10+	2000	
+24D-24D09NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+25D-05F05NNL	from hqew, 博通电子商行	电源模块	10+	2000	
+26D-05D12NCNL	from hqew, 博通电子商行	电源模块	10+	2000	
+26D-05S05N	from hqew, 博通电子商行	电源模块	10+	2000	
+26D-05S05NC2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+26D-12S12NC2WNL	from hqew, 博通电子商行	电源模块	10+	2000	
+27D-05S03RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+27D-12S24RANL	from hqew, 博通电子商行	电源模块	10+	2000	
+27D-24S09RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+28D-05S1255W	from hqew, 博通电子商行	电源模块	10+	2000	
+42D-05S09NC	from hqew, 博通电子商行	电源模块	10+	2000	
+43D-24D12R	from hqew, 博通电子商行	电源模块	10+	2000	
+45D-24S15RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+4N33	from hqew, 博通电子商行	FAIRCHILD	09+	45	DIP8
+52D-05S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+54D-48S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+54D-48S12RP1	from hqew, 博通电子商行	电源模块	10+	2000	
+61D-24S12RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+61D-24S15RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+62D-12S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+66D-24D15R	from hqew, 博通电子商行	电源模块	10+	2000	
+66D-24S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+66D-24S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+67D-12S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+67D-12S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+67D-48D05RA	from hqew, 博通电子商行	电源模块	10+	2000	
+68D10-24S05RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+68D1-24D15RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+68D-12S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D5-12S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+68D5-24S05RV	from hqew, 博通电子商行	电源模块	10+	2000	
+69D1-24S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+69D-24S12RVP	from hqew, 博通电子商行	电源模块	10+	2000	
+69D-24S12RVPNL	from hqew, 博通电子商行	电源模块	10+	2000	
+69D-48S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+6N137	from hqew, 博通电子商行	AGI	09+	320	DIP-8
+74ABT543C	from hqew, 博通电子商行	FAIRCHILD	09+	2	SOP
+74HC273	from hqew, 博通电子商行	TI	09+	8	DIP
+74HC373N	from hqew, 博通电子商行	TI	09+	225	DIP
+78L12	from hqew, 博通电子商行	JRC	05+	616	TO-92
+93C06	from hqew, 博通电子商行	ST	9832	291	SOP-8
+95D-24S05R	from hqew, 博通电子商行	电源模块	10+	2000	
+95D-48M15RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+95D-48S96RNL	from hqew, 博通电子商行	电源模块	10+	2000	
+A1101EUA-T	from hqew, 博通电子商行	ALLEGRO	10+	100000	TO-92
+A1104ELHLT-T	from hqew, 博通电子商行	ALLEGRO	10+	14000	SOT-23
+A3141EUA-T	from hqew, 博通电子商行	ALLEGRO	08+	41000	TO-92
+A3142LUA-T	from hqew, 博通电子商行	ALLEGRO	08+	12520	TO-92
+A3144LUA-T	from hqew, 博通电子商行	ALLEGRO	08+	15400	TO-92
+A3955SB	from hqew, 博通电子商行	ALLEGRO	09+	840	DIP
+ABL2REM24020H	from hqew, 博通电子商行	Schneider	12+	1000	
+ABL-6TS16U	from hqew, 博通电子商行	Schneider	12+	1000	
+AC488-C	from hqew, 博通电子商行	AUDIOCOD	07+	9	QDP144
+ACCL2222	from hqew, 博通电子商行	Panasonic	12+	1000	
+AD45203ZBCPZ	from hqew, 博通电子商行	ADI	1128+	358	QFN
+AD5895AR	from hqew, 博通电子商行	AD	1018+	8	SOP
+AD620AR	from hqew, 博通电子商行	AD	07+	4	DIP
+AD830JR	from hqew, 博通电子商行	AD	01+	80	SOP
+ADC0832CCWM/NOPB	from hqew, 博通电子商行	NS	10+	900	SOP14
+ADC10065CIMT	from hqew, 博通电子商行	NS	10+	164	TSSOP
+ADD5201	from hqew, 博通电子商行	ADI	11+	2862	QFN
+ADE7953ACPZ	from hqew, 博通电子商行	ADI	1128+	213	QFN
+ADF4350BCPZ	from hqew, 博通电子商行	ADI	1137+	1817	QFN
+ADG409BR	from hqew, 博通电子商行	AD	01+	115	SOP
+ADN4670BCPZ	from hqew, 博通电子商行	ADI	1131+	311	QFN
+ADN4670BCPZ	from hqew, 博通电子商行	ADI	1103+	99	QFN
+ADUC7020BCPZ62I	from hqew, 博通电子商行	ADI	1130+	400	QFN
+ADV7180KCP32Z	from hqew, 博通电子商行	ADI	1130+	23	QFN
+AIC1528	from hqew, 博通电子商行	AIC	09+	3000	SOP8
+AN126E	from hqew, 博通电子商行	TI	09+	364	MSOP8
+AT24CO1	from hqew, 博通电子商行	ATMEL	&nbsp;	27	SOP-8
+AT24RF08CT	from hqew, 博通电子商行	ATMEL	01+	8	TSOP
+AT29LV010A-15JI	from hqew, 博通电子商行	ATMEL	0512+	9	PLCC
+AT45DB041B-SU	from hqew, 博通电子商行	ATMEL	0917+	13	SOP8
+AT91RM9200CJ-002	from hqew, 博通电子商行	ATMEL	10+	4000	BGA
+AZ7310	from hqew, 博通电子商行	Panasonic	12+	1000	
+AZ8104	from hqew, 博通电子商行	Panasonic	12+	1000	
+AZL8108	from hqew, 博通电子商行	Panasonic	12+	1000	
+BA9700A	from hqew, 博通电子商行	ROHM	0627+	783	DIP
+BH-D6 3P D50	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+BQ24302ARHLR	from hqew, 博通电子商行	TI	10+	52	QFN
+BT827AKPF	from hqew, 博通电子商行	BT	9803+	330	QFP
+BW250EAG	from hqew, 博通电子商行	FUJIFe	12+	1000	
+BW250EAGC 3P	from hqew, 博通电子商行	FUJIFe	12+	1000	
+BW32AAG 2P	from hqew, 博通电子商行	FUJIFe	12+	1000	
+BW50EAG 3P	from hqew, 博通电子商行	FUJIFe	12+	1000	
+C120H 3P D80A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65H-DC 1P C1A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65H-DC 1P C40A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65H-DC 1P C63A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65H-DC 2P C50A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65H-DC 2P C6A	from hqew, 博通电子商行	Schneider	12+	1000	
+C65N 1P C63A	from hqew, 博通电子商行	Schneider	12+	1000	
+CA3KN31BD	from hqew, 博通电子商行	Schneider	12+	1000	
+CA3KN40BD	from hqew, 博通电子商行	Schneider	12+	1000	
+CAD50M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+CAE31F5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CAE31M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+CD4013BMJ/883C	from hqew, 博通电子商行	NS	&nbsp;	59	DIP
+CLV060E-LF	from hqew, 博通电子商行	Z-COMM	11+	135	VCO(
+CLV0750E-LF	from hqew, 博通电子商行	Z-COMM	11+	150	VCO(
+CLV1215E	from hqew, 博通电子商行	Z-COMM	11+	52	VCO(
+CLV1535E-LF	from hqew, 博通电子商行	Z-COMM	11+	64	VCO(
+CLV1540E	from hqew, 博通电子商行	Z-COMM	11+	55	VCO(
+CLV1540E-LF	from hqew, 博通电子商行	Z-COMM	11+	56	VCO(
+CLV1545E-LF	from hqew, 博通电子商行	Z-COMM	11+	156	VCO(
+CLV1560A	from hqew, 博通电子商行	Z-COMM	11+	152	VCO(
+CLV1585E	from hqew, 博通电子商行	Z-COMM	11+	152	VCO(
+CP30-BA	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+CS4360-KZZ	from hqew, 博通电子商行	CIRRUS	05+	2176	TSSOP
+CVS100F 3P 100A	from hqew, 博通电子商行	Schneider	12+	1000	
+CVS160F 3P 160A	from hqew, 博通电子商行	Schneider	12+	1000	
+CXA1645M	from hqew, 博通电子商行	SONY	&nbsp;	119	SOP
+CXD1267AN	from hqew, 博通电子商行	SONY	0814+	6	SOP
+CY7C1020V33L-15ZI	from hqew, 博通电子商行	CY	01+	100	TSOP
+D2VW-5L1-3M	from hqew, 博通电子商行	OMRON	12+	1000	
+D4MC-2000	from hqew, 博通电子商行	OMRON	12+	1000	
+D4MC-5040	from hqew, 博通电子商行	OMRON	12+	1000	
+DG506ACWI	from hqew, 博通电子商行	MAXIM	0014+	58	SOP
+DPNa 1P C40A	from hqew, 博通电子商行	Schneider	12+	1000	
+DS1302Z	from hqew, 博通电子商行	DS	09+	100	DIP
+DS2431P	from hqew, 博通电子商行	DALLS	09+	112	SOJ6
+DS78C120J/883	from hqew, 博通电子商行	NS	&nbsp;	7	DIP
+DS90C385MTD	from hqew, 博通电子商行	NS	1029+	4	SSOP
+E2E-X10MY1-Z	from hqew, 博通电子商行	OMRON	12+	1000	
+E2E-X1C1	from hqew, 博通电子商行	OMRON	12+	1000	
+E3F3-D12	from hqew, 博通电子商行	OMRON	12+	1000	
+E3F3-T61	from hqew, 博通电子商行	OMRON	12+	1000	
+E3JK-5M2-N	from hqew, 博通电子商行	OMRON	12+	1000	
+E3JK-DS30M1	from hqew, 博通电子商行	OMRON	12+	1000	
+E3JK-R2M2	from hqew, 博通电子商行	OMRON	12+	1000	
+E3S-GS3E4	from hqew, 博通电子商行	OMRON	12+	1000	
+E3Z-D61	from hqew, 博通电子商行	OMRON	12+	1000	
+E5CS-R1KJX	from hqew, 博通电子商行	OMRON	12+	1000	
+E5CSZ-Q1T	from hqew, 博通电子商行	OMRON	12+	1000	
+EA9AN1C10	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN2C20	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN2C32	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN2C40	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN3C10	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN3C25	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN3C32	from hqew, 博通电子商行	Schneider	12+	1000	
+EA9AN3C40	from hqew, 博通电子商行	Schneider	12+	1000	
+EL1509CS	from hqew, 博通电子商行	EL	&nbsp;	98	SOP
+EL1510CS	from hqew, 博通电子商行	EL	02+	84	SOP8
+EL2044CS	from hqew, 博通电子商行	EL	&nbsp;	90	SOP
+EL5224IRE	from hqew, 博通电子商行	EL	03+	144	TSSOP
+EL5324IRE	from hqew, 博通电子商行	EL	03+	3134	TSSOP
+EL6244CU-T13	from hqew, 博通电子商行	EL	0223+	12500	QSOP16
+EL6935ACL	from hqew, 博通电子商行	EL	04+	5114	QFN
+EL7212CN	from hqew, 博通电子商行	EL	07+	14	DIP8
+EL7554IREZ	from hqew, 博通电子商行	EL	10+	3	TSSOP
+EL7563CRE	from hqew, 博通电子商行	EL	08+	29	TSSOP
+EL7566DRE	from hqew, 博通电子商行	EL	07+	324	TSSOP
+EPM3032ATC44-10N	from hqew, 博通电子商行	ALTERA	1013+	100	QFP44
+EPM3032ATC44-10N	from hqew, 博通电子商行	ALTERA	1013+	145	QFP
+EZAROTE	from hqew, 博通电子商行	Schneider	12+	1000	
+EZD100E 3P 20A	from hqew, 博通电子商行	Schneider	12+	1000	
+EZD160E 3P 160A	from hqew, 博通电子商行	Schneider	12+	1000	
+EZD250E 3P 200A	from hqew, 博通电子商行	Schneider	12+	1000	
+EZD250E 3P 250A	from hqew, 博通电子商行	Schneider	12+	1000	
+FQUTP06	from hqew, 博通电子商行	FAIRCHILD	05+	50	
+FRE 15208	from hqew, 博通电子商行	Schneider	12+	1000	
+G2R-1	from hqew, 博通电子商行	OMRON	12+	1000	
+G2R-1-SND(S)	from hqew, 博通电子商行	OMRON	12+	1000	
+G3PA-210B-VD	from hqew, 博通电子商行	OMRON	12+	1000	
+G7L-2A-P	from hqew, 博通电子商行	OMRON	12+	1000	
+G7L-2A-TUB	from hqew, 博通电子商行	OMRON	12+	1000	
+GAL22V10D-15LPN	from hqew, 博通电子商行	GAL	1028+	5	DIP
+GS8120-174004DBOEZ	from hqew, 博通电子商行	CONEXANT	0741+	720	TQFP
+GV1G09	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-AF3	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-G454	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2LE22	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-MC02	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-ME06C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2-ME20C	from hqew, 博通电子商行	Schneider	12+	1000	
+GV2RT06	from hqew, 博通电子商行	Schneider	12+	1000	
+GV3P40 GV3-P40	from hqew, 博通电子商行	Schneider	12+	1000	
+GV3-P65	from hqew, 博通电子商行	Schneider	12+	1000	
+GV-AD1001	from hqew, 博通电子商行	Schneider	12+	1000	
+GVAE1	from hqew, 博通电子商行	Schneider	12+	1000	
+GV-AE11	from hqew, 博通电子商行	Schneider	12+	1000	
+GV-AM11	from hqew, 博通电子商行	Schneider	12+	1000	
+GV-AN11	from hqew, 博通电子商行	Schneider	12+	1000	
+GVAX225	from hqew, 博通电子商行	Schneider	12+	1000	
+H3BA-N	from hqew, 博通电子商行	OMRON	12+	1000	
+H3CA-8	from hqew, 博通电子商行	OMRON	12+	1000	
+H3Y-2	from hqew, 博通电子商行	OMRON	12+	1000	
+H3Y-2 DC24 10S	from hqew, 博通电子商行	OMRON	12+	1000	
+H7CX-A-N	from hqew, 博通电子商行	OMRON	12+	1000	
+HEF4514BP	from hqew, 博通电子商行	PHILIPS	1109+	5040	DIP
+HIN202CBN	from hqew, 博通电子商行	INTELSIL	00+	27	SOP
+HL-5300	from hqew, 博通电子商行	OMRON	12+	1000	
+HM628128ALFP-7	from hqew, 博通电子商行	Other	0705+	30	SOP
+IC65	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65H-DC 2P C32A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P C1A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P C32A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P D63A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 1P D6A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P C1A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P C32A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P C4A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P D16A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P D63A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 2P D6A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P C2A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P C32A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P C50A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P C6A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P D10A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P D4A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 3P D63A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P C1A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P C6A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P D10A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P D1A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P D25A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P D2A	from hqew, 博通电子商行	Schneider	12+	1000	
+IC65N 4P D32A	from hqew, 博通电子商行	Schneider	12+	1000	
+ICL8038CCPD	from hqew, 博通电子商行	INTINEON	03+	5	DIP
+ICT 4NO 25A A9C20834	from hqew, 博通电子商行	Schneider	12+	1000	
+IDPNa C 16A	from hqew, 博通电子商行	Schneider	12+	1000	
+IDPNa C 40A	from hqew, 博通电子商行	Schneider	12+	1000	
+IDPNa C 6A	from hqew, 博通电子商行	Schneider	12+	1000	
+IDPNA VIGI+ C 20A	from hqew, 博通电子商行	Schneider	12+	1000	
+IDPNNA C 2A	from hqew, 博通电子商行	Schneider	12+	1000	
+IINT125 4P 63A	from hqew, 博通电子商行	Schneider	12+	1000	
+INA118U	from hqew, 博通电子商行	BB	08+	28	SOP8
+INT125 4P 100A	from hqew, 博通电子商行	Schneider	12+	1000	
+IOF/SD+OF	from hqew, 博通电子商行	Schneider	12+	1000	
+IRFB4610	from hqew, 博通电子商行	IR	08+	22	TO220
+ISL34341IRZ	from hqew, 博通电子商行	ISL	10+	36	QFN
+JRC2073D	from hqew, 博通电子商行	JRC	0022+	57	DIP
+K9K8G08U0B-PIB0	from hqew, 博通电子商行	SAMSUNG	00+	45	TSSOP
+K9K8G08UOB-PIBO	from hqew, 博通电子商行	SAMSUNG	10+	30	TSSOP
+KCF3PZC	from hqew, 博通电子商行	Schneider	12+	1000	
+KTC2026	from hqew, 博通电子商行	KEC	0735+	257	TO220
+L6562D	from hqew, 博通电子商行	ST	09+	480	SOP8
+LA7-D3064	from hqew, 博通电子商行	Schneider	12+	1000	
+LAD-311	from hqew, 博通电子商行	Schneider	12+	1000	
+LAD703B 24V	from hqew, 博通电子商行	Schneider	12+	1000	
+LADN11C	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-DN11C	from hqew, 博通电子商行	Schneider	12+	1000	
+LADN13C	from hqew, 博通电子商行	Schneider	12+	1000	
+LADN20C	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-DN20C	from hqew, 博通电子商行	Schneider	12+	1000	
+LADN22C	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-DN22C	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-DN40C	from hqew, 博通电子商行	Schneider	12+	1000	
+LADR4	from hqew, 博通电子商行	Schneider	12+	1000	
+LADT4	from hqew, 博通电子商行	Schneider	12+	1000	
+LAEB1N	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-EB1N	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-EN04N	from hqew, 博通电子商行	Schneider	12+	1000	
+LAEN11N	from hqew, 博通电子商行	Schneider	12+	1000	
+LA-EN20N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D0610M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D09BDC	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D09E7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D09EL	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D09FD  LC1-D09FD	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D09M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D11500B7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D11500F7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D12BDC	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D15000M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D17000F7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D18Q7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D245M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D25BD	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D25BDC	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D25F7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D300M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D32BDC	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D32FDC	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D40AB7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D40ABD	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D40AF7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D40B7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D50ABD	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D50AM7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D50AM7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D50M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D65AF7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1D65AM7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D65AM7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D65M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D80B7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-D95F7	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-DT25M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1DT32M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-DT32M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1DT40M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-DT40M7C	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E0610M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E0901M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E0910M6N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E1801M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E2510M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1E3810M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-E3810M5N	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1F150	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-F225	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-F265	from hqew, 博通电子商行	Schneider	12+	1000	
+LC1-K0901M7	from hqew, 博通电子商行	Schneider	12+	1000	
+LC2K0901M7	from hqew, 博通电子商行	Schneider	12+	1000	
+LC2-K0901M7	from hqew, 博通电子商行	Schneider	12+	1000	
+LC7-K09015M7	from hqew, 博通电子商行	Schneider	12+	1000	
+LE-N11N	from hqew, 博通电子商行	Schneider	12+	1000	
+LM139J	from hqew, 博通电子商行	MOTOROLA	&nbsp;	8	DIP
+LM2672M-ADJ	from hqew, 博通电子商行	NS	09+	191	SOP8
+LM4902MM	from hqew, 博通电子商行	NS	04+	276	MSOP-8
+LM5066PMH	from hqew, 博通电子商行	NS	10+	247	TSSOP
+LM8117AMPX-ADJ	from hqew, 博通电子商行	NS	&nbsp;	10	SOT23
+LM833MX	from hqew, 博通电子商行	NS	03+	1285	SOP-8
+LM837M	from hqew, 博通电子商行	NS	10+	100	SOP
+LM87CIMT	from hqew, 博通电子商行	NS	10+	364	TSSOP
+LMC6484IM	from hqew, 博通电子商行	NS	07+	5	SOP14
+LMP90100MH	from hqew, 博通电子商行	NS	10+	259	TSSOP
+LP1-K0910BD	from hqew, 博通电子商行	Schneider	12+	1000	
+LP1K12103BD3	from hqew, 博通电子商行	Schneider	12+	1000	
+LP2985-18D	from hqew, 博通电子商行	TPS76318DBVT	&nbsp;	3000	SOT-23
+LPC47N217N	from hqew, 博通电子商行	SMSC	12+	3000	QFN56
+LR2K0304	from hqew, 博通电子商行	Schneider	12+	1000	K
+LR9D5369	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D01C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D02KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D05C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D06KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD08KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D12KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD14C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD14KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD16C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD21KN	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D3357C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D3359C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD3361C	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-D3363C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD3365C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD350C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD35C	from hqew, 博通电子商行	Schneider	12+	1000	
+LRD4365	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-E02N	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-E04N	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-E06N	from hqew, 博通电子商行	Schneider	12+	1000	
+LRE08N	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-E08N	from hqew, 博通电子商行	Schneider	12+	1000	
+LRE10N	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-E16N	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-E22N	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-E32N	from hqew, 博通电子商行	Schneider	12+	1000	
+LR-E35N	from hqew, 博通电子商行	Schneider	12+	1000	
+LT1070CT	from hqew, 博通电子商行	LINEAR	03+	33	TO-220-5
+LT1071IT	from hqew, 博通电子商行	LINEAR	03+	110	TO-220-5
+LT1084IT	from hqew, 博通电子商行	LINEAR	03+	181	TO-220-3
+LT1085CM-3.3	from hqew, 博通电子商行	LINEAR	03+	21	TO-263
+LT1085CT	from hqew, 博通电子商行	LINEAR	03+	58	TO-220-3
+LT1086CM	from hqew, 博通电子商行	LINEAR	03+	98	TO-263
+LT1152IS8	from hqew, 博通电子商行	LT	09+	23	SOP8
+LT1157CS8	from hqew, 博通电子商行	LINEAR	&nbsp;	113	SOP
+LT1170CT	from hqew, 博通电子商行	LINEAR	03+	92	TO-220-5
+LT1172CT	from hqew, 博通电子商行	LINEAR	03+	6	TO-220-5
+LT1186FCS	from hqew, 博通电子商行	LT	10+	9	SOP16
+LT1341CG	from hqew, 博通电子商行	LT	03+	2	SSOP
+LT1430CS8	from hqew, 博通电子商行	LINEAR	&nbsp;	136	SOP
+LT1485CS8	from hqew, 博通电子商行	LINEAR	&nbsp;	241	SOP
+LT1581CT7	from hqew, 博通电子商行	LINEAR	03+	10	TO-220-7
+LT1600CS8	from hqew, 博通电子商行	LT	08+	7	SOP8
+LT1622CS	from hqew, 博通电子商行	LINEAR	&nbsp;	99	SOP
+LT1763MPS8	from hqew, 博通电子商行	LT	10+	9	SOP8
+LT1764EQ-1.8	from hqew, 博通电子商行	LINEAR	03+	93	TO-263
+LT1963ET-2.5	from hqew, 博通电子商行	LINEAR	03+	101	TO-220-5
+LT3022EFE	from hqew, 博通电子商行	LT	05+	16	QFN
+LT3050IDDB	from hqew, 博通电子商行	LT	09+	21	DFN
+LT3430EFE	from hqew, 博通电子商行	LT	06+	47	TSSOP
+LT3466EFE	from hqew, 博通电子商行	LT	04+	10	TSSOP
+LT3472	from hqew, 博通电子商行	TI	03+	10	SOP
+LT3719EG	from hqew, 博通电子商行	LT	01+	33	SSOP
+LT3728LXCUH	from hqew, 博通电子商行	LINEAR	10+	384	QFN
+LT3760EFE	from hqew, 博通电子商行	LT	09+	14	TSSOP
+LT3760IFE	from hqew, 博通电子商行	LT	09+	14	TSSOP
+LT3804EFE	from hqew, 博通电子商行	LT	03+	12	EFE
+LT3957EUHE	from hqew, 博通电子商行	LINEAR	10+	160	QFN
+LT3957IUHE	from hqew, 博通电子商行	LINEAR	10+	160	QFN
+LT4256-3CGN	from hqew, 博通电子商行	LT	03+	15	SSOP16
+LT4706M7A	from hqew, 博通电子商行	Schneider	12+	1000	
+LT485CS8	from hqew, 博通电子商行	LINEAR	&nbsp;	124	SOP
+LT5516EUF	from hqew, 博通电子商行	LINEAR	10+	33	QFN
+LT5526EUF	from hqew, 博通电子商行	LINEAR	10+	123	QFN
+LT6005CDHC	from hqew, 博通电子商行	LT	06+	93	DFN
+LT6945	from hqew, 博通电子商行	LT	10+	12	QFN
+LT7510E3DF	from hqew, 博通电子商行	LINEAR	10+	47	QFN
+LT946ROCK	from hqew, 博通电子商行	LT	99+	132	SOP-16
+LTC1288IS8	from hqew, 博通电子商行	LT	05+	8	SOP8
+LTC1411CG	from hqew, 博通电子商行	LT	01+	2	SSOP
+LTC1419CG	from hqew, 博通电子商行	LT	09+	6	SSOP
+LTC1420IGN	from hqew, 博通电子商行	LT	10+	151	SSOP
+LTC1438CG-ADJ	from hqew, 博通电子商行	LINEAR	&nbsp;	21	SSOP
+LTC1606CG	from hqew, 博通电子商行	LT	98+	3	SSOP
+LTC1650IS	from hqew, 博通电子商行	LT	04+	2	SOP
+LTC1689CS	from hqew, 博通电子商行	LT	05+	2	SOP
+LTC1709EG-9	from hqew, 博通电子商行	LT	00+	2	SSOP
+LTC1736CG	from hqew, 博通电子商行	LINEAR	&nbsp;	360	SSOP
+LTC1742IFW	from hqew, 博通电子商行	LT	03+	10	TSSOP
+LTC1821-1ACGW	from hqew, 博通电子商行	LT	09+	6	SSOP36
+LTC1851CFW	from hqew, 博通电子商行	LT	99+	3	TSSOP
+LTC2209CUP	from hqew, 博通电子商行	LT	10+	2000	QFN
+LTC2256CUJ-14	from hqew, 博通电子商行	LT	08+	36	QFN
+LTC2256IUJ-14	from hqew, 博通电子商行	LT	08+	36	QFN
+LTC2258IUJ-12	from hqew, 博通电子商行	LINEAR	0852+	353	QFN
+LTC2258IUJ-14	from hqew, 博通电子商行	LT	08+	332	QFN
+LTC2259CUJ-12	from hqew, 博通电子商行	LT	10+	8	QFN
+LTC2272CUJ	from hqew, 博通电子商行	LT	08+	7	QFN
+LTC2392LX-16	from hqew, 博通电子商行	LT	09+	2	LQFP48
+LTC2450CDC-1	from hqew, 博通电子商行	LT	10+	12	DFN
+LTC2450IDC	from hqew, 博通电子商行	LT	10+	21	DFN6
+LTC2641CS8-16	from hqew, 博通电子商行	LT	08+	10	SOP8
+LTC2704CGW-16	from hqew, 博通电子商行	LT	08+	17	SOP44
+LTC2754ICKG-12	from hqew, 博通电子商行	LT	09+	8	QFN
+LTC2934IDC-1	from hqew, 博通电子商行	LT	10+	1962	DFN
+LTC2935IDC-2	from hqew, 博通电子商行	LT	10+	1854	DFN8
+LTC3220TEPF	from hqew, 博通电子商行	LINEAR	10+	257	QFN
+LTC3552EDHC	from hqew, 博通电子商行	LT	10+	43	QFN
+LTC3589IUJ	from hqew, 博通电子商行	LINEAR	10+	268	QFN
+LTC3608EWKG	from hqew, 博通电子商行	LINEAR	10+	252	QFN
+LTC3614IUDD	from hqew, 博通电子商行	LT	10+	20	QFN
+LTC3616EUDD	from hqew, 博通电子商行	LT	09+	75	QFN
+LTC3633EUFD	from hqew, 博通电子商行	LT	10+	25	QFN
+LTC3714EG	from hqew, 博通电子商行	LT	02+	3	SSOP
+LTC3808EGN	from hqew, 博通电子商行	LT	08+	51	SSOP16
+LTC3810EG	from hqew, 博通电子商行	LT	07+	1242	SSOP
+LTC3813IFE	from hqew, 博通电子商行	LT	08+	23	TSSOP
+LTC3827IG-1	from hqew, 博通电子商行	LT	10+	72	SSOP
+LTC3850EUF	from hqew, 博通电子商行	LINEAR	10+	1366	QFN
+LTC3859EFE	from hqew, 博通电子商行	LT	09+	40	TSSOP
+LTC3862IFE-1	from hqew, 博通电子商行	LT	09+	64	TSSOP
+LTC3865EUH	from hqew, 博通电子商行	LT	08+	116	QFN32
+LTC3890GN	from hqew, 博通电子商行	LT	10+	88	SSOP
+LTC4110EUHF	from hqew, 博通电子商行	LT	10+	21	QFN
+LTC4266IGW	from hqew, 博通电子商行	LT	10+	30	SSOP36
+LTC4556EUF	from hqew, 博通电子商行	LINEAR	10+	69	QFN
+LTC6802IG-2	from hqew, 博通电子商行	LT	10+	3	SSOP
+LTC7510EUH	from hqew, 博通电子商行	LINEAR	10+	620	QFN
+LTC986-1CGW-ES	from hqew, 博通电子商行	LT	02+	19	SSOP36
+LTM2881CY-3	from hqew, 博通电子商行	LT	11+	4	LGA
+LTM2881CY-5	from hqew, 博通电子商行	LT	10+	4	LGA
+LTM4606EV	from hqew, 博通电子商行	LT	08+	2	LGA
+LTM4607EV	from hqew, 博通电子商行	LT	10+	11	LGA
+LTM4608EV	from hqew, 博通电子商行	LT	09+	146	LGA
+LTM4619EV	from hqew, 博通电子商行	LT	10+	128	LGA
+LTM8023EV	from hqew, 博通电子商行	LT	08+	194	LGA
+LTM8061EV-4.1	from hqew, 博通电子商行	LT	10+	140	LGA
+LTM9003CV-AC	from hqew, 博通电子商行	LT	10+	15	LGA
+LXT970ATC	from hqew, 博通电子商行	INTEL	&nbsp;	1	QFP
+LY2N-J	from hqew, 博通电子商行	OMRON	12+	1000	
+MC33202DR2G	from hqew, 博通电子商行	ON SEMI	09+	88	SOP8
+MC3361CD	from hqew, 博通电子商行	MOTOROLA	&nbsp;	159	SOP
+MGNEA9A45C20	from hqew, 博通电子商行	Schneider	12+	1000	
+MGNEA9C45C2030C	from hqew, 博通电子商行	Schneider	12+	1000	
+MKS2P	from hqew, 博通电子商行	OMRON	12+	1000	
+MKS3P	from hqew, 博通电子商行	OMRON	12+	1000	
+MM5450BV	from hqew, 博通电子商行	MICREL	03+	84	PLCC
+MM5451BV	from hqew, 博通电子商行	MICREL	03+	7	PLCC
+MS4SF-AP1N	from hqew, 博通电子商行	FUJIFe	12+	1000	
+MST6M10L-LF	from hqew, 博通电子商行	MSTAR	0913+	72	QFP
+MT250	from hqew, 博通电子商行	Schneider	12+	1000	
+MT48LC32M16A2-75IT	from hqew, 博通电子商行	MIRON	1044+	3	TSSOP
+MT88E39AS	from hqew, 博通电子商行	MITER	04+	5	SOP
+MX584JCSA	from hqew, 博通电子商行	Other	98+	13	SOP
+MY4I5N	from hqew, 博通电子商行	OMRON	12+	1000	
+MY4N	from hqew, 博通电子商行	OMRON	12+	1000	
+M50FW040N1	from hqew, 博通电子商行	ST	0343+	63	TSSOP
+M5218A	from hqew, 博通电子商行	Other	0510+	6	DIP
+MAX170ACWE	from hqew, 博通电子商行	MAXIM	&nbsp;	8	SOP
+MAX170CCWE	from hqew, 博通电子商行	MAXIM	&nbsp;	85	SOP
+MAX185ACWG	from hqew, 博通电子商行	MAXIM	&nbsp;	35	SOP
+MAX185BCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	21	SOP
+MAX189CCWE	from hqew, 博通电子商行	MAXIM	&nbsp;	5	SOP
+MAX189CEWE	from hqew, 博通电子商行	MAXIM	&nbsp;	2	SOP
+MAX191BCWG	from hqew, 博通电子商行	MAXIM	01+	103	SOP
+MAX201EWE	from hqew, 博通电子商行	MAXIM	&nbsp;	4	SOP
+MAX202CPE	from hqew, 博通电子商行	MAXIM	&nbsp;	43	DIP
+MAX204CWE	from hqew, 博通电子商行	MAXIM	&nbsp;	43	SOP
+MAX207CWG	from hqew, 博通电子商行	MAXIM	&nbsp;	79	SOP
+MAX208CWG	from hqew, 博通电子商行	MAXIM	&nbsp;	44	SOP
+MAX209CWG	from hqew, 博通电子商行	MAXIM	&nbsp;	9	SOP
+MAX213CAI	from hqew, 博通电子商行	MAXIM	&nbsp;	37	SSOP
+MAX213ECWI	from hqew, 博通电子商行	MAXIM	&nbsp;	4	SOP
+MAX213EWI	from hqew, 博通电子商行	MAXIM	&nbsp;	11	SOP
+MAX222CWN	from hqew, 博通电子商行	MAXIM	&nbsp;	22	SOP
+MAX231CWE	from hqew, 博通电子商行	MAXIM	&nbsp;	74	SOP
+MAX232CPE	from hqew, 博通电子商行	MAX	07+	12	DIP
+MAX232ECSE	from hqew, 博通电子商行	MAXIM	&nbsp;	9	SOP
+MAX3241CAI	from hqew, 博通电子商行	MAXIM	&nbsp;	49	SSOP
+MAX3262CAG	from hqew, 博通电子商行	MAXIM	&nbsp;	87	SSOP
+MAX3668EHJ	from hqew, 博通电子商行	MAXIM	&nbsp;	68	QFP-32
+MAX4052ESE	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SOP
+MAX485ESA-T	from hqew, 博通电子商行	MAXIM	03+	2286	SOP
+MAX503BCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	32	SOP
+MAX506ACWP	from hqew, 博通电子商行	MAXIM	&nbsp;	170	SOP
+MAX508AEWP	from hqew, 博通电子商行	MAXIM	&nbsp;	13	SOP
+MAX512ESD	from hqew, 博通电子商行	MAXIM	&nbsp;	52	SOP
+MAX515CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	92	SOP
+MAX516BEWG	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SOP
+MAX526BCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	2	SOP
+MAX526CEWG	from hqew, 博通电子商行	MAXIM	&nbsp;	2	SOP
+MAX527DCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	5	SOP
+MAX527DEWG	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SOP
+MAX528CWG	from hqew, 博通电子商行	MAXIM	&nbsp;	4	SOP
+MAX528EWG	from hqew, 博通电子商行	MAXIM	&nbsp;	6	SOP
+MAX536AKCWE	from hqew, 博通电子商行	MAXIM	&nbsp;	2	SOP
+MAX536BCWE	from hqew, 博通电子商行	MAXIM	&nbsp;	3	SOP
+MAX543BCWE	from hqew, 博通电子商行	MAXIM	&nbsp;	8	SOP
+MAX543BEWE	from hqew, 博通电子商行	MAXIM	&nbsp;	71	SOP
+MAX560CWI	from hqew, 博通电子商行	MAXIM	&nbsp;	54	SOP
+MAX574AKCWI	from hqew, 博通电子商行	MAXIM	&nbsp;	3	SOP
+MAX604CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	88	SOP
+MAX660CSA	from hqew, 博通电子商行	MAXIM	06+	473	SOP-8L
+MAX680CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	45	SOP
+MAX691ACSE	from hqew, 博通电子商行	MAXIM	00+	1297	SOP
+MAX691AESE-T	from hqew, 博通电子商行	MAXIM	03+	57	SOP
+MAX706ESA-T	from hqew, 博通电子商行	MAXIM	03+	1000	SOP
+MAX706SCSA	from hqew, 博通电子商行	MAXIM	01+	6	SOP
+MAX707CSA	from hqew, 博通电子商行	MAX	06+	50	SOP
+MAX7310AUE	from hqew, 博通电子商行	MAXIM	1037+	12	TSSOP16
+MAX732CWE	from hqew, 博通电子商行	MAXIM	&nbsp;	62	SOP
+MAX735CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	44	SOP
+MAX744ACWE	from hqew, 博通电子商行	MAXIM	&nbsp;	64	SOP
+MAX759CWE	from hqew, 博通电子商行	MAXIM	&nbsp;	60	SOP
+MAX759EWE	from hqew, 博通电子商行	MAXIM	&nbsp;	16	SOP
+MAX7824LCWG	from hqew, 博通电子商行	MAXIM	&nbsp;	61	SOP
+MAX783CBX	from hqew, 博通电子商行	MAXIM	&nbsp;	67	SSOP
+MAX785CAI	from hqew, 博通电子商行	MAXIM	&nbsp;	1	SSOP
+MAX798ESE	from hqew, 博通电子商行	MAXIM	&nbsp;	100	SOP
+MAX809JD	from hqew, 博通电子商行	PHILIPS	&nbsp;	2204	SOT-23
+MAX809LD	from hqew, 博通电子商行	PHILIPS	463v	173	SOT-23
+MAX810RW	from hqew, 博通电子商行	PHILIPS	&nbsp;	3000	SOT-23
+MAX8867EUK29-T	from hqew, 博通电子商行	MAXIM	04+	80	SOT-23
+MAX921CSA	from hqew, 博通电子商行	MAXIM	&nbsp;	51	SOP
+NE555	from hqew, 博通电子商行	TI	09+	173	SOP
+NF30-FAU	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+NF400-CW	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+NG125L 4P 80A	from hqew, 博通电子商行	Schneider	12+	1000	
+NS800N 3P 800A	from hqew, 博通电子商行	Schneider	12+	1000	
+NSE250N 3P 200A	from hqew, 博通电子商行	Schneider	12+	1000	
+NSE630N 3P 630A	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX100F TM40D 3P3	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX400-630	from hqew, 博通电子商行	Schneider	12+	1000	
+NSX630N 4P MIC2.3	from hqew, 博通电子商行	Schneider	12+	1000	
+NV125-CW	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+P2RF-08-E	from hqew, 博通电子商行	OMRON	12+	1000	
+PC900V	from hqew, 博通电子商行	SHARP	09+	390	DIP
+PD110F160	from hqew, 博通电子商行	SanRex	10+	567	
+PD130F160	from hqew, 博通电子商行	SanRex	10+	567	
+PD160F120	from hqew, 博通电子商行	SanRex	10+	567	
+PD25FG120	from hqew, 博通电子商行	SanRex	10+	567	
+PD25FG160	from hqew, 博通电子商行	SanRex	10+	567	
+PE130F120	from hqew, 博通电子商行	SanRex	10+	567	
+PE160F120	from hqew, 博通电子商行	SanRex	10+	567	
+PE25F120	from hqew, 博通电子商行	SanRex	10+	567	
+PE25F160	from hqew, 博通电子商行	SanRex	10+	567	
+PE25FG160	from hqew, 博通电子商行	SanRex	10+	567	
+PE55F120	from hqew, 博通电子商行	SanRex	10+	567	
+PE55F160	from hqew, 博通电子商行	SanRex	10+	567	
+PE90FG120	from hqew, 博通电子商行	SanRex	10+	567	
+PE90FG160	from hqew, 博通电子商行	SanRex	10+	567	
+PK40F120	from hqew, 博通电子商行	SanRex	10+	567	
+PT08	from hqew, 博通电子商行	OMRON	12+	1000	
+RE11RCMU	from hqew, 博通电子商行	Schneider	12+	1000	
+RE7MA11BU	from hqew, 博通电子商行	Schneider	12+	1000	
+RE7MY13MW	from hqew, 博通电子商行	Schneider	12+	1000	
+RM4JA01M	from hqew, 博通电子商行	Schneider	12+	1000	
+RM4UB35	from hqew, 博通电子商行	Schneider	12+	1000	
+RPF2BBD DC24V	from hqew, 博通电子商行	Schneider	12+	1000	
+RPM22BD	from hqew, 博通电子商行	Schneider	12+	1000	
+RSB-2A080BD	from hqew, 博通电子商行	Schneider	12+	1000	
+RUZSC3M	from hqew, 博通电子商行	Schneider	12+	1000	
+RXL3A10B1BD	from hqew, 博通电子商行	Schneider	12+	1000	
+RXM3AB2P7	from hqew, 博通电子商行	Schneider	12+	1000	
+RXM4AB2P7	from hqew, 博通电子商行	Schneider	12+	1000	
+RXM4LB2P7	from hqew, 博通电子商行	Schneider	12+	1000	
+RXZE1M2C	from hqew, 博通电子商行	Schneider	12+	1000	
+RXZE1M4C	from hqew, 博通电子商行	Schneider	12+	1000	
+RXZE2S114M	from hqew, 博通电子商行	Schneider	12+	1000	
+S1DXM-A2C30M-DC24V	from hqew, 博通电子商行	Panasonic	12+	1000	
+S82K-05024	from hqew, 博通电子商行	OMRON	12+	1000	
+SC-E02	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-E02/G	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-E05	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-N3 65 110V	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-N4 80 220V	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-N6 125	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-N7	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-O	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SC-O3	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SD-N125	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SD-N21	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SD-Q11	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SH-4/G	from hqew, 博通电子商行	FUJIFe	12+	1000	
+S-N12	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+S-N20	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+S-N25	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SN26LS32AQ	from hqew, 博通电子商行	TI	08+	10	SOP
+S-N300	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+S-N65	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SN7405	from hqew, 博通电子商行	TI	99+	200	SOP
+sn74HC14d	from hqew, 博通电子商行	TI	06+	20	SOP
+SN74LVC138D	from hqew, 博通电子商行	TI	03+	10	SOP
+S-N80	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+S-N95	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SP4385E	from hqew, 博通电子商行	SP	08+	50	SOP
+SRD-N8	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SR-N4	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SS495A	from hqew, 博通电子商行	HONEYWELL	10+	10000	TO-92
+SS-5GL2	from hqew, 博通电子商行	OMRON	12+	1000	
+S-V25	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+S-V32	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+SZ-A02	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SZ-A20-C	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SZ-A22	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SZ-A31	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SZ-A40	from hqew, 博通电子商行	FUJIFe	12+	1000	
+SZ-RM	from hqew, 博通电子商行	FUJIFe	12+	1000	
+TB2118C7	from hqew, 博通电子商行	Panasonic	12+	1000	
+TB2128C7	from hqew, 博通电子商行	Panasonic	12+	1000	
+TC74HCT174AF	from hqew, 博通电子商行	TOSHIBA	0525+	166	SOP
+TH-V25KP	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+TK-N2	from hqew, 博通电子商行	FUJIFe	12+	1000	
+TLE4913	from hqew, 博通电子商行	INFINEON	10+	100000	SOT-23
+TL-N10ME1	from hqew, 博通电子商行	OMRON	12+	1000	
+TL-N20ME1	from hqew, 博通电子商行	OMRON	12+	1000	
+TM2AMI4LT	from hqew, 博通电子商行	Schneider	12+	1000	
+TR-5-1N/3	from hqew, 博通电子商行	FUJIFe	12+	1000	
+TSX3721001	from hqew, 博通电子商行	Schneider	12+	1000	PLC
+TWDLCAA24DRF	from hqew, 博通电子商行	Schneider	12+	1000	Twido PL
+TWDLCAA40DRF	from hqew, 博通电子商行	Schneider	12+	1000	Twido PL
+US1881EUA	from hqew, 博通电子商行	MELEXIS	10+	21522	TO-92
+US1881KUA	from hqew, 博通电子商行	MELEXIS	10+	15552	TO-92
+US5781LUA	from hqew, 博通电子商行	MELEXIS	10+	12000	TO-92
+US5782LSE	from hqew, 博通电子商行	MELEXIS	10+	12000	SOT-23
+US5881EUA	from hqew, 博通电子商行	MELEXIS	10+	20000	TO-92
+US5881LSE	from hqew, 博通电子商行	MELEXIS	10+	20000	SOT-23
+US-N40	from hqew, 博通电子商行	MITSUBISHI	12+	1000	
+V02C 12A	from hqew, 博通电子商行	Schneider	12+	1000	
+V-15-1A5	from hqew, 博通电子商行	OMRON	12+	1000	
+V-153-1A5	from hqew, 博通电子商行	OMRON	12+	1000	
+V-153-1C25	from hqew, 博通电子商行	OMRON	12+	1000	
+V-156-1C25	from hqew, 博通电子商行	OMRON	12+	1000	
+V2C 40A	from hqew, 博通电子商行	Schneider	12+	1000	
+V5 125A	from hqew, 博通电子商行	Schneider	12+	1000	
+VZ7	from hqew, 博通电子商行	Schneider	12+	1000	
+XBT-N400	from hqew, 博通电子商行	Schneider	12+	1000	Magelis
+XS2-30BLNAL2C	from hqew, 博通电子商行	Schneider	12+	1000	
+XS518B1DAL2	from hqew, 博通电子商行	Schneider	12+	1000	
+XS618B1NAL2	from hqew, 博通电子商行	Schneider	12+	1000	
+XS630B1MAL2	from hqew, 博通电子商行	Schneider	12+	1000	
+XS6-30B1MBL2	from hqew, 博通电子商行	Schneider	12+	1000	
+XSAV11373	from hqew, 博通电子商行	Schneider	12+	1000	
+XSDA500519	from hqew, 博通电子商行	Schneider	12+	1000	
+XVGB3H	from hqew, 博通电子商行	Schneider	12+	1000	
+Z-15GQ21-B	from hqew, 博通电子商行	OMRON	12+	1000	
+Z-15HW78-B	from hqew, 博通电子商行	OMRON	12+	1000	
+ZC-D55	from hqew, 博通电子商行	OMRON	12+	1000	

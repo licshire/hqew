@@ -75,4 +75,5 @@ func getMiddleString(str0, str1, str2 string) string {
 	} else {
 		return mySlice[1]
 	}
+	return ""
 }

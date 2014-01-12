@@ -1,0 +1,73 @@
+53261-0871	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53261-1171	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53398-0571	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53398-0671	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+74HC03D	from hqew, 欧普达电子（香港）	NXP	2013+	3400	SOP-14
+AGQ200A4HZ	from hqew, 欧普达电子（香港）	Panasonic	2012+	20000	
+FL128PIF	from hqew, 欧普达电子（香港）	Spansion	1123+	1095	SOP16
+TQ2-3V	from hqew, 欧普达电子（香港）	Panasonic	2012+	20000	
+ZT7110D	from hqew, 欧普达电子（香港）	ZILLTEK	2011+	10084	QFN22-6L
+53261-0271	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53261-1071	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53261-1271	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53261-1471	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53398-0371	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53398-1171	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53398-1271	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53398-1371	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+74HC1G04GW	from hqew, 欧普达电子（香港）	NXP	2012	2980	SOT-353
+AGQ200A4HZ	from hqew, 欧普达电子（香港）	PANASONIC	2013	20000	NA
+AR7400-AC2C	from hqew, 欧普达电子（香港）	ATHEROS	1014+	490	BGA196
+FHW0805UCR56JGT	from hqew, 欧普达电子（香港）	风华高科	07+	700	0805
+NL322522T-R10J	from hqew, 欧普达电子（香港）	TDK	2005	405	3225
+PESD12VS2UQ,115	from hqew, 欧普达电子（香港）	NXP	2011+PB	1000	SOT-663
+SDIN5C2-16G	from hqew, 欧普达电子（香港）	SanDisk	11+	1	BGA169
+SLRC40001T/OFE	from hqew, 欧普达电子（香港）	NXP	1340+	9600	SOP32
+SN74LV14DB	from hqew, 欧普达电子（香港）	TI	05	1500	SSOP14
+XL2596T-5V	from hqew, 欧普达电子（香港）	芯龙	13+	1000	TO220-5
+53261-0571	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53261-0771	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53261-0971	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53261-1371	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53398-0471	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53398-0771	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53398-0871	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53398-0971	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53398-1071	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53398-1471	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53398-1571	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+73S8009R-IM/F	from hqew, 欧普达电子（香港）	TERIDIN	10+PB	485	QFN20
+AQW214EHAX	from hqew, 欧普达电子（香港）	Panasonic	2012+	20000	
+AQY214S	from hqew, 欧普达电子（香港）	PANASONIC	2013	20000	SOP4
+DF02S-T-F	from hqew, 欧普达电子（香港）	DIODES INC	0832+	3000	SOP4
+FDG326P-NL	from hqew, 欧普达电子（香港）	FAIRCHILD	10+PB	1700	SOT-363
+FDN302P-NL	from hqew, 欧普达电子（香港）	FAIRCHILD	10+PB	500	SOT-23
+MC33560DTBR2G	from hqew, 欧普达电子（香港）	ON SEMI	09+	2500	TSSOP-24
+MT29C4G96MAZAPCJG-5 IT	from hqew, 欧普达电子（香港）	MICRON	1146+	3	FBGA168
+MT48LC8M16A2B4-75:G	from hqew, 欧普达电子（香港）	MICRON	09+	320	FBGA54
+M12L128168A-6T	from hqew, 欧普达电子（香港）	ESMT	1023+	1856	TSOP54
+PN5321A3HN/C106	from hqew, 欧普达电子（香港）	NXP	1340	2450	HVQFN40
+PT6315	from hqew, 欧普达电子（香港）	PTC	2011	1200	LQFP44
+S25FL128P0XMFI001	from hqew, 欧普达电子（香港）	Spansion	1123+	1095	SOP16
+XL2596T-5.0E1	from hqew, 欧普达电子（香港）	芯龙	1320+	5000	TO220-5
+1812WBT-3LC	from hqew, 欧普达电子（香港）	coilcraft/线	2013	770	SMD
+53261-0371	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53261-0471	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53261-0671	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53261-1571	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+53398-0271	from hqew, 欧普达电子（香港）	molex	NEW	50000	Connecto
+73S8009R-IMR/F	from hqew, 欧普达电子（香港）	TERIDIAN	1013+	485	QFN20
+LH6516G	from hqew, 欧普达电子（香港）	LH	08	15000	SOP16
+LM5072MHX-80/NOPB	from hqew, 欧普达电子（香港）	NSC	1224+	1500	TSSOP16
+PN532	from hqew, 欧普达电子（香港）	NXP	1340	2490	HVQFN40
+SLRC400	from hqew, 欧普达电子（香港）	NXP	1340+	9600	SOP32
+TL062CDR	from hqew, 欧普达电子（香港）	TI	2012+	25000	SOP8
+UPC1688G-T1	from hqew, 欧普达电子（香港）	NEC	2009PB	2000	SOT-143
+ADW1112HT	from hqew, 欧普达电子（香港）	Panasonic	2012+	20000	
+AQW214SX	from hqew, 欧普达电子（香港）	PANASONIC	2013	20000	SOP8
+BTB08-600CW	from hqew, 欧普达电子（香港）	ST	1310	50	TO220
+EKMC1601111	from hqew, 欧普达电子（香港）	PANASONIC	2012	5000	
+ESDA6V1W5	from hqew, 欧普达电子（香港）	ST进口	2012+	240000	SOT323-5
+GS1G	from hqew, 欧普达电子（香港）	PANJIT	1312+	36000	SMADO-21
+RC400	from hqew, 欧普达电子（香港）	NXP	1340+	9600	SOP32
+V54C3256804VDI7	from hqew, 欧普达电子（香港）	Rrom	0802+	795	TSOP54

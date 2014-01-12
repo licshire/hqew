@@ -1,0 +1,292 @@
+0805P020TF	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+0805P100	from hqew, 多智达科技	聚鼎聚达	2013	68000	SMD0805
+1206P016	from hqew, 多智达科技	聚鼎聚达	2012	64000	SMD1206
+1206P035TF/16	from hqew, 多智达科技	聚鼎聚达	2012	24000	SMD1206
+1210P050	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P110	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1812 014	from hqew, 多智达科技	聚鼎聚达	2013	160000	SMD1812
+1812 050	from hqew, 多智达科技	聚鼎聚达	2012	224000	SMD1812
+1812P010	from hqew, 多智达科技	聚鼎聚达	2013	232000	SMD1812
+1812P370SLR	from hqew, 多智达科技	聚鼎聚达	2012	46000	SMD1812
+2016 050	from hqew, 多智达科技	聚鼎聚达	2012	12000	SMD2016
+2016P030TF	from hqew, 多智达科技	聚鼎聚达	2012	12000	SMD2016
+2920 185	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+2920 200	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+2920P185	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+SMD0805P075TF	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+SMD1206P200TF	from hqew, 多智达科技	聚鼎聚达	2013	152000	SMD1206
+SMD1210P050	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1812P020TF	from hqew, 多智达科技	聚鼎聚达	2012	136000	SMD1812
+SMD1812P035	from hqew, 多智达科技	聚鼎聚达	2012	86000	SMD1812
+SMD1812P050	from hqew, 多智达科技	聚鼎聚达	2012	224000	SMD1812
+SMD1812P075TF/33	from hqew, 多智达科技	聚鼎聚达	2012	182000	SMD1812
+SMD1812P150TF/12	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1812
+SMD2016P050TF	from hqew, 多智达科技	聚鼎聚达	2012	12000	SMD2016
+0805 035	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+0805P010TF	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+0805P035	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+0805P050TF	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+1206 012	from hqew, 多智达科技	聚鼎聚达	2012	64000	SMD1206
+1206 016	from hqew, 多智达科技	聚鼎聚达	2012	64000	SMD1206
+1206 050	from hqew, 多智达科技	聚鼎聚达	2012	324000	SMD1206
+1206 075	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1206
+1206 110	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1206
+1206P012	from hqew, 多智达科技	聚鼎聚达	2012	64000	SMD1206
+1206P012TF	from hqew, 多智达科技	聚鼎聚达	2012	64000	SMD1206
+1206P050TF	from hqew, 多智达科技	聚鼎聚达	2012	324000	SMD1206
+1206P075TF/13.2	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1206
+1206P110TFT	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1206
+1206P150TF	from hqew, 多智达科技	聚鼎聚达	2013	244000	SMD1206
+1206P200	from hqew, 多智达科技	聚鼎聚达	2013	152000	SMD1206
+1206P200TF	from hqew, 多智达科技	聚鼎聚达	2013	152000	SMD1206
+1210 005	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210 010	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210 075	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P005	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P020	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P020TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P035TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P050TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P150	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P150TF HF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P200	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P200TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1812 010	from hqew, 多智达科技	聚鼎聚达	2013	232000	SMD1812
+1812 150	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1812
+1812 200	from hqew, 多智达科技	聚鼎聚达	2013	172000	SMD1812
+1812 370	from hqew, 多智达科技	聚鼎聚达	2012	46000	SMD1812
+1812P010TF	from hqew, 多智达科技	聚鼎聚达	2013	232000	SMD1812
+1812P014	from hqew, 多智达科技	聚鼎聚达	2013	160000	SMD1812
+1812P014TF	from hqew, 多智达科技	聚鼎聚达	2013	160000	SMD1812
+1812P020	from hqew, 多智达科技	聚鼎聚达	2012	136000	SMD1812
+1812P020TF	from hqew, 多智达科技	聚鼎聚达	2012	136000	SMD1812
+1812P125TF/16	from hqew, 多智达科技	聚鼎聚达	2012	92000	SMD1812
+1812P150TF/12	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1812
+1812P160	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1812
+1812P160TF	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1812
+1812P200	from hqew, 多智达科技	聚鼎聚达	2013	172000	SMD1812
+1812P260	from hqew, 多智达科技	聚鼎聚达	2013	84000	SMD1812
+1812P260	from hqew, 多智达科技	聚鼎聚达	2012	154000	SMD1812
+1812P260TF/12	from hqew, 多智达科技	聚鼎聚达	2013	84000	SMD1812
+1812P300	from hqew, 多智达科技	聚鼎聚达	2013	112000	SMD1812
+1812P300TF	from hqew, 多智达科技	聚鼎聚达	2013	112000	SMD1812
+1812P370	from hqew, 多智达科技	聚鼎聚达	2012	46000	SMD1812
+2016 030	from hqew, 多智达科技	聚鼎聚达	2012	12000	SMD2016
+2016P050	from hqew, 多智达科技	聚鼎聚达	2012	12000	SMD2016
+2016P100	from hqew, 多智达科技	聚鼎聚达	2012	12000	SMD2016
+2920P185TF	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+2920P300	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+R5F212A8SDFP	from hqew, 多智达科技	RENESAS	2012+	3954	LQFP64
+SMD0805P010	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+SMD0805P020TF	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+SMD0805P035	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+SMD0805P035TF	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+SMD0805P050TF	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+SMD0805P075	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+SMD0805P100	from hqew, 多智达科技	聚鼎聚达	2013	68000	SMD0805
+SMD1206P012TF	from hqew, 多智达科技	聚鼎聚达	2012	64000	SMD1206
+SMD1206P016TF	from hqew, 多智达科技	聚鼎聚达	2012	64000	SMD1206
+SMD1206P050TF	from hqew, 多智达科技	聚鼎聚达	2013	324000	SMD1206
+SMD1206P050TF	from hqew, 多智达科技	聚鼎聚达	2012	324000	SMD1206
+SMD1206P075	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1206
+SMD1206P075TFT	from hqew, 多智达科技	聚鼎聚达	2012	284000	SMD1206
+SMD1206P150TF	from hqew, 多智达科技	聚鼎聚达	2013	244000	SMD1206
+SMD1206P150TFT	from hqew, 多智达科技	聚鼎聚达	2013	244000	SMD1206
+SMD1206P200	from hqew, 多智达科技	聚鼎聚达	2013	152000	SMD1206
+SMD1210P010TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P020	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P075TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P110	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P110TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P110TFT	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P150	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P150TF HF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P200	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1812P014TF	from hqew, 多智达科技	聚鼎聚达	2013	160000	SMD1812
+SMD1812P030	from hqew, 多智达科技	聚鼎聚达	2012	86000	SMD1812
+SMD1812P030TF	from hqew, 多智达科技	聚鼎聚达	2012	86000	SMD1812
+SMD1812P035TF/30	from hqew, 多智达科技	聚鼎聚达	2012	86000	SMD1812
+SMD1812P050	from hqew, 多智达科技	聚鼎聚达	2013	346000	SMD1812
+SMD1812P075TF/24	from hqew, 多智达科技	聚鼎聚达	2012	124000	SMD1812
+SMD1812P110	from hqew, 多智达科技	聚鼎聚达	2013	164000	SMD1812
+SMD1812P200TFT	from hqew, 多智达科技	聚鼎聚达	2013	172000	SMD1812
+SMD1812P260	from hqew, 多智达科技	聚鼎聚达	2012	154000	SMD1812
+SMD1812P300TFT	from hqew, 多智达科技	聚鼎聚达	2013	112000	SMD1812
+SMD1812P370SLR	from hqew, 多智达科技	聚鼎聚达	2012	46000	SMD1812
+SMD2016P100	from hqew, 多智达科技	聚鼎聚达	2012	12000	SMD2016
+SMD2920P185	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+SMD2920P200	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+SMD2920P250	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+SMD2920P300	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+SMD2920P300TF	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+0805 010	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+0805 100	from hqew, 多智达科技	聚鼎聚达	2013	68000	SMD0805
+0805P020	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+0805P075TF	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+1206 020	from hqew, 多智达科技	聚鼎聚达	2012	144000	SMD1206
+1206 035	from hqew, 多智达科技	聚鼎聚达	2012	24000	SMD1206
+1206 200	from hqew, 多智达科技	聚鼎聚达	2013	152000	SMD1206
+1206P016TF	from hqew, 多智达科技	聚鼎聚达	2012	64000	SMD1206
+1206P020	from hqew, 多智达科技	聚鼎聚达	2012	144000	SMD1206
+1206P035	from hqew, 多智达科技	聚鼎聚达	2012	24000	SMD1206
+1206P050	from hqew, 多智达科技	聚鼎聚达	2013	324000	SMD1206
+1206P050	from hqew, 多智达科技	聚鼎聚达	2012	324000	SMD1206
+1206P050TF	from hqew, 多智达科技	聚鼎聚达	2013	324000	SMD1206
+1206P050TF/15	from hqew, 多智达科技	聚鼎聚达	2012	120000	SMD1206
+1206P075TF	from hqew, 多智达科技	聚鼎聚达	2012	284000	SMD1206
+1206P150TFT	from hqew, 多智达科技	聚鼎聚达	2013	244000	SMD1206
+1210 020	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210 050	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210 150	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210 175	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P010	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P075	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P075TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P075TF/24	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P110TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P110TFT	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P175TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1812 020	from hqew, 多智达科技	聚鼎聚达	2012	136000	SMD1812
+1812 050	from hqew, 多智达科技	聚鼎聚达	2013	346000	SMD1812
+1812 110	from hqew, 多智达科技	聚鼎聚达	2013	164000	SMD1812
+1812 110	from hqew, 多智达科技	聚鼎聚达	2012	92000	SMD1812
+1812 160	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1812
+1812 260	from hqew, 多智达科技	聚鼎聚达	2013	84000	SMD1812
+1812P035	from hqew, 多智达科技	聚鼎聚达	2012	86000	SMD1812
+1812P035TF/30	from hqew, 多智达科技	聚鼎聚达	2012	86000	SMD1812
+1812P050	from hqew, 多智达科技	聚鼎聚达	2013	346000	SMD1812
+1812P050TF	from hqew, 多智达科技	聚鼎聚达	2013	346000	SMD1812
+1812P050TF/30	from hqew, 多智达科技	聚鼎聚达	2012	224000	SMD1812
+1812P075TF/24	from hqew, 多智达科技	聚鼎聚达	2012	124000	SMD1812
+1812P110	from hqew, 多智达科技	聚鼎聚达	2013	164000	SMD1812
+1812P110	from hqew, 多智达科技	聚鼎聚达	2012	92000	SMD1812
+1812P150TF/24	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1812
+1812P260TF	from hqew, 多智达科技	聚鼎聚达	2012	154000	SMD1812
+2016P100TF/33	from hqew, 多智达科技	聚鼎聚达	2012	12000	SMD2016
+2920P200	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+2920P250	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+2920P250TF	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+2920P300TF	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+SMD0805P010TF	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+SMD0805P050	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+SMD0805P100TF	from hqew, 多智达科技	聚鼎聚达	2013	68000	SMD0805
+SMD1206P012	from hqew, 多智达科技	聚鼎聚达	2012	64000	SMD1206
+SMD1206P016	from hqew, 多智达科技	聚鼎聚达	2012	64000	SMD1206
+SMD1206P020	from hqew, 多智达科技	聚鼎聚达	2012	144000	SMD1206
+SMD1206P020TF/24	from hqew, 多智达科技	聚鼎聚达	2012	144000	SMD1206
+SMD1206P050TF/15	from hqew, 多智达科技	聚鼎聚达	2012	120000	SMD1206
+SMD1206P075TF/13.2	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1206
+SMD1206P110	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1206
+SMD1206P110TFT	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1206
+SMD1210P005TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P010	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P020TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P035	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P035TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P050TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P075	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P175TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P200TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1812P010TF	from hqew, 多智达科技	聚鼎聚达	2013	232000	SMD1812
+SMD1812P020	from hqew, 多智达科技	聚鼎聚达	2012	136000	SMD1812
+SMD1812P050TF	from hqew, 多智达科技	聚鼎聚达	2013	346000	SMD1812
+SMD1812P050TF/30	from hqew, 多智达科技	聚鼎聚达	2012	224000	SMD1812
+SMD1812P075	from hqew, 多智达科技	聚鼎聚达	2012	226000	SMD1812
+SMD1812P075TF	from hqew, 多智达科技	聚鼎聚达	2012	226000	SMD1812
+SMD1812P110TF	from hqew, 多智达科技	聚鼎聚达	2013	164000	SMD1812
+SMD1812P110TF/16	from hqew, 多智达科技	聚鼎聚达	2012	92000	SMD1812
+SMD1812P125	from hqew, 多智达科技	聚鼎聚达	2012	92000	SMD1812
+SMD1812P125TF/6	from hqew, 多智达科技	聚鼎聚达	2012	92000	SMD1812
+SMD1812P160	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1812
+SMD1812P260	from hqew, 多智达科技	聚鼎聚达	2013	84000	SMD1812
+SMD1812P260TF/12	from hqew, 多智达科技	聚鼎聚达	2013	84000	SMD1812
+SMD1812P300	from hqew, 多智达科技	聚鼎聚达	2013	112000	SMD1812
+SMD2016P030	from hqew, 多智达科技	聚鼎聚达	2012	12000	SMD2016
+SMD2016P050	from hqew, 多智达科技	聚鼎聚达	2012	12000	SMD2016
+SMD2920P200TF/24	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+SMD2920P300TF/15	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+0805 020	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+0805 075	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+0805P010	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+0805P035TF	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+0805P050	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+0805P075	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+1206 050	from hqew, 多智达科技	聚鼎聚达	2013	324000	SMD1206
+1206 150	from hqew, 多智达科技	聚鼎聚达	2013	244000	SMD1206
+1206P075	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1206
+1206P075TFT	from hqew, 多智达科技	聚鼎聚达	2012	284000	SMD1206
+1206P110	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1206
+1206P110SLR	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1206
+1210 200	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P010TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P035	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1812 030	from hqew, 多智达科技	聚鼎聚达	2012	86000	SMD1812
+1812 125	from hqew, 多智达科技	聚鼎聚达	2012	92000	SMD1812
+1812P050	from hqew, 多智达科技	聚鼎聚达	2012	224000	SMD1812
+1812P075TF	from hqew, 多智达科技	聚鼎聚达	2012	226000	SMD1812
+1812P110TF	from hqew, 多智达科技	聚鼎聚达	2013	164000	SMD1812
+1812P110TF/16	from hqew, 多智达科技	聚鼎聚达	2012	92000	SMD1812
+1812P110TF/33	from hqew, 多智达科技	聚鼎聚达	2012	92000	SMD1812
+1812P125TF/6	from hqew, 多智达科技	聚鼎聚达	2012	92000	SMD1812
+1812P260TFT	from hqew, 多智达科技	聚鼎聚达	2012	154000	SMD1812
+2016P030	from hqew, 多智达科技	聚鼎聚达	2012	12000	SMD2016
+2920 250	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+2920P200TF/24	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+SMD1206P035	from hqew, 多智达科技	聚鼎聚达	2012	24000	SMD1206
+SMD1206P035TF/16	from hqew, 多智达科技	聚鼎聚达	2012	24000	SMD1206
+SMD1206P050	from hqew, 多智达科技	聚鼎聚达	2013	324000	SMD1206
+SMD1206P075TF	from hqew, 多智达科技	聚鼎聚达	2012	284000	SMD1206
+SMD1210P075TF/24	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1210P175	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1812P125TF/16	from hqew, 多智达科技	聚鼎聚达	2012	92000	SMD1812
+SMD1812P150	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1812
+SMD1812P200	from hqew, 多智达科技	聚鼎聚达	2013	172000	SMD1812
+SMD1812P260TFT	from hqew, 多智达科技	聚鼎聚达	2012	154000	SMD1812
+SMD1812P300TF	from hqew, 多智达科技	聚鼎聚达	2013	112000	SMD1812
+SMD2016P030TF	from hqew, 多智达科技	聚鼎聚达	2012	12000	SMD2016
+0805 050	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+0805P100TF	from hqew, 多智达科技	聚鼎聚达	2013	68000	SMD0805
+1206P020TF/24	from hqew, 多智达科技	聚鼎聚达	2012	144000	SMD1206
+1206P110TF	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1206
+1206P150	from hqew, 多智达科技	聚鼎聚达	2013	244000	SMD1206
+1210 035	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210 110	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P005TF	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1210P175	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+1812 035	from hqew, 多智达科技	聚鼎聚达	2012	86000	SMD1812
+1812 075	from hqew, 多智达科技	聚鼎聚达	2012	226000	SMD1812
+1812 260	from hqew, 多智达科技	聚鼎聚达	2012	154000	SMD1812
+1812 300	from hqew, 多智达科技	聚鼎聚达	2013	112000	SMD1812
+1812P030	from hqew, 多智达科技	聚鼎聚达	2012	86000	SMD1812
+1812P030TF	from hqew, 多智达科技	聚鼎聚达	2012	86000	SMD1812
+1812P075	from hqew, 多智达科技	聚鼎聚达	2012	226000	SMD1812
+1812P075TF/33	from hqew, 多智达科技	聚鼎聚达	2012	182000	SMD1812
+1812P125	from hqew, 多智达科技	聚鼎聚达	2012	92000	SMD1812
+1812P150	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1812
+1812P150TF/8	from hqew, 多智达科技	聚鼎聚达	2012	78000	SMD1812
+1812P200TF	from hqew, 多智达科技	聚鼎聚达	2013	172000	SMD1812
+1812P300TFT	from hqew, 多智达科技	聚鼎聚达	2013	112000	SMD1812
+2016 100	from hqew, 多智达科技	聚鼎聚达	2012	12000	SMD2016
+2016P050TF	from hqew, 多智达科技	聚鼎聚达	2012	12000	SMD2016
+2920 300	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+2920P300TF/15	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+SMD0805P020	from hqew, 多智达科技	聚鼎聚达	2012	48000	SMD0805
+SMD1206P050	from hqew, 多智达科技	聚鼎聚达	2012	324000	SMD1206
+SMD1206P110SLR	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1206
+SMD1206P110TF	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1206
+SMD1206P150	from hqew, 多智达科技	聚鼎聚达	2013	244000	SMD1206
+SMD1210P005	from hqew, 多智达科技	聚鼎聚达	2012	36000	SMD1210
+SMD1812P010	from hqew, 多智达科技	聚鼎聚达	2013	232000	SMD1812
+SMD1812P014	from hqew, 多智达科技	聚鼎聚达	2013	160000	SMD1812
+SMD1812P110	from hqew, 多智达科技	聚鼎聚达	2012	92000	SMD1812
+SMD1812P110TF/33	from hqew, 多智达科技	聚鼎聚达	2012	92000	SMD1812
+SMD1812P150TF/24	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1812
+SMD1812P150TF/8	from hqew, 多智达科技	聚鼎聚达	2012	78000	SMD1812
+SMD1812P160TF	from hqew, 多智达科技	聚鼎聚达	2012	84000	SMD1812
+SMD1812P200TF	from hqew, 多智达科技	聚鼎聚达	2013	172000	SMD1812
+SMD1812P260TF	from hqew, 多智达科技	聚鼎聚达	2012	154000	SMD1812
+SMD1812P370	from hqew, 多智达科技	聚鼎聚达	2012	46000	SMD1812
+SMD2016P100TF/33	from hqew, 多智达科技	聚鼎聚达	2012	12000	SMD2016
+SMD2920P185TF	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+SMD2920P250TF	from hqew, 多智达科技	聚鼎聚达	2012	22000	SMD2920
+FSMD050-1206-R	from hqew, 多智达科技	台湾富致	2013+	328000	1206

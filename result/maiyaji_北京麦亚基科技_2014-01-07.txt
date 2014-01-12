@@ -1,0 +1,2631 @@
+CLF7045T-100M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+FCR3.52M5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR3.58MC5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MMZ1608R471AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+SLF7032T-4R7M	from hqew, 北京麦亚基科技	TDK	12+	13000	SMD
+TF0804B-08P-01	from hqew, 北京麦亚基科技	TDK	12+	42000	SMD
+TSL0707RA-330K-2PF	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+TSL0709RA-150K	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+TSL0709RA-680K	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+TSL0709S-152KR16-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709S-221KR44-PF	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0808RA-271K	from hqew, 北京麦亚基科技	TDK	12+	7000	DIP
+TSL0808RA-4R7M	from hqew, 北京麦亚基科技	TDK	12+	64000	DIP
+TSL1112RA-220K	from hqew, 北京麦亚基科技	TDK	12+	4000	DIP
+TSL1112RA-330K	from hqew, 北京麦亚基科技	TDK	12+	12000	DIP
+TSL1315RA-150K	from hqew, 北京麦亚基科技	TDK	12+	1200	SMD
+TSL1315RA-150K4R5-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-152JR68-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-220K	from hqew, 北京麦亚基科技	MYKIA	12+	2000	SMD
+TSL1315RA-222J	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-472JR37-PF	from hqew, 北京麦亚基科技	TDK	12+	200	SMD
+TSL1315RA-680K3R0-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-682J	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+TSL1315S-222JR55-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-681KR99-PF	from hqew, 北京麦亚基科技	TDK	12+	400	SMD
+ZCAT2035-0930A	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ACH4518-682-T	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+ACT45B-510-2P	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+CLF7045T-2R2N	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+CLF7045T-3R3N	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+FCR3.45M5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR3.52MC5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR3.84MSC5XZ	from hqew, 北京麦亚基科技	TDK	11+	218000	SMD
+MLF1608C180KT	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MLF2012E120KT	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+MMZ1608F030BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Q121BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Q221B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Q221BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Q331BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Q471BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608R102AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608R150AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608R300A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608R300AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608R471A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MPZ2012S101AT000	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+RLF7030T-6R8M	from hqew, 北京麦亚基科技	TDK	12+	3000	SMD
+SLF10165T-220M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF10165T-3R3N	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF10165T-4R7N	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF10165T-6R8N	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF7032T-3R3M	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+SLF7032T-470M	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+SLF7032T-680M	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+SLF7045T-4R7M	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+SLF7045T-680M	from hqew, 北京麦亚基科技	TDK	12+	17000	SMD
+SLF7045T-681M	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF7045T-6R8M	from hqew, 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7055T-150M	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7055T-2R2N	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7055T-692K	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+TF0402B-05P-01	from hqew, 北京麦亚基科技	TDK	12+	36000	SMD
+TSL0707RA-101K-2PF	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+TSL0709RA-101K	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+TSL0709RA-101KR66-PF	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+TSL0709RA-102KR19-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709RA-151KR52-PF	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709RA-152KR16-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709RA-1R5M4R3-PF	from hqew, 北京麦亚基科技	TDK	12+	3000	SMD
+TSL0709RA-220K	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+TSL0709RA-220K1R3-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+TSL0709RA-221KR44-PF	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709RA-330K	from hqew, 北京麦亚基科技	TDK	12+	7000	SMD
+TSL0709RA-331K	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709RA-3R3M	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709RA-471K	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709RA-471KR30-PF	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709RA-4R7M	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709RA-680KR73-PF	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+TSL0709RA-681K	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709RA-681KR25-PF	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709S-1R0M5R0-PF	from hqew, 北京麦亚基科技	TDK	12+	3000	SMD
+TSL0709S-1R5M4R3-PF	from hqew, 北京麦亚基科技	TDK	12+	3000	SMD
+TSL0709S-330K1R0-PF	from hqew, 北京麦亚基科技	TDK	12+	7000	SMD
+TSL0709S-331KR36-PF	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709S-680KR73-PF	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+TSL0709S-681KR25-PF	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0808RA-100K	from hqew, 北京麦亚基科技	TDK	12+	30000	DIP
+TSL0808RA-101K	from hqew, 北京麦亚基科技	TDK	12+	21000	DIP
+TSL0808RA-151K	from hqew, 北京麦亚基科技	TDK	12+	10000	DIP
+TSL0808RA-331K	from hqew, 北京麦亚基科技	TDK	12+	26000	DIP
+TSL0808RA-332K	from hqew, 北京麦亚基科技	TDK	12+	1000	DIP
+TSL0808RA-391K	from hqew, 北京麦亚基科技	TDK	12+	6000	DIP
+TSL0808RA-3R3M	from hqew, 北京麦亚基科技	TDK	12+	12000	DIP
+TSL0808RA-471K	from hqew, 北京麦亚基科技	TDK	12+	12000	DIP
+TSL0809RA-150K1R9-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0809S-150K1R9-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL1112RA-101K	from hqew, 北京麦亚基科技	TDK	12+	14500	DIP
+TSL1112RA-103J	from hqew, 北京麦亚基科技	TDK	12+	1000	DIP
+TSL1112RA-150M	from hqew, 北京麦亚基科技	TDK	12+	1000	DIP
+TSL1112RA-151K	from hqew, 北京麦亚基科技	TDK	12+	10000	DIP
+TSL1112RA-152J	from hqew, 北京麦亚基科技	TDK	12+	4500	DIP
+TSL1112RA-153J	from hqew, 北京麦亚基科技	TDK	12+	4000	DIP
+TSL1112RA-221K	from hqew, 北京麦亚基科技	TDK	12+	17000	DIP
+TSL1112RA-2R2M	from hqew, 北京麦亚基科技	TDK	12+	2500	DIP
+TSL1112RA-471K	from hqew, 北京麦亚基科技	TDK	12+	10500	DIP
+TSL1112RA-4R7M	from hqew, 北京麦亚基科技	TDK	12+	7000	DIP
+TSL1112RA-680K	from hqew, 北京麦亚基科技	TDK	12+	12000	DIP
+TSL1112RA-6R8M	from hqew, 北京麦亚基科技	TDK	12+	1000	DIP
+TSL1315RA-100K	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-100K	from hqew, 北京麦亚基科技	TDK	12+	600	SMD
+TSL1315RA-100K	from hqew, 北京麦亚基科技	MYKIA	12+	2000	SMD
+TSL1315RA-100K5R1-PF	from hqew, 北京麦亚基科技	TDK	12+	600	SMD
+TSL1315RA-101K	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-102JR78-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-103J	from hqew, 北京麦亚基科技	TDK	12+	200	SMD
+TSL1315RA-103J	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+TSL1315RA-150K	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-150K	from hqew, 北京麦亚基科技	MYKIA	12+	1200	SMD
+TSL1315RA-150K4R5-PF	from hqew, 北京麦亚基科技	TDK	12+	1200	SMD
+TSL1315RA-151K2R1-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-220K	from hqew, 北京麦亚基科技	TDK	12+	800	SMD
+TSL1315RA-220K4R2-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-221K	from hqew, 北京麦亚基科技	MYKIA	12+	5200	SMD
+TSL1315RA-221K1R7-PF	from hqew, 北京麦亚基科技	TDK	12+	1200	SMD
+TSL1315RA-222J	from hqew, 北京麦亚基科技	TDK	12+	600	SMD
+TSL1315RA-330K3R7-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-331K	from hqew, 北京麦亚基科技	TDK	12+	1200	SMD
+TSL1315RA-331K1R4-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-331K1R4-PF	from hqew, 北京麦亚基科技	TDK	12+	1200	SMD
+TSL1315RA-332J	from hqew, 北京麦亚基科技	TDK	12+	600	SMD
+TSL1315RA-332JR44-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-470K3R4-PF	from hqew, 北京麦亚基科技	TDK	12+	600	SMD
+TSL1315RA-471K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+TSL1315RA-471K1R1-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-471K1R1-PF	from hqew, 北京麦亚基科技	TDK	12+	600	SMD
+TSL1315RA-472J	from hqew, 北京麦亚基科技	MYKIA	12+	40000	SMD
+TSL1315RA-680K	from hqew, 北京麦亚基科技	TDK/MYK	12+	50000	SMD
+TSL1315RA-680K	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+TSL1315RA-681K	from hqew, 北京麦亚基科技	TDK/MYK	12+	50000	SMD
+TSL1315RA-681KR99-PF	from hqew, 北京麦亚基科技	TDK	12+	200	SMD
+TSL1315S-101K2R5-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-101K2R5-PF	from hqew, 北京麦亚基科技	TDK	12+	16800	SMD
+TSL1315S-103JR24-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-150K4R5-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-152JR68-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-221K1R7-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-222JR55-PF	from hqew, 北京麦亚基科技	TDK	12+	2400	SMD
+TSL1315S-330K3R7-PF	from hqew, 北京麦亚基科技	TDK	12+	2800	SMD
+TSL1315S-331K1R4-PF	from hqew, 北京麦亚基科技	TDK	12+	3200	SMD
+TSL1315S-680K3R0-PF	from hqew, 北京麦亚基科技	TDK	12+	800	SMD
+ZCAT1730-0730A	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZJSR5101-103TA-01	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+ZJYS81R8-2PL51-G01	from hqew, 北京麦亚基科技	TDK	12+	38500	SMD
+ACT45B-110-2P	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+CLF7045T-220M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+FCR3.45MC5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR3.45MSC5XZ	from hqew, 北京麦亚基科技	TDK	12+	48000	SMD
+FCR3.58M5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR3.64M5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR3.64MC5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+HF3545-472Y4R0-T01	from hqew, 北京麦亚基科技	TDK	11+	14000	SMD
+MLF2012E120J	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012E120MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MMZ1608F030B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608F470B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608F750B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608F750BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Q102B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Q102BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Q121B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Q601BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608R102A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608R121A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608R601A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+RLF7030T-4R7M	from hqew, 北京麦亚基科技	TDK	12+	7000	SMD
+SLF10165T-1R5N	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF10165T-2R2N	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF7045T-330M	from hqew, 北京麦亚基科技	TDK	12+	21000	SMD
+SLF7045T-3R3M	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+SLF7045T-470M	from hqew, 北京麦亚基科技	TDK	12+	33000	SMD
+SLF7055T-220M	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7055T-3R3N	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7055T-4R7N	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SPM3012T-1R5M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+TCM2010H-900-4P-T000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+TSL0707RA-101KR71-1PF	from hqew, 北京麦亚基科技	TDK	12+	49000	SMD
+TSL0707RA-470K-2PF	from hqew, 北京麦亚基科技	TDK	12+	17000	SMD
+TSL0709RA-102K	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709RA-151K	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709RA-152K	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709RA-1R0M	from hqew, 北京麦亚基科技	TDK	12+	3000	SMD
+TSL0709RA-1R5M	from hqew, 北京麦亚基科技	TDK	12+	3000	SMD
+TSL0709RA-2R2M	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709RA-330K1R0-PF	from hqew, 北京麦亚基科技	TDK	12+	7000	SMD
+TSL0709RA-331KR36-PF	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709RA-470K	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709RA-4R7M2R6-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709RA-6R8M	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709S-100K1R9-PF	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709S-102KR19-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709S-151KR52-PF	from hqew, 北京麦亚基科技	TDK	12+	42000	SMD
+TSL0709S-3R3M2R9-PF	from hqew, 北京麦亚基科技	TDK	12+	3000	SMD
+TSL0709S-471KR30-PF	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709S-6R8M2R3-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0808RA-102K	from hqew, 北京麦亚基科技	TDK	12+	8000	DIP
+TSL0808RA-220K	from hqew, 北京麦亚基科技	TDK	12+	27000	DIP
+TSL0808RA-221K	from hqew, 北京麦亚基科技	TDK	12+	15000	DIP
+TSL0808RA-470K	from hqew, 北京麦亚基科技	TDK	12+	15000	DIP
+TSL0808RA-472J	from hqew, 北京麦亚基科技	TDK	12+	2000	DIP
+TSL0808RA-680K	from hqew, 北京麦亚基科技	TDK	12+	16000	DIP
+TSL0808RA-681K	from hqew, 北京麦亚基科技	TDK	12+	15000	DIP
+TSL0808RA-6R8M	from hqew, 北京麦亚基科技	TDK	12+	9000	DIP
+TSL1112RA-100M	from hqew, 北京麦亚基科技	TDK	12+	10000	DIP
+TSL1112RA-222J	from hqew, 北京麦亚基科技	TDK	12+	6000	DIP
+TSL1112RA-331K	from hqew, 北京麦亚基科技	TDK	12+	17500	DIP
+TSL1112RA-332J	from hqew, 北京麦亚基科技	TDK	12+	1000	DIP
+TSL1112RA-472J	from hqew, 北京麦亚基科技	TDK	12+	3000	DIP
+TSL1112RA-681K	from hqew, 北京麦亚基科技	TDK	12+	18500	DIP
+TSL1315RA-101K	from hqew, 北京麦亚基科技	TDK	12+	600	SMD
+TSL1315RA-101K2R5-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-101K2R5-PF	from hqew, 北京麦亚基科技	TDK	12+	600	SMD
+TSL1315RA-102J	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+TSL1315RA-103J	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-103JR24-PF	from hqew, 北京麦亚基科技	TDK	12+	200	SMD
+TSL1315RA-151K	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-151K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+TSL1315RA-152J	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-152JR68-PF	from hqew, 北京麦亚基科技	TDK	12+	600	SMD
+TSL1315RA-220K	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-220K4R2-PF	from hqew, 北京麦亚基科技	TDK	12+	800	SMD
+TSL1315RA-221K	from hqew, 北京麦亚基科技	TDK	12+	1200	SMD
+TSL1315RA-221K1R7-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-222JR55-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-330K	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-330K	from hqew, 北京麦亚基科技	TDK	12+	200	SMD
+TSL1315RA-330K	from hqew, 北京麦亚基科技	MYKIA	12+	2000	SMD
+TSL1315RA-330K3R7-PF	from hqew, 北京麦亚基科技	TDK	12+	200	SMD
+TSL1315RA-331K	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-470K	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-470K	from hqew, 北京麦亚基科技	TDK	12+	600	SMD
+TSL1315RA-470K	from hqew, 北京麦亚基科技	MYKIA	12+	5200	SMD
+TSL1315RA-470K3R4-PF	from hqew, 北京麦亚基科技	MYKIA	12+	5200	SMD
+TSL1315RA-471K	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-471K	from hqew, 北京麦亚基科技	TDK	12+	600	SMD
+TSL1315RA-472J	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-472JR37-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-680K	from hqew, 北京麦亚基科技	MYKIA	12+	40000	SMD
+TSL1315RA-681K	from hqew, 北京麦亚基科技	TDK	12+	200	SMD
+TSL1315RA-682J	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-682J	from hqew, 北京麦亚基科技	TDK	12+	200	SMD
+TSL1315S-100K5R1-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-102JR78-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-103JR24-PF	from hqew, 北京麦亚基科技	TDK	12+	800	SMD
+TSL1315S-150K4R5-PF	from hqew, 北京麦亚基科技	TDK	12+	800	SMD
+TSL1315S-151K2R1-PF	from hqew, 北京麦亚基科技	TDK	12+	2800	SMD
+TSL1315S-220K4R2-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-331K1R4-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-332JR44-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-332JR44-PF	from hqew, 北京麦亚基科技	TDK	12+	800	SMD
+TSL1315S-471K1R1-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-472JR37-PF	from hqew, 北京麦亚基科技	TDK	12+	800	SMD
+TSL1315S-680K3R0-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-681KR99-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-682JR30-PF	from hqew, 北京麦亚基科技	TDK	12+	800	SMD
+VLF4012AT-3R3M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLS201612ET-1R0N	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201612ET-R47N	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+ZCAT2032-0930	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT2032-0930(-BK)	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT2132-1130	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT2132-1130(-BK)	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT2436-1330A	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZJSR5101-223TA-01	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+7E08N-100M-T	from hqew, 现货 北京麦亚基科技	SAGAMI	11+	3500	SMD
+ACM1211-102-2PL-TL	from hqew, 现货 北京麦亚基科技	TDK	11+	6000	SMD
+ACM12V-701-2PL-TL	from hqew, 现货 北京麦亚基科技	TDK	11+	1500	SMD
+ACM1513-551-2PL-TL	from hqew, 现货 北京麦亚基科技	TDK	11+	2530	SMD
+ACM2520-102-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+ACM2520-601-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+ACM4520-901-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	3200	SMD
+ACM9070-701-2PL-TL	from hqew, 现货 北京麦亚基科技	TDK	11+	6400	SMD
+ACT45B-101-2P	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+ACT45B-220-2P	from hqew, 现货 北京麦亚基科技	TDK	11+	5688	SMD
+CLF7045T-4R7N	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+EL0606RA-4R7J-PF	from hqew, 现货 北京麦亚基科技	TDK	09+	4000	DIp
+FCR3.45M	from hqew, 北京麦亚基科技	TDK	11+	28000	SMD
+FCR3.84M	from hqew, 北京麦亚基科技	TDK	12+	280000	SMD
+HF30ACB322513-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF30ACB453215-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF30ACC321611	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF30ACC322513	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF50ACB453215-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF50ACC201209	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF50ACC201209-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF50ACC322513-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACC321611	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACC322513-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACC453215	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+LTF5022T-1R8N3R6-LC	from hqew, 北京麦亚基科技	TDK	12+	500	SMD
+MLF1608A1R2KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608D68NMT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR15J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608E8R2J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF2012A1R2J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF2012A2R2KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012A3R3KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012A3R9KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012C101KT	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+MLF2012C820KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR10J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR22KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR39KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012K390KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLG1005S0N6ST	from hqew, 现货 北京麦亚基科技	TDK	12+	30000	SMD
+MLG1005S1N2ST	from hqew, 现货 北京麦亚基科技	TDK	12+	30000	SMD
+MLG1005S1N3ST	from hqew, 现货 北京麦亚基科技	TDK	12+	30000	SMD
+MLG1005S1N6ST	from hqew, 现货 北京麦亚基科技	TDK	12+	30000	SMD
+MLK1005S27NJT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S3N0ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S47NJT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S5N6ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S9N1JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005SR13JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005SR20JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MMZ1005S102C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005S121C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608A252B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D100C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608F121BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Q331B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608R600A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S400AT000	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y751B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012S800A	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y202B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MPZ1005S600C	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ1005S600CT000	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ1608S471A	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ2012S300AT000	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+MPZ2012S601AT000	from hqew, 北京麦亚基科技	TDK	12+	48000	SMD
+NL453232T-120J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NL453232T-560J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+NLC453232T-5R6K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NLCV25T-1R5M-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV25T-4R7M-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV25T-6R8M-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV32T-100K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	65000	SMD
+NLCV32T-2R2M-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV32T-330K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV32T-331K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV32T-470K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-068J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-120J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-2R7J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-330J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-4R7J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-6R8J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-R15J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-039J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-082J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-120J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-180J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-331J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-3R3J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-5R6J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-R12J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-R15J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-R18J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-R56J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+RLF12545T-4R2N6R5-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+RLF12560T-100M7R5	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+RLF7030T-1R5N6R1	from hqew, 现货 北京麦亚基科技	TDK	11+	2000	SMD
+RLF7030T-3R3M4R1	from hqew, 现货 北京麦亚基科技	TDK	11+	1000	SMD
+SLF10145T-101M	from hqew, 北京麦亚基科技	TDK	12+	138000	SMD
+SLF10145T-101M1R0-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF10145T-220M1R9-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10145T-470M1R4-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10165T-6R8N4R33PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+SLF12555T-102MR34-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12555T-151MR88-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12555T-681MR43-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12565T-151M1R3-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12575T-150M4R7-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12575T-2R7N7R0-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12575T-330M3R2-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	SMD
+SLF6028T-151MR34-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+SLF6028T-680MR50-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	SMD
+SLF7032T-220MR96-2PF	from hqew, 现货 北京麦亚基科技	TDK/XM	12+	10000	SMD
+SLF7032T-221MR29-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7032T-681M	from hqew, 北京麦亚基科技	TDK	12+	23000	SMD
+SLF7032T-6R8M1R6-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-101MR50-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+SLF7045T-102MR14-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-151MR40-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-4R7M2R0-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7055T-100M	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7055T-1R5N	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7055T-4R7N3R1-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF7055T-6R8N	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SPM6530T-3R3M	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+SPM6530T-R25M230	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+TSL0709RA-150K1R6-PF	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+TSL0709RA-3R3M2R9-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709RA-470KR94-PF	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709RA-6R8M2R3-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709S-101KR66-PF	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+TSL0709S-150K1R6-PF	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+TSL0709S-4R7M2R6-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0808RA-150K	from hqew, 北京麦亚基科技	TDK	12+	12000	DIP
+TSL0808RA-151KR67-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	10000	DIP
+TSL0808RA-152K	from hqew, 北京麦亚基科技	TDK	12+	7000	DIP
+TSL0808RA-222K	from hqew, 北京麦亚基科技	TDK	12+	2000	DIP
+TSL0808RA-6R8M3R1-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	DIP
+TSL1112RA-102J	from hqew, 北京麦亚基科技	TDK	12+	3000	DIP
+TSL1112RA-153JR12-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	DIP
+TSL1112RA-330K2R3-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2500	DIP
+TSL1112RA-3R3M	from hqew, 北京麦亚基科技	TDK	12+	5500	DIP
+TSL1112RA-682J	from hqew, 北京麦亚基科技	TDK	12+	4500	DIP
+TSL1112S-220K2R9-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	4500	DIP
+TSL1112S-332JR26-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	DIP
+TSL1315RA-100K5R1-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-102J	from hqew, 北京麦亚基科技	TDK	12+	200	SMD
+TSL1315RA-103JR24-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-151K	from hqew, 北京麦亚基科技	TDK	12+	800	SMD
+TSL1315RA-151K2R1-PF	from hqew, 北京麦亚基科技	TDK	12+	800	SMD
+TSL1315RA-152J	from hqew, 北京麦亚基科技	TDK	12+	600	SMD
+TSL1315RA-222JR55-PF	from hqew, 北京麦亚基科技	TDK	12+	600	SMD
+TSL1315RA-331K	from hqew, 北京麦亚基科技	MYKIA	12+	2000	SMD
+TSL1315RA-332J	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-471K1R1-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	SMD
+TSL1315RA-680K3R0-PF	from hqew, 北京麦亚基科技	TDK	12+	400	SMD
+TSL1315RA-681K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+TSL1315RA-681KR99-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-682JR30-PF	from hqew, 北京麦亚基科技	TDK	12+	200	SMD
+TSL1315S-100K5R1-PF	from hqew, 北京麦亚基科技	TDK	12+	2400	SMD
+TSL1315S-102JR78-PF	from hqew, 北京麦亚基科技	TDK	12+	2800	SMD
+TSL1315S-220K4R2-PF	from hqew, 北京麦亚基科技	TDK	12+	3200	SMD
+TSL1315S-221K1R7-PF	from hqew, 北京麦亚基科技	TDK	12+	3200	SMD
+TSL1315S-470K3R4-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-470K3R4-PF	from hqew, 北京麦亚基科技	TDK	12+	42800	SMD
+TSL1315S-471K1R1-PF	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+TSL1315S-472JR37-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-682JR30-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+UP2-470 03CH011	from hqew, 现货 北京麦亚基科技	COOPER	12+	7000	SMD
+VLC5020T-4R7N	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+VLCF5020T-4R7N1R7-1	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLF3010AT-4R7MR70	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLF3012AT-2R2M1R0	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLS2012ET-6R8N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201610ET-1R5N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS252015ET-1R5N	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252015ET-3R3M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3010ET-150M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3010ET-220M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3012ET-1R5N	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3012ET-330M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3015ET-100M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS4012ET-150M	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLS4012ET-1R0N	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+ZCAT1325-0530A(-BK)	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZJSR5101-680TA-01	from hqew, 北京麦亚基科技	TDK	12+	13000	SMD
+03CH011	from hqew, 现货 北京麦亚基科技	COOPER	11+	6500	SMD
+7E08L-220M-T	from hqew, 现货 北京麦亚基科技	SAGAMI	11+	1000	SMD
+7E08N-220M-T	from hqew, 现货 北京麦亚基科技	SAGAMI	11+	5000	SMD
+ACM2012-121-2P-T001	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+ACM2012-361-2P-T001	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+ACM3225-161-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+ACM4532-601-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+ACM7060-301-2PL-TL	from hqew, 现货 北京麦亚基科技	TDK	11+	4500	SMD
+ACM70V-701-2PL-TL	from hqew, 现货 北京麦亚基科技	TDK	11+	4500	SMD
+ACT45B-220-2P	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+CLF7045T-150M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+EL0405RA-102J-PF	from hqew, 现货 北京麦亚基科技	TDK	07+	8000	DIP
+EL0606RA-151J-PF	from hqew, 现货 北京麦亚基科技	TDK	09+	4000	DIp
+EL0606RA-220J-PF	from hqew, 现货 北京麦亚基科技	TDK	09+	4000	DIp
+EL0606RA-221J-PF	from hqew, 现货 北京麦亚基科技	TDK	09+	4000	DIp
+EL0606RA-3R3J-PF	from hqew, 现货 北京麦亚基科技	TDK	09+	4000	DIp
+EL0606RA-6R8J-PF	from hqew, 现货 北京麦亚基科技	TDK	09+	4000	DIp
+EL0607RA-100J-PF	from hqew, 现货 北京麦亚基科技	TDK	09+	4000	DIp
+ELC0809RA-470K1R0-K	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+FCR3.45M	from hqew, 北京麦亚基科技	TDK	12+	36000	SMD
+FCR3.84M5	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+FCR3.84MC5	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+GLFR2012T1R0M-LR	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+HF30ACB201209	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF30ACB321611-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF30ACB322513	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF50ACB322513-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF50ACC321611-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF50ACC453215-T	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+HF50ACC575032-T	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+HF70ACB321611-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACC201209	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACC322513	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACC453215-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+LTF5022T-220MR98-LC	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+LTF5022T-3R3N2R5-LC	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+MLF1608C180MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608C220KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608D47*MT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR12J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR18KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR22KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR27J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR47J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608E100KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608E120J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608E5R6J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608E6R8KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF2012A1R5KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012A1R8J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012C150KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012C330KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012D82NMT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR12KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR15J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR15KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR27KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR33KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR39J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR47KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR68KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012E100J	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+MLG1005S0N3ST	from hqew, 现货 北京麦亚基科技	TDK	12+	30000	SMD
+MLG1005S0N5ST	from hqew, 现货 北京麦亚基科技	TDK	12+	30000	SMD
+MLG1005S1N1ST	from hqew, 现货 北京麦亚基科技	TDK	12+	30000	SMD
+MLK1005S18NJT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S1N6ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S2N2ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S33NJT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S39NJT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S3N9ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S4N3ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S4N7ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S5N1ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S6N2ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005SR11JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005SR33JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MMZ1005B601C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005D100C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005D220C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005F470C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y121C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y601C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608B102C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608B301C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608B601C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D121B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D220C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D500C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608F121B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608F470BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608R121AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608R150A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608R301A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608R301AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608R600AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608R601AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S121A	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S221A	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S221AT000	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S400A	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S471AT000	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S601A	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012D800B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012S121A	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012S181A	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y600B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y600BT000	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MPZ1005S100CT000	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ1005S300CT000	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ1608D101B	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608D300BT000	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608D600B	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608R391AT000	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608S331AT000	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+MPZ1608S601A	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ1608Y151B	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ1608Y600B	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ2012S221A	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+NL453232T-270J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NL453232T-271J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NL453232T-391J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+NL453232T-471J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	SMD
+NL453232T-4R7J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+NL453232T-680J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+NL453232T-681J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+NLC453232T-2R7K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NLC453232T-3R9K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NLCV25T-220K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV25T-2R2M-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV25T-330K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV32T-1R0M-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV32T-3R3M-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV32T-6R8M-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-010J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-012J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-018J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-022J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-039J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-047J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-056J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-082J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-100J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-150J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-1R2J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-1R8J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-2R2J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-390J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-560J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-010J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-033J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-056J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-101J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	36000	SMD
+NLV32T-181J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-220J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-221J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+NLV32T-390J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-470J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-680J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-8R2J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-R33J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-R39J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-R47J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-R82J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NR3015T4R7M	from hqew, 现货 北京麦亚基科技	MURATA/TDK	11+	6000	SMD
+PS1420P02CT	from hqew, 现货 北京麦亚基科技	TDK	12+	8400	SMD
+PS1420P02CT	from hqew, 现货 北京麦亚基科技	TDK	11+	3850	SMD
+RLF12545T-1R9N100-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+RLF12545T-2R7N8R7-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+RLF12560T-2R7N110	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+RLF12560T-4R2N100	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+RLF7030T-1R0N6R4	from hqew, 现货 北京麦亚基科技	TDK	11+	3000	SMD
+RLF7030T-4R7M3R4	from hqew, 现货 北京麦亚基科技	TDK	11+	2000	SMD
+SLF10145T-100M2R5-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10145T-152MR22-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10145T-5R6M3R2-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10145T-681MR38-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10155T-330M2R1-TPF	from hqew, 现货 北京麦亚基科技	TDK	11+	3000	SMD
+SLF10165T-100M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF10165T-150M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF10165T-1R5N6R83PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+SLF10165T-3R3N5R83PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+SLF10165T-4R7N4R73PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+SLF12555T-101M1R1-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12555T-102MR29-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12555T-221MR72-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12555T-330M1R9-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12555T-471MR49-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12565T-101M1R6-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12565T-470M2R4-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12565T-680M2R0-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12575T-101M1R9-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12575T-221M1R3-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12575T-6R8N5R9-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF6025T-220MR73-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF6025T-4R7M1R5-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF6025T-6R8M1R3-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF6028T-220MR77-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	SMD
+SLF6028T-6R8M1R5-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	SMD
+SLF6045T-4R7N2R4-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF7032T-101MR45-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7032T-151MR37-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7032T-470MR67-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7032T-471M	from hqew, 北京麦亚基科技	TDK	12+	97000	SMD
+SLF7032T-680MR59-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-100M1R3-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-150M1R1-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-220MR90-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-221MR33-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-470MR75-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-471M	from hqew, 北京麦亚基科技	TDK	12+	43000	SMD
+SLF7055T-1R5N4R0-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SPM3012T-3R3M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SPM6530T-1R0M120	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+SPM6530T-4R7M	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	SMD
+SPM6530T-R68M140	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+TCM2010H-900-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+TSL0707RA-330K1R2-1PF	from hqew, 北京麦亚基科技	TDK	12+	46000	SMD
+TSL0709RA-100K	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709RA-100K1R9-PF	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709RA-1R0M5R0-PF	from hqew, 北京麦亚基科技	TDK	12+	3000	SMD
+TSL0709RA-221K	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0709RA-2R2M3R7-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709S-220K1R3-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709S-2R2M3R7-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+TSL0709S-470KR94-PF	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+TSL0808RA-150K2R1-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL0808RA-152KR21-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	DIP
+TSL0808RA-222KR17-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	DIP
+TSL0808RA-2R2M	from hqew, 北京麦亚基科技	TDK	12+	9000	DIP
+TSL0808RA-2R2M3R9-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	DIP
+TSL0808RA-330K	from hqew, 北京麦亚基科技	TDK	12+	12000	DIP
+TSL0808RA-3R3M3R8-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	DIP
+TSL0808S-151KR67-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	DIP
+TSL0808S-221KR54-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	DIP
+TSL0808S-331KR45-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL0808S-3R3M3R8-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	DIP
+TSL0808S-472JR13-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	DIP
+TSL1112RA-152JR38-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	4500	DIP
+TSL1112RA-1R0M	from hqew, 北京麦亚基科技	TDK	12+	3000	DIP
+TSL1112RA-220K2R9-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	DIP
+TSL1112RA-221K1R0-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	DIP
+TSL1112RA-2R2M6R7-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2500	DIP
+TSL1112RA-332JR26-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	DIP
+TSL1112RA-3R3M5R9-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	5500	DIP
+TSL1112RA-470K	from hqew, 北京麦亚基科技	TDK	12+	9000	DIP
+TSL1112RA-472JR21-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	DIP
+TSL1112RA-4R7M4R8-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	DIP
+TSL1112RA-682JR18-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	4500	DIP
+TSL1112S-101K1R4-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	4500	DIP
+TSL1112S-102JR50-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	DIP
+TSL1112S-103JR14-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	DIP
+TSL1112S-153JR12-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	DIP
+TSL1112S-1R0M7R7-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	4500	DIP
+TSL1112S-330K2R3-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL1112S-331KR82-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	DIP
+TSL1112S-470K2R1-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	DIP
+TSL1112S-6R8M4R6-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	DIP
+TSL1315RA-100K5R1-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	DIP
+TSL1315RA-101K	from hqew, 北京麦亚基科技	MYKIA	12+	5000	SMD
+TSL1315RA-102J	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-102JR78-PF	from hqew, 北京麦亚基科技	TDK	12+	200	SMD
+TSL1315RA-150K4R5-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	DIP
+TSL1315RA-152J	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+TSL1315RA-221K	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315RA-221K1R7-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	DIP
+TSL1315RA-222J	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+TSL1315RA-332J	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+TSL1315RA-332JR44-PF	from hqew, 北京麦亚基科技	TDK	12+	600	SMD
+TSL1315RA-472J	from hqew, 北京麦亚基科技	TDK	12+	200	SMD
+TSL1315RA-472JR37-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	SMD
+TSL1315RA-680K3R0-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	SMD
+TSL1315RA-682JR30-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-151K2R1-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+TSL1315S-152JR68-PF	from hqew, 北京麦亚基科技	TDK	12+	800	SMD
+TSL1315S-330K3R7-PF	from hqew, 北京麦亚基科技	TDK/MYK	12+	5000	SMD
+VLC5020T-100M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLC5020T-2R2N	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+VLC5020T-R47N	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+VLCF4020T-101MR26	from hqew, 北京麦亚基科技	TDK	12+	500	SMD
+VLCF4020T-1R8N1R9	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-2R2N2R6-1	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-330MR48	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-6R8N1R1	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLF3010AT-220MR33	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+VLF3010AT-3R3MR87	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLF3010AT-6R8MR61	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLF3012AT-150MR41	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+VLF3012AT-220MR33	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+VLF3012AT-6R8MR59	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+VLF4012AT-2R2M1R5	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLP8040T-101M	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	SMD
+VLS2010ET-100M	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2010ET-2R2N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2010ET-6R8N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2012ET-100M	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2012ET-150M	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2012ET-1R0N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2012ET-1R5N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2012ET-220M	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2012ET-2R2N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201610ET-6R8M	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201612ET-2R2N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201612ET-3R3N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS252010ET-100M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252012ET-100M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252012ET-1R0N	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252012ET-2R2M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252012ET-4R7M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252015ET-4R7M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3012ET-6R8M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3015ET-150M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3015ET-1R5N	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3015ET-470M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3015ET-6R8M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS4012ET-1R5N	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLS4012ET-330M	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+ZBF503M-00TA-K	from hqew, 现货 北京麦亚基科技	TDK	06+	4000	SMD
+ZCAT1325-0530A	from hqew, 现货 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT2017-0930	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT2017-0930(-BK)	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZCAT2017-0930B	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT2017-0930B(-BK)	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZCAT2017-0930-BK	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZCAT2436-1330A(-BK)	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZCAT3035-1330	from hqew, 北京麦亚基科技	TDK/JPN	12+	23400	SMD
+ZJSR5101-680TA-01	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	DIP
+ZJYS51R5-2PT-01	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+ZJYS51R5-M4PA(T)-01	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+ZJYS81R5-2PL25-G01	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+ZJYS81R5-2PL51-G01	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+ACM1211-701-2PL-TL	from hqew, 现货 北京麦亚基科技	TDK	11+	2000	SMD
+ACM2012-201-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+ACM2012-900-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+ACM2012-900-2P-T001	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+ACM2012D-900-2P	from hqew, 现货 北京麦亚基科技	TDK	11+	98860	SMD
+ACM2520-451-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+ACM3225-102-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+ACM3225-800-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+ACM4520-142-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+ACM90V-701-2PL-TL	from hqew, 现货 北京麦亚基科技	TDK	11+	6400	SMD
+ACT45B-101-2P	from hqew, 现货 北京麦亚基科技	TDK	11+	6860	SMD
+ACT45B-510-2P	from hqew, 现货 北京麦亚基科技	TDK	11+	8560	SMD
+C5750X7R1H475K	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+EL0606RA-331J-PF	from hqew, 现货 北京麦亚基科技	TDK	09+	4000	DIp
+EL0606RA-471J-PF	from hqew, 现货 北京麦亚基科技	TDK	09+	4000	DIp
+ELC0809RA-470K1R0-K	from hqew, 现货 北京麦亚基科技	TDK	09+	4000	DIp
+HF30ACC575018-T	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+HF50ACB201209	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+HF50ACB201209-T	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+HF70ACB322513	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACB322513-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACC575032-T	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+LTF5018T-4R7N1R2-LC	from hqew, 现货 北京麦亚基科技	TDK	12+	126500	SMD
+LTF5022T-4R7N2R0-LC	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+MLF1608A1R0J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608A1R8J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608A1R8KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608A2R2J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608D82NMT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR10KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR12KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR15KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR33J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR39J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR47KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR68J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR82J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR82KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608E100J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608E120KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608E6R8J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF2012A1R0J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF2012A2R2J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012A3R3J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012A4R7KT	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+MLF2012DR12J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR22J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR27J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR47J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR82KT	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+MLF2012E8R2KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012K470KT	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+MLG1005S0N4ST	from hqew, 现货 北京麦亚基科技	TDK	12+	30000	SMD
+MLG1005S0N7ST	from hqew, 现货 北京麦亚基科技	TDK	12+	30000	SMD
+MLG1005S1N5ST	from hqew, 现货 北京麦亚基科技	TDK	12+	30000	SMD
+MLG1005S2N2ST	from hqew, 现货 北京麦亚基科技	TDK	12+	30000	SMD
+MLK1005S1N0ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S2N0ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S2N4ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S3N3ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S6N8JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005SR18JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005SR27JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MMZ1005Y152C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y800C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608B221C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D121C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S121AT000	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S181AT000	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S301AT000	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S601AT000	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S800A	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y121B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y152B	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+MMZ1608Y330B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012D121B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012R102A	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012S121AT000	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012S301A	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y202BT000	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y300BT000	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MPZ1005S100C	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ1608D300B	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608S181AT000	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608S221AT000	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+MPZ1608S601AT000	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ1608Y151BT000	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ2012S101A	from hqew, 现货 北京麦亚基科技	TDK	12+	28000	SMD
+MPZ2012S300A	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+MPZ2012S331A	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+MPZ2012S601A	from hqew, 现货 北京麦亚基科技	TDK	12+	250000	SMD
+NL453232T-100J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	SMD
+NL453232T-101J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+NL453232T-221J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NL453232T-330J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NL453232T-561J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+NL453232T-5R6J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+NL453232T-8R2J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NLC453232T-3R3K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NLC453232T-470K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NLC565050T-1R0K	from hqew, 现货 北京麦亚基科技	TDK	12+	800	SMD
+NLCV25T-150K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV25T-1R0M-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV25T-3R3M-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV32T-101K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	65000	SMD
+NLCV32T-151K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV32T-220K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	18000	SMD
+NLCV32T-221K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV32T-680K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-180J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-1R0J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-1R5J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-3R3J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-3R9J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-R12J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-R22J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-R27J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-R47J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-022J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-068J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-100J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+NLV32T-121J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-1R8J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-2R2J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-2R7J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-330J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-391J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NLV32T-4R7J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-6R8J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-820J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-R68J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+RLF12545T-100M5R1-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+RLF12560T-1R9N120	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+RLF7030T-1R5N	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+RLF7030T-2R2M	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+RLF7030T-2R2M5R4	from hqew, 现货 北京麦亚基科技	TDK	11+	1000	SMD
+RLF7030T-3R3M	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+SL1215-331KR91-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+SLF10145T-102MR29-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10145T-3R3N3R7-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10165T-220M2R43PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+SLF12555T-100M3R4-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12555T-150M2R8-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12555T-680M1R3-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12565T-150M4R2-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12565T-220M3R5-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12500	SMD
+SLF12565T-221M1R0-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12565T-331MR90-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12575T-100M5R4-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12575T-151M1R5-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12575T-220M4R0-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12575T-331M1R0-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12575T-470M2R7-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12575T-5R6N6R3-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF6025T-100M1R0-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF6025T-101MR33-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF6028T-101MR42-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	SMD
+SLF6028T-221MR26-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	SMD
+SLF6028T-470MR59-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	SMD
+SLF6028T-4R7M1R6-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	SMD
+SLF6045T-100M1R6-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF6045T-220M1R1-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF6045T-2R2N3R3-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF6045T-3R3N2R8-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF7032T-220MR96-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7032T-330MR75-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7032T-3R3M1R9-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7032T-4R7M1R7-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7032T-681MR16-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-330MR82-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-331MR25-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-471MR22-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-680MR60-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7055T-100M2R5-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF7055T-692KR45-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SPM6530T-1R5M100	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SPM6530T-R47M170	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+TSL0808RA-101KR80-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL0808RA-220K1R7-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL0808RA-330K1R4-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	DIP
+TSL0808RA-331KR45-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL0808RA-332KR14-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	DIP
+TSL0808RA-471KR38-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	DIP
+TSL0808RA-472JR13-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	846	DIP
+TSL0808RA-4R7M3R5-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	DIP
+TSL0808S-150K2R1-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	DIP
+TSL0808S-220K1R7-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL0808S-222KR17-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	DIP
+TSL0808S-391KR41-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL0808S-470K1R2-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL1112RA-100M3R7-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	4500	DIP
+TSL1112RA-103JR14-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	DIP
+TSL1112RA-222JR33-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL1112RA-331KR82-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	8500	DIP
+TSL1112RA-680K1R6-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	5500	DIP
+TSL1112RA-681KR56-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL1112S-151K1R1-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2500	DIP
+TSL1112S-152JR38-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL1112S-222JR33-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	DIP
+TSL1112S-2R2M6R7-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	DIP
+TSL1112S-4R7M4R8-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	DIP
+TSL1112S-682JR18-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	DIP
+TSL1315RA-220K4R2-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	DIP
+TSL1315RA-222JR55-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	DIP
+TSL1315RA-330K3R7-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	DIP
+TSL1315RA-331K1R4-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	SMD
+TSL1315RA-332JR44-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	SMD
+TSL1315RA-682JR30-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	SMD
+VLCF5020T-100M1R1-1	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-100MR87	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-150MR71	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-2R7N2R2-1	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLF3010AT-150MR40	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLF3010AT-1R5N1R2	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLF3010AT-2R2M1R0	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+VLF3012AT-330MR27	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+VLF3012AT-470MR22	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLF4012AT-100MR79	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+VLF4012AT-220MR51	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+VLF4012AT-2R2M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLP8040T-100M	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLP8040T-220M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLP8040T-470M	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+VLS2010ET-150M	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2010ET-3R3N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2012ET-4R7N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2012ET-R47N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2012ET-R68N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201610ET-1R0N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201610ET-3R3M	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201610ET-R68N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201612ET-100M	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201612ET-4R7N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201612ET-6R8N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201612ET-R68N	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252012ET-3R3M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252012ET-6R8M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252012ET-R47N	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252015ET-2R2M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3010ET-100M	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+VLS3010ET-1R5N	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3010ET-4R7M	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+VLS3010ET-6R8M	from hqew, 现货 北京麦亚基科技	TDK	12+	10000	SMD
+VLS3012ET-100M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3012ET-2R2M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3012ET-3R3M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS4012ET-2R2M	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLS4012ET-4R7M	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+ZCAT1518-0730(BK)	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZCAT1518-0730-BK	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZCAT1730-0730A-BK	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZCAT2032-0930-BK	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZCAT2035-0930A(-BK)	from hqew, 现货 北京麦亚基科技	TDK	12+	3240	SMD
+ZCAT2436-1330A-BK	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZJYS51R5-2PB(T)-01	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+ZJYS51R5-2PBT	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+ZJYS51R5-4P(T)-01	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+ZJYS81R5-2P24-G01	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+ZJYS81R5-2P50-G01	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+7B12HA-470M-R	from hqew, 现货 北京麦亚基科技	SAGAMI	11+	3500	SMD
+7E05NS-6R2N-T	from hqew, 现货 北京麦亚基科技	SAGAMI	11+	6000	SMD
+7E08N-4R7N-RA	from hqew, 现货 北京麦亚基科技	SAGAMI	11+	7500	SMD
+ACM2012-121-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+ACM2012-201-2P-T001	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+ACM2012-361-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+ACM2012H-900-2P	from hqew, 现货 北京麦亚基科技	TDK	11+	4000	SMD
+ACM3225-271-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	100	SMD
+ACM3225-601-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ACM4532-102-3P	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+ACM4532-801-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+ACM7060-701-2PL-TL	from hqew, 现货 北京麦亚基科技	TDK	11+	4500	SMD
+ACP3225-102-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+ACT45B-110-2P	from hqew, 现货 北京麦亚基科技	TDK	11+	8650	SMD
+EL0405RA-120J-PF	from hqew, 现货 北京麦亚基科技	TDK	09+	4000	DIp
+EL0606RA-2R7K-PF	from hqew, 现货 北京麦亚基科技	TDK	09+	4000	DIp
+GLFR2012T4R7M-LR	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+HF30ACB201209-T	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+HF30ACB321611	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF30ACC453215	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF50ACB321611	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF50ACB321611-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF50ACB322513	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF50ACB453215	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF50ACC321611	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACB201209	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACB201209-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACB321611	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACB453215	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACB453215-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACC321611-T	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACC575018-T	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+LTF5022T-1R2N4R2-LC	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+LTF5022T-2R2N3R2-LC	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+MLF1608A1R0KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608A1R2J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608A1R5J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608A2R2KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608C150KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608C270KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR10J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR18J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR22J	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR33KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608E5R6KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608E8R2KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF2012A1R0KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF2012A1R2KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF2012A1R8KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012A2R7J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012A3R9J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012A4R7J	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+MLF2012C220KT	from hqew, 现货 北京麦亚基科技	TDK	12+	10000	SMD
+MLF2012D47N*MT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012D68NMT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR33J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR68J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012E5R6J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012E5R6KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012E6R2KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLG1005S0N9ST	from hqew, 现货 北京麦亚基科技	TDK	12+	30000	SMD
+MLG1005S1N0ST	from hqew, 现货 北京麦亚基科技	TDK	12+	30000	SMD
+MLK1005S10NJT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S12NJT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S1N1ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S1N2ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S1N3ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S1N5ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S22NJT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S2N7ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S56NJT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S68NJT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S7N5JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S82NJT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S8N2JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005SR16JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005SR22JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005SR24JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005SR30JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MMZ1005B121C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005D241C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005D330C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005S241C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005S800C	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+MMZ1005Y102C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608A182B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608B471C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D241C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D301B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D800C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S181A	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S301A	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y150B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y471B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y601B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012R121A	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012R600A	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y300B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y601B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y601BT000	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MPZ1608D101BT000	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608R391A	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608S300A	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+MPZ1608Y600BT000	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ2012S331AT000	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+NL453232T-102J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NL453232T-121J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NL453232T-151J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NL453232T-180J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NL453232T-181J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NL453232T-1R0J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NL453232T-470J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+NL453232T-6R8J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NL453232T-820J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NLC453232T-1R8K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NLC453232T-220K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NLC453232T-4R7K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NLCV25T-100K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV32T-150K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLCV32T-4R7M-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-015J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-027J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-033J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-101J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-220J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-270J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-470J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-5R6J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-680J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-820J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-8R2J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-R10J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-R18J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-R33J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-R39J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-R56J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-R68J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV25T-R82J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-012J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-015J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-018J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-027J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-047J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-150J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-1R0J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-1R5J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NLV32T-270J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-271J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-3R9J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-471J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-R10J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-R22J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-R27J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NR3015-4R7N	from hqew, 现货 北京麦亚基科技	TAIYOYUDEN	10+	6000	SMD
+PS1240P02BT	from hqew, 现货 北京麦亚基科技	TDK	12+	1250	SMD
+PS1420P02BT	from hqew, 现货 北京麦亚基科技	TDK	11+	3850	SMD
+RLF12545T-5R6N6R1-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+RLF12560T-5R6N9R2	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+RLF7030T-1R0N	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	SMD
+RLF7030T-6R8M2R8	from hqew, 现货 北京麦亚基科技	TDK	11+	1000	SMD
+SLF10145T-101M1R0-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10145T-150M2R2-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10145T-221MR65-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10145T-330M1R6-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10145T-331MR54-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10145T-680M1R2-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10165T-100M3R83PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+SLF10165T-150M3R13PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+SLF10165T-2R2N6R33PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+SLF12555T-152MR29-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12555T-220M2R3-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12555T-331MR59-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12555T-470M1R6-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12555T-6R0N3R6-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12565T-100M4R8-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12565T-2R0N6R2-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12565T-330M2R8-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12565T-4R2N5R5-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12565T-7R0N5R0-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12575T-680M2R0-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF6025T-330MR59-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF6025T-470MR48-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF6025T-680MR42-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF6028T-100M1R3-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	SMD
+SLF6028T-330MR69-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	SMD
+SLF6045T-150M1R3-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF6045T-1R5N4R0-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF6045T-6R8N2R0-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF7032T-100M1R4-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7032T-102MR13-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7032T-150M1R1-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7032T-331MR22-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-3R3M2R5-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-681MR20-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7045T-6R8M1R7-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	SMD
+SLF7055T-150M2R1-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF7055T-2R2N3R5-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF7055T-6R8N2R8-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SPM6530T-2R2M	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+TSL0808RA-102KR26-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	DIP
+TSL0808RA-221KR54-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL0808RA-271KR51-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	DIP
+TSL0808RA-391KR41-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL0808RA-680K1R0-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL0808RA-681KR32-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	5000	DIP
+TSL0808S-100K2R6-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL0808S-101KR80-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	DIP
+TSL0808S-102KR26-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	DIP
+TSL0808S-152KR21-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	DIP
+TSL0808S-271KR51-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	DIP
+TSL0808S-2R2M3R9-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	DIP
+TSL0808S-330K1R4-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	DIP
+TSL0808S-471KR38-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	DIP
+TSL0808S-4R7M3R5-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	DIP
+TSL0808S-680K1R0-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL0808S-681KR32-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	DIP
+TSL0808S-6R8M3R1-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL1112RA-101K1R4-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	4500	DIP
+TSL1112RA-102JR50-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	DIP
+TSL1112RA-150M3R4-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	DIP
+TSL1112RA-151K1R1-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	4500	DIP
+TSL1112RA-470K2R1-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	DIP
+TSL1112RA-471KR72-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2500	DIP
+TSL1112RA-6R8M4R6-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	DIP
+TSL1112S-150M3R4-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	500	DIP
+TSL1112S-221K1R0-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	DIP
+TSL1112S-3R3M5R9-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	DIP
+TSL1112S-471KR72-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	DIP
+TSL1112S-472JR21-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	DIP
+TSL1112S-681KR56-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	500	DIP
+TSL1315RA-101K2R5-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	DIP
+TSL1315RA-103JR24-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	DIP
+TSL1315RA-151K2R1-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	DIP
+TSL1315RA-470K3R4-PF	from hqew, 现货 北京麦亚基科技	TDK/MYK	12+	1200	SMD
+TSL1315RA-681KR99-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	SMD
+UF1815SG-650Y4R0-01	from hqew, 现货 北京麦亚基科技	TDK	12+	200	SMD
+UP2-470	from hqew, 现货 北京麦亚基科技	COOPER	12+	6000	SMD
+VLC5020T-3R3N	from hqew, 现货 北京麦亚基科技	TDK	12+	500	SMD
+VLC6045T-220M	from hqew, 现货 北京麦亚基科技	TDK	12+	28000	SMD
+VLCF4020T-100MR85	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4020T-270MR48	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4020T-2R2N1R7	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-101MR27	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-1R8N2R0	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-2R2N2R6-3	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-2R7N1R7	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-330MR62-1	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-4R7N1R4	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-6R8N1R3-1	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLF3010AT-100MR49	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLF3012AT-100MR49	from hqew, 现货 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3012AT-1R5N1R2	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLF3012AT-3R3MR87	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+VLF3012AT-4R7MR74	from hqew, 现货 北京麦亚基科技	TDK	12+	36000	SMD
+VLS2010ET-1R0N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2010ET-220M	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2010ET-4R7N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2010ET-R56N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS2012ET-3R3N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201610ET-100M	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201610ET-2R2M	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201610ET-R47N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201612ET-1R5N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS252010ET-1R5N	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252010ET-2R2M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252010ET-3R3M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252010ET-4R7M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252010ET-6R8M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252010ET-R68N	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252012ET-1R5N	from hqew, 现货 北京麦亚基科技	TDK	12+	800	SMD
+VLS252015ET-1R0N	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252015ET-6R8M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3010ET-2R2M	from hqew, 现货 北京麦亚基科技	TDK	12+	14000	SMD
+VLS3010ET-3R3M	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+VLS3012ET-150M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3012ET-1R0N	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3012ET-4R7M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3015ET-220M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3015ET-2R2M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3015ET-3R3M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3015ET-4R7M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS4012ET-6R8M	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+ZCAT1325-0530A-BK	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZCAT1730-0730A(-BK)	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZCAT2017-0930B-BK	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZCAT2132-1130-BK	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZCAT3035-1330(-BK)	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZCAT3035-1330-BK	from hqew, 现货 北京麦亚基科技	TDK	12+	1200	SMD
+ZJYS51R5-2PL(T)-01	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+ZJYS81R5-2P24T-G01	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	SMD
+ACH4518-682-T	from hqew, 现货 北京麦亚基科技	TDK	12+	5000	SMD
+ACM2012D-900-2P	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF50ACC322513	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+HF50ACC453215	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608A1R5KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR27KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR39KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR68KT	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MLF2012A2R7KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012C180KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012C270KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR10KT	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR18J	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR82J	from hqew, 现货 北京麦亚基科技	TDK	12+	1500	SMD
+MLF2012E100KT	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+MLF2012K560KT	from hqew, 现货 北京麦亚基科技	TDK	12+	6000	SMD
+MLK1005S15NJT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005S1N8ST	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005SR10JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005SR12JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MLK1005SR15JT	from hqew, 现货 北京麦亚基科技	TDK	12+	20000	SMD
+MMZ1005D121C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D050C	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D800B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S471A	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y221B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y150B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y301B	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y301BT000	from hqew, 现货 北京麦亚基科技	TDK	12+	16000	SMD
+MPZ1005S300C	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ1608D600BT000	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608S221A	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+MPZ2012S221AT000	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+NL453232T-150J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NL453232T-220J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NL453232T-331J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9500	SMD
+NLC453232T-2R2K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NLC453232T-330K-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+NLCV32T-1R5M-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-151J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-1R2J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+NLV32T-560J-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	12000	SMD
+SLF10145T-151MR79-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10145T-471MR47-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF10145T-4R7M3R5-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7500	SMD
+SLF12575T-1R2N8R2-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12575T-3R9N6R7-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	SMD
+SLF6025T-150MR88-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF6028T-150M1R0-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	SMD
+SLF7032T-471MR20-2PF	from hqew, 现货 北京麦亚基科技	TDK	12+	8000	SMD
+SLF7055T-220M1R7-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+SLF7055T-3R3N3R3-3PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+TSL0808RA-100K2R6-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	DIP
+TSL0808RA-470K1R2-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	7000	DIP
+TSL0808S-332KR14-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	DIP
+TSL1112RA-1R0M7R7-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3000	DIP
+TSL1112S-100M3R7-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	3500	DIP
+TSL1112S-680K1R6-PF	from hqew, 现货 北京麦亚基科技	TDK	12+	9000	DIP
+TSL1315RA-102JR78-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	DIP
+TSL1315RA-152JR68-PF	from hqew, 现货 北京麦亚基科技	MYKIA	12+	1200	DIP
+VLC5020T-1R2N	from hqew, 现货 北京麦亚基科技	TDK	09+	500	SMD
+VLCF4018T-2R2N1R4-2	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-2R7N2R2-3	from hqew, 现货 北京麦亚基科技	TDK	12+	1000	SMD
+VLS2010ET-1R5N	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS201610ET-4R7M	from hqew, 现货 北京麦亚基科技	TDK	12+	4000	SMD
+VLS252010ET-R47N	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3015ET-1R0N	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+VLS3015ET-330M	from hqew, 现货 北京麦亚基科技	TDK	12+	2000	SMD
+ACH32C-101-T001	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+ACH32C-103-T001	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+ACH32C-104-T001	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+ACH32C-222-T001	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+ACM2520-301-2P	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+ACM4520-421-2P	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+CD43-100M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-102K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-102K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-121K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-180M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-220M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-221K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-221K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-270M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-391K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-3R3M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-681K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-6R8M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-6R8M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-8R2M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+EL0305RA-330J-3PF	from hqew, 北京麦亚基科技	TDK	12+	3000	SMD
+EL0405RA-101J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-150J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-180J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-181J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-220J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-2R2J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-2R7J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-390J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-391J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-391J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-471J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-560J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-5R6J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-680J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-6R8J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-R22K-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-R33K-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-R33K-3PF	from hqew, 北京麦亚基科技	TDK	12+	18000	SMD
+EL0405RA-R39K-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-100J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-120J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-180J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-1R2J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-1R5J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-1R8J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-270J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-2R2J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-330J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-390J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-470J-PF	from hqew, 北京麦亚基科技	TDK	12+	100000	SMD
+EL0606RA-560J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-R22K-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-R22K-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-R68K-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-R82K-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-R82K-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-100J-PF	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+EL0607RA-121J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-123J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-153J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-220J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-221J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-222J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-270J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-270J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-331J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-331J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-390J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-391J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-470J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-471J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-560J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-681J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-682J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-821J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+FCR18.43M6	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR25.0M6	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR33.86M6	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR4.0M5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR4.19MC5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR5.0MC5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR6.0M5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR8.38M5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR8.38MC5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FFE1070MA11UXL	from hqew, 北京麦亚基科技	TDK	12+	50000	SMD
+FFE1070MS11SBL	from hqew, 北京麦亚基科技	TDK	12+	50000	SMD
+FFE1070NA10UGL	from hqew, 北京麦亚基科技	TDK	12+	50000	SMD
+HF2836-332Y3R0-T01	from hqew, 北京麦亚基科技	TDK	11+	40000	SMD
+HF30ACB453215	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+HF50ACC575018-T	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+MLF1608A2R7MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608A3R3MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608A4R7KT	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608C220MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608DR12MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608DR22MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608DR33MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608DR47MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608E6R8MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608E8R2MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012A1R0MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012A1R5J	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MLF2012A2R2MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012A4R7MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012C220MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012C680KT	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+MLF2012C820MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012D47NMT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012DR18MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLG0603Q8N2HT000	from hqew, 北京麦亚基科技	TDK	12+	1695000	SMD
+MLG0603S0N6ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S0N9ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S10NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S15NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S1N2ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S1N5ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S22NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S2N2ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S2N4ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S3N0ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S5N6ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S75NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S82NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603SR15ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603SR16ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG1608SR12JT000	from hqew, 北京麦亚基科技	TDK	11+	20000	SMD
+MLK0603L15NJT	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L2N0ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L2N4ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L33NJT	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L3N0ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MMZ0603F220C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ0603Y241C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ0603Y601C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ1005D241CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005D680C	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005D680CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005F330CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005F560C	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005S102CT000	from hqew, 北京麦亚基科技	TDK	12+	160000	SMD
+MMZ1005S601CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y121CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y400CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y471C	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y471CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608A182BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608A222BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608B102CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608B301CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608B471CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D121BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D220CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D241CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S202A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S202AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y471BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y600B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012D800BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012R102AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012R150A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012R150AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012R300A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MPZ1608S300AT000	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+MPZ1608S471AT000	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608Y101B	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MTL1315H-150K	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+MTL1315H-472J	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+MTL1315H-680K	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+NL453232T-1R5J-PF	from hqew, 北京麦亚基科技	TDK	12+	15500	SMD
+NL453232T-3R3J-PF	from hqew, 北京麦亚基科技	TDK	12+	50000	SMD
+NL453232T-3R9J-PF	from hqew, 北京麦亚基科技	TDK	12+	28000	SMD
+NLC453232T-120K-PF	from hqew, 北京麦亚基科技	TDK	12+	15000	SMD
+NLC453232T-151K-PF	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+NLC453232T-8R2K-PF	from hqew, 北京麦亚基科技	TDK	12+	15000	SMD
+NLFV25T-101K-PF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV25T-1R5M-PF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV25T-2R2M-PF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV25T-3R3M-PF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV25T-470K-PF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV25T-6R8M-PF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-1R0M-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-1R5M-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-220K-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-4R7M-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLV32T-221J-PF	from hqew, 北京麦亚基科技	TDK	12+	86500	
+PS1927P02	from hqew, 北京麦亚基科技	TDK	12+	60000	SMD
+SL1215-151K1R3-PF	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+SL1215-221K1R0-PF	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+SL1215-471KR72-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF10145T-100M2R5	from hqew, 北京麦亚基科技	TDK	12+	28500	SMD
+SLF10145T-150M	from hqew, 北京麦亚基科技	TDK	12+	8500	SMD
+SLF10145T-331M	from hqew, 北京麦亚基科技	TDK	12+	9500	SMD
+SLF10145T-3R3N	from hqew, 北京麦亚基科技	TDK	12+	11500	SMD
+SLF10145T-471M	from hqew, 北京麦亚基科技	TDK	12+	24000	SMD
+SLF10145T-680M1R2-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF10145T-681M	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+SLF10145T-681MR38-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12555T-100M3R4-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12555T-101M1R1-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12555T-102M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12555T-151MR88-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12555T-221MR72-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12555T-471M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12555T-6R0N	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12555T-6R0N3R6-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12565T-100M	from hqew, 北京麦亚基科技	TDK	12+	7500	SMD
+SLF12565T-150M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+SLF12565T-150M4R2-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12565T-151M	from hqew, 北京麦亚基科技	TDK	12+	500	SMD
+SLF12565T-2R0N	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12565T-330M2R8-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12565T-331M	from hqew, 北京麦亚基科技	TDK	12+	14000	SMD
+SLF12565T-4R2N5R5-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12565T-680M	from hqew, 北京麦亚基科技	TDK	12+	186000	SMD
+SLF12565T-7R0N	from hqew, 北京麦亚基科技	TDK	12+	2500	SMD
+SLF12575T-100M	from hqew, 北京麦亚基科技	TDK	12+	12500	SMD
+SLF12575T-150M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+SLF12575T-1R2N8R2-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12575T-221M	from hqew, 北京麦亚基科技	TDK	12+	34000	SMD
+SLF12575T-330M	from hqew, 北京麦亚基科技	TDK	12+	12500	SMD
+SLF12575T-331M	from hqew, 北京麦亚基科技	TDK	12+	26500	SMD
+SLF12575T-680M	from hqew, 北京麦亚基科技	TDK	12+	70000	SMD
+SLF12575T-6R8N	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+SLF6018T-150MR56	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6018T-150MR56-K	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6018T-330MR38	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6018T-470MR36	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6018T-680MR33	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6018T-6R8MR87-K	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6025T-6R8M1R3	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6028T-470M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+SLF6028T-4R7M	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+SLF6028T-6R8M	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF6045T-220M	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6045T-3R3N	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6045T-4R7N	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7028T-470MR54-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7030T-100M1R3-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7030T-150M1R0-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7030T-470MR57-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7030T-4R7M1R6-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7030T-680MR49-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7032T-150M	from hqew, 北京麦亚基科技	TDK	12+	3000	SMD
+SLF7032T-220M	from hqew, 北京麦亚基科技	TDK/XM	12+	160000	SMD
+SLF7032T-6R8M	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7045T-100M	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+SLF7045T-101M	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+SLF7045T-220M	from hqew, 北京麦亚基科技	TDK	12+	23000	SMD
+SPM3012T-1R0M	from hqew, 北京麦亚基科技	TDK	12+	850	SMD
+SRW16ES-U08H001	from hqew, 北京麦亚基科技	TDK	12+	1300	SMD
+SRW16ES-U08H001	from hqew, 北京麦亚基科技	TDK	11+	1300	SMD
+VLCF4018T-330MR42-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4020T-4R7N1R2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4020T-6R8N1R0	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4024T-150MR80-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4024T-1R2N2R4-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4024T-2R2N1R7-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4028T-101MR33-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4028T-470MR48-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-3R3N1R6	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-3R3N2R0-1	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-470MR51-1	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5024T-100MR88-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5024T-101MR28-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5024T-2R7N1R5-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-100M1R0-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-220MR71-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-2R7N1R8-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-3R3N1R7-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-680MR40-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLF3010AT-100M	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+VLF3010AT-150M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+VLF3010AT-2R2M	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+VLF3010AT-6R8M	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+VLF3012AT-220M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3012AT-2R2M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3012AT-470M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3014AT-220M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3014AT-3R3M1R0	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3014AT-4R7MR90	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3014AT-6R8M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012AT-1R5M1R6	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012AT-330MR39	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012ST-4R7M1R0	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012ST-6R8M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012ST-6R8MR80	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLM10555T-1R8M8R8-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLM10555T-4R3M7R2-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLS252010ET-1R0N	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+VLS252015ET-100M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+VLS4012ET-470M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+ZCAT1229-BK	from hqew, 北京麦亚基科技	TDK	12+	1390	SMD
+ZCAT1525-0430AP	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT1525-0430AP-BK	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT2436	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT2749-0430C-BK	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT3618-2630D	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT4625-3430D	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT4625-3430DT	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT4625-3430DT(-BK)	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT4625-3430DT-BK	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT6819-5230DT	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT6819-5230DT-BK	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ACH32C-220-T001	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+ACH32C-331-T001	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+ACH32C-333-T001	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+C5750X7R2A475K	from hqew, 北京麦亚基科技	TDK	11+	10000	SMD
+CD43-100M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-101K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-181K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-181K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-270M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-2R2M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-331K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-390K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-5R6M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-680K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-681K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CLF7045T-6R8N	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+EL0305RA-100J-3PF	from hqew, 北京麦亚基科技	TDK	12+	3000	SMD
+EL0305RA-680J-3PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+EL0405RA-100J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-100J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-150J-3PF	from hqew, 北京麦亚基科技	TDK	12+	33000	SMD
+EL0405RA-1R0J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-1R0J-3PF	from hqew, 北京麦亚基科技	TDK	12+	14000	SMD
+EL0405RA-1R8J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-220J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-221J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-271J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-330J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-390J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-3R3J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-470J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-4R7J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-R39K-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-R47K-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-R56K-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-R56K-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-R68K-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-R82K-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-150J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-1R0J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-1R0J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-221J-PF	from hqew, 北京麦亚基科技	TDK	12+	162000	SMD
+EL0606RA-3R9J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-470J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	118000	SMD
+EL0606RA-R27K-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-R27K-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-R33K-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-R39K-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-R47K-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-R47K-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-R68K-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-120J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-151J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-152J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-180J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-181J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-182J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-222J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-330J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-470J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-472J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-472J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-561J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-562J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-680J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-680J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-822J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+FCR10.0M5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR18.0M6	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR24.0M6	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR4.0MC5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR5.0M5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FFE1070NA11UXL	from hqew, 北京麦亚基科技	TDK	12+	50000	SMD
+FSL1011S-150M2R5	from hqew, 北京麦亚基科技	TDK	11+	190000	SMD
+HF30ACC321611-T	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+HF30ACC575032-T	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+LTF5022T-100M1R4-LC	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+MLF1608A1R5MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608A2R2MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608A3R3KT	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608C330MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608DR10MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608DR18MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608DR56J	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR56MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608DR82MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608E100MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012A3R3MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012C150MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012C270MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012DR15MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012DR18KT	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR22MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012DR47MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012E6R8J	from hqew, 北京麦亚基科技	TDK	12+	150000	SMD
+MLF2012E8R2MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLG0603S11NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S16NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S20NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S24NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S2N0ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S2N1ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S2N7ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S30NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S39NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S3N3ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S47NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S51NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S7N5ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S8N2ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S91NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S9N1ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603SR10ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603SR11ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603SR12ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603SR18ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLK0603L1N8ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L2N2ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L3N6ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L4N3ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L6N8JT	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L8N2JT	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L9N1JT	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLZ1005M1R0WT	from hqew, 北京麦亚基科技	TDK	12+	100000	SMD
+MLZ1005M1R5WT	from hqew, 北京麦亚基科技	TDK	12+	100000	SMD
+MLZ1005M2R2WT	from hqew, 北京麦亚基科技	TDK	12+	100000	SMD
+MMZ0402S100C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ0603D330C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ0603D800C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ0603S471C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ0603S800C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ1005B121CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005B800C	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005D330CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005F470CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005S241CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005S601C	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y152CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y241CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y301CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y400C	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y601CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608A222B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608A252BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608B221CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608B601CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D050CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D500CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Q471B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y102B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y150BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y152BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y301B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y330BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y600BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y601BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012D301B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012R600AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012R601A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012R601AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012S102A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012S181AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012S301AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012S400A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012S601AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012S800AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y102B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y102BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y150BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MPZ1005S121CT000	from hqew, 北京麦亚基科技	TDK	12+	6530	SMD
+MPZ1608B471A	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608B471AT000	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608S102AT000	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608S121A	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608Y101BT000	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ1608Y221B	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ2012S102A	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+MTL1315H-103J	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+MTL1315H-331K	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+MTL1315H-332J	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+MTL1315H-470K	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+MTL1315H-471K	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+MTL1315H-681K	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+MTL1315H-682J	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+NL453232T-2R7J-PF	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+NL453232T-390J-PF	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+NL453232T-821J-PF	from hqew, 北京麦亚基科技	TDK	12+	17500	SMD
+NLC453232T-101K-PF	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+NLC453232T-150K-PF	from hqew, 北京麦亚基科技	TDK	12+	15000	SMD
+NLC453232T-181K-PF	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+NLC453232T-1R2K-PF	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+NLC453232T-680K-PF	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+NLFV25T-100K-PF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV25T-220K-PF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV25T-4R7M-PF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-151K-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-330K-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-6R8M-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLV32T-047J-PF	from hqew, 北京麦亚基科技	TDK	08+	36500	SMD
+PS1720P02	from hqew, 北京麦亚基科技	TDK	12+	60000	SMD
+PS1740P02CE	from hqew, 北京麦亚基科技	TDK	12+	60000	SMD
+PS1740P02E	from hqew, 北京麦亚基科技	TDK	12+	60000	SMD
+RLF12545T-7R8N5R4-PF	from hqew, 北京麦亚基科技	TDK	12+	500	SMD
+RLF7030T-3R3M4R1	from hqew, 北京麦亚基科技	TDK	12+	36680	SMD
+SL1215-152KR42-PF	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+SL1215-222KR31-PF	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+SL1215-470K2R0-PF	from hqew, 北京麦亚基科技	TDK	12+	180000	SMD
+SL1215-562KR20-PF	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+SL1215-680K1R8-PF	from hqew, 北京麦亚基科技	TDK	12+	180000	SMD
+SLF10145T-100M	from hqew, 北京麦亚基科技	TDK	12+	15500	SMD
+SLF10145T-100M2R5-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF10145T-102M	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+SLF10145T-151M	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+SLF10145T-220M1R9-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF10145T-221M	from hqew, 北京麦亚基科技	TDK	12+	192000	SMD
+SLF10145T-680M	from hqew, 北京麦亚基科技	TDK	12+	322000	SMD
+SLF12555T-100M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12555T-220M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12555T-220M2R3-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12555T-221M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12555T-330M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12555T-681MR43-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12565T-101M	from hqew, 北京麦亚基科技	TDK	12+	45000	SMD
+SLF12565T-221M	from hqew, 北京麦亚基科技	TDK	12+	188500	SMD
+SLF12565T-221M1R0-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12565T-2R0N6R2-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12565T-331MR95-PF	from hqew, 北京麦亚基科技	TDK	12+	14000	SMD
+SLF12565T-470M2R4-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12565T-7R0N5R0-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12575T-1R2N	from hqew, 北京麦亚基科技	TDK	12+	1500	SMD
+SLF12575T-220M	from hqew, 北京麦亚基科技	TDK	12+	7500	SMD
+SLF12575T-470M2R7-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12575T-5R6N	from hqew, 北京麦亚基科技	TDK	12+	1500	SMD
+SLF6018T-100MR68-K	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6018T-220MR49	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6018T-6R8MR87	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6025T-150MR88	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6025T-4R7M1R5	from hqew, 北京麦亚基科技	TDK	10+	20000	SMD
+SLF6025T-680MR42	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6028T-101M	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+SLF6028T-150M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF6028T-220M	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+SLF6045T-100M	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6045T-150M	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6045T-6R8N	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7028T-100M1R1-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7028T-330MR65-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7030T-101MR35-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7030T-3R3M1R8-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7030T-6R8M1R5-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7032T-100M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+SLF7032T-102M	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+SLF7032T-151M	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF7045T-151M	from hqew, 北京麦亚基科技	TDK	12+	42000	SMD
+SRW16ES	from hqew, 北京麦亚基科技	TDK	12+	13000	SMD
+VLCF4018T-150MR59-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4018T-220MR49-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4018T-470MR34-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4020T-220MR56	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4024T-100MR90-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4024T-1R6N2R1-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4024T-470MR44-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4028T-330MR61-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4028T-4R7N1R5-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-150MR90-1	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-3R3N2R0-3	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-470MR40	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5024T-1R8N1R8-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5024T-220MR59-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5024T-330MR50-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5024T-4R7N1R3-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5024T-6R8N1R1-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-150MR85-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-1R8N2R2-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-221MR22-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-471MR14-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-560MR43-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLF3010AT-1R5N	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+VLF3010AT-220M	from hqew, 北京麦亚基科技	TDK	12+	24000	SMD
+VLF3012AT-330M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012AT-220M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012AT-470M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012AT-470MR30	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012ST-100M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012ST-100MR65	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012ST-1R0N	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012ST-1R0N1R9	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012ST-2R2M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLM10555T-2R5M8R0-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLM10555T-3R3M7R2-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLP8040T-2R2N	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLP8040T-330M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLP8040T-3R3N	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLP8040T-4R7N	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLS3010ET-1R0N	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+VLS4012ET-100M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+ZCAT1736	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT2235-1030A-BK	from hqew, 北京麦亚基科技	TDK	12+	1600	SMD
+ZCAT2436-BK	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT2749-0430C	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT3618-2630DT(-BK)	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT4625-3430D-BK	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT6819-5230D	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT6819-5230DT(-BK)	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ACH32C-470-T001	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+CD43-120M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-150M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-150M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-180M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-1R0M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-1R4M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-1R4M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-271K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-330K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-390K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-3R3M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-3R9M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-3R9M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-470K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-4R7M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-4R7M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-560K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-5R6M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-820K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-821K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-8R2M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CLQ7D27	from hqew, 北京麦亚基科技	SUMIDA	12+	6000	SMD
+E08L-6R2N-T	from hqew, 北京麦亚基科技	SAGAMI	12+	2000	SMD
+EL0405RA-120J-3PF	from hqew, 北京麦亚基科技	TDK	12+	45000	SMD
+EL0405RA-121J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-121J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-151J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-151J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-180J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-1R2J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-1R2J-3PF	from hqew, 北京麦亚基科技	TDK	12+	13000	SMD
+EL0405RA-1R5J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-1R5J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-270J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-2R2J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-2R7J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-331J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-3R3J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-3R9J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-3R9J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-470J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-560J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-680J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-R27K-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-R68K-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-R82K-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-100J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-150J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-1R2J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-1R8J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-2R2J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-2R7J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-2R7J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-3R3J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-3R9J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-4R7J-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+EL0606RA-560J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-5R6J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-680J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-6R8J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-6R8J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-8R2J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-R39K-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-100J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-102J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-103J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-120J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-121J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-122J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-123J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-150J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-153J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-180J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-181J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-182J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-220J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-221J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-391J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-392J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-471J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-560J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-682J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-820J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+FCR10.0MC5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR40.0M6	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR6.0MC5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR8.0M5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FFE1070MA11UAL	from hqew, 北京麦亚基科技	TDK	12+	50000	SMD
+FFE1070MJ11FBL	from hqew, 北京麦亚基科技	TDK	12+	50000	SMD
+FFE1070NA11UAL	from hqew, 北京麦亚基科技	TDK	12+	50000	SMD
+HF30ACC322513-T	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+HF30ACC453215-T	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608A1R8MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608A3R3J	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608A3R9J	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608A4R7MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608C330KT	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608DR15MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608DR39MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608DR56KT	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608E120MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012A1R2MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012A1R5MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012C101MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012C180MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012C680MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012DR56MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012E100MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012E6R8MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012E8R2J	from hqew, 北京麦亚基科技	TDK	12+	150000	SMD
+MLF2012K560MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLG0603S0N3ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S0N8ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S13NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S18NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S1N0ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S1N1ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S1N6ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S1N8ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S4N3ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S4N7ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S6N8ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603SR13ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG1005S0N8ST	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+MLK0603L10NJT	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L12NJT	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L1N0ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L1N1ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L1N3ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L1N5ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L27NJT	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L3N9ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L5N1ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L6N2ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L7N5JT	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK1005S3N6ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLZ1005M2R2WT000	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLZ1005MR68WT	from hqew, 北京麦亚基科技	TDK	12+	100000	SMD
+MMZ0402S121C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ0402S700C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ0603D560C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ0603F100C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ0603F330C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ0603S121C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ0603S241C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ1005D121CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005D220CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005F330C	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005S121CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005S800CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y301C	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y800CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608B121C	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608B121CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D100CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D301BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D800CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S102A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y102BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y221BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y301BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012D121BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012D301BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012R121AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012R301AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y121B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y121BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MPZ1005Y900CT000	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ1608S600AT000	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ2012S102AT000	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+MTL1315H-100K	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+MTL1315H-101K	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+MTL1315H-102J	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+MTL1315H-152J	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+MTL1315H-220K	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+MTL1315H-221K	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+MTL1315H-222J	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+NL453232T-1R2J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+NL453232T-2R2J-PF	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+NL565050T-1R0K	from hqew, 北京麦亚基科技	TDK	12+	40000	SMD
+NLC453232T-100K-PF	from hqew, 北京麦亚基科技	TDK	12+	15000	SMD
+NLC453232T-180K-PF	from hqew, 北京麦亚基科技	TDK	12+	15000	SMD
+NLC453232T-1R5K-PF	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+NLC453232T-271K-PF	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+NLC453232T-6R8K-PF	from hqew, 北京麦亚基科技	TDK	12+	15000	SMD
+NLFV32T-2R2M-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-331K-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-479K-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-680K-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-681K-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+PS1440P02BT	from hqew, 北京麦亚基科技	TDK	12+	60000	SMD
+PS1920P02	from hqew, 北京麦亚基科技	TDK	12+	60000	SMD
+SL0707RA-470KR94-1PF	from hqew, 北京麦亚基科技	TDK	11+	50000	SMD
+SL1215-100K	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+SL1215-330K2R3-PF	from hqew, 北京麦亚基科技	TDK	12+	180000	SMD
+SL1215-332KR27-PF	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+SLF10145T-102MR29-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF10145T-150M2R2-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF10145T-152M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF10145T-220M	from hqew, 北京麦亚基科技	TDK	12+	80000	SMD
+SLF10145T-330M1R6-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF10145T-331MR54-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF10145T-470M1R4-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF10145T-4R7M	from hqew, 北京麦亚基科技	TDK	12+	17500	SMD
+SLF12555T-152M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12555T-330M1R9-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12555T-471MR49-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12555T-681M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12565T-100M4R8-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12565T-101M1R6-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12565T-220M	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12565T-220M3R5-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12565T-470M	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+SLF12565T-4R2N	from hqew, 北京麦亚基科技	TDK	12+	3500	SMD
+SLF12575T-100M5R4-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12575T-101M	from hqew, 北京麦亚基科技	TDK	12+	120000	SMD
+SLF12575T-150M4R7-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12575T-151M	from hqew, 北京麦亚基科技	TDK	12+	7500	SMD
+SLF12575T-330M3R2-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12575T-3R9N	from hqew, 北京麦亚基科技	TDK	12+	3000	SMD
+SLF12575T-470M	from hqew, 北京麦亚基科技	TDK	12+	40000	SMD
+SLF12575T-5R6N6R3-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12575T-6R8N5R9-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF6018T-101MR30	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6018T-101MR30-K	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6018T-330MR38-K	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6018T-470MR36-K	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6018T-4R7MR96	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6018T-4R7MR96-K	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6018T-680MR33-K	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6025T-220MR73	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6025T-470MR48	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6028T-100M	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+SLF6028T-151M	from hqew, 北京麦亚基科技	TDK	12+	27000	SMD
+SLF6028T-221M	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6028T-680M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+SLF6045T-2R2N	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7028T-150MR88-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7028T-220MR75-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7028T-3R3M1R6-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7030T-330MR65-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7032T-101M	from hqew, 北京麦亚基科技	TDK	12+	300000	SMD
+SLF7045T-102M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+SLF7045T-150M	from hqew, 北京麦亚基科技	TDK	12+	24000	SMD
+SPM3012T-2R2M	from hqew, 北京麦亚基科技	TDK	12+	660	SMD
+SRW16ES	from hqew, 北京麦亚基科技	TDK	11+	13000	SMD
+VLCF4018T-100MR74-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4018T-1R6N1R7-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4018T-4R7N1R0-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4020T-150MR68	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4024T-4R7N1R4-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4028T-100M1R0-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4028T-150MR88-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4028T-1R6N2R3-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4028T-2R2N1R9-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-220MR75-1	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5024T-3R3N1R4-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5024T-470MR40-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-101MR33-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-470MR49-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLF3010AT-4R7M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+VLF3012AT-100M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3012AT-150M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3012AT-1R5N	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3012AT-3R3M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3012AT-4R7M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3014AT-100M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3014AT-1R0N	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3014AT-1R0N1R8	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3014AT-220MR37	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012AT-100M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012AT-150M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012AT-150MR63	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012AT-6R8M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012AT-6R8MR96	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012ST-3R3M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012ST-3R3M1R1	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLP8040T-1R5N	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLP8040T-221M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLP8040T-331M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+ZCAT1518-0730	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT2749-0430C(-BK)	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT3035-1330	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT3618-2630D(-BK)	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT4625-3430D(-BK)	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT6819-5230D-BK	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ACH32C-100-T001	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+ACH32C-102-T001	from hqew, 北京麦亚基科技	TDK	12+	30000	SMD
+ACM2012H-900-2P	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+ACM2520-801-3P	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+ACM4520-231-2P	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+C5750X7R1H475K	from hqew, 北京麦亚基科技	TDK	11+	1000	SMD
+C5750X7R2A475M	from hqew, 北京麦亚基科技	TDK	12+	3000	SMD
+CD43-101K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-120M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-121K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-151K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-151K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-1R0M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-1R8M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-1R8M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-220M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-271K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-2R2M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-2R7M	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-2R7M	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-330K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-331K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-391K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-470K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-471K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-471K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-560K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-680K	from hqew, 北京麦亚基科技	MYKIA	12+	4000	SMD
+CD43-820K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CD43-821K	from hqew, 北京麦亚基科技	MYJ	12+	2000	SMD
+CP-4L2/SW	from hqew, 北京麦亚基科技	SUMIDA	12+	8000	SMD
+EL0305RA-5601-3PF	from hqew, 北京麦亚基科技	TDK	12+	3000	SMD
+EL0405RA-101J-3PF	from hqew, 北京麦亚基科技	TDK	12+	9000	SMD
+EL0405RA-120J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-181J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-1R8J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-221J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-270J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-271J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-330J-3PF	from hqew, 北京麦亚基科技	TDK	12+	36000	SMD
+EL0405RA-331J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-471J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-4R7J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-5R6J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-6R8J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-820J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-820J-3PF	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+EL0405RA-8R2J-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-8R2J-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-R22K-3PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0405RA-R27K-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0405RA-R47K-3PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-120J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-180J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-1R5J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-220J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-220J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-270J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-330J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-390J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-3R3J-PF	from hqew, 北京麦亚基科技	TDK	12+	216000	SMD
+EL0606RA-4R7J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-5R6J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-680J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-820J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-820J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-8R2J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0606RA-R33K-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-R56K-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0606RA-R56K-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-101J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-101J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-102J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-103J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-122J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-150J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-151J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-152J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-271J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-271J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-272J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-272J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-330J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-332J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-332J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-390J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-392J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-561J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-562J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-681J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-820J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+EL0607RA-821J-PF	from hqew, 北京麦亚基科技	TDK/MYJ	12+	2000	SMD
+EL0607RA-822J-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+FCR16.0M6	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR4.19M5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FCR8.0MC5	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+FFE1070MS10SGL	from hqew, 北京麦亚基科技	TDK	12+	50000	SMD
+FFE1070MS11SAL	from hqew, 北京麦亚基科技	TDK	12+	50000	SMD
+FFE1070NJ11FAL	from hqew, 北京麦亚基科技	TDK	12+	50000	SMD
+HF2836-622Y3R0-T01	from hqew, 北京麦亚基科技	TDK	11+	20000	SMD
+HF2836-622Y3R0-T01BH	from hqew, 北京麦亚基科技	TDK	11+	400	SMD
+HF30ACC201209	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+HF30ACC201209-T	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+HF70ACC201209-T	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608A1R0MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608A2R7J	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608A2R7KT	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608A3R9KT	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608A3R9MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608A4R7J	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MLF1608C150MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608C270MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608D47NMT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608DR27MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608DR68MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF1608E100JT000	from hqew, 北京麦亚基科技	TDK	12+	8000	SMD
+MLF1608E5R6MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012A1R8MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012A2R7MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012A3R9MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012C330MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012DR10MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012DR12MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012DR27MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012DR33MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012DR39MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012DR56J	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR56KT	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+MLF2012DR68MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012DR82MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012E5R6MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012E6R8KT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012K390MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLF2012K470MT	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MLG0603Q27NJT000	from hqew, 北京麦亚基科技	TDK	12+	570000	SMD
+MLG0603S0N4ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S0N5ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S0N7ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S12NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S1N3ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S27NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S33NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S36NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S3N6ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S3N9ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S43NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S56NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S5N1ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S62NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S68NST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLG0603S6N2ST	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+MLK0603L18NJT	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L1N2ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L1N6ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L22NJT	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L2N7ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L3N3ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L4N7ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLK0603L5N6ST	from hqew, 北京麦亚基科技	TDK	12+	32000	SMD
+MLZ1005MR47WT	from hqew, 北京麦亚基科技	TDK	12+	100000	SMD
+MMZ0603S100C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ0603S601C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ0603Y121C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ0603Y471C	from hqew, 北京麦亚基科技	TDK	12+	250000	SMD
+MMZ1005B601CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005B800CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005D100CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005F560CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y102CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1005Y241C	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D121CT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608D800BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Q601B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S102AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608S800AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y121BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ1608Y751BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012R300AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012R301A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012S102AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012S400AT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012S601A	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y152B	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MMZ2012Y152BT000	from hqew, 北京麦亚基科技	TDK	12+	16000	SMD
+MPZ1005S121C	from hqew, 北京麦亚基科技	TDK	12+	6530	SMD
+MPZ1005Y900C	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ1608S101A	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608S101AT000	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608S102A	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608S121AT000	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608S181A	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+MPZ1608S600A	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MPZ1608Y221BT000	from hqew, 北京麦亚基科技	TDK	12+	12000	SMD
+MTL1315H-151K	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+MTL1315H-330K	from hqew, 北京麦亚基科技	MYKIA-BK	12+	5000	SMD
+NL453232T-1R8J-PF	from hqew, 北京麦亚基科技	TDK	12+	15000	SMD
+NLC453232T-1R0K-PF	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+NLC453232T-221K-PF	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+NLC453232T-331K-PF	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+NLCV32T-R22M-PFR	from hqew, 北京麦亚基科技	TDK	12+	48000	SMD
+NLFV25T-150K-PF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV25T-1R0M-PF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV25T-330K-PF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV25T-680K-PF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-100K-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-101K-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-102K-EF	from hqew, 北京麦亚基科技	TDK	11+	145000	SMD
+NLFV32T-150K-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-221K-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-3R3M-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+NLFV32T-471K-EF	from hqew, 北京麦亚基科技	TDK	12+	145000	SMD
+PS1240P02CT3	from hqew, 北京麦亚基科技	TDK	12+	1250	SMD
+PS1550L40M	from hqew, 北京麦亚基科技	TDK	12+	60000	SMD
+RLF12560T-1R0N140	from hqew, 北京麦亚基科技	TDK	12+	500	SMD
+RLF12560T-7R8N8R2	from hqew, 北京麦亚基科技	TDK	12+	500	SMD
+SL0707RA-470K	from hqew, 北京麦亚基科技	TDK	12+	50000	SMD
+SL1215-100K3R6-PF	from hqew, 北京麦亚基科技	TDK	12+	180000	SMD
+SL1215-100K3R6-PF	from hqew, 北京麦亚基科技	TDK	11+	6000	SMD
+SL1215-101K1R5-PF	from hqew, 北京麦亚基科技	TDK	12+	180000	SMD
+SL1215-102KR51-PF	from hqew, 北京麦亚基科技	TDK	12+	4000	SMD
+SL1215-150K3R3-PF	from hqew, 北京麦亚基科技	TDK	12+	180000	SMD
+SL1215-220K2R8-PF	from hqew, 北京麦亚基科技	TDK	12+	180000	SMD
+SL1215-681KR58-PF	from hqew, 北京麦亚基科技	TDK	12+	6000	SMD
+SLF10145T-100M	from hqew, 北京麦亚基科技	TDK/XM	12+	14500	SMD
+SLF10145T-100M2R5-PF	from hqew, 北京麦亚基科技	TDK/XM	12+	14500	SMD
+SLF10145T-151MR79-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF10145T-221MR65-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF10145T-330M	from hqew, 北京麦亚基科技	TDK	12+	43500	SMD
+SLF10145T-3R3N3R7-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF10145T-470M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+SLF10145T-471MR47-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF10145T-5R6M	from hqew, 北京麦亚基科技	TDK	12+	1500	SMD
+SLF10145T-5R6M3R2-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12555T-101M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12555T-150M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12555T-150M2R8-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12555T-151M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12555T-331M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12555T-331MR59-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12555T-470M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12555T-470M1R6-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12555T-680M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+SLF12555T-680M1R3-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12565T-330M	from hqew, 北京麦亚基科技	TDK	12+	43500	SMD
+SLF12565T-680M2R0-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12575T-101M1R9-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12575T-151M1R5-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12575T-220M4R0-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12575T-221M1R3-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12575T-2R7N	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+SLF12575T-2R7N7R0-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF12575T-680M2R0-H	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF6018T-100MR68	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6018T-220MR49-K	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6025T-100M1R0	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6025T-101MR33	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6025T-330MR59	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF6028T-330M	from hqew, 北京麦亚基科技	TDK	12+	3000	SMD
+SLF6045T-1R5N	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7028T-4R7M1R5-PF	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+SLF7028T-6R8M1R3-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7030T-220MR86-PF	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+SLF7032T-220M	from hqew, 北京麦亚基科技	TDK	12+	148000	SMD
+SLF7032T-221M	from hqew, 北京麦亚基科技	TDK	12+	43000	SMD
+SLF7032T-330M	from hqew, 北京麦亚基科技	TDK	12+	20000	SMD
+SLF7032T-331M	from hqew, 北京麦亚基科技	TDK	12+	135000	SMD
+SLF7045T-221M	from hqew, 北京麦亚基科技	TDK	12+	18000	SMD
+SLF7045T-331M	from hqew, 北京麦亚基科技	TDK	12+	5000	SMD
+TCM1210G-900-2P-T200	from hqew, 北京麦亚基科技	TDK	12+	40000	SMD
+VLC5020T-1R5N	from hqew, 北京麦亚基科技	TDK	12+	500	SMD
+VLCF4018T-3R3N1R2-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4018T-6R8NR94-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4020T-330MR47	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4020T-3R3N1R5	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4020T-470MR39	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4024T-101MR30-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4024T-220MR65-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4024T-330MR55-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4024T-3R3N1R7-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4024T-6R8N1R1-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4028T-1R2N2R7-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4028T-220MR72-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4028T-2R7N1R8-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4028T-471MR14-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF4028T-6R8N1R3-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5020T-220MR58	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5024T-150MR71-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-1R3N2R5-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-330MR62-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-4R7N1R5-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLCF5028T-6R8N1R3-2	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLF3010AT-3R3M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3012AT-6R8M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3014AT-100MR59	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3014AT-2R2M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3014AT-2R2M1R2	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3014AT-3R3M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3014AT-4R7M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF3014AT-6R8MR72	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012AT-1R5M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012AT-330M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012AT-3R3M1R3	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012AT-4R7M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012AT-4R7M1R1	from hqew, 北京麦亚基科技	TDK	12+	14000	SMD
+VLF4012ST-2R2M1R3	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLF4012ST-4R7M	from hqew, 北京麦亚基科技	TDK	12+	10000	SMD
+VLP8040T-150M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLP8040T-151M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLP8040T-1R0N	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLP8040T-680M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLP8040T-681M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLS3012ET-220M	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+VLS4012ET-220M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+VLS4012ET-3R3M	from hqew, 北京麦亚基科技	TDK	12+	1000	SMD
+ZCAT1229	from hqew, 北京麦亚基科技	TDK	12+	430	SMD
+ZCAT1525-0430AP(-BK)	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT1736-BK	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT2035-0930A-BK	from hqew, 北京麦亚基科技	TDK/XM	12+	5400	SMD
+ZCAT2235-1030A	from hqew, 北京麦亚基科技	TDK	12+	2400	SMD
+ZCAT2235-1030A(-BK)	from hqew, 北京麦亚基科技	TDK	12+	2000	SMD
+ZCAT3618-2630D-BK	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT3618-2630DT	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT3618-2630DT-BK	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD
+ZCAT6819-5230D(-BK)	from hqew, 北京麦亚基科技	TDK	12+	5400	SMD

@@ -226,97 +226,52 @@ func writeFile(str string, w *bufio.Writer) {
 }
 
 func changeBrand(brand string) string {
-	switch brand {
-	case "":
-		brand = "Other"
-	case "&nbsp;":
-		brand = "Other"
-
-	case "AIC/沛亨":
-		brand = "AIC"
-	case "ANALOGICTECH":
-		brand = "ANALOGIC"
-
-	case "BELLING/上海":
-		brand = "BELLING"
-	case "cypress":
-		brand = "CYPRESS"
-	case "CYPRESS专业":
-		brand = "CYPRESS"
-
-	case "DIODES":
-		brand = "DIODES INC"
-	case "FSC":
-		brand = "FAIRCHILD"
-	case "FSC原装":
-		brand = "FAIRCHILD"
-	case "FUJ":
-		brand = "FUJITSU"
-	case "FUJI":
-		brand = "FUJITSU"
-	case "HIT":
-		brand = "HITACHI"
-	case "INF英飞凌":
-		brand = "INFINEON"
-	case "LN南麟":
-		brand = "NATLINEAR"
-
-	case "Microne南京":
-		brand = "MICRONE"
-	case "MOT":
-		brand = "MOTOROLA"
-	case "NXP/PHI":
-		brand = "NXP"
-	case "NS国半":
-		brand = "NXP"
-
-	case "OB台湾昂宝":
-		brand = "OB"
-
-	case "ON":
-		brand = "ON SEMI"
-	case "ONSEMI":
-		brand = "ON SEMI"
-	case "PAN松下":
-		brand = "PANASONIC"
-	case "PAN":
-		brand = "PANASONIC"
-	case "PHI":
-		brand = "PHILIPS"
-	case "PHI飞利蒲":
-		brand = "PHILIPS"
-	case "RICHTEK/立锜":
-		brand = "RICHTEK"
-	case "SAM":
-		brand = "SAMSUNG"
-	case "SEIKO/精工":
-		brand = "SEIKO"
-	case "SHAPR/夏普":
-		brand = "SHAPR"
-	case "TI德州":
-		brand = "SHAPR"
-
-	case "TOS东芝":
-		brand = "TOSHIBA"
-	case "TOS":
-		brand = "TOSHIBA"
-	case "佰鸿":
-		brand = "BRIGHT"
-	case "长电":
-		brand = "CJ"
-	case "东芝":
-		brand = "TOSHIBA"
-	case "三星":
-		brand = "SAMSUNG"
-	case "三洋":
-		brand = "SANYO"
-	case "松下":
-		brand = "PANASONIC"
-	case "台湾远翔":
-		brand = "FEELING-TECH"
-
-	default:
-		brand = brand
+	brands := [][]string{
+		{"", "Other"},
+		{"&nbsp;", "Other"},
+		{"AIC/沛亨", "AIC"},
+		{"ANALOGICTECH", "ANALOGIC"},
+		{"BELLING/上海", "BELLING"},
+		{"CYPRESS专业", "CYPRESS"},
+		{"DIODES", "DIODES INC"},
+		{"FSC", "FAIRCHILD"},
+		{"FSC原装", "FAIRCHILD"},
+		{"FUJ", "FUJITSU"},
+		{"FUJI", "FUJITSU"},
+		{"HIT", "HITACHI"},
+		{"INF英飞凌", "INFINEON"},
+		{"LN南麟", "NATLINEAR"},
+		{"Microne南京", "MICRONE"},
+		{"MOT", "MOTOROLA"},
+		{"NXP/PHI", "NXP"},
+		{"NS国半", "NS"},
+		{"OB台湾昂宝", "OB"},
+		{"ON", "ON SEMI"},
+		{"ONSEMI", "ON SEMI"},
+		{"PAN松下", "PANASONIC"},
+		{"PHI", "PHILIPS"},
+		{"PHI飞利蒲", "PHILIPS"},
+		{"RICHTEK/立锜", "RICHTEK"},
+		{"SAM", "SAMSUNG"},
+		{"SEIKO/精工", "SEIKO"},
+		{"SHAPR/夏普", "SHARP"},
+		{"TI德州", "TI"},
+		{"TOS东芝", "TOSHIBA"},
+		{"TOS", "TOSHIBA"},
+		{"佰鸿", "BRIGHT"},
+		{"长电", "CJ"},
+		{"东芝", "TOSHIBA"},
+		{"三星", "SAMSUNG"},
+		{"三洋", "SANYO"},
+		{"松下", "PANASONIC"},
+		{"台湾远翔", "FEELING-TECH"}}
+	for _, brandSlice := range brands {
+		//fmt.Println(brandSlice)
+		if brandSlice[0] == brand {
+			return brandSlice[1]
+		} else {
+			continue
+		}
 	}
 	return brand
 

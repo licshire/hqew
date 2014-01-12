@@ -14,14 +14,15 @@ import (
 )
 
 //爬虫mouser网站，根据大分类，爬出所有型号，将型号和厂家存入txt文档
-// .\mouser.exe
+// .\mouser.exe No
 func main() {
-	var base_url string = "http://www.mouser.com/Optoelectronics/_/N-5g5v/"
-	var fileName string = "Optoelectronics.txt"
-	var fileNameLog string = "log.txt"
-	var totalPage int64 = 4166
+	//var base_url string = "http://www.mouser.com/Optoelectronics/_/N-5g5v/"
+	var base_url string = "http://www.mouser.com/Passive-Components/_/N-5g73/"
+	var fileName string = "Passive-Components.txt"
+	var fileNameLog string = "Passive-Components_log.txt"
+	var totalPage int64 = 32710
 	//默认为0
-	var i int64 = 1576
+	var i int64 = 0
 
 	args := os.Args
 	if len(args) == 2 {
@@ -49,6 +50,16 @@ func main() {
 		fmt.Println("before http.get(url)")
 		res, err := http.Get(url)
 		fmt.Println("after http.get(url)")
+
+		if err != nil {
+			fmt.Println("connect error 1")
+			wLog.WriteString("connect error 1\t" + time.Now().Format("2006-01-02 15:04:05") + "\r\n")
+			wLog.Flush()
+			//log.Fatal(err)
+			time.Sleep(30000 * time.Millisecond)
+			continue
+		}
+
 		fmt.Println(res.StatusCode)
 
 		if res.StatusCode != 200 {
@@ -60,14 +71,7 @@ func main() {
 			continue
 		}
 		//os.Exit(1)
-		if err != nil {
-			fmt.Println("connect error 1")
-			wLog.WriteString("connect error 1\t" + time.Now().Format("2006-01-02 15:04:05") + "\r\n")
-			wLog.Flush()
-			//log.Fatal(err)
-			time.Sleep(30000 * time.Millisecond)
-			continue
-		}
+
 		fmt.Println("before ioutil.ReadAll(res.Body)")
 		bodyByte, err := ioutil.ReadAll(res.Body)
 		fmt.Println("after ioutil.ReadAll(res.Body)")

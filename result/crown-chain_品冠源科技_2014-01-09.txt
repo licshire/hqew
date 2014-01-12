@@ -1,0 +1,2810 @@
+1.5SMC18A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AB
+1.5SMC30A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AB
+ESLP2510V05	from hqew, 品冠源科技	Semitel	12+ROHS	80000	SMD2510
+OXUPCI954-LQAG	from hqew, 品冠源科技	PLX	12+	600	QFN
+PEX 8605-AA50NI G	from hqew, 品冠源科技	PLX	12+	1680	QFN
+PEX 8608-BA50BC G	from hqew, 品冠源科技	PLX	12+	1260	BGA
+PEX 8609-BA50BI G	from hqew, 品冠源科技	PLX	12+	1260	BGA
+PEX 8619-BA50BC G	from hqew, 品冠源科技	PLX	12+	420	BGA
+PEX 8619-BA50BI G	from hqew, 品冠源科技	PLX	12+	420	BGA
+PEX 8696-AA50BC G	from hqew, 品冠源科技	PLX	12+	48	BGA
+SES12VD923-2U	from hqew, 品冠源科技	Semitel	12+	80000	SOD923
+SES5VT553-5	from hqew, 品冠源科技	Semitel	12+	80000	SOT553
+SMAJ22A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ7.5CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMCJ22CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AB
+SMCJ5.0A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AB
+1.5KE24A	from hqew, 品冠源科技	Semitel	12+	80000	DO-201
+1.5SMC75A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AB
+1.5SMC75CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AB
+AS1135	from hqew, 品冠源科技	AkrosSili	12+	30000	QFN
+EN5339QI	from hqew, 品冠源科技	ENPIRION	12+	20000	QFN
+EP5358xUI	from hqew, 品冠源科技	ENPIRION	12+	50000	QFN
+ESDP2510	from hqew, 品冠源科技	Semitel	18+ROHS	100000	SMD2510
+MLSEP12A-0402	from hqew, 品冠源科技	Semitel	12+ROHS	80000	SMD0402
+MLSEP24B-0603	from hqew, 品冠源科技	Semitel	12+ROHS	80000	SMD0603
+OXPCIE952-FBAG	from hqew, 品冠源科技	PLX	12+	1760	BGA
+OXPCIE958-FBAG	from hqew, 品冠源科技	PLX	12+	480	BGA
+P4KE220A	from hqew, 品冠源科技	Semitel	12+	80000	DO-204A(
+P4KE39A	from hqew, 品冠源科技	Semitel	12+	80000	DO-204A(
+P4KE51A	from hqew, 品冠源科技	Semitel	12+	80000	DO-204A(
+P4KE56A	from hqew, 品冠源科技	Semitel	12+	80000	DO-204A(
+PEX 8605-AB50NI G	from hqew, 品冠源科技	PLX	12+	1680	QFN
+PEX 8606-BA50BC G	from hqew, 品冠源科技	PLX	12+	1260	BGA
+PEX 8613-BA50BC G	from hqew, 品冠源科技	PLX	12+	420	BGA
+PEX 8614-BA50BC G	from hqew, 品冠源科技	PLX	12+	420	BGA
+PEX 8616-BB50RBC F	from hqew, 品冠源科技	PLX	12+	420	BGA
+PEX 8617-BA50BC G	from hqew, 品冠源科技	PLX	12+	420	BGA
+PEX 8617-BA50BI G	from hqew, 品冠源科技	PLX	12+	420	BGA
+PEX 8618-BA50BC G	from hqew, 品冠源科技	PLX	12+	420	BGA
+PEX 8624-BB50BC F	from hqew, 品冠源科技	PLX	12+	420	BGA
+PEX 8624-BB50RBC F	from hqew, 品冠源科技	PLX	12+	420	BGA
+PEX 8625-AA50BC F	from hqew, 品冠源科技	PLX	12+	120	BGA
+PEX 8648-BB50BC F	from hqew, 品冠源科技	PLX	12+	120	BGA
+PEX 8648-BB50BI F	from hqew, 品冠源科技	PLX	12+	120	BGA
+PEX 8648-BB50RBC F	from hqew, 品冠源科技	PLX	12+	120	BGA
+S2005EL-PCN	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+S2005EL-thick	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+S2005EL-thin	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+S3005EL	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SES12VD523-2U	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SES12VT23-3	from hqew, 品冠源科技	Semitel	12+	80000	SOD923
+SES2V8T23-3U	from hqew, 品冠源科技	Semitel	12+	80000	SOD923
+SES5VD323-2U	from hqew, 品冠源科技	Semitel	12+	80000	SOD323
+SES5VD923-2B	from hqew, 品冠源科技	Semitel	12+	80000	SOD923
+SES5VD923-2U	from hqew, 品冠源科技	Semitel	12+	80000	SOD923
+SES5VT236-6U	from hqew, 品冠源科技	Semitel	12+	80000	SOT-23-6
+SES5VT353-5	from hqew, 品冠源科技	Semitel	12+	80000	SOT353
+SES7VD523-2U	from hqew, 品冠源科技	Semitel	12+	80000	SOD523
+SESLC3V3D323-2B	from hqew, 品冠源科技	Semitel	12+	80000	SOD-323
+SMAJ12A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ14A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ15CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ16A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ18CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ200A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ24A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ30CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ40A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ54A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ54CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ64A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ75A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ75CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ9.0A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMBJ10CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ12CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ13A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ14A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ14CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ15CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ16CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ180A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ18A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ18A-GD	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ20CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ220A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ28A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ40A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ48A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ48CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ54A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ6.0A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ64A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMCJ22A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AB
+SMCJ58CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AB
+1.5SMC68A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AB
+EP53A8XQI	from hqew, 品冠源科技	ENPIRION	12+	50000	QFN
+ESDC-0603	from hqew, 品冠源科技	Semitel	20+ROHS	100000	SMD0603
+EX1AV	from hqew, 品冠源科技	ENPIRION	12+	200000	QFN
+MLSEP08A-2510	from hqew, 品冠源科技	Semitel	12+ROHS	80000	SMD2510
+P4KE180A	from hqew, 品冠源科技	Semitel	12+	80000	DO-204A(
+P4KE200A	from hqew, 品冠源科技	Semitel	12+	80000	DO-204A(
+P4SMA15CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+P4SMA22CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+PESD-0402	from hqew, 品冠源科技	Semitel	13+ROHS	100000	SMD0402
+PESD-2510	from hqew, 品冠源科技	Semitel	15+ROHS	100000	SMD2510
+PEX 8311-AA66BC F	from hqew, 品冠源科技	PLX	12+	600	BGA
+PEX 8603-AA50NI G	from hqew, 品冠源科技	PLX	12+	1680	QFN
+PEX 8603-AB50NI G	from hqew, 品冠源科技	PLX	12+	1680	QFN
+PEX 8606-BA50BI G	from hqew, 品冠源科技	PLX	12+	1260	BGA
+PEX 8615-BA50BC G	from hqew, 品冠源科技	PLX	12+	420	BGA
+PEX 8615-BA50BI G	from hqew, 品冠源科技	PLX	12+	420	BGA
+PEX 8647-BB50RBC F	from hqew, 品冠源科技	PLX	12+	120	BGA
+PEX 8649-AA50RBC F	from hqew, 品冠源科技	PLX	12+	120	BGA
+PEX 8680-AA50BC F	from hqew, 品冠源科技	PLX	12+	72	BGA
+PVS05A-0402	from hqew, 品冠源科技	Semitel	21+ROHS	100000	SMD0402
+SES2V8P8U	from hqew, 品冠源科技	Semitel	12+	80000	SOP-8
+SES3V3D523-2U	from hqew, 品冠源科技	Semitel	12+	80000	SOD923
+SES3V3D923-2B	from hqew, 品冠源科技	Semitel	12+	80000	SOD923
+SES3V3D923-2U	from hqew, 品冠源科技	Semitel	12+	80000	SOD923
+SES5VD323-2B	from hqew, 品冠源科技	Semitel	12+	80000	SOD323
+SES5VT23-3	from hqew, 品冠源科技	Semitel	12+	80000	SOT-23
+SES5VT563-6	from hqew, 品冠源科技	Semitel	12+	80000	SOT563
+SESLC12VD323-2B	from hqew, 品冠源科技	Semitel	12+	80000	SOD-323
+SESLC5VD323-2U	from hqew, 品冠源科技	Semitel	12+	80000	SOD-323
+SESLC5VD523-2B	from hqew, 品冠源科技	Semitel	12+	80000	SOD-323
+SESLC5VT523-3U	from hqew, 品冠源科技	Semitel	12+	80000	SOT-523
+SMAJ180A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ40CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ5.0CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ58A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ7.5A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMBJ18CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ200A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ20A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ33A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ40CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ43A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ5.0A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ5.0CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ51A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ64CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ7.0CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ9.0CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMCJ30CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AB
+SVG170D	from hqew, 品冠源科技	Semitel	12+	150000	SO-8
+SVG170DM	from hqew, 品冠源科技	Semitel	12+	150000	SO-8
+1.5SMC91A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AB
+ESDC-0402	from hqew, 品冠源科技	Semitel	19+ROHS	100000	SMD0402
+ESDP0402	from hqew, 品冠源科技	Semitel	16+ROHS	100000	SMD0402
+ESDP0603	from hqew, 品冠源科技	Semitel	17+ROHS	100000	SMD0603
+ESLP1005V05	from hqew, 品冠源科技	Semitel	12+ROHS	80000	SMD1005
+ESLP1608V05	from hqew, 品冠源科技	Semitel	12+ROHS	80000	SMD2510
+H5TQ2G83CFR-PBC	from hqew, 品冠源科技	HYNIX	12+	19200	BGA
+K9F2G08U0C-SCB0	from hqew, 品冠源科技	SAMSUNG	13+	9600	TSOP
+NET2272REV1A-BC F	from hqew, 品冠源科技	PLX	12+	1960	QFN
+OXPCIE954-FBAG	from hqew, 品冠源科技	PLX	12+	800	BGA
+PEX 8112-AA66BI F	from hqew, 品冠源科技	PLX	12+	1520	BGA
+PEX 8112-AA66FBI F	from hqew, 品冠源科技	PLX	12+	1200	BGA
+PEX 8114-AA13BI G	from hqew, 品冠源科技	PLX	12+	1800	BGA
+PEX 8114-BD13BI G	from hqew, 品冠源科技	PLX	12+	1800	BGA
+PEX 8604-BA50BC G	from hqew, 品冠源科技	PLX	12+	1260	BGA
+PEX 8609-BA50BC G	from hqew, 品冠源科技	PLX	12+	1260	BGA
+PEX 8612-BB50BC F	from hqew, 品冠源科技	PLX	12+	840	BGA
+PEX 8612-BB50RBC F	from hqew, 品冠源科技	PLX	12+	840	BGA
+PEX 8616-BB50BC F	from hqew, 品冠源科技	PLX	12+	420	BGA
+PEX 8632-BB50BC F	from hqew, 品冠源科技	PLX	12+	120	BGA
+PEX 8636-AA50BC F	from hqew, 品冠源科技	PLX	12+	120	BGA
+PEX 8647-BB50BC F	from hqew, 品冠源科技	PLX	12+	120	BGA
+PEX 8649-AA50BC F	from hqew, 品冠源科技	PLX	12+	120	BGA
+PEX 8696-AA50BC F	from hqew, 品冠源科技	PLX	12+	48	BGA
+S2005ELD	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SES12VD323-2U	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SES5VD523-2U	from hqew, 品冠源科技	Semitel	12+	80000	SOD523
+SES5VD923-2U-5K	from hqew, 品冠源科技	Semitel	12+	80000	SOD923
+SES5VSC70-6	from hqew, 品冠源科技	Semitel	12+	80000	SC70-6L
+SES5VSC70-6U	from hqew, 品冠源科技	Semitel	12+	80000	SC70-6L
+SES5VT143-4U	from hqew, 品冠源科技	Semitel	12+	80000	SOT-143
+SESGC5VT23-3	from hqew, 品冠源科技	Semitel	12+	80000	SOD-323
+SESLC24VD323-2B	from hqew, 品冠源科技	Semitel	12+	80000	SOD-323
+SMAJ12CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ15A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ22CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ51A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ58CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMAJ7.0A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMBJ36A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ70A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMCJ33A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AB
+SMCJ48A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AB
+SMCJ54CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AB
+NET2272REV1A-LF	from hqew, 品冠源科技	PLX	12+	1600	QFN
+PESD-0603	from hqew, 品冠源科技	Semitel	14+ROHS	100000	SMD0603
+PEX 8114-BC13BI G	from hqew, 品冠源科技	PLX	12+	1800	BGA
+PEX 8604-BA50BI G	from hqew, 品冠源科技	PLX	12+	1260	BGA
+PEX 8613-BA50BI G	from hqew, 品冠源科技	PLX	12+	420	BGA
+PEX 8624-BB50BI F	from hqew, 品冠源科技	PLX	12+	420	BGA
+PEX 8632-BB50BI F	from hqew, 品冠源科技	PLX	12+	120	BGA
+PEX 8632-BB50RBC F	from hqew, 品冠源科技	PLX	12+	120	BGA
+PEX 8664-AA50BC F	from hqew, 品冠源科技	PLX	12+	72	BGA
+SA9.0A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SES12VD323-2B	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SES5VD523-2B	from hqew, 品冠源科技	Semitel	12+	80000	SOD523
+SES5VT553-5U	from hqew, 品冠源科技	Semitel	12+	80000	SOT553
+SESLC12VD323-2U	from hqew, 品冠源科技	Semitel	12+	80000	SOD-323
+SESLC3V3D323-2U	from hqew, 品冠源科技	Semitel	12+	80000	SOD-323
+SESLC5VT523-3	from hqew, 品冠源科技	Semitel	12+	80000	SOT-523
+SMAJ28CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AC
+SMBJ16A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ17A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ6.5CA	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMBJ8.0A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AA
+SMCJ170A	from hqew, 品冠源科技	Semitel	12+	80000	DO-214AB
+06035J3R0BBSTR	from hqew, 品冠源科技	AVX	&nbsp;	16467	0603(160
+08055C682JAT2A	from hqew, 品冠源科技	AVX	&nbsp;	6971	0805(201
+0805LS-102XJLC	from hqew, 品冠源科技	COILCRAFT	&nbsp;	5536	
+2N7000RLRAG	from hqew, 品冠源科技	ON SEMI	11+	82000	TO-92
+3224W-1-103E	from hqew, 品冠源科技	BOURNS	10+	750	
+3313J-1-101E	from hqew, 品冠源科技	BOURNS	10+	2000	
+AD620ARZ	from hqew, 品冠源科技	ADI	11+	2000	
+AD620ARZ-REEL	from hqew, 品冠源科技	ADI	11+	2000	
+AD620BRZ	from hqew, 品冠源科技	ADI	11+	2000	
+AD7862ANZ-10	from hqew, 品冠源科技	ADI	11+	2000	
+AD8058ARZ-REEL7	from hqew, 品冠源科技	ADI	11+	2000	
+AD8159ASVZ	from hqew, 品冠源科技	ADI	11+	2000	
+AD823ARZ-RL	from hqew, 品冠源科技	ADI	11+	2500	
+AD8313ARMZ-REEL7	from hqew, 品冠源科技	ADI	11+	2000	
+AD8362ARUZ-REEL7	from hqew, 品冠源科技	ADI	11+	2000	
+AD9787BSVZRL	from hqew, 品冠源科技	ADI	&nbsp;	2000	
+ADC101S021CIMFX/NOPB	from hqew, 品冠源科技	TI	11+	2000	SOT23-6
+ADC101S101CIMF/NOPB	from hqew, 品冠源科技	TI	11+	2000	SOT23-6
+ADC108S022CIMTX/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+ADC11C125CISQ/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-LLP(7
+ADL5371ACPZ-R7	from hqew, 品冠源科技	ADI	&nbsp;	5000	
+ADM1060ARUZ	from hqew, 品冠源科技	ADI	&nbsp;	5000	
+ADM3202ARNZ-REEL	from hqew, 品冠源科技	ADI	&nbsp;	2000	
+ADM706TARZ-REEL	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+ADM708ANZ	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+ADM809RARTZ-REEL7	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+ADP151AUJZ-3.3-R7	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+ADS7841E/2K5	from hqew, 品冠源科技	TI	11+	2000	16-SSOPQ
+AM26LS32ACN	from hqew, 品冠源科技	TI	11+	2000	16-SO
+BAT54C,215	from hqew, 品冠源科技	NXP	11+	9946	SOT-23-3
+BAT54LT1G	from hqew, 品冠源科技	ON SEMI	11+	129000	SOT-23-3
+BC807-40LT1G	from hqew, 品冠源科技	ON SEMI	11+	1971000	SOT-23-3
+BC848CLT1G	from hqew, 品冠源科技	ON SEMI	11+	114000	SOT-23-3
+BQ20Z90DBTR-V150	from hqew, 品冠源科技	TI	11+	2000	30-TSSOP
+BQ24032ARHLR	from hqew, 品冠源科技	TI	11+	2000	20-QFN-E
+BQ24070RHLR	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+BQ24085DRCR	from hqew, 品冠源科技	TI	11+	2000	10-SON
+BQ24103RHLR	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+BQ24120RHLR	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+BQ24170RGYR	from hqew, 品冠源科技	TI	11+	2000	24-VQFN
+BQ24316DSGR	from hqew, 品冠源科技	TI	11+	2000	8-WSON
+BQ26100DRPR	from hqew, 品冠源科技	TI	11+	2000	6-VSON
+BQ3060PWR	from hqew, 品冠源科技	TI	11+	2000	24-TSSOP
+BQ4802LYPWR	from hqew, 品冠源科技	TI	11+	2000	28-TSSOP
+BSS138LT1G	from hqew, 品冠源科技	ON SEMI	11+	93000	SOT-23-3
+CC1020RSSR	from hqew, 品冠源科技	TI	11+	2000	32-VQFN
+CC1101RTKR	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+CC113LRTKR	from hqew, 品冠源科技	TI	11+	2000	20-VFQFN
+CC2420RTCR	from hqew, 品冠源科技	TI	11+	2000	48-VQFN
+CC2480A1RTCR	from hqew, 品冠源科技	TI	11+	2000	48-VQFN
+CC2500-RTR1	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+CC2500-RTY1	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+CC2530-CC2591EMK	from hqew, 品冠源科技	TI	11+	2000	RFIDSUB
+CC2530F128RHAR	from hqew, 品冠源科技	TI	11+	2000	40-QFN
+CC2540F128RHAR	from hqew, 品冠源科技	TI	11+	2000	40-VFQFN
+CC2540F256RHAT	from hqew, 品冠源科技	TI	11+	2000	40-VFQFN
+CC3000FRAMEMK	from hqew, 品冠源科技	TI	11+	2000	
+CC8520RHAR	from hqew, 品冠源科技	TI	11+	2000	40-VFQFN
+CC8520RHAT	from hqew, 品冠源科技	TI	11+	2000	40-VFQFN
+CD4001BM96	from hqew, 品冠源科技	TI	11+	2000	14-SOIC
+CD40107BE	from hqew, 品冠源科技	TI	11+	2000	8-PDIP
+CD4024BM96	from hqew, 品冠源科技	TI	11+	2000	14-SOIC
+CD4053BPWR	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+CD4514BM96	from hqew, 品冠源科技	TI	11+	2000	24-SOIC
+CD74HC4053M96	from hqew, 品冠源科技	TI	2010	20	16-SOIC
+CD74HC4053PWR	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+DAC082S085CIMM/NOPB	from hqew, 品冠源科技	TI	11+	2000	10-MSOP
+DAC084S085CISDX/NOPB	from hqew, 品冠源科技	TI	11+	2000	10-SON
+DAC108S085CIMTX/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+DAC121S101CIMK/NOPB	from hqew, 品冠源科技	TI	11+	2000	TSOT-23-
+DP83849CVSX/NOPB	from hqew, 品冠源科技	TI	11+	2000	80-TQFP
+DP83849IFVS/NOPB	from hqew, 品冠源科技	TI	11+	2000	80-TQFP
+DP83849IFVSX/NOPB	from hqew, 品冠源科技	TI	11+	2000	80-TQFP
+DP83865DVH/NOPB	from hqew, 品冠源科技	TI	11+	2000	128-PQFP
+DS10CP152TMAX/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-SOIC
+DS1230Y-150+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1302S+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1302Z+TR	from hqew, 品冠源科技	MAXIM	2012	2500	
+DS1302ZN+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1307+	from hqew, 品冠源科技	MAXIM	2012	6	
+DS1314S-2	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1391U-33+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS25MB100TSQ/NOPB	from hqew, 品冠源科技	TI	11+	2000	36-LLP-E
+DS2704G+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS2784G+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS28E01P-100+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS620U+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS90CF363BMT/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-TSSOP
+DS90CR215MTD/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-TSSOP
+DS90LV047ATMTCX/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+DS90LV048ATMTC/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+DS90UR906QSQX/NOPB	from hqew, 品冠源科技	TI	11+	2000	60-LLP-E
+ICL7660ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+IKW25N120T2	from hqew, 品冠源科技	Infineon	2011	4320	
+INA118U/2K5	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+INA133U/2K5	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+INA170EA/2K5	from hqew, 品冠源科技	TI	11+	2000	8-MSOP
+INA193AIDBVR	from hqew, 品冠源科技	TI	11+	2000	SOT-23-5
+INA195AIDBVR	from hqew, 品冠源科技	TI	11+	2000	SOT-23-5
+INA210AIDCKR	from hqew, 品冠源科技	TI	11+	2000	SC-70-6
+ISO0721MDR	from hqew, 品冠源科技	TI	11+	2000	
+ISO721MDR	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+LE75183C	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79124SLATP	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE792231	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79232	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79271	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE7942B-2	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79Q2284	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79R241	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79R79-3	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE87220	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE88276	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE9500B	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE9500C	from hqew, 品冠源科技	Microsemi	13+	5000	
+LF347DR	from hqew, 品冠源科技	TI	11+	2000	14-SOIC
+LM20144MHE/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+LM20144MHX/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+LM20146MHE/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+LM20242MHE/NOPB	from hqew, 品冠源科技	TI	11+	2000	20-TSSOP
+LM20BIM7X/NOPB	from hqew, 品冠源科技	TI	11+	2000	SC-70-5
+LM21305SQ/NOPB	from hqew, 品冠源科技	TI	11+	2000	28-LLP-E
+LM22674MRX-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+LM22676MR-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+LM22676QMRE-5.0/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+LM22676TJE-5.0/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-7
+LM22680MRE-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+LM22680MRX-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+LM25011MY/NOPB	from hqew, 品冠源科技	TI	11+	2000	10-MSOP
+LM25085MYE/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-TSSOP
+LM25574MTX/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+LM25575MHX/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+LM2575HVT-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-220-5
+LM2576HVS-5.0/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2576HVSX-12/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2585T-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-220-5
+LM258ADR	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+LM2594MX-5.0/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+LM2595SX-3.3/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2596S-12/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2611BMF/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2621MM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM26420YMH/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM26480SQ-AA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2675MX-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2675N-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2675N-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2676S-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2678S-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2700MTX-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM27313XMF/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2734YMK/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2736YMK/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2747MTC/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2831YMFX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2842YMK-ADJL/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2853MHX-1.2/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2901DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2901DR2G	from hqew, 品冠源科技	ON SEMI	11+	657500	SOIC-14
+LM2904VDR2G	from hqew, 品冠源科技	ON SEMI	11+	55000	8-SOIC
+LM2931AD-5.0R2G	from hqew, 品冠源科技	ON SEMI	11+	110000	8-SOIC
+LM2936HVMA-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2936MP-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2937IMPX-2.5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2991S/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3103MHX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM324D	from hqew, 品冠源科技	TI	2010	5000	
+LM324DR2G	from hqew, 品冠源科技	ON SEMI	11+	652500	14-SOIC
+LM339ADR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM339DR	from hqew, 品冠源科技	TI	10+	3608000	14-SOIC
+LM339DR2G	from hqew, 品冠源科技	ON SEMI	11+	540000	14-SOIC
+LM3404HVMR/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3404MA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3409HVMYX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3445MM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3475MF/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3478MM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3480IM3-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3481MMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3485MM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3489MMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM348N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3526MX-H/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM358ADR	from hqew, 品冠源科技	TI	2012	20000	
+LM358DRG3	from hqew, 品冠源科技	TI	10+	70000	8-SOIC
+LM385BLPE3-1-2	from hqew, 品冠源科技	TI	2012	12000	
+LM3881MMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM4040BIM3-2.5 NOPB	from hqew, 品冠源科技	NS	10+	3456	SOT23-3
+LM4040BIM3-2.5 NOPB	from hqew, 品冠源科技	TI	&nbsp;	3456	
+LM4120AIM5-4.1/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM4120AIM5X-3.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM4128CMF-3.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM4835MTX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM4836MTEX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM49350RLX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM4990MM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5005MHX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5007MM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5008MMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5010MH/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5020MM-1	from hqew, 品冠源科技	NS	10+	4000	10-TFSOP
+LM5021NA-1/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5025AMTCX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5030MMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5034MTCX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5069MMX-2/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5071MTX-80/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM50CIM3X/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5101ASDX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5110-2MX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5116MH/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5642MTCX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM6132AIMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM6181IMX-8/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM75AIM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM75BIM-3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM8272MM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM9076SX-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM98620VHB/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMC7101BIM5X/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMD18200T/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMD18400N/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LME49721MAX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0024MAX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0341SQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0344SQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0346MH/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH1982SQ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH6515SQX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH6624MA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMK01020ISQ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMK03001CISQ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMK03033CISQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMK03200ISQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMK04001BISQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMP7704MA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV321M5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV324IDR	from hqew, 品冠源科技	TI	2012	50000	
+LMV324MX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV331M5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV341MG/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV393IDR	from hqew, 品冠源科技	TI	2012	60000	
+LMV7219M5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV721M7/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV721M7X/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV7239M5 NOPB	from hqew, 品冠源科技	TI	&nbsp;	4250	SOT-23-5
+LMV772MA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV797MM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV842MM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV844MT/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV932MA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV932MMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2531LQ1312E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2531LQ1700E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2531LQ2265E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2531LQ2570E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2531LQ2820E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2531LQE1312E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2541SQ2060E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMZ14201TZ-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMZ14203HTZE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2985AIM5-3.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2985AIM5X-2.5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2985IM5X-2.8/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2985ITPX-3.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2992AILD-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2996M/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2997MX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2998MA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38500TS-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38502ATJ-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3855ESX-1.8/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3855ESX-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38690DT-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38690DTX-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38691DTX-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38692MP-1.8/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38692MP-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38692SDX-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3872EMP-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3872EMPX-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3874EMPX-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3878MRX-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3961EMP-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3982IMM-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3985IM5-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3990MF-1.8/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LT1172CS8#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT1371IR#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	6000	
+LT1615ES5#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT1640ALCS8#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT1677IS8#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT1930AES5#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT1931AES5#TRMPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	1500	
+LT1976EFE#PBF	from hqew, 品冠源科技	LINEAR	&nbsp;	5000	
+LT3430EFE#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT3508EUF#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT5579IUH#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC1422CS8#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC3735EG#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2000	
+LV13603AMRX-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MBR0520LT1G	from hqew, 品冠源科技	ON SEMI	11+	51000	SOD-123
+MBR0540T1G	from hqew, 品冠源科技	ON SEMI	11+	72000	SOD-123
+MC34063ADR2G	from hqew, 品冠源科技	ON SEMI	11+	175000	SOIC-8
+MMBD914LT1G	from hqew, 品冠源科技	ON SEMI	11+	2292000	SOT-23-3
+MMBT3904LT1G	from hqew, 品冠源科技	ON SEMI	11+	11292000	SOT-23-3
+MMBT5401LT1G	from hqew, 品冠源科技	ON SEMI	11+	744000	SOT-23-3
+MMBTA06LT1G	from hqew, 品冠源科技	ON SEMI	11+	1245000	SOT-23-3
+MSP430F1491IPMR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F2001IRSAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F2012IPWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F2274IDAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F2618TPN	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F415IPMR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F449IPZR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430FE4272IPM	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MT3270B	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT3371B	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8806	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8812	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8814	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8880C	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT88L85	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT88L89	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8979	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT89L85	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT9072	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT90820	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT90869	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT90870	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT9300B	from hqew, 品冠源科技	Microsemi	13+	5000	
+MUR3060PT	from hqew, 品冠源科技	ON SEMI	11+	100000	TO-247
+MUR3060PTW5-1	from hqew, 品冠源科技	SKY	11+	5000	SOP
+MUR6060PT	from hqew, 品冠源科技	ON SEMI	11+	5000	TO-247
+MURA120T3G	from hqew, 品冠源科技	ON SEMI	11+	255000	SMA-2
+MURD620CTT4G	from hqew, 品冠源科技	ON SEMI	11+	110000	DPAK-3
+MXB7846EUE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX1239EEE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX1446EHJ+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX1482CSD+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX1745EUB+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX1971EEE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX202CSE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX202ECPE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX202EESE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX232CSE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX232CWE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3072EESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3094ECSE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3222ECUP+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3232CPE	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3232ECAE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3232EEAE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3232IPWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MAX3245EEAI+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3483ECSA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3488CSA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3490EESA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4053ACSE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4080TASA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4122EUK+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4477AUA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4478AUD+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4617ESE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX489ECSD+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4906FELB+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX490ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX491ESD+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX5380LEUK+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX6734KASHD3+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX6818EAP+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX691AESE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX705ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX706TCSA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX708SESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX809TEUR+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX810LEUR+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX811REUS+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX811TEUS+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX813LCPA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX8211CSA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX829EUK	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX8815AETB+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX9615AXA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX9722AETE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX9947ETE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+OP484ESZ	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+OPA2171AID	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA2171AIDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA348AIDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA360AIDCKT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA361AIDCKT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA4277UA/2K5	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA4340UA/2K5	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA4343UA/2K5	from hqew, 品冠源科技	TI	&nbsp;	5000	
+PCM1791ADB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+S0402F1	from hqew, 品冠源科技	Semitel	12+	100000	SMD0402
+S0402F1.75A	from hqew, 品冠源科技	Semitel	12+	100000	SMD0402
+S0402F2	from hqew, 品冠源科技	Semitel	12+	100000	SMD0402
+S0402F250	from hqew, 品冠源科技	Semitel	12+	100000	SMD0402
+S0402F3	from hqew, 品冠源科技	Semitel	12+	100000	SMD0402
+S0402F500	from hqew, 品冠源科技	Semitel	12+	100000	SMD0402
+S0603F1.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F1.5-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F2	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F3.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603H2	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603H3	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603H3.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603S2	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603S3	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S1206F1.5-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F1.75	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F2.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F2-TRG	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F500	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F500-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F6	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F7	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F750	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F8	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H2	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H5-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S1	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S2.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S5.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S7-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+SAFSE2G14KB0T00	from hqew, 品冠源科技	MURATA	11+	539	FILTER
+SCC500D	from hqew, 品冠源科技	Semitel	12+	5000	
+SCN-2-22+	from hqew, 品冠源科技	MINICIRCUITS	11+	790	SMD
+SCT250D	from hqew, 品冠源科技	Semitel	12+	5000	
+SCT500F	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRU135	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRV250-080U	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRV250-120U	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRV250-145U	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRV250-180	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRV250-180U	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRV600-150	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX010	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX065	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX090	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX185	from hqew, 品冠源科技	Semitel	12+	5000	
+SFSV250-130B	from hqew, 品冠源科技	Semitel	12+	5000	
+SFSV250C-130	from hqew, 品冠源科技	Semitel	12+	5000	
+SMCJ14CA	from hqew, 品冠源科技	Fairchild	10+	2901	DO-214AB
+SMCJ14CA	from hqew, 品冠源科技	Fairchild	&nbsp;	2901	DO-214AB
+SN65176BDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74ACT04DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74ACT244DWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC02DR	from hqew, 品冠源科技	TI	10+	10000	14-SOIC
+SN74AHC125PWR	from hqew, 品冠源科技	TI	2011	8000	
+SN74AHC125PWR	from hqew, 品冠源科技	TI	2012	2000	
+SN74AHC132PWR	from hqew, 品冠源科技	TI	10+	10000	14-TSSOP
+SN74AHC14PWR	from hqew, 品冠源科技	TI	10+	20000	14-TSSOP
+SN74AHC1G02DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC32DBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC74PWR	from hqew, 品冠源科技	TI	10+	6000	14-TSSOP
+SN74AHCT1G126DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74CBT3257PWRG4	from hqew, 品冠源科技	TI	10+	6000	16-TSSOP
+SN74HC00DR	from hqew, 品冠源科技	TI	10+	653000	14-SOIC
+SN74HC02N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC05DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC126PWR	from hqew, 品冠源科技	TI	10+	20000	14-TSSOP
+SN74HC138DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC164DR	from hqew, 品冠源科技	TI	10+	5208000	14-SOIC
+SN74HC174N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC240DWR	from hqew, 品冠源科技	TI	10+	42000	20-SOIC
+SN74HC240NSR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC244N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC244PWR	from hqew, 品冠源科技	TI	10+	60000	20-TSSOP
+SN74HC245N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC273DWR	from hqew, 品冠源科技	TI	10+	20000	20-SOIC
+SN74HC367DR	from hqew, 品冠源科技	TI	2012	20000	
+SN74HC4066N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC541NSR	from hqew, 品冠源科技	TI	2012	30000	
+SN74HC574DWR	from hqew, 品冠源科技	TI	10+	848000	20-SOIC
+SN74HC86N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HCT04PWR	from hqew, 品冠源科技	TI	10+	12000	14-TSSOP
+SN74HCT244DBR	from hqew, 品冠源科技	TI	2010	25	
+SN74LS06DR	from hqew, 品冠源科技	TI	2012	7500	
+SN74LS374DWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LV04ADR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LV04APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LV245APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC00APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC04APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC08ADR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC08APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC14APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC1G125DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC1G125DCKR	from hqew, 品冠源科技	TI	10+	3000	SC-70-5
+SN74LVC1G126DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC244ADBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC244ADWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC245ADWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC245APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC2G07DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC2G125YZPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC2G32DCTR	from hqew, 品冠源科技	TI	2010	25	
+SN74LVC2G66DCUR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC4245ADWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC541ADWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC74ADR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN75452BDR	from hqew, 品冠源科技	TI	2011	10000	
+SN75LVDS83BZQLR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SSF2305	from hqew, 品冠源科技	Semitel	12+	50000	SOT-23
+SSF3610	from hqew, 品冠源科技	Semitel	12+	50000	MOS11A30
+STP8102	from hqew, 品冠源科技	Semitel	12+	5000	
+STP9530	from hqew, 品冠源科技	Semitel	12+	5000	
+STP9545	from hqew, 品冠源科技	Semitel	12+	5000	
+STRF10UH	from hqew, 品冠源科技	Semitel	12+	5000	
+SVP0080SB	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP0300SB	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP0640SA	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP1100SA	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP1100SB	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP1300SA	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP1300SC	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP1500SB	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP2600SC	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP3100SA	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP3100SB	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP3500SC	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+TL064CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL071CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL072CP	from hqew, 品冠源科技	TI	2012	30000	
+TL072IDR	from hqew, 品冠源科技	TI	2012	22500	
+TL081CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL082IDRG4	from hqew, 品冠源科技	TI	2012	57500	
+TL16C452FNR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL3843P	from hqew, 品冠源科技	TI	2011	1350	
+TL3843P	from hqew, 品冠源科技	TI	2012	18650	
+TL431ACLPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TFP410PAP	from hqew, 品冠源科技	TI	2010	25	
+TL7705AIP	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC2272IDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC271BCDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC27L2CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV1117-18CDCYR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV1117CDCYRG3	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV3012AIDBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV320AIC1110PBS	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV320AIC3007IRSBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV5630IDW	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMDXVCDC8168	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320C6424ZDU4	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320C6424ZDU6	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320C6455BZTZA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM368BZCE48	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM642AZDK7HK	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM642AZNZ7	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM6446AZWTA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM6446BZWT8	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM6446ZWT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM6467CZUTA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM648ZUT9	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320F28016PZA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320F2802PZA-60	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320F28035PAGT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320VC33PGEA120	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320VC5509AZHH	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS32C6713BPYPA200	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS470R1B1MPGEA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMSDDVI6007CZUTHV	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMSDDVI6441AZWTHV	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMSDDVI6441ZWTHV	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMSDDVI802HV	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMX320DM365AZCE	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMX320DM8168ACYG	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPA2012D2RTJRG4	from hqew, 品冠源科技	TI	2010	25	
+TPA6203A1DGNR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPIC6B595DWRG4	from hqew, 品冠源科技	TI	2012	12000	
+TPS2051BDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2053BDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2066ADR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS23753APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS23753PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2412PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2540RTER	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2541ARTER	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3307-33DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3803-01DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3808G01DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3808G30DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3823-33DBVR	from hqew, 品冠源科技	TI	2012	15000	
+TPS3823-33DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3825-50DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3828-33DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS40007DGQR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS40009DGQR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS40057PWP	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS40190DRCR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS40222DRPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS51728RHAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54160DGQR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54283PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS5430DDARG4	from hqew, 品冠源科技	TI	2012	102500	
+TPS54310PWPR	from hqew, 品冠源科技	TI	2012	12000	
+TPS54314PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54331D	from hqew, 品冠源科技	TI	2011	25	
+TPS54331DR	from hqew, 品冠源科技	TI	2012	80000	
+TPS54550PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54612PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54615PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS60230RGTT	from hqew, 品冠源科技	TI	2010	15	
+TPS60500DGSR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61043DRBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61050YZGR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61061YZFT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61165DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61220DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS62050DGSR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS62067DSGR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS62110RSAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS62110RSAT	from hqew, 品冠源科技	TI	2012	500	
+TPS63020DSJR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS65053RGET	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS65130RGER	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS65150RGER	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS65251RHAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS65930A2ZCHR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS70351PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS70358PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS71501DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS71550DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS73001DBVT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS73601DRBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS73633DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS73701DCQR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS73801DCQR	from hqew, 品冠源科技	TI	10+	2358	SOT-223-
+TPS76301DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS76333DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS76801QPWPRG4Q1	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS77301DGKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS77515PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS79501DCQR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS79516DCQR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS79525DCQ	from hqew, 品冠源科技	TI	2005	25	
+TS3USB221RSER	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TSC2046IRGVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TXS0102DCTT	from hqew, 品冠源科技	TI	2010	25	
+UA78L05ACDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+UC3902DTR	from hqew, 品冠源科技	TI	2010	2500	
+VCBUP2AT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+VE8921	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30106	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30116	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30136	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30143	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30155	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30237	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30310	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30314	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL38002	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL38015	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL38065	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL49010	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50016	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50018	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50020	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50022	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50030	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50057	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50060	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50063	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50064	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50074	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50114	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50233	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL70102	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL70250	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL70272	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZLE30320	from hqew, 品冠源科技	Microsemi	13+	5000	
+06035J5R6CBSTR	from hqew, 品冠源科技	AVX	&nbsp;	9624	
+0603CS-39NXJLW	from hqew, 品冠源科技	COILCRAFT	&nbsp;	1551	
+3224W-1-503E	from hqew, 品冠源科技	BOURNS	10+	4000	
+600S1R8BT250T	from hqew, 品冠源科技	ATC	&nbsp;	3162	
+AD5541ARZ-REEL7	from hqew, 品冠源科技	ADI	11+	2000	
+AD620BRZ-REEL	from hqew, 品冠源科技	ADI	11+	2000	
+AD622ARZ-R7	from hqew, 品冠源科技	ADI	11+	2000	
+AD6655ABCPZ-125	from hqew, 品冠源科技	ADI	11+	2000	
+AD7472ARUZ-REEL7	from hqew, 品冠源科技	ADI	11+	2000	
+AD826ARZ-REEL7	from hqew, 品冠源科技	ADI	11+	1000	
+AD8368ACPZ-REEL7	from hqew, 品冠源科技	ADI	11+	2000	
+AD9122BCPZRL	from hqew, 品冠源科技	ADI	11+	2000	
+ADC084S021CIMM/NOPB	from hqew, 品冠源科技	TI	11+	2000	10-MSOP
+ADC101S021CIMF/NOPB	from hqew, 品冠源科技	TI	11+	2000	SOT23-6
+ADC122S021CIMMX/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-MSOP
+ADC122S051CIMM/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-MSOP
+ADF4153BRUZ	from hqew, 品冠源科技	ADI	&nbsp;	2000	
+ADM1232ARNZ-REEL7	from hqew, 品冠源科技	ADI	2012	2000	
+ADM2587EBRWZ-REEL7	from hqew, 品冠源科技	ADI	2012	1200	
+ADM706RARZ-REEL7	from hqew, 品冠源科技	ADI	2012	6000	
+ADM706SARZ-REEL	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+ADS1213E/1K	from hqew, 品冠源科技	TI	11+	2000	28-SSOP
+ADS7830IPWR	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+ADS8405IPFBR	from hqew, 品冠源科技	TI	11+	2000	48-TQFP
+ADS8509IDWR	from hqew, 品冠源科技	TI	11+	2000	20-SOIC
+ADT75BRMZ-REEL7	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+ADUM3210BRZ-RL7	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+ADUM3211BRZ-RL7	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+AM26LS31CDR	from hqew, 品冠源科技	TI	2012	7500	16-SOIC
+ASM2307M/TR-HF	from hqew, 品冠源科技	Semitel	12+	50000	SOT-23
+ASM3402M/TR-HF	from hqew, 品冠源科技	Semitel	12+	50000	SOT-23
+AT25640B-XHL-T	from hqew, 品冠源科技	Atmel	&nbsp;	1649	8-TSSOP
+BAS70LT1G	from hqew, 品冠源科技	ON SEMI	11+	43567	SOT-23-3
+BC807-25LT1G	from hqew, 品冠源科技	ON SEMI	11+	258000	SOT-23-3
+BMIS-102	from hqew, 品冠源科技	Laird	&nbsp;	1458	
+BQ20Z80DBTR-V102G4	from hqew, 品冠源科技	TI	11+	2000	38-TSSOP
+BQ24074RGT	from hqew, 品冠源科技	TI	11+	2000	16-QFN
+BQ24100RHLR	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+BQ24103ARHLR	from hqew, 品冠源科技	TI	2010	25	20-QFN
+BQ24105RHLR	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+BQ24133RGYR	from hqew, 品冠源科技	TI	2012	12000	24-VQFN
+BQ27520YZFR-G1	from hqew, 品冠源科技	TI	11+	2000	15-DSBGA
+BQ32000D	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+BSS123LT1G	from hqew, 品冠源科技	ON SEMI	11+	279000	SOT-23-3
+BZX84C3V3LT1G	from hqew, 品冠源科技	ON SEMI	11+	9980	SOT-23-3
+CC1070RGWR	from hqew, 品冠源科技	TI	11+	2000	20-VQFN
+CC1121RHMR	from hqew, 品冠源科技	TI	11+	2000	32-VQFN
+CC2500-CC2550DK	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+CC2511F32RSPR	from hqew, 品冠源科技	TI	11+	2000	36-QFN
+CC2530F256RHAT	from hqew, 品冠源科技	TI	11+	2000	40-QFN
+CC2530F256YS	from hqew, 品冠源科技	TI	11+	2000	
+CC2530F32RHAR	from hqew, 品冠源科技	TI	11+	2000	40-QFN
+CC2590RGVR	from hqew, 品冠源科技	TI	11+	2000	16-QFN
+CC430F6137IRGC	from hqew, 品冠源科技	TI	11+	2000	64-VFQFN
+CD4047BM96	from hqew, 品冠源科技	TI	11+	2000	14-SOIC
+CD4053BM96	from hqew, 品冠源科技	TI	11+	2000	16-SOIC
+CD4071BM96	from hqew, 品冠源科技	TI	11+	2000	14-SOIC
+CD4541BM96	from hqew, 品冠源科技	TI	11+	2000	14-SOIC
+CD74HC123M96	from hqew, 品冠源科技	TI	11+	2000	16-SOIC
+CD74HC154E	from hqew, 品冠源科技	TI	2011	23100	24-PDIP
+CD74HC4040E	from hqew, 品冠源科技	TI	11+	2000	16-PDIP
+CD74HC4052PWR	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+CD74HC4053E	from hqew, 品冠源科技	TI	11+	2000	16-PDIP
+CPC1394GR	from hqew, 品冠源科技	Semitel	12+	5000	
+DAC104S085CISDX/NOPB	from hqew, 品冠源科技	TI	11+	2000	10-SON
+DAC108S085CIMT/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+DG408DY+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DG411DY+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DP83848CVVX/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-LQFP
+DP83848IVVX/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-LQFP
+DP83849CVS/NOPB	from hqew, 品冠源科技	TI	11+	2000	80-TQFP
+DRV135UA	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+DRV632PWR	from hqew, 品冠源科技	TI	11+	2000	14-TSSOP
+DS1210S+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1267S-050+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1302SN+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1302Z+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1305N+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1307Z+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1321S+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1337S+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1338Z-33	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1644-120+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS16EV5110ASQE/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-LLP
+DS16F95W/883/	from hqew, 品冠源科技	TI	11+	2000	
+DS1706TESA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1721U+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS18B20+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS25BR204TSQ/NOPB	from hqew, 品冠源科技	TI	11+	2000	40-LLP-E
+DS2703G+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS75S+T/R	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS87C520-QCL+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS90C031WGRQMLV	from hqew, 品冠源科技	TI	11+	2000	
+DS90C365AMT/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-TSSOP
+DS90CF384AMTDX/NOPB	from hqew, 品冠源科技	TI	11+	2000	56-TSSOP
+DS90CF386MTDX/NOPB	from hqew, 品冠源科技	TI	11+	2000	56-TSSOP
+DS90CR218AMTD/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-TSSOP
+DS90UB901QSQE/NOPB	from hqew, 品冠源科技	TI	11+	2000	32-LLP-E
+DS90UR124QVSX/NOPB	from hqew, 品冠源科技	TI	11+	2000	64-TQFP
+DS92LV010ATMX/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+INA114AP	from hqew, 品冠源科技	TI	11+	2000	8-DIP
+INA128U/2K5	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+INA132UA/2K5	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+INA133UA/2K5	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+INA139NA/3K	from hqew, 品冠源科技	TI	11+	2000	SOT-23-5
+INA139NA/3KG4	from hqew, 品冠源科技	TI	10+	3000	SOT-23-5
+INA143U/2K5	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+INA157UA/2K5	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+INA211AIDCKR	from hqew, 品冠源科技	TI	11+	2000	SC-70-6
+LE57D121	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE57D122	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE58083A	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE75181A	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE75181B	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE75181C	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE75183A	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE75183B	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79112SLATP	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79114NT	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79124SLAT	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79124SLBT	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79234	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79242	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79555-4	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79R70	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79R70-1	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE87213A	from hqew, 品冠源科技	Microsemi	13+	5000	
+Le87250	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE87260	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE9500D	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE9520D	from hqew, 品冠源科技	Microsemi	13+	5000	
+LF353DR	from hqew, 品冠源科技	TI	2011	25000	8-SOIC
+LF353P	from hqew, 品冠源科技	TI	11+	2000	8-DIP
+LM140LAH-5.0/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-39
+LM20143MHX/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+LM211DR	from hqew, 品冠源科技	TI	2012	45000	8-SOIC
+LM22670MR-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+LM22672MR-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+LM22676MRX-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+LM22676TJ-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-7
+LM236H-2.5/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-46-3
+LM2588SX-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-7
+LM2592HVS-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2595S-3.3/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2595S-5.0/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2595SX-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2596S-5.0/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2596SX-3.3/NOPB	from hqew, 品冠源科技	TI	11+	1000	TO-263-5
+LM2622MMX-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM26400YMH/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2664M6/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2673SX-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2674MX-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2674MX-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2674MX-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2675M-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2675M-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2677S-12/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2700MT-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2734XMK/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2758TLX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2831YMF/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2842YMKX-ADJL/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2853MHX-2.5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2903DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2903DR2G	from hqew, 品冠源科技	ON SEMI	11+	80000	8-SOIC
+LM2904PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2907MX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2936M-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2936MM-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2937IMP-2.5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2937IMP-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2940IMPX-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3150MH/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM317LCDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3224MM-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM324ADR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM339PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3404MRX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3414HVMR/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3414HVMRX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3414MR/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3480IM3-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3485MMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3488MMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3526M-H/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3532TME-40A/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3578AMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM358DR	from hqew, 品冠源科技	TI	10+	5013000	8-SOIC
+LM3671MF-1.2/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM385BLP-2-5	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM393ADR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM48511SQ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5007MMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5008MM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5009MM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5025MTC/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5067MM-2/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5071MT-80/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5111-1M/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5111-1MX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5115MTC/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5576MH/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM7321MF/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM75AIMM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM75AIMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM77CIMX-3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM94022QBIMG/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM95071CIMF/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM96000CIMT/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMC6082AIMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMC6482IMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMC7101BIM5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMC7221BIM5X/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0002SQ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0034MA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0041SQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0044SQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0046MH/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0303SQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH6503MA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH6609MA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH6643MAX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH6738MQ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMP2234BMTX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMP7721MA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV225SDX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV331IDBVR	from hqew, 品冠源科技	TI	2012	9000	
+LMV331IDCKR	from hqew, 品冠源科技	TI	2012	39000	
+LMV342IDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV7239M7/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV761MF/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV772MAX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV932MAX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV932MM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV934MAX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2531LQ1515E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2531LQ1778E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2531LQ1910E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2541SQ3030E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMZ10504TZ-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMZ12003TZE-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMZ14203TZE-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2985AIM5-2.5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2985IM5X-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2992AIM5-1.8/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2992IM5X-1.8/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38501TJ-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38501TS-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38852MRX-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38855S-1.2/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3965ESX-2.5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP5521TMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP5951MF-3.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP5951MFX-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LT1013DDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LT1054CS8#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT1495CS8$TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	6000	
+LT1761ES5-BYP#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT3470ETS8#TRMPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	500	
+LT3757EMSE#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT4250LIS8#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT4356HS-1#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT5521EUF#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC3704EMS#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC4151IMS-1#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC4151IS-2#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC4300A-2CMS8#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC4412ES6#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTM9003IV-AB#PBF	from hqew, 品冠源科技	LINEAR	&nbsp;	6000	
+MC3486DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MC3487DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MJD122T4G	from hqew, 品冠源科技	ON SEMI	11+	67500	DPAK-3
+MMBT2222ALT1G	from hqew, 品冠源科技	ON SEMI	11+	3024000	SOT-23-3
+MMBT3906LT1G	from hqew, 品冠源科技	ON SEMI	11+	2576800	SOT-23-3
+MMSD4148T1G	from hqew, 品冠源科技	ON SEMI	11+	1029000	SOD-123
+MMSZ5242BT1G	from hqew, 品冠源科技	ON SEMI	11+	60000	SOD-123
+MSP430F149IPMR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F169IPMR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F2001IPW	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F2121IPWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F2370IRHAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F437IPZR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F448IPZR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430FG4618IPZ	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430FG4618IPZR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430V256IRSAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MT3171B	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8870D	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8885	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT88E45	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT88L70	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8952	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT9074	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT90840	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT90866	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT90868	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT9092	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT9171	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT9196	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT93L00A	from hqew, 品冠源科技	Microsemi	13+	5000	
+MUR3060PTW5	from hqew, 品冠源科技	SKY	11+	5000	SOP
+MUR3060TO-247	from hqew, 品冠源科技	ON SEMI	11+	5000	SOP
+MAX1239EEE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX1490AEPG+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX15053EWL+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX1675EUA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX1735EUK50+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX1735EUK50+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX1763EUE-T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX196ACWI+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX202EEUE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX202ESE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX232ACPE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX232EPE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX253ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX2659ELT+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX306EWI+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3082ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3226ECAE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3232ECAE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3232ECDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MAX3232EUE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3243CDBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MAX3243ECDBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MAX3243EEAI+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3371EXT+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3371EXT+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3485ECSA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3815CCM+D	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4053ACSE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4194ESA-T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4634EUB+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX487CSA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX5160LEUA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX6007BEUR+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX6105EUR+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX6315US29D2+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX6315US31D3+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX6320PUK29CY+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX6457UKD3C+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX660CSA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX660ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX705CSA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX708ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX7219CNG+	from hqew, 品冠源科技	MAXIM	2012	1500	
+MAX7219CWG+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX7219ENG+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX7315ATE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX809LEUR+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX823REUK+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX823SEUK+T	from hqew, 品冠源科技	MAXIM	2012	37500	
+MAX9031AUK+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX913ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX9526ATJ+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+NTD20P06LT4G	from hqew, 品冠源科技	ON SEMI	11+	163246	DPAK-3
+OP07DP	from hqew, 品冠源科技	TI	2010	4200	
+OP07DP	from hqew, 品冠源科技	TI	2011	54800	
+OP07DP	from hqew, 品冠源科技	TI	2012	10000	
+OP27GSZ-REEL7	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+OPA2357AIDGSR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA2377AIDGK	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA4277UA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA735AIDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA836IDBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+PCM1796DB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+PCM2906B	from hqew, 品冠源科技	TI	&nbsp;	5000	
+REF193GSZ-REEL	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+REF195FSZ-REEL	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+REG71050DDCT	from hqew, 品冠源科技	TI	2003	25	
+S0402F1.25	from hqew, 品冠源科技	Semitel	12+	100000	SMD0402
+S0402F3.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0402
+S0402F375	from hqew, 品冠源科技	Semitel	12+	100000	SMD0402
+S0402F4	from hqew, 品冠源科技	Semitel	12+	100000	SMD0402
+S0402F750	from hqew, 品冠源科技	Semitel	12+	100000	SMD0402
+S0603F3	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F5-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F5-TRB-2	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603H1	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603S2-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603S4.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S1206F1.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F2	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F375	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F4.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H1	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H1.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H3	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H3.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H3-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H4	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H6	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H7	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S1.25-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S2	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S3-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S7	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+SCC500C	from hqew, 品冠源科技	Semitel	12+	5000	
+SCC500D-A	from hqew, 品冠源科技	Semitel	12+	5000	
+SCT250B	from hqew, 品冠源科技	Semitel	12+	5000	
+SCT250DE	from hqew, 品冠源科技	Semitel	12+	5000	
+SCT500D	from hqew, 品冠源科技	Semitel	12+	5000	
+SCT500D-8	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRV250-110	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRV250-110U	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRV250-120	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX040	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX050	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX135	from hqew, 品冠源科技	Semitel	12+	5000	
+SN7406N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN7407DR	from hqew, 品冠源科技	TI	2012	5000	
+SN74ABT16652DLR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74ACT86DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC00DR	from hqew, 品冠源科技	TI	10+	10000	14-SOIC
+SN74AHC02PWR	from hqew, 品冠源科技	TI	10+	4000	14-TSSOP
+SN74AHC125PWR	from hqew, 品冠源科技	TI	10+	16000	14-TSSOP
+SN74AHC14DR	from hqew, 品冠源科技	TI	10+	88000	14-SOIC
+SN74AHC1G126DBVR	from hqew, 品冠源科技	TI	2010	21000	
+SN74AHC1G126DBVR	from hqew, 品冠源科技	TI	2012	3000	
+SN74AHC1G32DBVR	from hqew, 品冠源科技	TI	2012	3000	
+SN74AHC1G86DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC32DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC373PWR	from hqew, 品冠源科技	TI	10+	4000	20-TSSOP
+SN74AHCT126DR	from hqew, 品冠源科技	TI	10+	30000	14-SOIC
+SN74AVCH1T45DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74CB3Q3257DGVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74F138DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC02PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC02PWR	from hqew, 品冠源科技	TI	10+	104000	14-TSSOP
+SN74HC04N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC08DR	from hqew, 品冠源科技	TI	10+	223000	14-SOIC
+SN74HC08N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC10DR	from hqew, 品冠源科技	TI	10+	63000	14-SOIC
+SN74HC126DR	from hqew, 品冠源科技	TI	10+	53000	14-SOIC
+SN74HC132N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC138N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC148N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC14DR	from hqew, 品冠源科技	TI	10+	265000	14-SOIC
+SN74HC14N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC151N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC161DR	from hqew, 品冠源科技	TI	10+	25000	16-SOICN
+SN74HC161N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC163DR	from hqew, 品冠源科技	TI	10+	28000	16-SOICN
+SN74HC163PWR	from hqew, 品冠源科技	TI	10+	20000	16-TSSOP
+SN74HC166DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC175N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC175PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC193N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC244DWR	from hqew, 品冠源科技	TI	10+	52000	20-SOIC
+SN74HC245DWR	from hqew, 品冠源科技	TI	10+	70000	20-SOIC
+SN74HC245NSR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC273N	from hqew, 品冠源科技	TI	2012	100000	
+SN74HC273PWR	from hqew, 品冠源科技	TI	10+	6000	20-TSSOP
+SN74HC32DR	from hqew, 品冠源科技	TI	10+	70000	14-SOIC
+SN74HC373N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC573AN	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC573APWR	from hqew, 品冠源科技	TI	10+	48000	20-TSSOP
+SN74HC573NSR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC574N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC74N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HCT14DR	from hqew, 品冠源科技	TI	10+	243000	14-SOIC
+SN74HCT245PWR	from hqew, 品冠源科技	TI	10+	8000	20-TSSOP
+SN74LS00N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LS245DWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LS377N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LS74ADR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LV00APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LV02APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LV14ADR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LV244APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC04ADR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC125APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC138APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC14ADR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC16244ADGGR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC1G04DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC1G08DCKR	from hqew, 品冠源科技	TI	2012	30000	
+SN74LVC1G08DRLR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC1G3157DRYR	from hqew, 品冠源科技	TI	2010	5000	
+SN74LVC1T45DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC245ANSR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC2G04DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC32APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN75176BDR	from hqew, 品冠源科技	TI	2012	20000	
+SN75176BDR	from hqew, 品冠源科技	TI	2012	5000	
+SN75452BDR	from hqew, 品冠源科技	TI	2012	110000	
+SN75HVD12DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN75LVDS83BDGG	from hqew, 品冠源科技	TI	2011	10	
+SSF1221J2	from hqew, 品冠源科技	Semitel	12+	5000	
+SSF2306B	from hqew, 品冠源科技	Semitel	12+	50000	SMD
+SSF3117	from hqew, 品冠源科技	Semitel	12+	50000	DFN2X2-6
+SSF32E0E	from hqew, 品冠源科技	Semitel	12+	50000	SOT-523
+SSF3407	from hqew, 品冠源科技	Semitel	12+	50000	SMD
+SSF3620	from hqew, 品冠源科技	Semitel	12+	50000	SOP8
+SSF3624	from hqew, 品冠源科技	Semitel	12+	50000	SOT-23
+SSF5853DC	from hqew, 品冠源科技	Semitel	12+	50000	DFN-8
+STP8126	from hqew, 品冠源科技	Semitel	12+	5000	
+STP9540	from hqew, 品冠源科技	Semitel	12+	5000	
+SVP0080SA	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP0640SC	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP0720SB	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP0720SC	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP0900SA	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP0900SC	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP1500SC	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP1800SC	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP2000SB	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP2300SA	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP3100SC	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP3500SA	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+TCA6416AZQSR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL074IDR	from hqew, 品冠源科技	TI	2012	77500	
+TL084IDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL16C752BPTR	from hqew, 品冠源科技	TI	2012	1000	
+TL16C752BPTR	from hqew, 品冠源科技	TI	2012	1000	
+TL3844P	from hqew, 品冠源科技	TI	2010	12000	
+TLC081CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC2252CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC2254CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC2272CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC2274CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC27L4AIDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC27M2CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC555CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC5602CDWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC7528CDWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLK4015IZPV	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV2624IPW	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV2624IPWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV320AIC23BPWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV320AIC3204IRHBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV431ACDBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV431ACDBZR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV431AIDBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV5636IDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMP411ADGKR	from hqew, 品冠源科技	TI	2011	10	
+TMS320C6205DGHK200	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320C6424ZWT7	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320C6455BZTZ2	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM320ZHK	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM365ZCE27	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM368ZCE	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM642AZDK7	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM6437ZWT6	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM6441AZWT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM6467CZUT7	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM648ZUT9HK	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM648ZUTD1	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320F2808PZA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320F28232PGFA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320F28335PGFA	from hqew, 品冠源科技	TI	2012	480	
+TMS320LF2401AVFA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320VC5509APGE	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS32C6713BZDPA200	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS470R1A288PGEA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMSDC6727BZDHA250	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMSDDVI602AZDK6HV	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMSDDVI6446AZWTHV	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMSSCAT-SOFT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMX320DM6446AZWT8	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMX320DM8148CYE	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMX320DM8168CYG	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPA2005D1DRBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2034DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2041BDBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2042BDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2051BDBVR	from hqew, 品冠源科技	TI	2012	3000	
+TPS2052BDGNR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2052BDR	from hqew, 品冠源科技	TI	2012	2500	
+TPS2065DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2111APW	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2113PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS23754PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2553DBVT	from hqew, 品冠源科技	TI	2011	10	
+TPS3128E18DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3808G09DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3808G18DRVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3809K33DBVRG4	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3824-33DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3838K33DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS386596L33DGKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS40055PWPR	from hqew, 品冠源科技	TI	2010	6000	
+TPS40056PWPRG4	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS40192DRCR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS51020DBTR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS51100DGQR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS51200DRCR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS51211DSCR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54140DGQR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS5431DDAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54325PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54326PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54328DDAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54332DDAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54610PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54611PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54620RGYR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS60110PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS60150DRVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61040DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61041DBVR	from hqew, 品冠源科技	TI	2012	9000	
+TPS61041DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61043DRBRG4	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61085PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61175PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61252DSGR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS62040DGQR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS62056DGSR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS62560DRVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS63000DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS63001DRCR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS65020RHAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS658629IZWSRQ1	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS65930BZCHR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS65950BZXN	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS71533DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS73733DCQR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS74701DRCR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS74801DRCR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS79301DBVRQ1	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS79901DDCT--R	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TS5A3157DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TSC2046IPWR	from hqew, 品冠源科技	TI	2011	25	
+TSC2046IRGVR	from hqew, 品冠源科技	TI	2010	150	
+TUSB1210BRHBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TXB0102DCUR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+UA78M33CDCYR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+UCC28061DR	from hqew, 品冠源科技	TI	2011	10000	
+ULN2003ADRG3	from hqew, 品冠源科技	TI	10+	2720000	16-SOIC
+VE8901	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30102	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30108	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30110	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30112	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30122	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30130	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30132	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30138	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30142	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30145	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30146	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30152	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30157	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30160	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30236	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30316	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30342	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30343	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL38004	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL38012	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50019	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50021	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50050	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50051	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50052	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50061	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50062	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50070	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50112	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50117	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL70101	from hqew, 品冠源科技	Microsemi	13+	5000	
+2N7002LT1G	from hqew, 品冠源科技	ON SEMI	11+	3018000	SOT-23-3
+5747250-4	from hqew, 品冠源科技	tyco	&nbsp;	5353	
+600S1R2BT250T	from hqew, 品冠源科技	ATC	&nbsp;	34640	
+74AHCT125D	from hqew, 品冠源科技	NXP	11+	9593	14-SSOP
+AD71056ARZ	from hqew, 品冠源科技	ADI	11+	2000	
+AD820ARZ	from hqew, 品冠源科技	ADI	11+	2000	
+AD8345AREZ-RL7	from hqew, 品冠源科技	ADI	11+	2000	
+AD9125BCPZ	from hqew, 品冠源科技	ADI	2012	168	
+AD9516-3BCPZ-REEL7	from hqew, 品冠源科技	ADI	&nbsp;	2000	
+AD9764ARUZRL7	from hqew, 品冠源科技	ADI	&nbsp;	2000	
+ADC081C021CIMK/NOPB	from hqew, 品冠源科技	TI	11+	2000	TSOT-23-
+ADC121S021CIMF/NOPB	from hqew, 品冠源科技	TI	11+	2000	SOT23-6
+ADC78H89CIMT/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+ADC78H89CIMTX/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+ADG719BRTZ-REEL7	from hqew, 品冠源科技	ADI	&nbsp;	5000	
+ADL5373ACPZ-R7	from hqew, 品冠源科技	ADI	&nbsp;	5000	
+ADL5382ACPZ-R7	from hqew, 品冠源科技	ADI	&nbsp;	5000	
+ADN2817ACPZ	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+ADN8830ACPZ-REEL7	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+ADP1621ARMZ-R7	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+ADP3339AKCZ-3.3-R7	from hqew, 品冠源科技	ADI	2009	4500	
+ADR381ARTZ-REEL7	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+ADS1110A0IDBVT	from hqew, 品冠源科技	TI	11+	2000	SOT-23-6
+ADS5517IRGZR	from hqew, 品冠源科技	TI	11+	2000	48-VQFN
+ADS8321E/2K5	from hqew, 品冠源科技	TI	11+	2000	8-MSOP
+ADS8361IDBQR	from hqew, 品冠源科技	TI	11+	2000	24-SSOP
+ADS8519IBDBR	from hqew, 品冠源科技	TI	11+	2000	28-SSOP
+ADV7179KCPZ-REEL	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+BAS16LT1G	from hqew, 品冠源科技	ON SEMI	11+	1152000	SOT-23-3
+BAS21LT1G	from hqew, 品冠源科技	ON SEMI	11+	2001000	SOT-23-3
+BAT54C,215	from hqew, 品冠源科技	NXP	&nbsp;	9946	SOT-23-3
+BAV70LT1G	from hqew, 品冠源科技	ON SEMI	11+	4410000	SOT-23-3
+BAV99LT1G	from hqew, 品冠源科技	ON SEMI	11+	9468750	SOT-23-3
+BAW56LT1G	from hqew, 品冠源科技	ON SEMI	11+	2925000	SOT-23-3
+BC817-40LT1G	from hqew, 品冠源科技	ON SEMI	11+	2384000	SOT-23-3
+BQ2054SNTR	from hqew, 品冠源科技	TI	11+	2000	16-SOIC
+BQ24012DRCR	from hqew, 品冠源科技	TI	11+	2000	10-SON
+BQ24061DRCRG4	from hqew, 品冠源科技	TI	11+	2000	10-SON
+BSS138	from hqew, 品冠源科技	Semitel	12+	50000	SOT-23
+C4532X7R1H335MT	from hqew, 品冠源科技	TDK	&nbsp;	6734	1812(453
+CC1020RUZR	from hqew, 品冠源科技	TI	11+	2000	32-VQFN
+CC1021RSSR	from hqew, 品冠源科技	TI	11+	2000	8-MSOP
+CC1021-RTB1	from hqew, 品冠源科技	TI	11+	2000	32-VQFN
+CC1070RSQR	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+CC1100ERTKT	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+CC110LRTKR	from hqew, 品冠源科技	TI	11+	2000	20-VFQFN
+CC1110EMK433	from hqew, 品冠源科技	TI	11+	2000	original
+CC1150EMK-868	from hqew, 品冠源科技	TI	11+	2000	16-QFN
+CC2420-RTB1	from hqew, 品冠源科技	TI	11+	2000	48-VQFN
+CC2430F128RTCR	from hqew, 品冠源科技	TI	11+	2000	48-VQFN
+CC2431RTC	from hqew, 品冠源科技	TI	11+	2000	48-VQFN
+CC2500EMK	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+CC2510F32RSP	from hqew, 品冠源科技	TI	11+	2000	36-QFN
+CC2510F8RSPR	from hqew, 品冠源科技	TI	11+	2000	36-QFN
+CC2520RHDR	from hqew, 品冠源科技	TI	11+	2000	28-QFN
+CC2530F64RHAR	from hqew, 品冠源科技	TI	11+	2000	40-QFN
+CC2531F256RHAR	from hqew, 品冠源科技	TI	11+	2000	40-QFN
+CC2591RGVT	from hqew, 品冠源科技	TI	11+	2000	16-QFN
+CD4023BM96	from hqew, 品冠源科技	TI	11+	2000	14-SOIC
+CD4051BM96	from hqew, 品冠源科技	TI	11+	2000	16-SOIC
+CD4066BNSR	from hqew, 品冠源科技	TI	11+	2000	14-SO
+CD4073BM96	from hqew, 品冠源科技	TI	11+	2000	14-SOIC
+CLC007BM/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+DAC084S085CIMM/NOPB	from hqew, 品冠源科技	TI	11+	2000	10-MSOP
+DAC128S085CIMTX/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+DP83848KSQ/NOPB	from hqew, 品冠源科技	TI	11+	2000	40-LLP-E
+DP83849IDVSX/NOPB	from hqew, 品冠源科技	TI	11+	2000	80-TQFP
+DRV134UA/1K	from hqew, 品冠源科技	TI	11+	2000	16-SOIC
+DRV135UA/2K5	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+DRV8800RTY	from hqew, 品冠源科技	TI	11+	2000	16-QFN-E
+DS10CP152TMA/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-SOICN
+DS1232LPS-2+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1233Z-5+T/R	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1337U+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1621S+T/R	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1818R-10+T/R	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1821+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS18S20+	from hqew, 品冠源科技	MAXIM	2012	8000	
+DS2401Z+T/R	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS28E01P-100+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS75U+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS80C320-MCG+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS90C401MX/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+DS90CR285MTD/NOPB	from hqew, 品冠源科技	TI	11+	2000	56-TSSOP
+DS90CR286AMTD/NOPB	from hqew, 品冠源科技	TI	11+	2000	56-TSSOP
+DS90CR287MTD/NOPB	from hqew, 品冠源科技	TI	11+	2000	56-TSSOP
+DS90LV017ATMX/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+DS90LV018ATMX/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+DS90LV028ATMX/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+DS90LV047ATMX/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-SOIC
+DS90LV048ATMTCX/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+DS92LV090ATVEH/NOPB	from hqew, 品冠源科技	TI	11+	2000	64-TQFP
+INA125UA/2K5	from hqew, 品冠源科技	TI	11+	2000	16-SOIC
+INA138NA/3K	from hqew, 品冠源科技	TI	11+	2000	SOT-23-5
+INA157UA	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+INA2143U	from hqew, 品冠源科技	TI	11+	2000	14-SOIC
+INA333AIDRGR	from hqew, 品冠源科技	TI	11+	2000	8-SON
+ISO1050DUBR	from hqew, 品冠源科技	TI	11+	2000	8-SOP
+ISO122U	from hqew, 品冠源科技	TI	11+	2000	28-SOIC
+LE58QL021	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE58QL061	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE58QL063	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79112	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79112SLBT	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79112SLNT	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79114	from hqew, 品冠源科技	Microsemi	13+	5000	
+Le79114SLBT	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE7920-1	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79252	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79489-2	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE87250A	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE87251	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE88286	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE9500A	from hqew, 品冠源科技	Microsemi	13+	5000	
+LM1085IS-5.0/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-3
+LM1085IS-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-3
+LM1086CS-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-3
+LM140K-5.0/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-3
+LM20143MHE/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+LM20242MH/NOPB	from hqew, 品冠源科技	TI	11+	2000	20-TSSOP
+LM20BIM7/NOPB	from hqew, 品冠源科技	TI	11+	2000	SC-70-5
+LM224N	from hqew, 品冠源科技	TI	11+	2000	14-PDIP
+LM22676MRE-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+LM22678TJ-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-7
+LM22679TJE-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-7
+LM25010MH/NOPB	from hqew, 品冠源科技	TI	11+	2000	14-TSSOP
+LM25574MT/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+LM2576HVSX-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM258DR	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+LM258DR2G	from hqew, 品冠源科技	ON SEMI	11+	67500	SOIC-8
+LM2592HVSX-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2596S-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2596SX-5.0/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2611AMF/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2670S-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2675M-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2675MX-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2676SX-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2676T-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2696MXA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2733XMF/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2734YMKX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2743MTC/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2743MTCX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2842XMK-ADJL/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2853MHX-1.5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2853MHX-1.8/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2854MH-500/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2904DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2904P	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2936MX-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM293ADGKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM311DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM339APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM339DR	from hqew, 品冠源科技	TI	2011	5000	
+LM339DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM339DRG3	from hqew, 品冠源科技	TI	10+	3000	14-SOIC
+LM3404HVMRX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3406HVMHX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3414MRX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3466MRX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3532TMX-40A/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3554TMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3559TLX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3671MF-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3724IM5-3.08/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM385BDR-1-2	from hqew, 品冠源科技	TI	2012	30000	
+LM392DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM393DR	from hqew, 品冠源科技	TI	10+	3778000	8-SOIC
+LM393PWR	from hqew, 品冠源科技	TI	2012	20000	
+LM4120AIM5-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM431BIM3X	from hqew, 品冠源科技	NS	10+	9000	SOT-23-3
+LM4889MAX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM4927SD/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM49450SQ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5020MM-1	from hqew, 品冠源科技	TI	10+	4000	10-TFSOP
+LM5020MM-1/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5020MM-2/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5021MM-1/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5026MTX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5069MM-1/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5116MHX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5118MHX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5642MTC/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM60BIM3X/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM6142BIMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM61CIZ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM7372MR/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM73CIMK-0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM75BIMX-3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM8261M5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM92CIMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM96080CIMT/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMC6482AIM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMC6482AIMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMC7215IMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0001SQX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0026MHX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0034MAX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0040SQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0302SQ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0307SQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH1980MMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH1981MT/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH6515SQ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH6517SQ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH6517SQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH6552SD/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH6643MA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMK01010ISQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMK03000CISQ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMK04031BISQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMK04101SQ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV225SD/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV324M/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV358IDR	from hqew, 品冠源科技	TI	2012	152500	
+LMV393M/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV710M5	from hqew, 品冠源科技	NS	10+	3000	SOT-23-5
+LMV710M5	from hqew, 品冠源科技	TI	10+	3000	SOT-23-5
+LMV7219M5X/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV721M5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV774MTX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV791MKX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV831MG/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV842MAX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2433TMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2531LQ2080E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2531LQE1226E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2531LQE1415E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2531LQE1515E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2541SQ2380E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2541SQE2060E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2541SQE3030E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2541SQE3740E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX393AKA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+LMZ12002TZ-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMZ12002TZE-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMZ14201HTZE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMZ14203TZ-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2981IM5-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2985AIM5X-3.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2985AIM5X-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2985IM5-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2985IM5X-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2995MX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2996MX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2998MAE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38501TSX-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38503TSX-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3855EMP-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38690DTX-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38691DTX-1.8/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38692MP-2.5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3871EMP-2.5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3874EMPX-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3878MR-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3882ESX-1.2/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3883ESX-1.2/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3965ES-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3991TLX-2.8/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP5951MF-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP5951MFX-2.5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LPV7215MG/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LT5527EUF#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT5537EDDB#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC1067IGN#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC2413CGN#PBF	from hqew, 品冠源科技	LINEAR	&nbsp;	6000	
+LTC4054ES5-4.2#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC4211CS8#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC4300A-1CMS8#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC4558EUD#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTM4616EV#PBF	from hqew, 品冠源科技	LINEAR	&nbsp;	238	
+LV13603BMRX-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MC7805CTG	from hqew, 品冠源科技	ON SEMI	11+	1473030	TO-220-3
+MMBD7000LT1G	from hqew, 品冠源科技	ON SEMI	11+	5385000	SOT-23-3
+MMBT4403LT1G	from hqew, 品冠源科技	ON SEMI	11+	2838000	SOT-23-3
+MMBTA42LT1G	from hqew, 品冠源科技	ON SEMI	11+	228000	SOT-23-3
+MMBTA92LT1G	from hqew, 品冠源科技	ON SEMI	11+	102000	SOT-23-3
+MMSZ5231BT1G	from hqew, 品冠源科技	ON SEMI	11+	81000	SOD-123
+MSP430F1232IPWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F1611IPMR	from hqew, 品冠源科技	TI	2012	5000	
+MSP430F2013IPW	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F2013IPWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F2132IPWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F248TRGC	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F2618TPMR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F4132IPMR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F413IPMR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430G2131IPW14R	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430G2221IPW14R	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430G2553IPW28R	from hqew, 品冠源科技	TI	2012	2000	
+MT093	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8808	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8816	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8889C	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT88E43	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8986	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT89L80	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT89L86	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT9040	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT9076B	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT90812	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT9094	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT9122	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT9126	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT93L04A	from hqew, 品冠源科技	Microsemi	13+	5000	
+MUR160RLG	from hqew, 品冠源科技	ON SEMI	11+	450000	AxialLea
+MURS120T3G	from hqew, 品冠源科技	ON SEMI	11+	110000	SMB-2
+MAX111BEWE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX127ACAI+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX13082EESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX1737EEI+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX202ECSE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX232ACSE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX232CPE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX232DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MAX232ECSE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX232EESE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX2837ETM+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3053ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3080CSD+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3100CEE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3221EEAE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3222ECUP+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3232CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MAX3232CSE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3232CUE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3232ESE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3243ECAI+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX335EWG+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3471EUA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3488ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3490EESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4372HESA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4382EEE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX483ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX485ECSA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX485EESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX485ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX487CPA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX489CSD+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX538BCPA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX603CSA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX627ESA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX6336US23D3+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX6343MUT+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX6363LUT31+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX668EUB+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX6710EUT+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX690RCSA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX7347AEE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX809REUR+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX809SEUR+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX813LCSA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX828EUK+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX836EUS+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX8662ETM+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX9142ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX961ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX9860ETG+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+NC7SZ66M5X_NL	from hqew, 品冠源科技	Fairchild	10+	6000	SOT-23-5
+NE5532DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OP07DP	from hqew, 品冠源科技	TI	2009	1000	
+OP484ESZ	from hqew, 品冠源科技	ADI	2012	560	
+OPA129U	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA2131UA/2K5	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA2348AIDCNR	from hqew, 品冠源科技	TI	2011	6000	
+OPA2348AIDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA2830IDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA348AIDBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA357AIDBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA360AIDCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA4131UA/1K	from hqew, 品冠源科技	TI	&nbsp;	5000	
+R113424830	from hqew, 品冠源科技	Radiall	&nbsp;	4553	
+REF192GSZ-REEL7	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+RK73H1JTTD1003F	from hqew, 品冠源科技	KOA	&nbsp;	45883	
+RK73H1JTTD95R3F	from hqew, 品冠源科技	KOA	&nbsp;	22010	
+S0402F200	from hqew, 品冠源科技	Semitel	12+	100000	SMD0402
+S0402F250-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD0402
+S0603F1.25	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F1.75	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F2.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F2-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F3-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F4	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F4-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F5-TRB	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F6	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F6-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603H2.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603H4.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603H5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603H5-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603S1.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603S3.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603S4	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603S4-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603S5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S1206F1	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F1-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F3	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F3.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F3-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F4	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F5-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F7-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H1.25	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H1.5-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H4.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H5.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H6-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S1.25	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S2.5-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S4	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S4-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S5-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S6	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S6-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+SCT350F	from hqew, 品冠源科技	Semitel	12+	5000	
+SCT500B	from hqew, 品冠源科技	Semitel	12+	5000	
+SFPT130CL	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRV250-120C	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRV250-145	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRV600-150S	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX005	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX017	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX030	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX075	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX110	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX160	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX375	from hqew, 品冠源科技	Semitel	12+	5000	
+SFSV250-130	from hqew, 品冠源科技	Semitel	12+	5000	
+SN7406DR	from hqew, 品冠源科技	TI	2012	15000	
+SN7407N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74ACT244PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC08DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC08PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC125DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC1G00DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC1G04DBVR	from hqew, 品冠源科技	TI	2011	87000	
+SN74AHC1G125DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC1G14DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC1G14DCKR	from hqew, 品冠源科技	TI	2012	54000	
+SN74AHC1GU04DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC573PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC74DR	from hqew, 品冠源科技	TI	10+	8000	14-SOIC
+SN74AHCT08PWR	from hqew, 品冠源科技	TI	10+	30000	14-TSSOP
+SN74AHCT14PWR	from hqew, 品冠源科技	TI	10+	6000	14-TSSOP
+SN74AHCT1G14DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHCT245DWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AUP1G07DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC00PWR	from hqew, 品冠源科技	TI	10+	308000	14-TSSOP
+SN74HC04DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC08PWR	from hqew, 品冠源科技	TI	10+	118000	14-TSSOP
+SN74HC10N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC125DR	from hqew, 品冠源科技	TI	10+	315000	14-SOIC
+SN74HC139N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC14PWR	from hqew, 品冠源科技	TI	10+	242000	14-TSSOP
+SN74HC157N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC164N	from hqew, 品冠源科技	TI	10+	1439000	14-SO
+SN74HC244NSR	from hqew, 品冠源科技	TI	2012	12000	
+SN74HC373DWR	from hqew, 品冠源科技	TI	10+	54000	20-SOIC
+SN74HC373NSR	from hqew, 品冠源科技	TI	2012	34000	
+SN74HC373PWR	from hqew, 品冠源科技	TI	10+	76000	20-TSSOP
+SN74HC4066PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC541N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC574PWR	from hqew, 品冠源科技	TI	10+	12000	20-TSSOP
+SN74HC595DR	from hqew, 品冠源科技	TI	2012	67500	
+SN74HCT04N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HCT245NSR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HCT374DWR	from hqew, 品冠源科技	TI	10+	16000	20-SOIC
+SN74LS02DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LS138DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LS244NSR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LV06APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LV07APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC00ADR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC06APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC125ADR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC1G00DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC1G08DBVR	from hqew, 品冠源科技	TI	2012	25	
+SN74LVC1G14DCKR	from hqew, 品冠源科技	TI	2012	3000	
+SN74LVC1G17DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC1G17DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC1G19DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC1G3157DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC1G3157DCKR	from hqew, 品冠源科技	TI	2010	50	
+SN74LVC1G32DBVR	from hqew, 品冠源科技	TI	2011	84000	
+SN74LVC1G32DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC2G14DCKR	from hqew, 品冠源科技	TI	2009	3000	
+SN74LVC2G34DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC2G53DCTR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC32ADR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVCC4245APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN75176BP	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN75189DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN75451BP	from hqew, 品冠源科技	TI	2011	250000	
+SSF3428	from hqew, 品冠源科技	Semitel	12+	50000	TSOP-6
+SVP0300SA	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP0720SA	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP1100SC	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP1300SB	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP2600SA	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP2600SB	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+TL061CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL062CP	from hqew, 品冠源科技	TI	2012	30000	
+TL071CP	from hqew, 品冠源科技	TI	2011	24000	
+TL082CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL082CP	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL084CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL084CN	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL431AIDBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL494IDR	from hqew, 品冠源科技	TI	2012	10000	
+TL494IDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL972IDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC0834IN	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC2274AMDRG4	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC274CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC27L2AIDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC27L4CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC27L4CPWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC2932IPWRG4	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC555IDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC7135CDWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV1117-33CDCYR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV1117-33IDCYR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV2624IDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV3011AIDBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV320AIC1110PBSR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320C6410ZTS400	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320C6416TBZLZA7	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320C6455BZTZ7	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM355ZCE216	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM355ZCE270	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM6446AZWT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM6467TZUTL1	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM6467ZUT7	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320F28034PNT	from hqew, 品冠源科技	TI	2012	1190	
+TMS320VC5509AGHH	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS470R1B1MPGEAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMSDDVI402HV	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMSDDVI6007CZUT4HV	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMSDDVI6007CZUT7HV	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMX320DM368BZCE	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPA2001D1PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPA2016D2RTJR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPA6203A1ZQVRG1	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPIC6C596DRG4	from hqew, 品冠源科技	TI	2012	12500	
+TPS2041BDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2044BDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2065DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2141IPWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS23753PW	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2553DBV	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3801K33DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3803G15DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3808G50DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3809K33DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3823-33DBVT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3823-50DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS40200DR	from hqew, 品冠源科技	TI	2012	5000	
+TPS40211DGQR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS51113DRCR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS5410DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54231DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54232DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS5430DDAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54316PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54613PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54616PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54810PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61020DRCR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61032PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61090RSAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61165DRVT	from hqew, 品冠源科技	TI	2011	25	
+TPS61240DRVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS62000DGSR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS62120DCNR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS62120DCNT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS62400DRCR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS62410DRCR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS62611YFDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS63002DRCR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS65021RHAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS65023RSBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS65023RSBT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS650532RGER	from hqew, 品冠源科技	TI	2012	6000	
+TPS65251RHAT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS658621CZGUT	from hqew, 品冠源科技	TI	2011	10	
+TPS65930A2ZCH	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS70102PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS70348PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS71530DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS73001DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS73033DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS73033DBVRG4	from hqew, 品冠源科技	TI	2010	25	
+TPS73101DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS7333QDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS74401KTWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS74901RGWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS75733KTTR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS75833KTTR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS767D318PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS77601QPWPRG4Q1	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS79301DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS79718DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS92310DGS/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TS5A3159ADCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+ULN2003AN	from hqew, 品冠源科技	TI	10+	3413000	16-SO
+ULN2004ADR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+ULN2004AN	from hqew, 品冠源科技	TI	2012	80000	
+USBN9604-28MX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+VE8820	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30109	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30117	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30119	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30121	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30158	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30230	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30312	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30320	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30347	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL38001	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL38003	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL38070	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL49011	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL49020	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL49031	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50010	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50015	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50017	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50058	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50211	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50212	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50234	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50235	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL70274	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL70288	from hqew, 品冠源科技	Microsemi	13+	5000	
+74AHCT125D	from hqew, 品冠源科技	NXP	&nbsp;	9593	14-SSOP
+AD421BRZ	from hqew, 品冠源科技	ADI	11+	2000	
+AD73311ARZ-REEL	from hqew, 品冠源科技	ADI	11+	2000	
+AD7390ARZ-REEL7	from hqew, 品冠源科技	ADI	11+	2000	
+AD7401YRWZ-REEL7	from hqew, 品冠源科技	ADI	11+	2000	
+AD7859BS	from hqew, 品冠源科技	ADI	11+	2000	
+AD80227BCPZ-REEL7	from hqew, 品冠源科技	ADI	11+	2000	
+AD8132ARMZ-REEL7	from hqew, 品冠源科技	ADI	11+	2000	
+AD8605ARTZ	from hqew, 品冠源科技	ADI	11+	2000	
+AD9571ACPZPEC-R7	from hqew, 品冠源科技	ADI	&nbsp;	2000	
+ADC082S021CIMMX/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-MSOP
+ADC124S021CIMM/NOPB	from hqew, 品冠源科技	TI	11+	2000	10-MSOP
+ADF4350ABCPZ-RL7	from hqew, 品冠源科技	ADI	&nbsp;	5000	
+ADL5501AKSZ-R7	from hqew, 品冠源科技	ADI	&nbsp;	5000	
+ADL5801ACPZ-R7	from hqew, 品冠源科技	ADI	&nbsp;	5000	
+ADM1064ASUZ	from hqew, 品冠源科技	ADI	&nbsp;	1000	
+ADM3485EARZ-REEL7	from hqew, 品冠源科技	ADI	&nbsp;	2000	
+ADM3490EARZ-REEL7	from hqew, 品冠源科技	ADI	&nbsp;	2000	
+ADM705ARZ-REEL7	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+ADM706ARZ-REEL7	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+ADP2118ACPZ	from hqew, 品冠源科技	ADI	&nbsp;	6000	
+ADS1205IRGER	from hqew, 品冠源科技	TI	11+	2000	24-QFN(4
+ADS1256IDBR	from hqew, 品冠源科技	TI	11+	2000	28-SSOP
+ADS8509IBDWR	from hqew, 品冠源科技	TI	11+	2000	20-SOIC
+ADUM1250ARZ-RL7	from hqew, 品冠源科技	ADI	2012	2000	
+BC817-16LT1G	from hqew, 品冠源科技	ON SEMI	11+	111000	SOT-23-3
+BC846BLT1G	from hqew, 品冠源科技	ON SEMI	11+	417000	SOT-23-3
+BQ2057CDGKR	from hqew, 品冠源科技	TI	11+	2000	8-MSOP
+BQ2057CTSTR	from hqew, 品冠源科技	TI	11+	2000	8-TSSOP
+BQ2057WTSTR	from hqew, 品冠源科技	TI	11+	2000	8-TSSOP
+BQ24040DSQR	from hqew, 品冠源科技	TI	11+	2000	10-SON
+BQ24314DSGR	from hqew, 品冠源科技	TI	11+	2000	8-WSON
+BQ25050DQCR	from hqew, 品冠源科技	TI	11+	2000	10-WSON
+BQ27510DRZR-G1	from hqew, 品冠源科技	TI	11+	2000	12-SON
+BQ27541DRZR-V200	from hqew, 品冠源科技	TI	11+	2000	12-SON
+BQ3287MT-SB2	from hqew, 品冠源科技	TI	11+	2000	24-DIP
+C17MS8R2B-7ZN-X0T	from hqew, 品冠源科技	DLI	&nbsp;	23912	
+CC1100ERTKR	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+CC1100RTKR	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+CC1110F32RSPR	from hqew, 品冠源科技	TI	11+	2000	36-QFN
+CC1110F8RSPR	from hqew, 品冠源科技	TI	11+	2000	36-QFN
+CC1150RSTR	from hqew, 品冠源科技	TI	11+	2000	16-QFN
+CC115LRTKR	from hqew, 品冠源科技	TI	11+	2000	20-VFQFN
+CC2500RTK	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+CC2500RTKR	from hqew, 品冠源科技	TI	11+	2000	20-QFN
+CC2530EMK	from hqew, 品冠源科技	TI	11+	2000	RFIDSUB
+CC2530F256RHAR	from hqew, 品冠源科技	TI	11+	2000	40-QFN
+CC2530ZDK	from hqew, 品冠源科技	TI	11+	2000	RFIDSUB
+CC2540F128RHAT	from hqew, 品冠源科技	TI	11+	2000	40-VFQFN
+CC2540F256RHAR	from hqew, 品冠源科技	TI	11+	2000	40-VFQFN
+CC2590RGVT	from hqew, 品冠源科技	TI	11+	2000	16-QFN
+CC2591RGVR	from hqew, 品冠源科技	TI	11+	2000	16-QFN
+CC8530RHAR	from hqew, 品冠源科技	TI	11+	2000	40-VFQFN
+CC8531RHAT	from hqew, 品冠源科技	TI	11+	2000	40-VFQFN
+CD4066BE	from hqew, 品冠源科技	TI	11+	2000	14-PDIP
+CD74HC4051E	from hqew, 品冠源科技	TI	11+	2000	16-PDIP
+DAC104S085CIMM/NOPB	from hqew, 品冠源科技	TI	11+	2000	10-MSOP
+DAC124S085CIMM/NOPB	from hqew, 品冠源科技	TI	11+	2000	10-MSOP
+DP83620SQX/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-LLP-E
+DP83640TVV/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-LQFP
+DP83848IVV/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-LQFP
+DP8573AV/NOPB	from hqew, 品冠源科技	TI	11+	2000	28-PLCC
+DRV603PWR	from hqew, 品冠源科技	TI	11+	2000	14-TSSOP
+DS10CP154ATSQ/NOPB	from hqew, 品冠源科技	TI	11+	2000	40-LLP-E
+DS1232LPS-2+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS12887+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1305E+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS1306EN+	from hqew, 品冠源科技	MAXIM	2012	200	
+DS1620S+TR	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS21348TN+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS2401P+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS80C320-QCG+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+DS90C385AMTX/NOPB	from hqew, 品冠源科技	TI	11+	2000	56-TSSOP
+DS90CF384AMTD/NOPB	from hqew, 品冠源科技	TI	11+	2000	56-TSSOP
+DS90CF386MTD/NOPB	from hqew, 品冠源科技	TI	11+	2000	56-TSSOP
+DS90CR217MTD/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-TSSOP
+DS90CR217MTDX/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-TSSOP
+DS90CR218AMTDX/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-TSSOP
+DS90CR288AMTD/NOPB	from hqew, 品冠源科技	TI	11+	2000	56-TSSOP
+DS90LV011ATMF/NOPB	from hqew, 品冠源科技	TI	11+	2000	SOT-23-5
+DS90LV017ATM/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+DS90LV047ATMTC/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+DS90UB902QSQE/NOPB	from hqew, 品冠源科技	TI	11+	2000	40-LLP-E
+DS90UR124IVS/NOPB	from hqew, 品冠源科技	TI	11+	2000	64-TQFP
+DS90UR124QVS/NOPB	from hqew, 品冠源科技	TI	11+	2000	64-TQFP
+DS90UR241IVS/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-TQFP
+DS90UR241QVS/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-TQFP
+DS90UR241QVSX/NOPB	from hqew, 品冠源科技	TI	11+	2000	48-TQFP
+FDS4935A	from hqew, 品冠源科技	Fairchild	10+	1236	8-SOIC
+FDS4935A	from hqew, 品冠源科技	Fairchild	&nbsp;	1236	8-SOIC
+IHLP2525CZER3R3M01	from hqew, 品冠源科技	VISHAY	&nbsp;	9685	SMD
+INA199A2DCKR	from hqew, 品冠源科技	TI	11+	2000	SC-70-6
+ISO124P	from hqew, 品冠源科技	TI	11+	2000	16-PDIP
+LE57D111	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE58QL02	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE58QL031	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE75282B	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79112SLAT	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79114SLAT	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79124	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79124SLNT	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE7920-2	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79231	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79238	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE7942B-1	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79489-3	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79555-2	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79Q2281	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79R79-1	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE79R79-2	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE88266	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE9520C	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE9530C	from hqew, 品冠源科技	Microsemi	13+	5000	
+LE9530D	from hqew, 品冠源科技	Microsemi	13+	5000	
+LM1085IT-3.3/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-220-3
+LM1085IT-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-220-3
+LM1881MX/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+LM1894MX/NOPB	from hqew, 品冠源科技	TI	11+	2000	14-SOICN
+LM20143MH/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+LM20144MH/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+LM20145MHE/NOPB	from hqew, 品冠源科技	TI	11+	2000	16-TSSOP
+LM224DR	from hqew, 品冠源科技	TI	2012	30000	14-SOIC
+LM22673MR-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	8-SOIC
+LM22676TJE-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-7
+LM22677TJE-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-7
+LM239DR	from hqew, 品冠源科技	TI	11+	2000	14-SOIC
+LM239DR2G	from hqew, 品冠源科技	ON SEMI	11+	67500	SOIC-14
+LM25011MYX/NOPB	from hqew, 品冠源科技	TI	11+	2000	10-MSOP
+LM25576MHX/NOPB	from hqew, 品冠源科技	TI	11+	2000	20-TSSOP
+LM2575HVT-ADJ/LF03	from hqew, 品冠源科技	TI	11+	2000	TO-220-5
+LM2576HVSX-5.0/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2596S-3.3/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2596SX-12/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2596SX-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-263-5
+LM2596T-5.0/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-220-5
+LM2596T-ADJ/NOPB	from hqew, 品冠源科技	TI	11+	2000	TO-220-5
+LM26400YMHX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2662M/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2671MX-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2676SX-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2678SX-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2679S-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2679SX-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2731YMF/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2733YMF/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2734XMKX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2853MH-1.8/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2902N	from hqew, 品冠源科技	TI	2012	5000	
+LM2904DGKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2936HVMAX-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2936MP-5.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM2937IMPX-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM293DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3150MHE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM317AEMP/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM324DR	from hqew, 品冠源科技	TI	10+	5000	14-SOIC
+LM324DRG3	from hqew, 品冠源科技	TI	10+	5000	14-SOIC
+LM324PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3404HVMA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3404MAX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3409HVMY/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3410XMFE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3466MR/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3478MMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM3489MM/NOPB	from hqew, 品冠源科技	TI	2012	8000	
+LM3559TLE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM358DR2G	from hqew, 品冠源科技	ON SEMI	11+	311418	8-SOIC
+LM3668SD-2833/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM385BLPE3-2-5	from hqew, 品冠源科技	TI	&nbsp;	8000	
+LM393APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM393DR2G	from hqew, 品冠源科技	ON SEMI	11+	247500	8-SOIC
+LM3S9B90-IQC80-C3	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM4121AIM5-1.2/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM4128CMF-2.5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM431BIM3X	from hqew, 品冠源科技	TI	10+	9000	SOT-23-3
+LM45CIM3X/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM48580TLX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5010AMHX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5069MM-2/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM50CIM3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5100AM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5101ASD/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5106MM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5106MMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5106SD/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5111-2M/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5575MHX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM5576MHX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM61CIM3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM629N-8/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM7301IM5X/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM75BIMM-3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM75BIMM-5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM75BIMMX-3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM8262MM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LM94022BIMG/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMC6462AIM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMC6462BIMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMC6464AIM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMC660CMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMC7101AIM5X/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMC7215IM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMD18245T/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0001SQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0002SQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0002TMA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0026MH/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0074SQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH0302SQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH1980MM/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH1982SQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH6559MA/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH6639MF/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMH6642MF/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMK02000ISQ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMK04031BISQ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMK04101SQE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMP7701MF/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV225TLX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV324IPWR	from hqew, 品冠源科技	TI	2012	48000	
+LMV339IPWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV393IDGKR	from hqew, 品冠源科技	TI	2012	47500	
+LMV7239M5 NOPB	from hqew, 品冠源科技	NS	11+	4250	SOT-23-5
+LMV7239M7X/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV7271MFX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV7291MGX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV791MK/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV831MGE/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMV841MG/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2434TMX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2531LQ1570E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2531LQ1650E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2541SQE2380E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMX2541SQE3320E/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMZ10505TZE-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LMZ14201HTZX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2981IM5X-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2985AIM5-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2985AIM5X-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2985IM5X-3.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2992IM5-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2996MR/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2996MRX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2997MRX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP2998MRX/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38690SD-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38692MPX-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38693MP-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3872EMP-2.5/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3874EMP-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3874ES-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP38852MR-ADJ/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3981IMM-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP3982IMM-3.3/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LP5900SD-3.0/NOPB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+LT1013DS8#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT1630CS8#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT1761ES5-5#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	1355	SOT-23-5
+LT1940EFE#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT3580IDD#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT5514EFE#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LT5557EUF#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC1545CG#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2000	
+LTC1645CS8#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC1702ACGN#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC3873ETS8#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC4211CMS#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC4263CDE-1#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+LTC4352IMS#TRPBF	from hqew, 品冠源科技	LINEAR	&nbsp;	2500	
+MBR0530T1G	from hqew, 品冠源科技	ON SEMI	11+	204000	SOD-123
+MBRS340T3G	from hqew, 品冠源科技	ON SEMI	11+	67500	SMC-2
+MC14013BDR2G	from hqew, 品冠源科技	ON SEMI	11+	77500	SOIC-14
+MC33063ADR2G	from hqew, 品冠源科技	ON SEMI	11+	117500	SOIC-8
+MC7812CTG	from hqew, 品冠源科技	ON SEMI	11+	551803	TO-220-3
+MLG1608B3N9ST	from hqew, 品冠源科技	TDK	&nbsp;	28039	
+MMBT2907ALT1G	from hqew, 品冠源科技	ON SEMI	11+	1764000	20-SOIC
+MMBT4401LT1G	from hqew, 品冠源科技	ON SEMI	11+	9678000	SOT-23-3
+MMBT5551LT1G	from hqew, 品冠源科技	ON SEMI	11+	792000	SOT-23-3
+MSP430F2012IPW	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F2272IDAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F2491TPMR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F412IPMR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430F449IPZ	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430FE4272IPMR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430FG438IPN	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MSP430G2131IRSA16R	from hqew, 品冠源科技	TI	&nbsp;	5000	
+MT3271B	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT3370B	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8809	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8815	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8888C	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT88E39	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT88E46	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8920	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT8981	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT9075B	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT90823	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT90826	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT90863	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT90871	from hqew, 品冠源科技	Microsemi	13+	5000	
+MT9123	from hqew, 品冠源科技	Microsemi	13+	5000	
+MURS160T3G	from hqew, 品冠源科技	ON SEMI	11+	285000	SMB-2
+MAX127ACAI+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX13021ASA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX132EWG+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX16823AUE/V+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX16826ATJ+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX202ECSE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX202EEUE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX211CWI	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX232ESE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX253CSA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3082ESA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3094ECSE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3221ECUE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3232EUE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3442EEPA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX3815CCM+TD	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4012EUK+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4051ACSE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4130EUK+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4172EUA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4173TEUT+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4238ATT+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4372TEUK+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4410EUD+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4514EUK+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4599EUT+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4634EUB+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX4644EUT+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX485CPA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX487ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX488ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX5033DASA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX5054AATA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX532BCPE+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX5841LEUB+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX5864ETM+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX629ESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX6816EUS+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX706ARESA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX706SCSA+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX706SESA+	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX809MEUR+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX823LEUK+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX823TEUK+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX942MSA/PR	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX987EUK+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+MAX9947ETE+T	from hqew, 品冠源科技	MAXIM	&nbsp;	5000	
+NE555DR	from hqew, 品冠源科技	TI	10+	4525000	8-SOIC
+OPA2134PA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA2277UA/2K5	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA2350UA/2K5	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA2354AIDDA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA2354AIDDAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+OPA3355EA/2K5	from hqew, 品冠源科技	TI	&nbsp;	5000	
+PCM1740E	from hqew, 品冠源科技	TI	2010	10	
+PCM1802DBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+PCM1802DBRG4	from hqew, 品冠源科技	TI	&nbsp;	5000	
+PCM2902E/2K	from hqew, 品冠源科技	TI	&nbsp;	5000	
+RC4558P	from hqew, 品冠源科技	TI	&nbsp;	5000	
+S0402F1.5A	from hqew, 品冠源科技	Semitel	12+	100000	SMD0402
+S0402F2.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0402
+S0603F1	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F250	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F375	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F375-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F500	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F500-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603F750	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603H1.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603H4	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603S1	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603S2.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S0603S3-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD0603
+S-088-0124	from hqew, 品冠源科技	Semitel	12+	5000	
+S1206F1.25	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F250	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F2-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F4-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F6-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206F8-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H2.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206H5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S1.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S1.5-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S2-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S3	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S3.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S3.5-TR	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+S1206S4.5	from hqew, 品冠源科技	Semitel	12+	100000	SMD1206
+SCAN25100TYA/DRSN	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SCC100D-MSX	from hqew, 品冠源科技	Semitel	12+	5000	
+SCC250D	from hqew, 品冠源科技	Semitel	12+	5000	
+SCC500A	from hqew, 品冠源科技	Semitel	12+	5000	
+SCC500D-MSZ	from hqew, 品冠源科技	Semitel	12+	5000	
+SCT500DE	from hqew, 品冠源科技	Semitel	12+	5000	
+SCT500H	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRV250-080	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRV250-120A	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX020	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX025	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX250	from hqew, 品冠源科技	Semitel	12+	5000	
+SFRX300	from hqew, 品冠源科技	Semitel	12+	5000	
+SN65HVD251DR	from hqew, 品冠源科技	TI	2011	32500	
+SN65HVD3082EDR	from hqew, 品冠源科技	TI	2012	12500	
+SN74ACT08PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC04DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC126PWR	from hqew, 品冠源科技	TI	10+	30000	14-TSSOP
+SN74AHC132DR	from hqew, 品冠源科技	TI	10+	5000	14-SOIC
+SN74AHC1G08DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC1G08DCKR	from hqew, 品冠源科技	TI	2011	90000	
+SN74AHC1G125DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC1G126DBVR	from hqew, 品冠源科技	TI	2011	39000	
+SN74AHC1G126DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHC1G32DBVR	from hqew, 品冠源科技	TI	2011	207000	
+SN74AHCT08DR	from hqew, 品冠源科技	TI	10+	28000	14-SOIC
+SN74AHCT1G126DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AHCT74PWR	from hqew, 品冠源科技	TI	10+	30000	14-TSSOP
+SN74ALVC164245DLR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AUP1G08DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74AVC4T245DGVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC02DR	from hqew, 品冠源科技	TI	10+	328000	14-SOIC
+SN74HC125N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC126N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC132PWR	from hqew, 品冠源科技	TI	10+	4000	14-TSSOP
+SN74HC148DR	from hqew, 品冠源科技	TI	10+	28000	16-SOICN
+SN74HC164PWR	from hqew, 品冠源科技	TI	10+	350000	14-TSSOP
+SN74HC174DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC175DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC259DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC273NSR	from hqew, 品冠源科技	TI	2012	24000	
+SN74HC393N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC540DWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC541DWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74HC74DR	from hqew, 品冠源科技	TI	10+	225000	14-SOIC
+SN74HCT00DR	from hqew, 品冠源科技	TI	10+	113000	14-SOIC
+SN74HCT02DR	from hqew, 品冠源科技	TI	10+	128000	14-SOIC
+SN74HCT14PWR	from hqew, 品冠源科技	TI	10+	62000	14-TSSOP
+SN74HCT273DWR	from hqew, 品冠源科技	TI	10+	24000	20-SOIC
+SN74HCT373DWR	from hqew, 品冠源科技	TI	10+	28000	20-SOIC
+SN74LS04DR	from hqew, 品冠源科技	TI	2012	47500	
+SN74LS05DR	from hqew, 品冠源科技	TI	2012	25000	
+SN74LS07DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LS138N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LS145DR	from hqew, 品冠源科技	TI	2011	5000	
+SN74LS145DR	from hqew, 品冠源科技	TI	2012	10000	
+SN74LS14DR	from hqew, 品冠源科技	TI	2011	35000	
+SN74LS14N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LS32DR	from hqew, 品冠源科技	TI	2012	22500	
+SN74LS47N	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LV4052ARGYR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC07APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC16245ADGGR	from hqew, 品冠源科技	TI	2012	82000	
+SN74LVC16T245DGGR	from hqew, 品冠源科技	TI	2011	25	
+SN74LVC1G00DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC1G07DCKR	from hqew, 品冠源科技	TI	2012	129000	
+SN74LVC1G125DCKR	from hqew, 品冠源科技	TI	2010	10	
+SN74LVC1G14DBVR	from hqew, 品冠源科技	TI	2011	135000	
+SN74LVC1G32DCKR	from hqew, 品冠源科技	TI	2012	30000	
+SN74LVC1G373DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC1GU04DCKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC244APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC245ADBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC2G125DCUR	from hqew, 品冠源科技	TI	2012	18000	
+SN74LVC2T45DCUR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74LVC373APWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN74SSQE32882ZALR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SN75179BDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+SSBD2070CTF	from hqew, 品冠源科技	Semitel	12+	5000	
+SSF0115	from hqew, 品冠源科技	Semitel	12+	50000	SOT-223
+SSF3606	from hqew, 品冠源科技	Semitel	12+	50000	SOP-8
+STP8100	from hqew, 品冠源科技	Semitel	12+	5000	
+SVG120D	from hqew, 品冠源科技	Semitel	12+	150000	SO-8
+SVG170Q	from hqew, 品冠源科技	Semitel	12+	150000	SO-8
+SVP0080SC	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP0300SC	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP110S	from hqew, 品冠源科技	Semitel	12+	5000	
+SVP1500SA	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP1800SA	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP1800SB	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP2000SA	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP2300EB	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP2300SB	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP2300SC	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP3500SB	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+SVP3500SBH	from hqew, 品冠源科技	Semitel	12+	150000	DO-214
+TCA0372DWR2G	from hqew, 品冠源科技	ON SEMI	11+	52000	SOIC-16W
+TL062CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL062IDR	from hqew, 品冠源科技	TI	2012	102500	
+TL071CP	from hqew, 品冠源科技	TI	2012	6000	
+TL072CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL072IDRG4	from hqew, 品冠源科技	TI	2012	40000	
+TL081CP	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL082BCDR	from hqew, 品冠源科技	TI	2012	7500	
+TL3844P	from hqew, 品冠源科技	TI	2011	88000	
+TL431ACDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL431ACLP	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL431CDBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL431IDBZR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL431IDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TL7705ACDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC0838IN	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC2252IDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC272CDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC27L2IDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLC5510INSR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLK3132ZEN	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV1117CDCYR	from hqew, 品冠源科技	TI	2010	10000	
+TLV27L1IDBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV320AIC20KIPFBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV320AIC26IRHB	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV320AIC26IRHBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV320AIC3007IRSBT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV320AIC3104IRHBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TLV320AIC3104IRHBT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320C32PCMA40	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320C6205GHKA200	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320C6412AGNZ6	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM270GHK	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM270ZHK	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM355ZCEA-216	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM365ZCE21	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM365ZCE30	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM642AGDK6	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM642AZDK6	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM642AZNZA6	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM6467CZUT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM6467ZUT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320DM648ZUTD9	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320F240PQS	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320F28034PAGT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320F28035PNT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320F2806PZA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320F2812PGFA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320F28234PGFA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320LF2403APAGA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320LF2406APZA	from hqew, 品冠源科技	TI	2010	50400	
+TMS320LF2406APZA	from hqew, 品冠源科技	TI	2011	18720	
+TMS320LF2407APGEA	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320VC5402PGE100	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS320VC5510AGGWA2	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMS470R1A384PZ-T	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TMSDDVI645AZDK6HV	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPA6205A1DRBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS1100PWR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2042BDRBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS2062DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS22924CYZPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS23750PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS23753APW	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3110K33DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3619-33DGKR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3707-33DR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3808G33DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3808G50DBVT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3809L30DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3820-33DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3836L30DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS3838J25DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS40007DGQRG4	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS40057PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS40077PWPR//TPS40077PWPG4	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS40197RGYR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS40210DGQR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS51116PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS51117RGYR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54040DGQR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54231D	from hqew, 品冠源科技	TI	2011	25	
+TPS5430QDDARQ1	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54350PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54386PWP	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS5450DDAR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS54614PWPR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS55386	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS57114QRTERQ1	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS60400DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61042DRBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61070DDCR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS61161DRVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS62590DRVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS63000DRCR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS72301DBVT	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS73201DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS73501DRBR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS76718QDR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS79333DBVR	from hqew, 品冠源科技	TI	2012	42000	
+TPS79501DRBRG4	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TPS79801QDGNRQ1	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TS5A3167DBVR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+TVP5150AM1ZQCR	from hqew, 品冠源科技	TI	&nbsp;	5000	
+ULN2003ADR	from hqew, 品冠源科技	TI	10+	7980000	16-SOIC
+VE8910	from hqew, 品冠源科技	Microsemi	13+	5000	
+VE8911	from hqew, 品冠源科技	Microsemi	13+	5000	
+WSL2512R4750FEA	from hqew, 品冠源科技	VISHAY	&nbsp;	10774	SMD
+ZL30100	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30101	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30105	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30111	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30123	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30131	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL30321	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL38005	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL49021	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50011	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50012	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50023	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50031	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50053	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50073	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50075	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50110	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50111	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50115	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50116	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50118	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50119	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50120	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL50232	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL70271	from hqew, 品冠源科技	Microsemi	13+	5000	
+ZL70273	from hqew, 品冠源科技	Microsemi	13+	5000	

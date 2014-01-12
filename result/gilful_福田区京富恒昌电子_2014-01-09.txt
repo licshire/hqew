@@ -1,0 +1,2467 @@
+1N4002	from hqew, 福田区京富恒昌电子	A&T	2010	35000	
+24C04BN-SH-T	from hqew, 福田区京富恒昌电子	ATMEL	2010	60000	
+3582C-G	from hqew, 福田区京富恒昌电子	MT	2011	1000000	COB
+4013D	from hqew, 福田区京富恒昌电子	PHL	2010	7500	
+4051D	from hqew, 福田区京富恒昌电子	PHL	2010	10000	
+74HC573PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+74HC595D	from hqew, 福田区京富恒昌电子	国产	2011	50000	SMD
+74HCT125PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+8002	from hqew, 福田区京富恒昌电子	JS	2011	1000000	SOP8
+8002B	from hqew, 福田区京富恒昌电子	JS	2011	1000000	SOP8
+9013G	from hqew, 福田区京富恒昌电子	SMG/FSC	2010	4000	
+AMS1117-ADJ	from hqew, 福田区京富恒昌电子	AMS	2010	10000	
+BC807-40	from hqew, 福田区京富恒昌电子	PHL	2010	15000	
+BZV55C7V5	from hqew, 福田区京富恒昌电子	PHL	2010	2500	
+CD40192BE	from hqew, 福田区京富恒昌电子	TI	2011	38000	
+CT3582C	from hqew, 福田区京富恒昌电子	CT/MT/TC	2011	100000	DIPCOB
+IRF3205PBF	from hqew, 福田区京富恒昌电子	IR	1119	6250	
+IRF740PBF	from hqew, 福田区京富恒昌电子	VISHAY	1116	1200	
+IRF840PBF	from hqew, 福田区京富恒昌电子	VISHAY	Y06K	18000	
+IRFZ44NPBF	from hqew, 福田区京富恒昌电子	IR	1119	25250	
+JS2269	from hqew, 福田区京富恒昌电子	JS	2011	1000000	SOP-8
+KSP2222A	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	62000	
+LM2941CT	from hqew, 福田区京富恒昌电子	NS	2010	990	
+LM311P	from hqew, 福田区京富恒昌电子	TI	2011	60000	
+LM358D	from hqew, 福田区京富恒昌电子	ST	2010	42500	
+LM393	from hqew, 福田区京富恒昌电子	TI	2010	10000	
+MOC3052M	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	2000	
+OB2263	from hqew, 福田区京富恒昌电子	JS可直接替换	2011	1000000	SOT-23-6
+PBSS4140T	from hqew, 福田区京富恒昌电子	NXP	2010	243000	
+RS602	from hqew, 福田区京富恒昌电子	DC	2010	4800	
+RT8024GB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	64401	SOT-23-5
+RT9167-33PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	15609	
+RT9266GE	from hqew, 福田区京富恒昌电子	RICHTEK	2011	40	SOT-23-6
+RT9285CPJ6	from hqew, 福田区京富恒昌电子	RICHTEK	2011	16910	SOT-23-6
+RT9505PQW	from hqew, 福田区京富恒昌电子	RICHTEK	2011	155	
+S3J-E3	from hqew, 福田区京富恒昌电子	VISHAY	2010	6800	
+SC6008	from hqew, 福田区京富恒昌电子	国产	2011	50000	
+SPW20N60C3	from hqew, 福田区京富恒昌电子	INFINEON	1117	240	
+SS34	from hqew, 福田区京富恒昌电子	井牌	2011	500000	SMD
+STW15NK90Z	from hqew, 福田区京富恒昌电子	ST	2010	600	
+TC2832	from hqew, 福田区京富恒昌电子	国产	2011	50000	
+TLC3702	from hqew, 福田区京富恒昌电子	TI	&nbsp;	353	
+TLP127(TPL)	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	18000	
+VIPER22A	from hqew, 福田区京富恒昌电子	ST	2010	10000	
+1621	from hqew, 福田区京富恒昌电子	国产	2011	100000	
+16CTQ100PBF	from hqew, 福田区京富恒昌电子	VISHAY	1119	3000	
+1N4001	from hqew, 福田区京富恒昌电子	A&T	2010	3000	
+1N4004	from hqew, 福田区京富恒昌电子	A&T	2010	40000	
+1N4004M4	from hqew, 福田区京富恒昌电子	A&T	2010	25000	
+1N4007	from hqew, 福田区京富恒昌电子	A&T	2010	50000	
+1N5347BRLG	from hqew, 福田区京富恒昌电子	ON SEMI	2010	12000	
+2300	from hqew, 福田区京富恒昌电子	国产工厂直销	2011	1000000	SOT-23
+2301	from hqew, 福田区京富恒昌电子	国产工厂直销	2011	1000000	SOT-23
+2302	from hqew, 福田区京富恒昌电子	JS	2011	1000000	SOT23-3
+2N5089TFR	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	50000	
+2N6073BG	from hqew, 福田区京富恒昌电子	ON SEMI	2010	5000	
+2SA1267Y/P	from hqew, 福田区京富恒昌电子	KEC	2010	4000	
+2SB772Q-AZ	from hqew, 福田区京富恒昌电子	NEC	2010	6400	
+2SC1959Y	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	40000	
+2SC2310Y	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	30000	
+2SC2328AY	from hqew, 福田区京富恒昌电子	SMG/FSC	2010	21500	
+2SC27140	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	3000	
+3401	from hqew, 福田区京富恒昌电子	国产工厂直销	2011	1000000	SOT-23
+3588B	from hqew, 福田区京富恒昌电子	MT	2011	1000000	COB
+4094D	from hqew, 福田区京富恒昌电子	PHL	2010	10000	
+74AHC1G86DBVR	from hqew, 福田区京富恒昌电子	TI	2010	9000	
+74HC08N	from hqew, 福田区京富恒昌电子	TI	2010	3000	
+74HC125PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+74HC138	from hqew, 福田区京富恒昌电子	国产	2011	50000	DIPSMD
+74HC14MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	2500	
+74HC14PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+74HC157PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+74HC245	from hqew, 福田区京富恒昌电子	国产	2011	50000	
+74HC273PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+74HC4051D	from hqew, 福田区京富恒昌电子	PHL	2010	5000	
+74HC4053PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+74HC4514PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+74HCT14D	from hqew, 福田区京富恒昌电子	TI	2010	2500	
+74HCT245PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+74LVC245APW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+75176D	from hqew, 福田区京富恒昌电子	TI	2010	40000	
+7520	from hqew, 福田区京富恒昌电子	MT	2011	1000000	
+75N75	from hqew, 福田区京富恒昌电子	JS	2011	1000000	TO-220-3
+78L05ACZ	from hqew, 福田区京富恒昌电子	ST	2010	47500	
+78L06	from hqew, 福田区京富恒昌电子	HTC	2010	500	
+80625	from hqew, 福田区京富恒昌电子	MT	2011	1000000	COB
+9012G/P	from hqew, 福田区京富恒昌电子	KEC	2010	4000	
+9261	from hqew, 福田区京富恒昌电子	JS	2011	1000000	SOT-89-3
+9271	from hqew, 福田区京富恒昌电子	JS	2011	1000000	SOT-89-3
+ADP3339AKCZ-3.3-R7	from hqew, 福田区京富恒昌电子	TI	2011	4500	
+BAT54S	from hqew, 福田区京富恒昌电子	PHL	2010	21000	
+BAV70LT1-G	from hqew, 福田区京富恒昌电子	PHL	2010	66000	
+BAV99	from hqew, 福田区京富恒昌电子	井牌	2011	500000	SMD
+BAV99	from hqew, 福田区京富恒昌电子	PHL	2010	27000	
+BC337-25(AMMO)	from hqew, 福田区京富恒昌电子	PHL	2010	6000	
+BC517	from hqew, 福田区京富恒昌电子	PHL	2010	5000	
+BC548B	from hqew, 福田区京富恒昌电子	KEC	2010	2000	
+BC556B	from hqew, 福田区京富恒昌电子	PHL	2010	21000	
+BC557B	from hqew, 福田区京富恒昌电子	PHL	2010	21000	
+BC557C	from hqew, 福田区京富恒昌电子	PHL	2010	80000	
+BC817-25	from hqew, 福田区京富恒昌电子	PHL	2010	54000	
+BC846A	from hqew, 福田区京富恒昌电子	PHL	2010	12000	
+BC848B	from hqew, 福田区京富恒昌电子	PHL	2010	30000	
+BC857B	from hqew, 福田区京富恒昌电子	PHL	2010	699000	
+BCP53-16	from hqew, 福田区京富恒昌电子	NXP	2010	3000	
+BFS17A	from hqew, 福田区京富恒昌电子	PHL	2010	27000	
+BT138-600E	from hqew, 福田区京富恒昌电子	PHL	2010	4000	
+BTA12-600C	from hqew, 福田区京富恒昌电子	ST	2010	1000	
+BYQ28E-200	from hqew, 福田区京富恒昌电子	NXP	1101	4000	
+BZV55C10	from hqew, 福田区京富恒昌电子	PHL	2010	60000	
+BZV55C3V3	from hqew, 福田区京富恒昌电子	PHL	2010	2500	
+BZX55C6V2	from hqew, 福田区京富恒昌电子	VISHAY	2010	20000	
+BZX85C5V1	from hqew, 福田区京富恒昌电子	ST	2010	10000	
+BZX85C9V1	from hqew, 福田区京富恒昌电子	VISHAY	08+	15000	
+CD4014BE	from hqew, 福田区京富恒昌电子	TI	2011	20000	
+CD4024BE	from hqew, 福田区京富恒昌电子	TI	2011	1800	
+CD4040BE	from hqew, 福田区京富恒昌电子	TI	2011	10000	
+CD9088CB	from hqew, 福田区京富恒昌电子	华晶	2011+	1000000	SOP16
+CT3581	from hqew, 福田区京富恒昌电子	昊芯微	2011	640	
+CT3582B	from hqew, 福田区京富恒昌电子	CT/MT/TC	2011	100000	DIP8COB
+CT3582D	from hqew, 福田区京富恒昌电子	CT	2011	1000000	DIP
+CT3583	from hqew, 福田区京富恒昌电子	CT/MT/TC	2011	100000	DIP
+DA05	from hqew, 福田区京富恒昌电子	国产	2011	50000	
+FDLL4148	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	500000	
+FDN338P	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	12000	
+FDS6898A	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	5000	
+HCF4024BEY	from hqew, 福田区京富恒昌电子	ST	2010	1000	
+HCF4052M013TR	from hqew, 福田区京富恒昌电子	ST	2010	2500	
+HT2811	from hqew, 福田区京富恒昌电子	HT	2010	300	
+INA138NA/3KG4	from hqew, 福田区京富恒昌电子	TI	2011	6000	
+IR2153PBF	from hqew, 福田区京富恒昌电子	IR	1105	5750	
+IRF1010EPBF	from hqew, 福田区京富恒昌电子	IR	1121	4450	
+IRF2804PBF	from hqew, 福田区京富恒昌电子	IR	1036	2450	
+IRF3205PBF	from hqew, 福田区京富恒昌电子	IR	1121	2000	
+IRF3205PBF	from hqew, 福田区京富恒昌电子	IR	1118	700	
+IRF3710PBF	from hqew, 福田区京富恒昌电子	IR	1120	6000	
+IRF530NPBF	from hqew, 福田区京富恒昌电子	IR	1116	900	
+IRF530NPBF	from hqew, 福田区京富恒昌电子	IR	1108	14000	
+IRF540NPBF	from hqew, 福田区京富恒昌电子	IR	1113	4000	
+IRF640NPBF	from hqew, 福田区京富恒昌电子	IR	1122	5000	
+IRF740PBF	from hqew, 福田区京富恒昌电子	VISHAY	1110	3000	
+IRF740PBF	from hqew, 福田区京富恒昌电子	VISHAY	1109	150	
+IRF840	from hqew, 福田区京富恒昌电子	IR	2010	998	
+IRF840PBF	from hqew, 福田区京富恒昌电子	VISHAY	Y05K	5000	
+IRF9640PBF	from hqew, 福田区京富恒昌电子	VISHAY	1111	50	
+IRF9640PBF	from hqew, 福田区京富恒昌电子	VISHAY	1050	350	
+IRFP450PBF	from hqew, 福田区京富恒昌电子	VISHAY	Y13K	600	
+IRFP460APBF	from hqew, 福田区京富恒昌电子	VISHAY	Y09K	925	
+IRFP460PBF	from hqew, 福田区京富恒昌电子	VISHAY	Y13K	9000	
+IRFP460PBF	from hqew, 福田区京富恒昌电子	VISHAY	1111	200	
+IRLZ34NPBF	from hqew, 福田区京富恒昌电子	IR	2010	1000	
+JS2263	from hqew, 福田区京富恒昌电子	JS	2011	1000000	SOT-23-6
+KA2284W	from hqew, 福田区京富恒昌电子	CHINA	2010	5000	
+KA3525A	from hqew, 福田区京富恒昌电子	SMG/FSC	2010	44000	
+KIA7815API	from hqew, 福田区京富恒昌电子	KEC	2010	4000	
+KST13-MTF	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	48000	
+KST2907	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	24000	
+KTC3880S-O/P	from hqew, 福田区京富恒昌电子	KEC	2010	24000	
+L3400	from hqew, 福田区京富恒昌电子	美国凌泰LT	2011	1000000	SOT-23-3
+L7815CV	from hqew, 福田区京富恒昌电子	ST	2010	10000	
+LF353DR	from hqew, 福田区京富恒昌电子	TI	2011	55000	
+LM239DR	from hqew, 福田区京富恒昌电子	TI	2011	30000	
+LM2904DR	from hqew, 福田区京富恒昌电子	TI	2010	10000	
+LM311DR	from hqew, 福田区京富恒昌电子	TI	2011	40000	
+LM317K	from hqew, 福田区京富恒昌电子	UTC	2010	2500	
+LM317T	from hqew, 福田区京富恒昌电子	ST	2010	13000	
+LM324	from hqew, 福田区京富恒昌电子	TI	2010	4500	
+LM324DR	from hqew, 福田区京富恒昌电子	TI	2010	130000	
+LM324N	from hqew, 福田区京富恒昌电子	ST	2010	20000	
+LM339D	from hqew, 福田区京富恒昌电子	ST	2010	10000	
+LM339PWR	from hqew, 福田区京富恒昌电子	TI	2010	2000	
+LM385BDR-2-5	from hqew, 福田区京富恒昌电子	TI	2011	30000	
+LM393D	from hqew, 福田区京富恒昌电子	TI	2010	305000	
+MJE172STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	15360	
+MJE182STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	1021	11460	
+MMBT2222ALT1-G	from hqew, 福田区京富恒昌电子	ON SEMI	2010	3000	
+MMBT2907ALT1-G	from hqew, 福田区京富恒昌电子	ON SEMI	2010	24000	
+MMBT3904	from hqew, 福田区京富恒昌电子	井牌	2011	500000	SMD
+MMBT3906	from hqew, 福田区京富恒昌电子	井牌	2011	500000	SMD
+MOC3022SR2M	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	14000	
+MOC3023M	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	2000	
+MPSA42	from hqew, 福田区京富恒昌电子	UTC	2010	7000	
+MT3582C	from hqew, 福田区京富恒昌电子	MT	2011	1000000	DIP
+MT3582D	from hqew, 福田区京富恒昌电子	MT	2011	1000000	DIP
+MUR460	from hqew, 福田区京富恒昌电子	MOTOROLA	2010	172500	
+M4	from hqew, 福田区京富恒昌电子	井牌	2011	500000	SMD
+MAX232DR	from hqew, 福田区京富恒昌电子	TI	2011	10000	
+NE555D	from hqew, 福田区京富恒昌电子	TI	2010	50000	
+NTD3055L104	from hqew, 福田区京富恒昌电子	ON SEMI	2010	900	
+OP07CDR	from hqew, 福田区京富恒昌电子	TI	2010	50000	
+PBSS4140T	from hqew, 福田区京富恒昌电子	NXP	1015	21000	
+PBSS5140T	from hqew, 福田区京富恒昌电子	NXP	1010	36000	
+PMBT3904	from hqew, 福田区京富恒昌电子	PHL	2010	534000	
+PMBT3906	from hqew, 福田区京富恒昌电子	PHL	2010	78000	
+PMBTA92	from hqew, 福田区京富恒昌电子	PHL	2010	39000	
+PT2257	from hqew, 福田区京富恒昌电子	PTC	2010	100	
+PT6311 QFP	from hqew, 福田区京富恒昌电子	PTC	2010	389	
+PT6312  QFP44	from hqew, 福田区京富恒昌电子	PTC	2010	850	
+RT8008-18PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	9330	SOT-23-5
+RT8008GB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	22350	
+RT8009GJ5	from hqew, 福田区京富恒昌电子	RICHTEK	2011	233	SOT-23-5
+RT8010PQW	from hqew, 福田区京富恒昌电子	RICHTEK	2011	5190	
+RT8023GQW	from hqew, 福田区京富恒昌电子	RICHTEK	2011	12500	
+rt8105GS	from hqew, 福田区京富恒昌电子	RICHTEK	2011	10000	
+RT8284GSP	from hqew, 福田区京富恒昌电子	RICHTEK	2011	10000	SOP-8
+RT9011-JGPJ6	from hqew, 福田区京富恒昌电子	RICHTEK	2011	20049	
+RT9011-MGPJ6	from hqew, 福田区京富恒昌电子	RICHTEK	2011	940	SOT-23-6
+RT9011-MGPQW	from hqew, 福田区京富恒昌电子	RICHTEK	2011	10000	DFN
+RT9013-25PU5	from hqew, 福田区京富恒昌电子	RICHTEK	2011	24900	SC-70
+RT9166-30PVL	from hqew, 福田区京富恒昌电子	RICHTEK	2011	150	
+RT9167-25PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	150	
+RT9179PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	2522	
+RT9193-18PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	61895	
+RT9193-33PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	219690	
+RT9261A-50PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	21000	
+RT9261B-50PB	from hqew, 福田区京富恒昌电子	RICHTEK	2010	66000	
+RT9284B-15PJ6E	from hqew, 福田区京富恒昌电子	RICHTEK	2011	17000	SOT-23-5
+RT9378AGQW	from hqew, 福田区京富恒昌电子	RICHTEK	2011	2500	DFN
+RT9502PQW	from hqew, 福田区京富恒昌电子	RICHTEK	2011	2500	
+RT9513GQW	from hqew, 福田区京富恒昌电子	RICHTEK	2011	2835	WDFN
+RT9701GB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	1570	SOT-23-5
+RT9702PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	3000	
+RT9801ACE	from hqew, 福田区京富恒昌电子	RICHTEK	2011	2900	SOT-23-6
+RT9941	from hqew, 福田区京富恒昌电子	RICHTEK	2011	10000	DFN40
+SC8011	from hqew, 福田区京富恒昌电子	国产	2011	50000	
+SC8670	from hqew, 福田区京富恒昌电子	国产	2011	50000	
+SD16729P	from hqew, 福田区京富恒昌电子	RICHTEK	2011	221	
+SG2524N	from hqew, 福田区京富恒昌电子	TI	2010	6000	
+SIHG20N50C-E3	from hqew, 福田区京富恒昌电子	VISHAY	1046	400	
+SN74LVC374APWR	from hqew, 福田区京富恒昌电子	TI	2011	8000	
+SP2127	from hqew, 福田区京富恒昌电子	国产	2011	1000000	QFN24SOP
+SP8002	from hqew, 福田区京富恒昌电子	国产	2011	1000000	SOP8
+SS14	from hqew, 福田区京富恒昌电子	井牌	2011	500000	SMD
+STPS20150CT	from hqew, 福田区京富恒昌电子	ST	2010	4000	
+TB6551FG	from hqew, 福田区京富恒昌电子	TOSHIBA	2011	10000	TSSOP24
+TC3582B	from hqew, 福田区京富恒昌电子	TC	2011	1000000	DIP8
+TC4013D	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	2500	
+TC4066	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	20000	
+TC4069D	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	30000	
+TC4863SB	from hqew, 福田区京富恒昌电子	JS	2011	1000000	SOP16
+TE01	from hqew, 福田区京富恒昌电子	国产	2011	50000	
+TE02	from hqew, 福田区京富恒昌电子	国产	2011	50000	
+TIP29C	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	19000	
+TIP32C	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	32000	
+TL062CDR	from hqew, 福田区京富恒昌电子	TI	2011	20000	SMD
+TL082D	from hqew, 福田区京富恒昌电子	ST	2010	5000	
+TL431ACZ	from hqew, 福田区京富恒昌电子	ST	2010	500	
+TLP627(TPL)SMD	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	8000	
+TZMC5V6	from hqew, 福田区京富恒昌电子	VISHAY	2010	2500	
+UC2843BNG	from hqew, 福田区京富恒昌电子	ON SEMI	2010	20000	
+XC6206P332MR	from hqew, 福田区京富恒昌电子	工厂直销大电	2011	1000000	3K
+ZM4746A	from hqew, 福田区京富恒昌电子	ST	2010	10000	
+1N4001M1	from hqew, 福田区京富恒昌电子	A&T	2010	10000	
+1N4007M7	from hqew, 福田区京富恒昌电子	A&T	2010	10000	
+1SMA5930BT3G	from hqew, 福田区京富恒昌电子	ON SEMI	2010	10000	
+24C02	from hqew, 福田区京富恒昌电子	国产	2011	1000000	DIPSMD
+2N7000	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	15000	
+2SA812M6	from hqew, 福田区京富恒昌电子	NEC	2010	15000	
+2SD882P-AZ	from hqew, 福田区京富恒昌电子	NEC	2010	1800	
+40106D	from hqew, 福田区京富恒昌电子	PHL	2010	15000	
+4020	from hqew, 福田区京富恒昌电子	ON SEMI	2010	4000	
+4021D	from hqew, 福田区京富恒昌电子	MOTOROLA	2010	2500	
+4052D	from hqew, 福田区京富恒昌电子	PHL	2010	4800	
+4069D	from hqew, 福田区京富恒昌电子	PHL	2010	52500	
+4863VR	from hqew, 福田区京富恒昌电子	JS	2011	1000000	TSSOP20
+4953	from hqew, 福田区京富恒昌电子	国产	2011	100000	
+662K	from hqew, 福田区京富恒昌电子	JS	2011	1000000	SOT23-3
+74HC04	from hqew, 福田区京富恒昌电子	国产	2011	50000	DIP
+74HC132D	from hqew, 福田区京富恒昌电子	PHL	2010	2500	
+74HC164	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	2450	
+74HC164D	from hqew, 福田区京富恒昌电子	PHL	2010	4030	
+74HC165PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+74HC245PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+74HC4052PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+74HCT04	from hqew, 福田区京富恒昌电子	国产	2011	50000	
+74HCT138PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+78L05A	from hqew, 福田区京富恒昌电子	HTC	2010	18160	
+8050C	from hqew, 福田区京富恒昌电子	SMG/FSC	2010	50000	
+8050D	from hqew, 福田区京富恒昌电子	SMG/FSC	2010	8000	
+80625	from hqew, 福田区京富恒昌电子	MT	2011	1000000	DIP
+9013G/P	from hqew, 福田区京富恒昌电子	KEC	2010	10000	
+9013H/P	from hqew, 福田区京富恒昌电子	KEC	2010	10000	
+9014C/P	from hqew, 福田区京富恒昌电子	KEC	2010	30800	
+BAS85	from hqew, 福田区京富恒昌电子	PHL	2010	22500	
+BC547B	from hqew, 福田区京富恒昌电子	PHL	2010	5000	
+BC847B	from hqew, 福田区京富恒昌电子	PHL	2010	9000	
+BC856B	from hqew, 福田区京富恒昌电子	PHL	2010	42000	
+BCX53-16	from hqew, 福田区京富恒昌电子	IR	1102	31000	
+BCX56-16	from hqew, 福田区京富恒昌电子	NXP	1102	25000	
+BFR92A	from hqew, 福田区京富恒昌电子	PHL	2010	12000	
+BT137-600E	from hqew, 福田区京富恒昌电子	PHL	2010	1000	
+BXZ85C12	from hqew, 福田区京富恒昌电子	VISHAY	06+	25000	
+BZV85C5V6	from hqew, 福田区京富恒昌电子	PHL	2010	15000	
+BZX55C5V6*PB FR	from hqew, 福田区京富恒昌电子	VISHAY	06+	10000	
+BZX79C9V1	from hqew, 福田区京富恒昌电子	PHL	07+	20000	DO41
+CD4015BE	from hqew, 福田区京富恒昌电子	TI	2010	2000	
+CD4053B	from hqew, 福田区京富恒昌电子	国产	2011	100000	
+CD4514BM96	from hqew, 福田区京富恒昌电子	TI	2011	122000	
+CD4541BE	from hqew, 福田区京富恒昌电子	TI	2010	53000	
+CD74HC154E	from hqew, 福田区京富恒昌电子	TI	2011	141480	
+CD9088CB	from hqew, 福田区京富恒昌电子	华晶	2011	1000000	
+CT3588	from hqew, 福田区京富恒昌电子	昊芯微	2011	100000	
+ES1D	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	7500	
+FJP13009H2	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	21965	
+FJP13009H2_F080	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	5000	
+GBL06-E3/1	from hqew, 福田区京富恒昌电子	VISHAY	2010	10600	
+HCF4017	from hqew, 福田区京富恒昌电子	ST	2010	5500	
+HCF4028D	from hqew, 福田区京富恒昌电子	ST	2010	2500	
+HEF4060	from hqew, 福田区京富恒昌电子	NXP	11	11000	DIP
+HEF4069BP	from hqew, 福田区京富恒昌电子	PHL	2010	10000	
+HT7022A	from hqew, 福田区京富恒昌电子	HT	2010	6000	
+IRF530NPBF	from hqew, 福田区京富恒昌电子	IR	1107	10000	
+IRF540NPBF	from hqew, 福田区京富恒昌电子	IR	1118	19800	
+IRF740PBF	from hqew, 福田区京富恒昌电子	VISHAY	1114	6000	
+IRF740PBF	from hqew, 福田区京富恒昌电子	VISHAY	1113	4000	
+IRF9530NPBF	from hqew, 福田区京富恒昌电子	IR	1119	200	
+IRF9530NPBF	from hqew, 福田区京富恒昌电子	IR	1112	3500	
+IRF9530NPBF	from hqew, 福田区京富恒昌电子	IR	1110/111	2000	
+IRF9640PBF	from hqew, 福田区京富恒昌电子	VISHAY	1121	10000	
+IRFBE30PBF	from hqew, 福田区京富恒昌电子	VISHAY	Y06W	11000	
+IRFBE30PBF	from hqew, 福田区京富恒昌电子	VISHAY	1037	1550	
+IRFBE30PBF	from hqew, 福田区京富恒昌电子	VISHAY	1031	1000	
+IRFP264PBF	from hqew, 福田区京富恒昌电子	VISHAY	1123	3100	
+IRFP4668PBF	from hqew, 福田区京富恒昌电子	IR	1049	1850	
+IRFP4668PBF	from hqew, 福田区京富恒昌电子	IR	1043	25	
+IV9910	from hqew, 福田区京富恒昌电子	国产	2011	1000000	SOP8
+JS1066	from hqew, 福田区京富恒昌电子	JS	2011	1000000	SOP8DIP8
+KA33V	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	7000	
+KIA78L15F	from hqew, 福田区京富恒昌电子	KEC	2010	4000	
+KSE350	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	13440	
+KSP43	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	31000	
+KTC945P/P	from hqew, 福田区京富恒昌电子	KEC	2010	14000	
+KTD2058Y/P	from hqew, 福田区京富恒昌电子	KEC	2010	10000	
+L3401	from hqew, 福田区京富恒昌电子	美国凌泰LT	2011	1000000	SOT-23-3
+L7805CV	from hqew, 福田区京富恒昌电子	ST	2010	242600	
+L7812CV	from hqew, 福田区京富恒昌电子	ST	2010	5000	
+L7912CV	from hqew, 福田区京富恒昌电子	ST	2010	10000	
+L8822	from hqew, 福田区京富恒昌电子	美国凌泰LT	2011	1000000	TSSOP8L
+LM2621MM	from hqew, 福田区京富恒昌电子	NS	2010	4000	
+LM2901N	from hqew, 福田区京富恒昌电子	TI	2011	150000	
+LM2903DGKR	from hqew, 福田区京富恒昌电子	TI	1027	2500	
+LM2904DGKR	from hqew, 福田区京富恒昌电子	TI	1019	2500	
+LM293DR	from hqew, 福田区京富恒昌电子	TI	2011	210000	
+LM317LZ	from hqew, 福田区京富恒昌电子	HTC	2010	8000	
+LM324ADR	from hqew, 福田区京富恒昌电子	TI	2011	115000	
+LM335Z	from hqew, 福田区京富恒昌电子	NS	2010	1800	
+LM339	from hqew, 福田区京富恒昌电子	ST	2010	5000	
+LM339DR	from hqew, 福田区京富恒昌电子	TI	2011	202500	
+LM348DR	from hqew, 福田区京富恒昌电子	TI	2011	100000	
+LM358	from hqew, 福田区京富恒昌电子	ST	2010	28000	
+LM358ADT	from hqew, 福田区京富恒昌电子	ST	2010	2000	
+LM358DR	from hqew, 福田区京富恒昌电子	TI	2010	105000	
+LM358DR2-G	from hqew, 福田区京富恒昌电子	ON SEMI	2010	83280	
+LM393	from hqew, 福田区京富恒昌电子	ST	2010	1500	
+LP2985AIM5X-3.8	from hqew, 福田区京富恒昌电子	NS	2010	3000	
+LTT100N10	from hqew, 福田区京富恒昌电子	美国凌泰LT	2011	1000000	TO-220-3
+MBRS340T3G	from hqew, 福田区京富恒昌电子	ON SEMI	2010	7500	
+MJE172STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	1005/102	120	
+MJE182STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	63360	
+MMBT8050D	from hqew, 福田区京富恒昌电子	井牌	2011	500000	SMD
+MMBT8550D	from hqew, 福田区京富恒昌电子	井牌	2011	500000	SMD
+MMBT9014C	from hqew, 福田区京富恒昌电子	井牌	2011	500000	SMD
+MMBTA42LT1	from hqew, 福田区京富恒昌电子	MOTOROLA	2010	36000	
+MPSA14G	from hqew, 福田区京富恒昌电子	MOTOROLA	2010	129000	
+M51132L	from hqew, 福田区京富恒昌电子	MIT	2010	1000	
+NE556D	from hqew, 福田区京富恒昌电子	ST	2010	7500	
+NE556N	from hqew, 福田区京富恒昌电子	ST	2010	5000	
+NJM022D	from hqew, 福田区京富恒昌电子	JRC	2010	10500	
+OP07CP	from hqew, 福田区京富恒昌电子	TI	2010	10000	
+RDA5807	from hqew, 福田区京富恒昌电子	国产	2011	1000000	SOP16
+RT9013-12PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	11300	SOT-23-5
+RT9013-28PU5	from hqew, 福田区京富恒昌电子	RICHTEK	2011	22860	
+RT9161A-33PX	from hqew, 福田区京富恒昌电子	RICHTEK	2011	3000	SOT-89
+RT9167-30PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	24534	
+RT9193-27PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	5150	
+RT9193-28PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	214801	
+RT9278PQV	from hqew, 福田区京富恒昌电子	RICHTEK	2011	10000	DFN
+RT9501BPF	from hqew, 福田区京富恒昌电子	RICHTEK	2011	29692	SOP-8
+RT9711BPB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	3000	SOT-23-5
+RT9718BGQW	from hqew, 福田区京富恒昌电子	RICHTEK	2011	60000	
+RT9818C-27GV	from hqew, 福田区京富恒昌电子	RICHTEK	2011	30	SOT-23-6
+SC2608	from hqew, 福田区京富恒昌电子	国产	2011	50000	
+SCH4052BEY	from hqew, 福田区京富恒昌电子	国产	2011	100000	
+SKY77198-12	from hqew, 福田区京富恒昌电子	SKYWORKS	1124	4500	4.5K
+SMAJ33-E2/61	from hqew, 福田区京富恒昌电子	VISHAY	2010	5400	
+SN3219I436E	from hqew, 福田区京富恒昌电子	SI-EN	2011	15000	2.5K
+SN75451BP	from hqew, 福田区京富恒昌电子	TI	2011	40550	
+SP2203	from hqew, 福田区京富恒昌电子	国产	2011	1000000	SOP16
+SP2303	from hqew, 福田区京富恒昌电子	国产	2011	1000000	SSOP24-0
+TC4011	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	15100	
+TC4013	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	17000	
+TC4066D	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	10000	
+TC4863DB	from hqew, 福田区京富恒昌电子	JS	2011	1000000	DIP16
+TCRT1000	from hqew, 福田区京富恒昌电子	VISHAY	2010	1000	
+TL062CD	from hqew, 福田区京富恒昌电子	TI	2010	57500	
+TL431ACLP	from hqew, 福田区京富恒昌电子	TI	2010	6000	
+TL431C	from hqew, 福田区京富恒昌电子	HTC	2010	86000	
+TZMC6V8	from hqew, 福田区京富恒昌电子	VISHAY	2010	35000	
+TZMC8V2	from hqew, 福田区京富恒昌电子	VISHAY	2010	27500	
+U211B3	from hqew, 福田区京富恒昌电子	TEMIC	2011	1000000	SOP16
+ULN2003A	from hqew, 福田区京富恒昌电子	ST	2010	13175	
+ULN2003ADR	from hqew, 福田区京富恒昌电子	TI	2010	62500	
+ULN2803AFWG	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	16000	
+XC6206P332MR	from hqew, 福田区京富恒昌电子	国产大电流	2011	1000000	3K
+ZI4890S	from hqew, 福田区京富恒昌电子	RICHTEK	2011	5107	
+ZTX692B	from hqew, 福田区京富恒昌电子	ZETEX	2010	12000	
+2301	from hqew, 福田区京富恒昌电子	JS	2011	1000000	SOT23-3
+2SC1815Y	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	10000	
+2SC945P-A	from hqew, 福田区京富恒昌电子	NEC	2010	6000	
+4021D	from hqew, 福田区京富恒昌电子	PHL	2010	2500	
+74HC04D	from hqew, 福田区京富恒昌电子	国产	2011	50000	SMD
+74HC164	from hqew, 福田区京富恒昌电子	国产	2011	50000	
+74HC573AN	from hqew, 福田区京富恒昌电子	TI	2010	2000	
+74HC574PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+74HC595D	from hqew, 福田区京富恒昌电子	PHL	2010	32192	
+74HC595PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+8050D	from hqew, 福田区京富恒昌电子	CHANGJAING	2010	1000	
+8205	from hqew, 福田区京富恒昌电子	国产	2011	100000	
+83070	from hqew, 福田区京富恒昌电子	MT	2011	1000000	COB
+AMS1117	from hqew, 福田区京富恒昌电子	国产	2011	100000	
+BAT54C	from hqew, 福田区京富恒昌电子	PHL	2010	81000	
+BAV70LT1-G	from hqew, 福田区京富恒昌电子	ON SEMI	2010	3000	
+BC546B/P	from hqew, 福田区京富恒昌电子	KEC	2010	2000	
+BD237	from hqew, 福田区京富恒昌电子	ST	2010	11000	
+BD435S	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	1000	
+BF256B	from hqew, 福田区京富恒昌电子	FAIRCHILD	2011	20000	DIP
+BT137-600D	from hqew, 福田区京富恒昌电子	PHL	2010	48000	
+BZT55C12	from hqew, 福田区京富恒昌电子	VISHAY	2010	25000	
+BZV55C6V8	from hqew, 福田区京富恒昌电子	PHL	2010	2500	
+BZX55C5V6	from hqew, 福田区京富恒昌电子	VISHAY	2010	10000	
+CD4013BE	from hqew, 福田区京富恒昌电子	TI	&nbsp;	50	
+CT2101F	from hqew, 福田区京富恒昌电子	昊芯微	2011	100000	SOT-23-6
+CT3582D	from hqew, 福田区京富恒昌电子	国产	2011	100000	DIP
+DS485MX	from hqew, 福田区京富恒昌电子	NS	2010	675	
+DW01.A	from hqew, 福田区京富恒昌电子	国产	2011	100000	
+FJP13007H2	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	14697	
+GP02-40-E3/54	from hqew, 福田区京富恒昌电子	VISHAY	2010	11000	
+HCF4093BEY	from hqew, 福田区京富恒昌电子	ST	2010	1000	
+HEF4060BP	from hqew, 福田区京富恒昌电子	NXP	2010	30000	
+HEF4066BP	from hqew, 福田区京富恒昌电子	PHL	2010	10000	
+IRF2807PBF	from hqew, 福田区京富恒昌电子	IR	1111	11950	
+IRF540NPBF	from hqew, 福田区京富恒昌电子	IR	1116	1000	
+IRF740PBF	from hqew, 福田区京富恒昌电子	VISHAY	1117	18000	
+IRF840PBF	from hqew, 福田区京富恒昌电子	VISHAY	1038	1000	
+IRF9640PBF	from hqew, 福田区京富恒昌电子	VISHAY	1043	100	
+IRFB3207PBF	from hqew, 福田区京富恒昌电子	IR	1050	3000	
+K3020P	from hqew, 福田区京富恒昌电子	VISHAY	2010	1000	
+KA7805ETU	from hqew, 福田区京富恒昌电子	SMG/FSC	2010	2000	
+KST2222A	from hqew, 福田区京富恒昌电子	SMG/FSC	2010	21000	
+L4468	from hqew, 福田区京富恒昌电子	美国凌泰LT	2011	1000000	SOP8
+L7806CV	from hqew, 福田区京富恒昌电子	ST	2010	7000	
+LB1641	from hqew, 福田区京富恒昌电子	SANYO	2010	19670	
+LL4148	from hqew, 福田区京富恒昌电子	VISHAY	2010	200000	
+LM239DT	from hqew, 福田区京富恒昌电子	ST	2010	2500	
+LM324D	from hqew, 福田区京富恒昌电子	ST	2010	7500	
+LM339D	from hqew, 福田区京富恒昌电子	TI	2010	22500	
+LM4863D	from hqew, 福田区京富恒昌电子	JS	2011	1000000	DIP16
+LTD484	from hqew, 福田区京富恒昌电子	美国凌泰LT	2011	1000000	TO-252-2
+MMBT9015C	from hqew, 福田区京富恒昌电子	井牌	2011	500000	SMD
+MMSZ5245B	from hqew, 福田区京富恒昌电子	DIODES INC	2010	12000	
+MPSA92	from hqew, 福田区京富恒昌电子	UTC	2010	3000	
+MSP430F169IPWR	from hqew, 福田区京富恒昌电子	TI	2011	3000	
+MSP430F247TRGCR	from hqew, 福田区京富恒昌电子	TI	2011	2500	
+MUR1620CTG	from hqew, 福田区京富恒昌电子	ON SEMI	1118	3000	
+M1	from hqew, 福田区京富恒昌电子	井牌	2011	500000	SMD
+NE5532	from hqew, 福田区京富恒昌电子	TI	2010	13000	
+PBSS5140T	from hqew, 福田区京富恒昌电子	NXP	2010	183000	
+PCM1725DR	from hqew, 福田区京富恒昌电子	TI	2010	4956	
+PMBTA42	from hqew, 福田区京富恒昌电子	PHL	2010	24000	
+PZT2907AT1-G	from hqew, 福田区京富恒昌电子	ON SEMI	2010	5000	
+RF3183TR13	from hqew, 福田区京富恒昌电子	LEVEL	&nbsp;	2500	2.5K
+RT8010GQW	from hqew, 福田区京富恒昌电子	RICHTEK	2011	7550	DFN
+RT8020PQW	from hqew, 福田区京富恒昌电子	RICHTEK	2011	1190	
+RT8272GSP	from hqew, 福田区京富恒昌电子	RICHTEK	2011	44800	SOT-8
+RT8450GQW	from hqew, 福田区京富恒昌电子	RICHTEK	2011	1500	
+RT9013-13PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	6000	SOT-23-5
+RT9013-33PU5	from hqew, 福田区京富恒昌电子	RICHTEK	2011	10905	
+RT9161A-30PX	from hqew, 福田区京富恒昌电子	RICHTEK	2011	5000	SOT-89
+RT9166-18PVL	from hqew, 福田区京富恒昌电子	RICHTEK	2011	6000	
+RT9193-25PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	16050	
+RT9193-30PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	173850	
+RT9193-31PB	from hqew, 福田区京富恒昌电子	RICHTEK	2011	3000	
+rt9259APS	from hqew, 福田区京富恒昌电子	RICHTEK	2011	10000	
+RT9284A-20PJ6E	from hqew, 福田区京富恒昌电子	RICHTEK	2011	28580	
+RT9818C-25PV	from hqew, 福田区京富恒昌电子	RICHTEK	2011	1900	SOT-23-6
+SB42351NC	from hqew, 福田区京富恒昌电子	RICHTEK	2011	5000	
+SIHG20N50C-E3	from hqew, 福田区京富恒昌电子	VISHAY	1045	50	
+SN3218I424E	from hqew, 福田区京富恒昌电子	SI-EN	2011	10000	2.5K
+SN74LVC2G14DCKR	from hqew, 福田区京富恒昌电子	TI	2011	24000	
+SP8403	from hqew, 福田区京富恒昌电子	国产	2011	1000000	SOP16
+SPW20N60C3	from hqew, 福田区京富恒昌电子	INFINEON	1116	240	
+SS24	from hqew, 福田区京富恒昌电子	井牌	2011	500000	SMD
+STPS20H100CT	from hqew, 福田区京富恒昌电子	ST	1110	5000	
+TC2608	from hqew, 福田区京富恒昌电子	国产	2011	50000	
+TC3582D	from hqew, 福田区京富恒昌电子	国产	2011	100000	DIP8
+TC3582D	from hqew, 福田区京富恒昌电子	TC	2011	1000000	DIP
+TC4069	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	61000	
+TIP122	from hqew, 福田区京富恒昌电子	ST	2010	24000	
+TIP42C	from hqew, 福田区京富恒昌电子	SMG/FSC	2010	2000	
+TL074CDT	from hqew, 福田区京富恒昌电子	ST	2010	3650	
+TL084CN	from hqew, 福田区京富恒昌电子	ST	2010	310	
+TL494CN	from hqew, 福田区京富恒昌电子	TI	2010	30000	
+TZMC3V9	from hqew, 福田区京富恒昌电子	VISHAY	2010	32500	
+UC3842BN	from hqew, 福田区京富恒昌电子	MOTOROLA	2010	5000	
+2SB562C	from hqew, 福田区京富恒昌电子	HITACHI	2010	2000	
+2SC2500C	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	42000	
+3588A	from hqew, 福田区京富恒昌电子	MT	2011	1000000	DIP
+3782	from hqew, 福田区京富恒昌电子	MT	2011	1000000	DIP
+4538	from hqew, 福田区京富恒昌电子	ON SEMI	2010	9000	
+4N35M	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	5000	
+74HC14	from hqew, 福田区京富恒昌电子	国产	2011	50000	
+74HC373PW	from hqew, 福田区京富恒昌电子	Other	2011	50000	TSSOP
+8403	from hqew, 福田区京富恒昌电子	JS	2011	1000000	SOP16
+BAT45	from hqew, 福田区京富恒昌电子	A&T	2010	1000	
+BC846B	from hqew, 福田区京富恒昌电子	PHL	2010	111000	
+BC847C	from hqew, 福田区京富恒昌电子	PHL	2010	132000	
+BD135	from hqew, 福田区京富恒昌电子	PHL	2010	1000	
+BYW51-200	from hqew, 福田区京富恒昌电子	ST	2010	1000	
+BZT55C12*PB FRE	from hqew, 福田区京富恒昌电子	VISHAY	06+	25000	
+CD4013D	from hqew, 福田区京富恒昌电子	TI	2010	25000	
+CD4017BE	from hqew, 福田区京富恒昌电子	TI	2011	86000	
+CD4051BE	from hqew, 福田区京富恒昌电子	TI	2010	2000	
+CT3583H	from hqew, 福田区京富恒昌电子	昊芯微	2011	105759	
+DL4001-13	from hqew, 福田区京富恒昌电子	DIODES INC	2010	5000	
+DW02A	from hqew, 福田区京富恒昌电子	国产	2011	50000	
+GBL06-B3/1	from hqew, 福田区京富恒昌电子	VISHAY	10+	10600	
+HCF4052D	from hqew, 福田区京富恒昌电子	ST	2010	182500	
+HCF4069	from hqew, 福田区京富恒昌电子	ST	2010	2500	
+HEF4046BP	from hqew, 福田区京富恒昌电子	PHL	2010	1000	
+HT9170D	from hqew, 福田区京富恒昌电子	HT	2010	500	
+HW300B-E	from hqew, 福田区京富恒昌电子	AISA	2010	1000	
+IRF3205PBF	from hqew, 福田区京富恒昌电子	IR	1116	2500	
+IRF530NPBF	from hqew, 福田区京富恒昌电子	IR	1118	9000	
+IRF530NPBF	from hqew, 福田区京富恒昌电子	IR	1106	3000	
+IRF9530NPBF	from hqew, 福田区京富恒昌电子	IR	1117	700	
+IRFP250NPBF	from hqew, 福田区京富恒昌电子	IR	1118	5000	
+KTC8050D/P	from hqew, 福田区京富恒昌电子	KEC	2010	80000	
+L3402	from hqew, 福田区京富恒昌电子	美国凌泰LT	2011	1000000	SOT-23-3
+LM2904M	from hqew, 福田区京富恒昌电子	NS	2010	10000	
+LM339N	from hqew, 福田区京富恒昌电子	ST	2010	150	
+LM358	from hqew, 福田区京富恒昌电子	TI	2010	10000	
+LM4863S	from hqew, 福田区京富恒昌电子	JS	2011	1000000	SOP16
+MT811	from hqew, 福田区京富恒昌电子	MT	2011	1000000	DIP
+OB2269	from hqew, 福田区京富恒昌电子	JS可直接替换	2011	1000000	SOP-8
+RLZTE-11 4.3B	from hqew, 福田区京富恒昌电子	ROHM	2010	5000	
+RT7731AGE	from hqew, 福田区京富恒昌电子	RICHTEK	2011	1500	SOT23-6
+RT9284B-20GJ6E	from hqew, 福田区京富恒昌电子	RICHTEK	2011	2060	SOT-23-6
+RT9293BGJ6	from hqew, 福田区京富恒昌电子	RICHTEK	2011	91400	SOT-23-6
+RT9364PQW	from hqew, 福田区京富恒昌电子	RICHTEK	2011	41990	
+RT9801BPE	from hqew, 福田区京富恒昌电子	RICHTEK	2011	15856	SOT-23-6
+SA6392	from hqew, 福田区京富恒昌电子	SILIAN	2010	10000	
+SP2038	from hqew, 福田区京富恒昌电子	国产	2011	1000000	SOP16DIP
+STPS20H100CT	from hqew, 福田区京富恒昌电子	ST	1105	700	
+TA31136FNG	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	40000	
+TC2609	from hqew, 福田区京富恒昌电子	国产	2011	50000	
+TJM4558CDT	from hqew, 福田区京富恒昌电子	ST	2010	26500	
+TL494CN	from hqew, 福田区京富恒昌电子	TI	2011	6000	DIP
+TLP181GR	from hqew, 福田区京富恒昌电子	TOSHIBA	2010	30000	
+TZMC3V0	from hqew, 福田区京富恒昌电子	VISHAY	2010	15000	
+W25Q64DWSTIM	from hqew, 福田区京富恒昌电子	华邦	1128	15000	3K
+ZMM2V7	from hqew, 福田区京富恒昌电子	ST	2010	5000	
+12CWQ04FNTRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	6000	
+1N5347BRLG	from hqew, 福田区京富恒昌电子	ON SEMI	10+	12000	DO41
+1N5349RLG	from hqew, 福田区京富恒昌电子	ON SEMI	10+	8000	DO41
+1SMA5930BT3G	from hqew, 福田区京富恒昌电子	ON SEMI	09+	10000	SMA
+1SV229(TPH3,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	30000	USC
+1SV229(TPH3，F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	30000	SOD323
+20BQ030	from hqew, 福田区京富恒昌电子	IR	12+	10000	SMD
+20L15TPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	1000	
+20TQ045PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	1000	
+2249A	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	DIP16
+24A512T-I/ST	from hqew, 福田区京富恒昌电子	MCP	12+	5000	TSSOP
+24A512T-I/ST	from hqew, 福田区京富恒昌电子	MCP	12+	5000	
+24C08AN-10SC-2.7V  *LEAD*	from hqew, 福田区京富恒昌电子	AT	00+	3500	8S1
+24C32N-10SC-2.7V *LEAD*	from hqew, 福田区京富恒昌电子	AT	01+	5000	SOIC
+25AA010AT-I/OT	from hqew, 福田区京富恒昌电子	MCP	12+	6000	SOT23
+25LC256-I/P	from hqew, 福田区京富恒昌电子	MCP	12+	5000	PDIP
+2KBP01M	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	33750	DPSIP
+2KBP01M	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	33750	DPSIP
+2SA1015-Y(SP,F,T) BULK	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	35000	TO-92
+2SA1015-Y(TE2，F，T)  *T/R*	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	45000	TO-92
+2SA1015-Y(TE2,F,T)  *T/R*	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	45000	TO-92
+2SA1162-GR(T5L,F,T)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	960000	SOT346
+2SA1162-GR(TE85L，F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	960000	SOT346
+2SA1162-GR(TE85L,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	690000	S-MINI
+2SA1162Y	from hqew, 福田区京富恒昌电子	TOSHIBA	10+	15000	SOT23
+2SA1587-GR(TE85L，F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	30000	SOT323
+2SA1837/2SC4793(F,M)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	40000	
+2SA1930/2SC5171(Q，M)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	5000	
+2SA1930/2SC5171(Q,M)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	5000	
+2SA1941/2SC5198-O(Q)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	20000	TO-3P(N)
+2SA1941/2SC5198-O(Q)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	10000	SC-65
+2SB562C	from hqew, 福田区京富恒昌电子	HITACHI	07+	2000	
+2SC2310Y	from hqew, 福田区京富恒昌电子	FAIRCHILD	06+	30000	TO92
+2SC2712-Y，LF(T)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	480000	SOT346
+2SC5200-O(Q)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	5000	TO-3P
+2SC5200-O(Q)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	5000	TO-3P(L)
+2SD882P-AZ	from hqew, 福田区京富恒昌电子	NEC	12+	30000	TO126
+2SD882Q-AZ	from hqew, 福田区京富恒昌电子	NEC	12+	30000	TO126
+30CPQ045PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2000	
+30CTQ060-1PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	5450	
+31DQ10G	from hqew, 福田区京富恒昌电子	Other	&nbsp;	12000	
+3362P-1-103LF	from hqew, 福田区京富恒昌电子	BOURN	&nbsp;	20000	
+4026BE	from hqew, 福田区京富恒昌电子	TI	11+	5000	DIP
+40CPQ100PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	3000	
+74AC240SCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1000	SOIC-WID
+74AC240SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1246	SOP
+74ACT08SCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	SOIC
+74ACTQ08SCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	SOIC
+74F14SCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	SOIC
+74F14SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	8000	SOP
+74LCX00SJ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	17531	SOP
+74LCX00SJ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	13	SOIC-WID
+74LCX02SJ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	20	SOP
+74LCX07SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	914	SOP
+74LCX126SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	SOP
+74LCX157M	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	425	SOIC
+74LCX2244WMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2000	SOIC-WID
+74LCX543WM	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1800	SOIC-WID
+74LCX543WMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2000	SOIC-WID
+74LVX125SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	SOP
+74LVX373MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	SOIC-WID
+74VCX08M	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12100	SOIC
+74VHC161SJ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2021	SOP
+74VHC175MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	SOIC
+74VHCT541AMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	158	SOIC-WID
+78L06	from hqew, 福田区京富恒昌电子	CJ	10+	1000	
+8205S	from hqew, 福田区京富恒昌电子	TC	2012	100000	TSSOP
+93C46S  *LEAD*	from hqew, 福田区京富恒昌电子	CAT	00+	43000	SOP8
+93C46S  *LEAD*	from hqew, 福田区京富恒昌电子	CAT	00+	43000	SOP8
+A3PN060-VQG100	from hqew, 福田区京富恒昌电子	MICROSEMI	12+	3600	
+AD5061BRJZ-2REEL7	from hqew, 福田区京富恒昌电子	AD	13+	2000	8IDSOT-2
+AD5061BRJZ-2RELL7	from hqew, 福田区京富恒昌电子	AD	13+	2000	
+AD5246BKSZ100-RL7	from hqew, 福田区京富恒昌电子	AD	06+	731	6IDSC70
+AD5314ARMZ-REEL7	from hqew, 福田区京富恒昌电子	AD	12+	2000	
+AD7685CRMZ-REEL7	from hqew, 福田区京富恒昌电子	AD	12+	200	
+AD8223BRZ	from hqew, 福田区京富恒昌电子	AD	12+	100	8IDSOIC
+AD8280WASTZ	from hqew, 福田区京富恒昌电子	AD	13+	30	48IDLQFP
+AD8280WASTZ	from hqew, 福田区京富恒昌电子	AD	13+	30	
+AD8552ARZ	from hqew, 福田区京富恒昌电子	AD	07+	7000	
+ADF4360-2BCPZ-RL7	from hqew, 福田区京富恒昌电子	AD	12+	800	24IDLFCS
+ADF4360-8BCPZ-RL	from hqew, 福田区京富恒昌电子	AD	12+	1500	24IDLFCS
+ADIS16201CCCZ	from hqew, 福田区京富恒昌电子	AD	10+	85	16IDLGA
+ADM1085AKSZ-REEL7	from hqew, 福田区京富恒昌电子	AD	10+	2000	
+ADN2814ACPZ	from hqew, 福田区京富恒昌电子	AD	13+	200	TRAY960
+ADR02AUJZ-REEL7	from hqew, 福田区京富恒昌电子	AD	12+	70	
+ADS1231IDR	from hqew, 福田区京富恒昌电子	TI	12+	2000	
+ADS1247IPWR	from hqew, 福田区京富恒昌电子	TI	12+	5000	
+ADUM7440ARQZ-RL7	from hqew, 福田区京富恒昌电子	AD	12+	1500	
+AS186-302LF	from hqew, 福田区京富恒昌电子	SKYWORKS	13+	6000	MSOP8
+AT45DB161D-SU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	1995	
+AT89C5131A-RDTUL	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	1600	
+AT89C51CC01UA-RLTUM	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	1600	LQFPRL44
+AT89C51RD2-SLSUM	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	2727	
+AT91R40008-66AU	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	2700	LQFP100
+AT91SAM9263B-CU-100	from hqew, 福田区京富恒昌电子	ATM	13+	2520	MO-210
+AT94S05AL-25BQU	from hqew, 福田区京富恒昌电子	ATMEL	09+	3000	
+ATMEGA2560-16AU	from hqew, 福田区京富恒昌电子	ATMEL	10+	2700	
+ATMEGA2561-16AU	from hqew, 福田区京富恒昌电子	ATMEL	10+	2700	
+ATMEGA2561-16AU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	3060	
+ATMEGA32-16AU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	26916	
+ATMEGA328P-AU	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	5000	LQFP32A3
+ATMEGA64-16AU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	9900	
+ATMEGA6490-16AU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	3672	
+ATMEGA88PA-MU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	1470	
+ATTINY26L-8SU	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	10000	SOIC20S2
+BC817-40	from hqew, 福田区京富恒昌电子	PHL	05+	3000	SOT23
+BC817-40	from hqew, 福田区京富恒昌电子	PHL	05+	3000	
+BC847BPN/DG/B2，115	from hqew, 福田区京富恒昌电子	NXP	12+	3000	SOT636
+BC847BPN/DG/B2,115	from hqew, 福田区京富恒昌电子	NXP	12+	3000	SOT636
+BC857B	from hqew, 福田区京富恒昌电子	NXP	12+	99000	SOT23
+BCV27 ， 215	from hqew, 福田区京富恒昌电子	NXP	12+	12000	SOT023
+BCW66GLT1G	from hqew, 福田区京富恒昌电子	ON SEMI	&nbsp;	6000	SOT-23
+BCX17	from hqew, 福田区京富恒昌电子	NXP	12+	12000	SOT23
+BD13910S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	285	TO126
+BD13910S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	285	TO126
+BD1396STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	14	TO126
+BD1396STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	14	TO126
+BD238STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	344	TO126
+BF256B	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	30000	TO92
+BF256B	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	30000	TO92
+BQ24725ARGR	from hqew, 福田区京富恒昌电子	TI	13+	3000	VQFN
+BQ3060PWR	from hqew, 福田区京富恒昌电子	TI	13+	5000	
+BT138-600D , 127	from hqew, 福田区京富恒昌电子	NXP	12+	49000	SOT078
+BT138-600D , 127	from hqew, 福田区京富恒昌电子	NXP	12+	49000	SOT078
+BT138-600E	from hqew, 福田区京富恒昌电子	NXP	12+	6000	TO220
+BYW51-200*PBF	from hqew, 福田区京富恒昌电子	ST	09+	1000	TO220AB
+BZT55C12*PB FRE	from hqew, 福田区京富恒昌电子	VISHAY	06+	25000	
+BZT55C7V5-GS08	from hqew, 福田区京富恒昌电子	Other	&nbsp;	12500	
+BZV55-C13,115	from hqew, 福田区京富恒昌电子	NXP	12+	50000	SOD080
+BZV55-C2V7,115	from hqew, 福田区京富恒昌电子	NXP	12+	15000	SOD080
+BZV55C7V5	from hqew, 福田区京富恒昌电子	PHL	10+	2500	
+BZV55C7V5	from hqew, 福田区京富恒昌电子	PHL	10+	2500	SMD
+BZV85C5V6*PB FR	from hqew, 福田区京富恒昌电子	PHL	06+	15000	
+BZX55C15	from hqew, 福田区京富恒昌电子	SEMTECH	07+	5000	
+BZX55C15	from hqew, 福田区京富恒昌电子	SEMTECH	07+	5000	
+BZX79-B18 , 143	from hqew, 福田区京富恒昌电子	NXP	12+	155000	SOD027
+BZX79-B27 , 143	from hqew, 福田区京富恒昌电子	NXP	12+	30000	SOD027
+BZX79-B7V5 , 143	from hqew, 福田区京富恒昌电子	NXP	12+	65000	SOD027
+BZX79-C12 , 113	from hqew, 福田区京富恒昌电子	NXP	12+	60000	SOD027
+BZX79-C12 , 113	from hqew, 福田区京富恒昌电子	NXP	12+	60000	SOD027
+BZX79-C22 , 113	from hqew, 福田区京富恒昌电子	NXP	12+	10000	SOD027
+BZX79C4V3	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	4000	DH204
+BZX79C51	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	17000	DH204
+BZX79C51	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	17000	DH204
+BZX79C9V1	from hqew, 福田区京富恒昌电子	PHL	07+	20000	
+BZX79C9V1	from hqew, 福田区京富恒昌电子	PHL	07+	20000	ALF2
+BZX85C5V1	from hqew, 福田区京富恒昌电子	ST	08+	10000	DO-41
+BZX85C6V2_T50A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	DL204
+BZX85C9V1	from hqew, 福田区京富恒昌电子	VISHAY	08+	15000	DO41
+CD4013BCMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	70000	SOIC
+CT3588	from hqew, 福田区京富恒昌电子	CT/TC/MT	2011	1000000	DIP
+DIFS4	from hqew, 福田区京富恒昌电子	新電源	12+	8000	TO220
+DL4001-13	from hqew, 福田区京富恒昌电子	DIODES INC	08+	5000	
+DL4001-13	from hqew, 福田区京富恒昌电子	DIODES INC	08+	5000	
+DSPIC33FJ128GP306A-I/PT	from hqew, 福田区京富恒昌电子	MCP	12+	3000	TQFP
+DTC114TUA	from hqew, 福田区京富恒昌电子	ROHM	10+	6000	UMT3
+DTC114TUA	from hqew, 福田区京富恒昌电子	ROHM	10+	6000	UMT3
+DW01A	from hqew, 福田区京富恒昌电子	TC	2012	100000	SOT23-6
+DW01G	from hqew, 福田区京富恒昌电子	TC	2012	100000	SOT23-6
+DW03D	from hqew, 福田区京富恒昌电子	TC	2012	100000	TSSOP8L
+EGP30C	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	38750	DC213
+EPM240T100C5N	from hqew, 福田区京富恒昌电子	ALTERA	12+	540	
+ESDA6V1SC6	from hqew, 福田区京富恒昌电子	ST	11+	6000	SOT23-6L
+FAN6520AMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	7500	NMSON
+FDC679P_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	FLMPB
+FDFMA2N028Z	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	MLDEB
+FDG313N	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	122	NSC70
+FDG327NZ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	426	NSC70
+FDG327NZ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	426	NSC70
+FDG328P	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	482	NSC70
+FDG410NZ_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	222000	NSC70
+FDG6304P	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	457	NSC70
+FDG6331L	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	677	NSC70
+FDG6331L	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	677	NSC70
+FDG6332C	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	520	NSC70
+FDG6335N	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	772	NSC70
+FDMC7672	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	4114	MLDEU
+FDMC86106LZ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	27000	MLQEU
+FDMS7558S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	9000	PQOAM
+FDMS7580	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	255000	PQOAM
+FDMS7603S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	MLDAM
+FDMS86104	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	294000	PQOAM
+FDMS8661AS	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15000	PQOAM
+FDMS8671S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	9000	PQOAM
+FDMS8671S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	9000	PQOAM
+FDMS8880	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	78000	PQOAM
+FDN338P	from hqew, 福田区京富恒昌电子	FAIRCHILD	08+	6000	SMD
+FDN338P	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	TSSOP
+FDS2572_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	NMSON
+FDS2670	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1536	NMSON
+FDS3512	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	NMSON
+FDS3512	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	NMSON
+FDS3590_F095	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	NMSON
+FDS5351_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	NMSON
+FDS6680A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1234	NMSON
+FDS6682	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	687	NMSON
+FDS6694	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15000	NMSON
+FDS6694	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15000	NMSON
+FDS6890A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1738	NMSOD
+FDS6892A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1190	NMSOD
+FDS6912A_F095	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSOD
+FDS6912A_F095	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSOD
+FDS6961A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1031	NMSOD
+FDS6982AS	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	249	NMSOD
+FDS7096N3	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	10000	EMSON
+FDS86140	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1422	NMSON
+FDS8638	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1427	NMSON
+FDS8840NZ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1527	NMSON
+FDS8878_F123	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1815	NMSON
+FDS89141	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1045	NMSOD
+FJAFS1510ATU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6840	TF3PF
+FJC1386QTF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	57910	SOT89
+FJP13007H2	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	20000	TO220
+FJP13009H2	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	15000	TO220
+FJPF13007HITU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	184	TF220
+FJPF13007HITU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	184	TF220
+FJPF50210TU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	900	TF220
+FLZ11VB	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12500	DC213
+FLZ11VC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	22500	DC213
+FLZ3V3A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	10000	DC213
+FLZ4V7A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	120000	DC213
+FLZ4V7A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	120000	DC213
+FLZ4V7C	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	DC213
+FLZ6V2A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	10000	DC213
+FM24CL04B-GTR	from hqew, 福田区京富恒昌电子	ROMTRON	&nbsp;	5000	
+FM24CL04B-GTR	from hqew, 福田区京富恒昌电子	RAMTRON	&nbsp;	5000	
+FM24CL16B-GTR	from hqew, 福田区京富恒昌电子	RAMTRON	09+	5000	
+FM25L16B-GTR	from hqew, 福田区京富恒昌电子	RAMTRON	&nbsp;	5000	
+FM25V02-GTR	from hqew, 福田区京富恒昌电子	ROMTRON	&nbsp;	5000	
+FM28V100-TG	from hqew, 福田区京富恒昌电子	RAMTRON	09+	1500	
+GBL06-B3/1	from hqew, 福田区京富恒昌电子	VISHAY	10+	10600	
+HEF40106BT	from hqew, 福田区京富恒昌电子	NXP	12+	15000	SMD
+HEF4051BT	from hqew, 福田区京富恒昌电子	NXP	12+	50000	SMD
+HEF4051BT	from hqew, 福田区京富恒昌电子	NXP	12+	50000	SMD
+HEF4060BP	from hqew, 福田区京富恒昌电子	NXP	12+	5000	DIP
+HZ12C-1-N-E	from hqew, 福田区京富恒昌电子	RENESAS	12+	5000	DO-35
+IN4150TR	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	30000	DH204
+IN5225B_T50A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	30000	DH204
+IN5260B_T50A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	DH204
+IN5260B_T50A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	DH204
+IN5263B_T50R	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	20000	DH204
+IN5347BRLG	from hqew, 福田区京富恒昌电子	ON SEMI	10+	12000	DO41
+IN746A_T50A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	30000	BDO35
+IN748A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	26000	DH204
+INA220AIDGSR	from hqew, 福田区京富恒昌电子	TI	10+	1400	
+IP3088CX10/S500 ， 13	from hqew, 福田区京富恒昌电子	NXP	12+	99000	SMD
+IP4283CZ10-TBR , 115	from hqew, 福田区京富恒昌电子	NXP	12+	5000	SMD7Q1TI
+IRF640NPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	17540	
+IRF830PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	224750	
+IRF840PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	49600	
+IRFBC40PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	11750	
+IRFPE50PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2875	
+IRFRC20TRLPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	18000	
+IRFRC20TRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	4000	
+IRFS9N60ATRLPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	55200	
+IRG4BC10UDPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	40000	
+IRLL110TRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	22500	
+IRLR3110ZTRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2000	
+IRS2153DSTRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	10000	
+ISL6843IBZ-T	from hqew, 福田区京富恒昌电子	INTERSTL	2010	25000	
+ISL6843IBZ-T	from hqew, 福田区京富恒昌电子	INTERSIL	10+	25000	SMD
+ISL6843IBZ-T	from hqew, 福田区京富恒昌电子	INTERSIL	10+	25000	SMD
+JA02	from hqew, 福田区京富恒昌电子	TC	2012	100000	SOT23-6
+JS1066	from hqew, 福田区京富恒昌电子	JS	2011	1000000	SOP8 DIP
+KA2904	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2238	NMDIP
+KA324DTF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	324000	NMSOE
+KA339DTF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	NMSOE
+KA431SMF2TF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1494000	NMAE
+KA431SMF2TF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1494000	NMAE
+KA4558	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1507	NMDIP
+KA78L05AIDTF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	51000	NMSON
+KIA78L15F	from hqew, 福田区京富恒昌电子	KEC	12+	4000	SOT89
+KSB772YS	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12	TO126
+KSB798GTF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3960	SOT89
+KSC2310Y	from hqew, 福田区京富恒昌电子	FAIRCHILD	2007+	30000	
+KSD1691YS	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	85	TO126
+KSD1691YS	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	85	TO126
+KSD1691YSTU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	129	TO126
+KSE800STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	295	TO126
+KSP10	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	100000	TO92
+KTA1266-GR-AT/P=2SA1015-GR	from hqew, 福田区京富恒昌电子	KEC	12+	200000	TO-92
+KTA1266-Y-AT/P=2SA1015-Y	from hqew, 福田区京富恒昌电子	KEC	&nbsp;	200000	TO-92
+KTA3198-GR-A/P=2SC1815-GR	from hqew, 福田区京富恒昌电子	KEC	12+	200000	TO-92
+KTC3198-Y-AT/P=2SC1815-Y	from hqew, 福田区京富恒昌电子	KEC	12+	200000	TO-92
+L297/1	from hqew, 福田区京富恒昌电子	ST	13+	5000	
+LM2990T-15	from hqew, 福田区京富恒昌电子	NS	2010	360	
+LM4863D	from hqew, 福田区京富恒昌电子	JS2W	2011	1000000	DIP16
+LM5002MA/NOPB	from hqew, 福田区京富恒昌电子	TI	12+	3000	SOIC8
+LMV321AP5X_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	39000	NSC70
+LMV321AP5X_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	39000	NSC70
+LP3982IMM-ADJ	from hqew, 福田区京富恒昌电子	NS	12+	8000	MSOP8
+LPC1754FBD80	from hqew, 福田区京富恒昌电子	NXP	09+	1190	
+LPC2136FBD64/01	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	3200	SOT314
+LPC2142FBD64/01	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	1600	SOT314
+LPC2294HBD144	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	2400	SOT486
+LPC2294HBD144	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	2400	SOT486
+LPC2368FBD100	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	1800	SOT407
+LPC2468FBD208	from hqew, 福田区京富恒昌电子	NXP	09+	3600	
+LPC2478FBD208	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	3600	SOT459
+LPC2640FET208	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	1260	
+MCP1401T-E/OT	from hqew, 福田区京富恒昌电子	MCP	12+	6000	
+MCP1702T-1802E/CB	from hqew, 福田区京富恒昌电子	MCP	12+	3000	SOT23A
+MCP42010-I/P	from hqew, 福田区京富恒昌电子	MCP	12+	5000	
+MCP6021T-E/OT	from hqew, 福田区京富恒昌电子	MCP	12+	9000	SOT23
+MCP606T-I/OT	from hqew, 福田区京富恒昌电子	MICROCHIP	&nbsp;	9000	
+MCP6141-I/SN	from hqew, 福田区京富恒昌电子	MCP	12+	3000	
+MM3Z39VC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	DF323
+MM3Z39VC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	DF323
+MM3Z51VC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	18000	DF323
+MM3Z51VC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	18000	DF323
+MM5Z36V	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	24000	DF323
+MM5Z36V	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	24000	DF323
+MM74HC165MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	10000	SOIC
+MM74HC32SJ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2256	SOP
+MM74HCT138MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	672	SOIC
+MMBTA42LT1G	from hqew, 福田区京富恒昌电子	ON SEMI	12+	30000	SOT23
+MMSD4148_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	72000	DO123
+MMSZ4703	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	9000	DO123
+MOC3023M	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	5000	DIP
+MPSA14G	from hqew, 福田区京富恒昌电子	ON SEMI	12+	100000	TO92
+M24256-BRMN6TP	from hqew, 福田区京富恒昌电子	ST	09+	50000	
+M24C02-RMN6TP	from hqew, 福田区京富恒昌电子	ST	09+	50000	
+M24C04-RMN6TP	from hqew, 福田区京富恒昌电子	ST	09+	50000	
+M24C08-RMN6TP	from hqew, 福田区京富恒昌电子	ST	09+	50000	
+M24C16-RMN6TP	from hqew, 福田区京富恒昌电子	ST	09+	50000	
+M24C64-RMN6TP	from hqew, 福田区京富恒昌电子	ST	09+	50000	
+M24M01-RMN6TP	from hqew, 福田区京富恒昌电子	ST	11+	12500	TSSOP8
+M3105D-ALAA	from hqew, 福田区京富恒昌电子	ALI	2010	900	
+MAX3097EESE+	from hqew, 福田区京富恒昌电子	MAX	11+	100	
+MAX3160EEAP+	from hqew, 福田区京富恒昌电子	MAX	13+	496	
+MAX3243EIPWR	from hqew, 福田区京富恒昌电子	TI	11+	2000	
+MAX4737EUD	from hqew, 福田区京富恒昌电子	MAX	04+	768	
+MAX4745ELB+T	from hqew, 福田区京富恒昌电子	MAX	08+	2000	L1022-1
+MAX5822LEUA+	from hqew, 福田区京富恒昌电子	MAX	11+	300	MAX8
+MAX8902AATA+T	from hqew, 福田区京富恒昌电子	MAX	10+	1000	8TDFN-EP
+NDS8858H	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSOD
+NDS8858H	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSOD
+OP07CDR	from hqew, 福田区京富恒昌电子	TI	2011	120000	
+OPA704UA/2K5G4	from hqew, 福田区京富恒昌电子	TI	07+	1300	
+P4KE6.8A*DO-41	from hqew, 福田区京富恒昌电子	A&T	07+	8000	DO41
+PCI2050BIZHK	from hqew, 福田区京富恒昌电子	TI	11+	300	BAG
+PCM2706PJT	from hqew, 福田区京富恒昌电子	TI	11+	2000	
+PGA112AIDGSR	from hqew, 福田区京富恒昌电子	TI	11+	1700	
+PIC16F1827-I/SS	from hqew, 福田区京富恒昌电子	MCP	12+	3000	SSOP208
+PIC16F1936-I/P	from hqew, 福田区京富恒昌电子	MCP	12+	3000	
+PIC16F1947-I/SS	from hqew, 福田区京富恒昌电子	MCP	12+	3000	
+PIC16F877-04I/P	from hqew, 福田区京富恒昌电子	MCP	12+	360	PDIP
+PIC18F24K20-I/SP	from hqew, 福田区京富恒昌电子	MCP	12+	750	
+PIC24F16KA101-I/MQ	from hqew, 福田区京富恒昌电子	MCP	12+	3000	TUBE
+PIC24F16KA101-I/SS	from hqew, 福田区京富恒昌电子	MCP	12+	8000	
+PMBT3904	from hqew, 福田区京富恒昌电子	NXP	12+	150000	SOT23
+PMEG4002EB ， 115	from hqew, 福田区京富恒昌电子	NXP	12+	18000	SOD523
+PMEG4002EB , 115	from hqew, 福田区京富恒昌电子	NXP	12+	18000	SOD523
+PMGD370XN , 115	from hqew, 福田区京富恒昌电子	NXP	12+	9000	SOT363
+PRF949	from hqew, 福田区京富恒昌电子	NXP	11+	3000	SC75
+PT2248	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	DIP16
+PT2256V-S	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	SOP-16
+PT2272-M6	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	DIP
+PT2322-S	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	SOP-28
+PT4301-X	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	SSOP-24
+PT4304-X	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	SSOP-16
+PT4317-X	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	SSOP-16
+PT4450-TP	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	SOT-6
+PTVS14VP1UP , 115	from hqew, 福田区京富恒昌电子	NXP	12+	21000	SOD128
+PUMD2/DG/B2 , 115	from hqew, 福田区京富恒昌电子	NXP	12+	480000	SOT363
+PZT2907ATI-G	from hqew, 福田区京富恒昌电子	ON SEMI	09+	5000	SOT23
+QSE114_0219	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	4500	
+QVA21114	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	42400	
+QVA21114	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	42400	
+RT8015GSP	from hqew, 福田区京富恒昌电子	立琦	2011	12500	
+RT8058GQW	from hqew, 福田区京富恒昌电子	立琦	2011	2500	
+RT8059GJ5	from hqew, 福田区京富恒昌电子	立琦	2011	366000	
+RT8074GSP	from hqew, 福田区京富恒昌电子	立琦	2011	7500	
+RT8250NGSP	from hqew, 福田区京富恒昌电子	立琦	2011	466	
+RT8258GJ6	from hqew, 福田区京富恒昌电子	立琦	2011	12000	
+RT8272GSP	from hqew, 福田区京富恒昌电子	立琦	2011	15000	
+RT8284NGS	from hqew, 福田区京富恒昌电子	立琦	2011	25360	
+RT8296AHGSP	from hqew, 福田区京富恒昌电子	立琦	2011	1500	
+RT8452GQW	from hqew, 福田区京富恒昌电子	立琦	2011	14220	
+RT9011-BMPJ6	from hqew, 福田区京富恒昌电子	立琦	2011	3000	
+RT9011-JGGQW	from hqew, 福田区京富恒昌电子	立琦	2011	10000	
+RT9013-18GB	from hqew, 福田区京富恒昌电子	立琦	2011	12000	
+RT9013-30PB	from hqew, 福田区京富恒昌电子	立琦	2011	20	
+RT9013-30PU5	from hqew, 福田区京富恒昌电子	立琦	2011	62	
+RT9013-33GU5	from hqew, 福田区京富恒昌电子	立琦	2011	60000	
+RT9020-31GB	from hqew, 福田区京富恒昌电子	立琦	2011	12000	
+RT9133AGB	from hqew, 福田区京富恒昌电子	立琦	2011	2000	
+RT9161A-18GX	from hqew, 福田区京富恒昌电子	立琦	2011	6000	
+RT9164A-15GG	from hqew, 福田区京富恒昌电子	立琦	2011	2500	
+RT9164A-18GG	from hqew, 福田区京富恒昌电子	立琦	2011	5000	
+RT9166-28GVL	from hqew, 福田区京富恒昌电子	立琦	2011	27000	
+RT9166A-33GXL	from hqew, 福田区京富恒昌电子	立琦	2011	7729	SOP-89
+RT9193-15GB	from hqew, 福田区京富恒昌电子	立琦	2011	9000	
+RT9193-28GU5	from hqew, 福田区京富恒昌电子	立琦	2011	57000	
+RT9193-30GB	from hqew, 福田区京富恒昌电子	立琦	2011	90000	
+RT9193-30PB	from hqew, 福田区京富恒昌电子	立琦	2011	2829	
+RT9193-33GB	from hqew, 福田区京富恒昌电子	立琦	2011	99000	
+RT9199GSP	from hqew, 福田区京富恒昌电子	立琦	2011	7500	
+RT9266GE	from hqew, 福田区京富恒昌电子	立琦	2011	1820	SOT23-6
+RT9284B-20PJ6E	from hqew, 福田区京富恒昌电子	立琦	2011	480	
+RT9293BGJ6	from hqew, 福田区京富恒昌电子	立琦	2011	3690	SOT-23-6
+RT9361BPE	from hqew, 福田区京富恒昌电子	立琦	2011	20730	
+RT9501BGF	from hqew, 福田区京富恒昌电子	立琦	2011	15000	SOP-8
+RT9525GQW	from hqew, 福田区京富恒昌电子	立琦	2011	37500	
+RT9711CGB	from hqew, 福田区京富恒昌电子	立琦	2011	60000	
+RT9801BGE	from hqew, 福田区京富恒昌电子	立琦	2011	60000	
+RT9818C-25GV	from hqew, 福田区京富恒昌电子	立琦	2011	50	SOT-23-6
+RT9818C-25PV	from hqew, 福田区京富恒昌电子	立琦	2011	400	
+RT9818C-27GU3	from hqew, 福田区京富恒昌电子	立琦	2011	20870	
+S29AL016J70TFI020	from hqew, 福田区京富恒昌电子	SPANSION	12+	4800	TSOP
+S29AS016J70BFA040	from hqew, 福田区京富恒昌电子	SPANSION	10+	83	
+S29AS016J70BFI043	from hqew, 福田区京富恒昌电子	SPANSION	10+	32500	
+S29AS016J70BFV040	from hqew, 福田区京富恒昌电子	SPANSION	10+	330	
+S29AS016J70BHI040	from hqew, 福田区京富恒昌电子	SPANSION	10+	237	
+S29AS016J70BHIF40	from hqew, 福田区京富恒昌电子	SPANSION	10+	4928	
+S29AS016J70TFI030	from hqew, 福田区京富恒昌电子	SPANSION	10+	43	
+S29CL032J0RQAI030	from hqew, 福田区京富恒昌电子	SPANSION	10+	159	
+S29JL032H70TFI320	from hqew, 福田区京富恒昌电子	SPANSION	10+	942	
+S29JL032H70TFIG20H	from hqew, 福田区京富恒昌电子	SPANSION	10+	25577	
+S29JL032H70TFIG20H	from hqew, 福田区京富恒昌电子	SPANSION	10+	25577	
+S29JL032H70TFIJ80H	from hqew, 福田区京富恒昌电子	SPANSION	10+	1344	
+S310_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	40961	DOSMC
+S3J-E3*PB FREE	from hqew, 福田区京富恒昌电子	VISHAY	08+	6800	
+S70GL02GP11FAIR10	from hqew, 福田区京富恒昌电子	SPANSION	10+	10	
+S70GL02GP11FAIR10	from hqew, 福田区京富恒昌电子	SPANSION	10+	10	
+S98GL064NB0HI0040	from hqew, 福田区京富恒昌电子	SPANSION	10+	2694	
+SA1412	from hqew, 福田区京富恒昌电子	Other	2011	80	
+SD16729P	from hqew, 福田区京富恒昌电子	Other	2011	221	
+SI4166DY-T1-GE3	from hqew, 福田区京富恒昌电子	Other	&nbsp;	40000	
+SI5321-H-BL	from hqew, 福田区京富恒昌电子	Silicon	13+	500	
+SIHG20N50C-E3	from hqew, 福田区京富恒昌电子	Other	&nbsp;	13875	
+SIHP22N60S-E3	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2100	
+SMBJ8V5A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	24000	DOSMB
+SMCJ51CA	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	147000	DOSMC
+SMCJ7V5A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12000	DOSMC
+SMCJ8V0A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15000	DOSMC
+SMCJ8V5A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	DOSMC
+SMCJ8V5CA	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12000	DOSMC
+SN65HVD10DG4	from hqew, 福田区京富恒昌电子	TI	12	10000	
+SN74LS14N	from hqew, 福田区京富恒昌电子	TI	2011	69000	
+SN74LS377N	from hqew, 福田区京富恒昌电子	TI	2011	5000	
+SN74LVC00APWR	from hqew, 福田区京富恒昌电子	TI	2011	16000	
+SN74LVC4245APWR	from hqew, 福田区京富恒昌电子	TI	13+	8000	
+SN75C3243PWR	from hqew, 福田区京富恒昌电子	TI	10+	3000	TSSOP28
+SN75C3243PWR	from hqew, 福田区京富恒昌电子	TI	10+	3000	
+SP2127	from hqew, 福田区京富恒昌电子	国产	2011	1000000	QFN24 SO
+SRDA3.3-4TB	from hqew, 福田区京富恒昌电子	SEMTECH	04+	9500	SO-8
+STM32F103C8T6	from hqew, 福田区京富恒昌电子	ST	&nbsp;	6000	LQFP48
+STM32F103R8T6	from hqew, 福田区京富恒昌电子	ST	&nbsp;	4800	LQFP64
+STM32F103RCT6	from hqew, 福田区京富恒昌电子	ST	09+	3840	
+STM32F103RET6	from hqew, 福田区京富恒昌电子	ST	&nbsp;	4800	LQFP64
+STM32F103VBT6	from hqew, 福田区京富恒昌电子	ST	&nbsp;	4800	LQFP100
+STM32F103VCT6	from hqew, 福田区京富恒昌电子	ST	09+	5400	
+STM32F103VET6	from hqew, 福田区京富恒昌电子	ST	09+	3240	
+STM32F103ZET6	from hqew, 福田区京富恒昌电子	ST	09+	3600	
+STM32F103ZET6	from hqew, 福田区京富恒昌电子	ST	&nbsp;	3600	LQFP144
+STM32F207VET6	from hqew, 福田区京富恒昌电子	ST	&nbsp;	2160	LQFP100
+STM32F407ZET6	from hqew, 福田区京富恒昌电子	ST	&nbsp;	2160	LQFP144
+STM8S207C6T6	from hqew, 福田区京富恒昌电子	ST	09+	9000	
+TA4805BF(T6L，NQ)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	2000	TE16LI
+TB2929HQ(O,K)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	869	HZ1P25-P
+TC14433EPG	from hqew, 福田区京富恒昌电子	MIC	13+	5000	TUBE
+TC74HC4051AF(EL,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	2000	SOP-16
+TC74HC4051AF(EL,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	2000	SOP16
+TC7662BCOA713	from hqew, 福田区京富恒昌电子	MCP	12+	6600	
+TCM4558CDT	from hqew, 福田区京富恒昌电子	STM	12+	50000	SOP8
+TCM4558CDT	from hqew, 福田区京富恒昌电子	STM	12+	50000	SOP8
+TD62783APG(5,J,S)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	24000	DIP18
+TDA6107JF/N3	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	3740	
+TDA7293V	from hqew, 福田区京富恒昌电子	STM	12+	5000	MULTIWAT
+TK12A60D(STA4,Q,M)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	1500	TO-220SI
+TLC272CPWR	from hqew, 福田区京富恒昌电子	TI	2011	12000	
+TLC27L2AIDR	from hqew, 福田区京富恒昌电子	TI	10+	12500	SOIC8
+TLE6251-2G	from hqew, 福田区京富恒昌电子	INFINEON	11	10000	
+TLP118(TPL,E(O)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	15000	SO6
+TLP184(GB-TPL,SE,T)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	69000	4PINSO6
+TLP281-4(GB-TP,J,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	10000	SOP16
+TLP621(D4-GB,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	64000	DIP4
+TMP36GRTZ-REEL7	from hqew, 福田区京富恒昌电子	AD	12+	8000	
+TMS320C6416TBGLZA6	from hqew, 福田区京富恒昌电子	TI	13+	250	FCBGA
+TMS320F2808PZA	from hqew, 福田区京富恒昌电子	TI	13+	5000	
+TMS320LF2406APZA	from hqew, 福田区京富恒昌电子	TI	2011	2700	
+TMS320LF2406APZA	from hqew, 福田区京富恒昌电子	TI	13+	2880	LQFP100
+TMS320LF2406APZA	from hqew, 福田区京富恒昌电子	TI	13+	1440	LQFP
+TMSDC6727BZDHA250	from hqew, 福田区京富恒昌电子	TI	10+	236	
+TOP244GN-TL	from hqew, 福田区京富恒昌电子	PI	13+	5000	
+TPS3103E12DBVR	from hqew, 福田区京富恒昌电子	TI	05+	2000	
+TPS74401RGWR	from hqew, 福田区京富恒昌电子	TI	12+	3000	
+TPS79301DBVR	from hqew, 福田区京富恒昌电子	TI	2011	12000	
+TTP224	from hqew, 福田区京富恒昌电子	TONTEK	2011	100000	SSOP24 T
+TTP229	from hqew, 福田区京富恒昌电子	TONTEK	2011	100000	TTP229-L
+TTP229	from hqew, 福田区京富恒昌电子	TONTEK	2011	100000	QFN32 SS
+TZMC12	from hqew, 福田区京富恒昌电子	VISHAY	2010	10000	
+TZMC12	from hqew, 福田区京富恒昌电子	VISHAY	06+	10000	
+TZMC12	from hqew, 福田区京富恒昌电子	VISHAY	06+	10000	SOD80
+TZMC6V8*PB FREE	from hqew, 福田区京富恒昌电子	VISHAY	08+	35000	
+TZMC6V8*PB FREE	from hqew, 福田区京富恒昌电子	VISHAY	08+	35000	SOD80
+UC3846DWTR	from hqew, 福田区京富恒昌电子	TI	13+	2500	SOIC
+UF4003	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	290000	DL204
+ULN2003AIPWR	from hqew, 福田区京富恒昌电子	TI	07+	1100	
+ULN2003APG(O,N,HZA)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	15000	DIP-16
+ULN2003APG(O，N，HZA)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	15000	DIP16
+ULN2803AFWG	from hqew, 福田区京富恒昌电子	TOSHIBA	13+	10000	SOP-18
+ULN2803AFWG	from hqew, 福田区京富恒昌电子	TOSHIBA	13+	10000	SOL-18
+UPD720200AF1-DAP-A	from hqew, 福田区京富恒昌电子	NEC	12	1000	
+V8P10-M3/86A	from hqew, 福田区京富恒昌电子	Other	&nbsp;	4500	
+W90N740CDG	from hqew, 福田区京富恒昌电子	WINBOND	2010	480	QFP
+12CWQ10FNTRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	44000	
+1N5349RLG	from hqew, 福田区京富恒昌电子	ON SEMI	10+	8000	DO41
+1SMA5930BT3G	from hqew, 福田区京富恒昌电子	ON SEMI	10+	10000	SMA
+1SS302(TE85L,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	30000	USM
+1SS302(TE85L,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	42000	SOT323
+1SS314(TPH3,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	180000	USC
+2017	from hqew, 福田区京富恒昌电子	TC	2012	100000	SSOP8
+20TT100	from hqew, 福田区京富恒昌电子	Other	&nbsp;	7000	
+21DQ04TR	from hqew, 福田区京富恒昌电子	Other	&nbsp;	10000	
+25AA256-I/P	from hqew, 福田区京富恒昌电子	MCP	12+	5000	
+2711	from hqew, 福田区京富恒昌电子	TC	2012	100000	SOP14
+2SA1162-GR(T5L，F，T)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	960000	SOT346
+2SA1413Z-E1-AZK	from hqew, 福田区京富恒昌电子	NEC	2010+	34000	
+2SA1413Z-E1-AZK	from hqew, 福田区京富恒昌电子	NEC	10+	34000	SMD
+2SA1587-GR(TE85L,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	30000	USM
+2SA1837/2SC4793(F,M)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	40000	
+2SA1930/2SC5171(Q,M)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	5000	
+2SA1941/2SC5198-O(Q)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	10000	SC-65
+2SA1941-O(Q，T)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	13500	SC-65
+2SA1943N/2SC5200N(S1,X,S)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	10000	TO-3P(N)
+2SA1943N/2SC5200N(S1,X,S)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	10000	SC-65
+2SB562C	from hqew, 福田区京富恒昌电子	HITACHI	07+	2000	DO41
+2SC1815-Y(TPE2,F) *T/R*	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	87000	TO-92
+2SC2310Y	from hqew, 福田区京富恒昌电子	FAIRCHILD	06+	30000	DO92
+2SC2310Y	from hqew, 福田区京富恒昌电子	FAIRCHILD	06+	30000	
+2SC2310Y	from hqew, 福田区京富恒昌电子	FAIRCHILD	06+	30000	TO92
+2SC2712-GR,LF(T)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	690000	S-MINI
+2SC2712-Y(T5L,F,T)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	690000	S-MINI
+2SC4117-GR)TE85L，F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	30000	SOT323
+2SC5200-O(Q)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	5000	TO-3P
+2SD882Q-AZ	from hqew, 福田区京富恒昌电子	NEC	12+	30000	TO126
+2SK208-GR(TE85L,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	30000	SOT346
+30BQ040TRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	12000	
+30BQ060TRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	3000	
+3400	from hqew, 福田区京富恒昌电子	国产工厂直销	2011	1000000	SOT-23
+40106D	from hqew, 福田区京富恒昌电子	PHL	10+	15000	
+40106D	from hqew, 福田区京富恒昌电子	PHL	10+	15000	SMD
+4026BE	from hqew, 福田区京富恒昌电子	TI	11+	5000	DIP
+4051	from hqew, 福田区京富恒昌电子	TI	10+	2000	DIP
+4051	from hqew, 福田区京富恒昌电子	TI	10+	2000	DIP
+4066BEY	from hqew, 福田区京富恒昌电子	ST	2010	46000	
+40CPQ060PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	4425	
+40CTQ045-1PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	1500	
+40L15CWPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2150	
+74AC02SCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	10000	SOIC
+74AC04SJ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	11092	SOP
+74AC273SCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2000	SOIC-WID
+74HC02DT	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	20000	
+74HC02DT	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	20000	
+74HC1G04GW   *LEAD*	from hqew, 福田区京富恒昌电子	PHL	01+	21000	SOT353
+74HC245PW	from hqew, 福田区京富恒昌电子	NXP	11+	2500	TSSOP
+74LCX00SJ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	17531	SOP
+74LCX02SJ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	20	SOP
+74LCX11MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	SOIC
+74LCX240WMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1000	SOIC-WID
+74LCX543WMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2000	SOIC-WID
+74LVTH125MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1455	SOIC
+74LVTH125MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1455	SOIC
+74LVX273MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1000	SOIC-WID
+74VHC112MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1018	SOIC
+74VHC125MTCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	TSSOP
+74VHC161SJ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2021	SOP
+74VHC175MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	SOIC
+74VHCT138AMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	SOIC
+74VJCT573AMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1000	SOIC-WID
+7805	from hqew, 福田区京富恒昌电子	華晶	10+	3000	TO220
+78L06	from hqew, 福田区京富恒昌电子	CJ	10+	1000	TO92
+78L06	from hqew, 福田区京富恒昌电子	CJ	10+	1000	TO92
+78SR105HC	from hqew, 福田区京富恒昌电子	TI	00+	200	
+AD5061BRJZ-2RELL7	from hqew, 福田区京富恒昌电子	AD	13+	2000	8IDSOT23
+AD5321BRT-REEL	from hqew, 福田区京富恒昌电子	AD	05+	1000	6IDSOT-2
+AD8011ARZ	from hqew, 福田区京富恒昌电子	AD	12+	600	
+AD8208WBRMZ	from hqew, 福田区京富恒昌电子	AD	12+	300	8IDMSOP
+AD8208WBRMZ	from hqew, 福田区京富恒昌电子	AD	12+	300	
+AD8551ARZ	from hqew, 福田区京富恒昌电子	AD	07+	7000	
+AD8672ARMZ	from hqew, 福田区京富恒昌电子	AD	11+	1460	
+AD9849AKST-REEL7	from hqew, 福田区京富恒昌电子	AD	03+	800	
+AD9970BCPZ	from hqew, 福田区京富恒昌电子	AD	12+	254	32IDLFCS
+AD9970BCPZ	from hqew, 福田区京富恒昌电子	AD	12+	254	
+ADA4937-1YCPZ	from hqew, 福田区京富恒昌电子	AD	11+	300	
+ADM3251EARWZ-REEL7	from hqew, 福田区京富恒昌电子	AD	12	1000	
+ADP150AUJZ-3.3-R7	from hqew, 福田区京富恒昌电子	AD	13+	2000	5IDSOT
+ADS1225IRGVR	from hqew, 福田区京富恒昌电子	TI	12+	2000	
+ADS1231IDR	from hqew, 福田区京富恒昌电子	TI	12+	2000	SOIC16
+AT24C32D-XHM-T	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	10000	8X
+AT52BR1664AT-70C1	from hqew, 福田区京富恒昌电子	ATMEL	06+	6300	
+AT91FR40162SB-CU	from hqew, 福田区京富恒昌电子	ATMEL	10+	1260	
+AT91SAM7X256B-AU	from hqew, 福田区京富恒昌电子	ATMEL	10+	1800	
+AT91SAM9260B-CU	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	3780	LFBGA217
+AT91SAM9260B-QU	from hqew, 福田区京富恒昌电子	ATMEL	10+	1440	
+AT94S05AL-25BQU	from hqew, 福田区京富恒昌电子	ATMEL	09+	3000	
+ATF16V8C-7PU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	3483	
+ATMEGA16L-8MU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	2160	
+ATMEGA325V-8MU	from hqew, 福田区京富恒昌电子	ATMEL	09+	4000	
+ATMEGA32A-PU	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	5000	PDIP40P6
+ATMEGA88PA-AU	from hqew, 福田区京富恒昌电子	ATMEL	10+	10000	
+ATMEGA8L-8AU	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	15000	TQFP32A3
+ATSAM3U4CA-CU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	10527	
+ATTINY2313-20SU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	8000	
+ATTINY24-SSU	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	10000	SOIC14S1
+BAV99S	from hqew, 福田区京富恒昌电子	NXP	2010	12000	
+BAX16	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	8000	DH204
+BC847 ， 215	from hqew, 福田区京富恒昌电子	NXP	12+	321000	SOT023
+BCM5461SA1KPFG	from hqew, 福田区京富恒昌电子	Broadcom	11+	1820	
+BCV27 , 215	from hqew, 福田区京富恒昌电子	NXP	12+	12000	SOT023
+BCV27 , 215	from hqew, 福田区京富恒昌电子	NXP	12+	12000	SOT023
+BD13510STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	11	TO126
+BD13610STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	281	TO126
+BD13910STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15	TO126
+BD237	from hqew, 福田区京富恒昌电子	ST	10+	8000	TO220
+BD435S	from hqew, 福田区京富恒昌电子	FAIRCHILD	2007+	1000	
+BQ3060PWR	from hqew, 福田区京富恒昌电子	TI	13+	5000	TSSOP24
+BSN20	from hqew, 福田区京富恒昌电子	NXP	2010	9000	
+BT138-600D ， 127	from hqew, 福田区京富恒昌电子	NXP	12+	49000	SOT078
+BT151-500R	from hqew, 福田区京富恒昌电子	NXP	11+	10000	TO220
+BYG21M-E3/TR	from hqew, 福田区京富恒昌电子	Other	&nbsp;	21600	
+BYW51-200*PBF	from hqew, 福田区京富恒昌电子	ST	09+	1000	
+BYW51-200*PBF	from hqew, 福田区京富恒昌电子	ST	09+	1000	
+BZV55-C13,115	from hqew, 福田区京富恒昌电子	NXP	12+	50000	SOD080
+BZV55-C13，115	from hqew, 福田区京富恒昌电子	NXP	12+	50000	SOD080
+BZV55-C2V7,115	from hqew, 福田区京富恒昌电子	NXP	12+	15000	SOD080
+BZV55C7V5	from hqew, 福田区京富恒昌电子	PHL	10+	2500	
+BZX55C15	from hqew, 福田区京富恒昌电子	SEMTECH	2010	5000	
+BZX55C5V6*PB FR	from hqew, 福田区京富恒昌电子	VISHAY	06+	10000	
+BZX55C5V6*PB FR	from hqew, 福田区京富恒昌电子	VISHAY	06+	10000	DO35
+BZX79-B7V5 ， 143	from hqew, 福田区京富恒昌电子	NXP	12+	65000	SOD027
+BZX79-C22 , 113	from hqew, 福田区京富恒昌电子	NXP	12+	10000	SOD027
+BZX79-C5V6 , 113	from hqew, 福田区京富恒昌电子	NXP	12+	30000	SOD027
+BZX79C9V1	from hqew, 福田区京富恒昌电子	PHL	07+	20000	DO41
+BZX85C12	from hqew, 福田区京富恒昌电子	VISHAY	06+	25000	DO41
+BZX85C6V2_T50A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	DL204
+BZX85C9V1	from hqew, 福田区京富恒昌电子	VISHAY	08+	15000	DO41
+BZX884-C5V6 , 315	from hqew, 福田区京富恒昌电子	NXP	12+	10000	SOD882
+BZX884-C5V6 , 315	from hqew, 福田区京富恒昌电子	NXP	12+	10000	SOD882
+CD4538BCM	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1920	SOIC
+DL4001-13	from hqew, 福田区京富恒昌电子	DIODES INC	08+	5000	MELF
+EP2C5T144C8N	from hqew, 福田区京富恒昌电子	ALTERA	13+	600	
+FAN5078D3MPX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15000	MLDEL
+FAN5078D3MPX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15000	MLDEL
+FDFMA2N028Z	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	MLDEB
+FDG313N	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	122	NSC70
+FDG410NZ_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	222000	NSC70
+FDG6303N	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	700	NSC70
+FDG6304P	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	457	NSC70
+FDG6317NZ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1284	NSC70
+FDG6317NZ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1284	NSC70
+FDH300	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	4000	DH204
+FDH300	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	4000	DH204
+FDH444	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	20000	DH204
+FDMA291P	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2231	MLDEB
+FDMC0224	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	MLDEU
+FDMC7672	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	4114	MLDEU
+FDMC86106LZ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	27000	MLQEU
+FDME905PT	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1983	MFFFF
+FDME905PT	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1983	MFFFF
+FDMF8704	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	60000	MLDFR
+FDMF8704V	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	MLDFR
+FDMS0341S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	PQOAM
+FDMS0343S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	9000	PQOAM
+FDMS0355AS	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12000	PQOAM
+FDMS7672	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	819	PQOAM
+FDMS7694	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	690000	PQOAM
+FDMS86104	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	294000	PQOAM
+FDS2670	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1536	NMSON
+FDS4141	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1171	NMSON
+FDS4435A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSON
+FDS5351_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	NMSON
+FDS6673BZ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1672	NMSON
+FDS6699S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1033	NMSON
+FDS6699S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1033	NMSON
+FDS6892A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1190	NMSOD
+FDS6898A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	SMD
+FDS6961A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1031	NMSOD
+FDS7066N3	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	7500	EMSON
+FDS7296N3	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	EMSON
+FDS8870_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSON
+FDS8876	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	251	NMSON
+FDS89161	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1180	NMSOD
+FDS8960C	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1009	NMSOD
+FDS9933	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2470	NMSOD
+FDS9933A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1027	NMSOD
+FDY4000CZ_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1308	NMADA
+FDY4000CZ_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1308	NMADA
+FJAF4210YTU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	720	TF3PF
+FJAFS1510ATU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6840	TF3PF
+FJP13009H2	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	15000	TO220
+FJPF3305HITU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	TF220
+FJPF9020TU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1000	TF220
+FJPF9020TU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1000	TF220
+FLZ11VA	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12500	DC213
+FLZ230VC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	17500	DC213
+FLZ27VD	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	7500	DC213
+FLZ2V2A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12500	DC213
+FLZ3V3A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	10000	DC213
+FLZ5V6A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15000	DC213
+FM24CL16B-GTR	from hqew, 福田区京富恒昌电子	RAMTRON	&nbsp;	5000	
+FM24CL64B-GTR	from hqew, 福田区京富恒昌电子	RAMTRON	09+	5000	
+FM24W256-GTR	from hqew, 福田区京富恒昌电子	RAMTRON	&nbsp;	5000	
+FM25V02-GTR	from hqew, 福田区京富恒昌电子	RAMTRON	09+	5000	
+GBL06-B3/1	from hqew, 福田区京富恒昌电子	VISHAY	10+	10600	1.09
+GBL06-B3/1	from hqew, 福田区京富恒昌电子	VISHAY	10+	10600	GBL
+GBL06-B3/1	from hqew, 福田区京富恒昌电子	VISHAY	10+	10600	GBL
+GBL06-B3/1*DC 2010	from hqew, 福田区京富恒昌电子	VISHAY	13923719	10600	1.09
+GBL06-E3/1	from hqew, 福田区京富恒昌电子	VISHAY	10+	10600	
+HEF40106BT	from hqew, 福田区京富恒昌电子	NXP	12+	15000	SMD
+HEF4094BT	from hqew, 福田区京富恒昌电子	NXP	12+	5000	SMD
+HZ12C-1-N-E	from hqew, 福田区京富恒昌电子	RENESAS	12+	5000	DO-35
+IN4737A , 113	from hqew, 福田区京富恒昌电子	NXP	12+	305000	DO41
+IN5225B_T50A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	30000	DH204
+IN5263B_T50R	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	20000	DH204
+IN5347BRLG	from hqew, 福田区京富恒昌电子	ON SEMI	10+	12000	DO41
+IN748A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	26000	DH204
+IP3088CX10/S500 , 13	from hqew, 福田区京富恒昌电子	NXP	12+	99000	SMD
+IP3088CX10/S500 , 13	from hqew, 福田区京富恒昌电子	NXP	12+	99000	SMD
+IP4283CZ10-TBR ， 115	from hqew, 福田区京富恒昌电子	NXP	12+	5000	SMD 7  Q
+IR2153STRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2500	
+IRF3205PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	1000	
+IRF540NPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2000	
+IRF830PBF	from hqew, 福田区京富恒昌电子	VISHAY	11+	100000	
+IRFB9N60APBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	3900	
+IRFP150NPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	1000	
+IRFP250NPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	6000	
+IRFZ48NPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	13000	
+IRL2203N	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2000	
+IRLML6402TRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	12000	
+ISL6843IBZ-T	from hqew, 福田区京富恒昌电子	INTERSIL	2010+	25000	
+KSA1304YTU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	TF220
+KSB772YS	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12	TO126
+KSB798GTF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3960	SOT89
+KSC2310Y	from hqew, 福田区京富恒昌电子	FAIRCHILD	06+	30000	TO92
+KSP10	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	100000	TO92
+KTA1266-GR-AT/P=2SA1015-GR	from hqew, 福田区京富恒昌电子	KEC	12+	200000	TO-92
+KTA1266-Y-AT/P=2SA1015-Y	from hqew, 福田区京富恒昌电子	KEC	12+	200000	TO-92
+KTA1268-GR-AT/P=2SA970-GR	from hqew, 福田区京富恒昌电子	KEC	&nbsp;	14000	
+KTA3198-GR-A/P=2SC1815-GR	from hqew, 福田区京富恒昌电子	KEC	12+	200000	TO-92
+L298N	from hqew, 福田区京富恒昌电子	ST	12+	5000	MULTIWAT
+L6207PD	from hqew, 福田区京富恒昌电子	STM	12+	1000	SO36
+LB1641L-E	from hqew, 福田区京富恒昌电子	SANYO	12+	20000	SIP
+LFXP3C-3TN144C	from hqew, 福田区京富恒昌电子	LAT	13+	900	TQFP
+LM239ADR	from hqew, 福田区京富恒昌电子	TI	10+	7500	SMD
+LM239ADR	from hqew, 福田区京富恒昌电子	TI	10+	7500	SOIC14
+LM2940CT-15	from hqew, 福田区京富恒昌电子	NS	2010+	8190	
+LM2940CT-15	from hqew, 福田区京富恒昌电子	NS	2010	8190	
+LM2940CT-15	from hqew, 福田区京富恒昌电子	NS	11+	8190	TO220
+LM2940CT-15	from hqew, 福田区京富恒昌电子	NS	11+	8190	TO220
+LM2990T-15	from hqew, 福田区京富恒昌电子	NS	11+	360	TO220
+LM324DT	from hqew, 福田区京富恒昌电子	STM	12+	50000	SOP14
+LM4041D12IDBZR	from hqew, 福田区京富恒昌电子	TI	12+	3000	SOT-23
+LM4863S	from hqew, 福田区京富恒昌电子	JS2W	2011	1000000	SOP16
+LMV358AM8X	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1261	NMSON
+LPC1758FBD80	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	1190	SOT315
+LPC1765FBD100,551	from hqew, 福田区京富恒昌电子	NXP	13+	2700	SOT407
+LPC1766FBD100	from hqew, 福田区京富恒昌电子	NXP	09+	1800	
+LPC1768FBD100	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	3600	SOT407
+LPC1769FBD100	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	2700	SOT407
+LPC1778FBD144	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	2400	SOT486
+LPC2220FBD144	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	4800	SOT486
+LPC2378FBD144	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	2400	SOT486
+LPC2378FBD144	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	2400	SOT486
+LPC2468FBD208	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	3600	SOT459
+LPC2468FBD208	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	3600	SOT459
+LPC2478FBD208	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	3600	SOT459
+MBR10100	from hqew, 福田区京富恒昌电子	国产	2011	100000	TO-220 T
+MBR4060WTPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	80000	
+MCP1709T-5002E/DB	from hqew, 福田区京富恒昌电子	MCP	12+	5000	SOT-223
+MM74CT04SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2000	SOP
+MM74HC08SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	20000	SOP
+MM74HC374SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	684	SOP
+MM74HC393M	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	4400	SOIC
+MM74HC4049MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	SOIC
+MM74HC589MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	SOIC
+MM74HCT138MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	672	SOIC
+MM74HCT240WM	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1080	SOIC-WID
+MM74HCT240WMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	8000	SOIC-WID
+MMBF176	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	9000	SMD
+MMBT3904LT1G	from hqew, 福田区京富恒昌电子	ON SEMI	12+	150000	SOT23
+MMPQ2222	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15000	NMSON
+MMPQ2222	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15000	NMSON
+MMSZ4692	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	DO123
+MOC3041M	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	5000	DIP
+MPS8050SC	from hqew, 福田区京富恒昌电子	KEC	12+	60000	SOT23
+MPS8050SC	from hqew, 福田区京富恒昌电子	KEC	12+	60000	SOT23
+MPSA14G	from hqew, 福田区京富恒昌电子	ON SEMI	12+	100000	TO92
+MPSA56G	from hqew, 福田区京富恒昌电子	ON SEMI	12+	40000	TO92
+MSP430F2012IRSAR	from hqew, 福田区京富恒昌电子	TI	07+	1500	
+MSP430F2418TPNR	from hqew, 福田区京富恒昌电子	TI	13+	1000	LQFP80
+MSP430F2418TPNR	from hqew, 福田区京富恒昌电子	TI	13+	1000	
+MURB2020CTPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	1574	
+M24512-RMN6TP	from hqew, 福田区京富恒昌电子	ST	09+	30000	
+M24C02-RDW6TP	from hqew, 福田区京富恒昌电子	ST	09+	50000	
+M24M01-RMN6TP	from hqew, 福田区京富恒昌电子	ST	09+	10000	
+MAX1473ETJ+T	from hqew, 福田区京富恒昌电子	MAX	10+	7500	
+MAX202IDWR	from hqew, 福田区京富恒昌电子	TI	07+	2000	SOIC16
+MAX3160EEAP+	from hqew, 福田区京富恒昌电子	MAX	13+	496	SSOP20
+MAX3291ESD+	from hqew, 福田区京富恒昌电子	MAX	13+	1015	SO14
+MAX3291ESD+	from hqew, 福田区京富恒昌电子	MAX	13+	1015	
+MAX4020ESD+T	from hqew, 福田区京富恒昌电子	MAX	12+	5000	
+MAXQ3180-RAN+	from hqew, 福田区京富恒昌电子	MAX	12+	1920	
+NDS9407_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSON
+NE5532N	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	18246	NMDIP
+NJM4558D	from hqew, 福田区京富恒昌电子	JRC	12+	3000	DIP
+OP07CSZ	from hqew, 福田区京富恒昌电子	AD	2010	5000	
+OP07CSZ-REEL	from hqew, 福田区京富恒昌电子	AD	13+	10000	SMD
+OPA2735AIDGKR	from hqew, 福田区京富恒昌电子	TI	12+	2000	
+P4KE6.8A	from hqew, 福田区京富恒昌电子	A&T	2010	8000	
+P6KE12CA	from hqew, 福田区京富恒昌电子	A&T	2010	500	
+PBSS4140T	from hqew, 福田区京富恒昌电子	NXP	10+	213000	SOT23
+PC817X1NSZW	from hqew, 福田区京富恒昌电子	SHARP	&nbsp;	30000	
+PCF8574AT   *LEAD*	from hqew, 福田区京富恒昌电子	PHL	01+	40000	SOT162
+PCF8583T/5,518	from hqew, 福田区京富恒昌电子	NXP	12+	5000	
+PDTA124XT,215	from hqew, 福田区京富恒昌电子	NXP	12+	3000	SOT023
+PDTC123Y，215	from hqew, 福田区京富恒昌电子	NXP	12+	60000	SOT023
+PDTC123Y,215	from hqew, 福田区京富恒昌电子	NXP	12+	60000	SOT023
+PEMD12. 315	from hqew, 福田区京富恒昌电子	NXP	12+	96000	SOT666
+PI5A3157BC6EX	from hqew, 福田区京富恒昌电子	PERICOM	12+	9000	SOT23
+PI5A3157BC6EX	from hqew, 福田区京富恒昌电子	PERICOM	12+	9000	SOT23
+PIC12F1501-I/SN	from hqew, 福田区京富恒昌电子	MCP	12+	5000	
+PIC16F1508-I/SS	from hqew, 福田区京富恒昌电子	MCP	12+	3000	
+PIC16F1513-I/MV	from hqew, 福田区京富恒昌电子	MCP	12+	2730	UQFN
+PIC16F628-20I/SO	from hqew, 福田区京富恒昌电子	MCP	12+	3000	
+PIC16F84A-20I/SO	from hqew, 福田区京富恒昌电子	MCP	12+	3000	
+PIC16F886T-I/SO	from hqew, 福田区京富恒昌电子	MICROCHIP	12	9600	
+PIC16LF874A-I/PT	from hqew, 福田区京富恒昌电子	MCP	12+	3000	
+PIC16LF877A-I/PT	from hqew, 福田区京富恒昌电子	MICROCHIP	&nbsp;	2000	
+PIC18F23K20-I/SS	from hqew, 福田区京富恒昌电子	MCP	12+	5000	
+PIC18F25J50-I/SS	from hqew, 福田区京富恒昌电子	MCP	12+	3000	SSOP208M
+PIC18F25J50-I/SS	from hqew, 福田区京富恒昌电子	MCP	12+	3000	
+PIC18F43K20-I/PT	from hqew, 福田区京富恒昌电子	MCP	12+	3000	
+PIC24F16KA101-I/SS	from hqew, 福田区京富恒昌电子	MICROCHIP	&nbsp;	5000	
+PIC24HJ128GP206-I/PT	from hqew, 福田区京富恒昌电子	MCP	12+	3000	
+PIC32MX795F512H-80I/PT	from hqew, 福田区京富恒昌电子	MCP	12+	3000	TQFP
+PMGD370XN ， 115	from hqew, 福田区京富恒昌电子	NXP	12+	9000	SOT363
+PMSA56G	from hqew, 福田区京富恒昌电子	ON SEMI	12+	40000	TO92
+PSS4140T	from hqew, 福田区京富恒昌电子	NXP	2010	213000	
+PT2249A	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	DIP16
+PT2313	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	SOP-28
+PT2399	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	DIP
+PT2399-S	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	SOP
+PTH05000WAD	from hqew, 福田区京富恒昌电子	TI	12+	900	
+PTVS14VP1UP , 115	from hqew, 福田区京富恒昌电子	NXP	12+	21000	SOD128
+RT8009-33GJ5	from hqew, 福田区京富恒昌电子	立琦	2011	1700	
+RT8009GJ5	from hqew, 福田区京富恒昌电子	立琦	2011	57000	
+RT8020GQW	from hqew, 福田区京富恒昌电子	立琦	2011	22360	PQW
+RT8270GS	from hqew, 福田区京富恒昌电子	立琦	2011	4576	SOT-8
+RT8296BHGSP	from hqew, 福田区京富恒昌电子	立琦	2011	10000	
+RT8456GE	from hqew, 福田区京富恒昌电子	立琦	2011	3000	
+RT8573AGS	from hqew, 福田区京富恒昌电子	立琦	2011	5000	
+RT9011-CMPJ6	from hqew, 福田区京富恒昌电子	立琦	2011	3000	
+RT9011-PGGQW	from hqew, 福田区京富恒昌电子	立琦	2011	27500	
+RT9011-PGPQW	from hqew, 福田区京富恒昌电子	立琦	2011	12500	
+RT9013-18GU5	from hqew, 福田区京富恒昌电子	立琦	2011	8790	
+RT9013-25GB	from hqew, 福田区京富恒昌电子	立琦	2011	27000	
+RT9013-25PU5	from hqew, 福田区京富恒昌电子	立琦	2011	700	
+RT9013-30GB	from hqew, 福田区京富恒昌电子	立琦	2011	60000	
+RT9013-33GB	from hqew, 福田区京富恒昌电子	立琦	2011	10910	
+RT9030-11GU5	from hqew, 福田区京富恒昌电子	立琦	2011	18000	
+RT9161-28PX	from hqew, 福田区京富恒昌电子	立琦	2011	37000	
+RT9161A-33GX	from hqew, 福田区京富恒昌电子	立琦	2011	28000	SOP-89
+RT9167-28PB	from hqew, 福田区京富恒昌电子	立琦	2011	9000	
+RT9167-30PB	from hqew, 福田区京富恒昌电子	立琦	2011	12000	
+RT9193-18GB	from hqew, 福田区京富恒昌电子	立琦	2011	33000	
+RT9193-18PB	from hqew, 福田区京富恒昌电子	立琦	2011	98	
+RT9193-28GB	from hqew, 福田区京富恒昌电子	立琦	2011	39000	
+RT9261A-50PB	from hqew, 福田区京富恒昌电子	立琦	2011	21000	
+RT9266GE	from hqew, 福田区京富恒昌电子	立琦	2011	159000	
+RT9284A-20GJ6E	from hqew, 福田区京富恒昌电子	立琦	2011	69000	
+RT9284B-15GJ6E	from hqew, 福田区京富恒昌电子	立琦	2011	370	SOT-23-5
+RT9284B-15GJ6E	from hqew, 福田区京富恒昌电子	立琦	2011	63000	
+RT9285CGJ6	from hqew, 福田区京富恒昌电子	立琦	2011	18150	
+RT9296GQW	from hqew, 福田区京富恒昌电子	立琦	2011	30000	
+RT9297GQW	from hqew, 福田区京富恒昌电子	立琦	2011	30000	
+RT9502GQW	from hqew, 福田区京富恒昌电子	立琦	2011	125000	
+RT9503GQW	from hqew, 福田区京富恒昌电子	立琦	2011	66	
+RT9513GQW	from hqew, 福田区京富恒昌电子	立琦	2011	247500	
+RT9594AGQW	from hqew, 福田区京富恒昌电子	立琦	2011	12500	
+RT9701GB	from hqew, 福田区京富恒昌电子	立琦	2011	30000	
+RT9801ACE	from hqew, 福田区京富恒昌电子	立琦	2011	1110	SOT-23-6
+RT9818C-27GV	from hqew, 福田区京富恒昌电子	立琦	2011	48005	SOT23-6
+RT9818C-27GV	from hqew, 福田区京富恒昌电子	立琦	2011	27000	
+RT9818C-27GVL	from hqew, 福田区京富恒昌电子	立琦	2011	320	
+RT9912AGQW	from hqew, 福田区京富恒昌电子	立琦	2011	15000	
+RT9917GQW	from hqew, 福田区京富恒昌电子	立琦	2011	10000	
+RT9953GQW	from hqew, 福田区京富恒昌电子	立琦	2011	5378	
+S1M-E3/61T	from hqew, 福田区京富恒昌电子	Other	&nbsp;	81000	
+S29AS016J70BFI043	from hqew, 福田区京富恒昌电子	SPANSION	10+	32500	
+S29AS016J70BFV030	from hqew, 福田区京富恒昌电子	SPANSION	10+	332	
+S29AS016J70BHI040	from hqew, 福田区京富恒昌电子	SPANSION	10+	237	
+S29AS016J70BHIF40	from hqew, 福田区京富恒昌电子	SPANSION	10+	4928	
+S29AS016J70TFI030	from hqew, 福田区京富恒昌电子	SPANSION	10+	43	
+S29AS016J70TFI040	from hqew, 福田区京富恒昌电子	SPANSION	10+	1870	
+S29JL032H70TFIJ80H	from hqew, 福田区京富恒昌电子	SPANSION	10+	1344	
+S29JL032H90BAI320	from hqew, 福田区京富恒昌电子	SPANSION	10+	942	
+S29JL032H90BAI320	from hqew, 福田区京富恒昌电子	SPANSION	10+	942	
+S29JL032H90TAI323	from hqew, 福田区京富恒昌电子	SPANSION	10+	1000	
+S3J-E3*PB FREE	from hqew, 福田区京富恒昌电子	VISHAY	08+	6800	DO214AB
+S3J-E3*PB FREE	from hqew, 福田区京富恒昌电子	VISHAY	08+	6800	DO214AB
+S71GL032N40BFW0P0	from hqew, 福田区京富恒昌电子	SPANSION	10+	2666	
+S98GL064NB0HI0030	from hqew, 福田区京富恒昌电子	SPANSION	10+	884	
+SAA1064/N2，112	from hqew, 福田区京富恒昌电子	NXP	10+	5100	
+SI1557DH-T1-E3	from hqew, 福田区京富恒昌电子	Other	&nbsp;	39000	
+SIHG20N50C	from hqew, 福田区京富恒昌电子	VISHAY	1126+	14500	
+SII1161CTU	from hqew, 福田区京富恒昌电子	SII	&nbsp;	1800	
+SMCJ51CA	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	147000	DOSMC
+SMCJ7V5CA	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15000	DOSMC
+SMCJ8V5A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	DOSMC
+SN740DR	from hqew, 福田区京富恒昌电子	TI	10+	2000	
+SN74AVC4T245DR	from hqew, 福田区京富恒昌电子	TI	08+	1500	
+SN74HC125DR	from hqew, 福田区京富恒昌电子	TI	2011	100000	
+SN74HC259DR	from hqew, 福田区京富恒昌电子	TI	2011	30000	
+SN74LS07DR	from hqew, 福田区京富恒昌电子	TI	2011	85000	
+SN74LVC1G3157DRYR	from hqew, 福田区京富恒昌电子	TI	2011	5000	
+SN75174DWR	from hqew, 福田区京富恒昌电子	TI	13+	2400	
+STA401A	from hqew, 福田区京富恒昌电子	SANYO	&nbsp;	1000	
+STM32F100C8T6B	from hqew, 福田区京富恒昌电子	ST	09+	6000	
+STM32F101C8T6	from hqew, 福田区京富恒昌电子	ST	09+	3000	
+STM32F101CBT6	from hqew, 福田区京富恒昌电子	ST	&nbsp;	3000	LQFP48
+STM32F103RBT6	from hqew, 福田区京富恒昌电子	ST	&nbsp;	4800	LQFP64
+STM32F103RCT6	from hqew, 福田区京富恒昌电子	ST	&nbsp;	3840	LQFP64
+STM32F407ZGT6	from hqew, 福田区京富恒昌电子	ST	09+	3600	
+T405-600T	from hqew, 福田区京富恒昌电子	TEXAS	07+	42000	
+T6963C-0101(DRY，C)  *LEAD*	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	200	
+T6963C-0101(DRY,C)  *LEAD*	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	200	
+TA4805BF(T6L,NQ)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	2000	TE16LI
+TB2929HQ(O,K)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	869	HZIP
+TC4863DB	from hqew, 福田区京富恒昌电子	TC25w	2011	1000000	DIP16
+TC4863SB	from hqew, 福田区京富恒昌电子	TC25w	2011	1000000	SOP16
+TD62783AFG(O，S，EL)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	2000	SOP18
+TDA5637T/C1  *LEAD*	from hqew, 福田区京富恒昌电子	PHL	01+	5000	
+TDA7263M	from hqew, 福田区京富恒昌电子	ST	&nbsp;	2000	
+TFA9842AJ/N1	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	2592	
+TL074CDR	from hqew, 福田区京富恒昌电子	TI	2011	100000	
+TL082IDR	from hqew, 福田区京富恒昌电子	TI	2011	20000	
+TLC2272CP	from hqew, 福田区京富恒昌电子	TI	13+	5000	PDIP
+TLC555IDR	from hqew, 福田区京富恒昌电子	TI	2011	17500	
+TLP127(TPL，U，F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	30000	SOP6
+TLP184(GB-TPL,SE(T)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	69000	SO6
+TLP250(F)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	15000	DIP-8
+TLP281(GB-TP,F,T)	from hqew, 福田区京富恒昌电子	TI	2011	10000	
+TLP627-2F	from hqew, 福田区京富恒昌电子	TOSHIBA	13+	5000	DIP8
+TLP627F	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	20000	DIP-4
+TLV2262AIDR	from hqew, 福田区京富恒昌电子	TI	12+	2500	
+TMS320DM6467CZUT7	from hqew, 福田区京富恒昌电子	TI	10+	1000	TCBGA
+TMS320F2808PZA	from hqew, 福田区京富恒昌电子	TI	13+	5000	LQFP100
+TMS320LF2406APZA	from hqew, 福田区京富恒昌电子	TI	13+	2880	
+TOP250(F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	15000	DIP8
+TPA3110D2PWPR	from hqew, 福田区京富恒昌电子	TI	2011	24000	
+TPS2051CDBVR	from hqew, 福田区京富恒昌电子	TI	13+	5000	SOT23
+TPS2051CDBVR	from hqew, 福田区京富恒昌电子	TI	13+	5000	
+TPS54062DGKR	from hqew, 福田区京富恒昌电子	TI	11+	156	
+TPS54283PWPR	from hqew, 福田区京富恒昌电子	TI	2011	20000	
+TPS780330220DDCR	from hqew, 福田区京富恒昌电子	TI	11+	2000	SOT-5
+TTA1943/TTC5200(Q)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	20000	TO-3P(L)
+TTP223	from hqew, 福田区京富恒昌电子	TONTEK	2011	100000	SSOP16 S
+TTP229	from hqew, 福田区京富恒昌电子	TONTEK	2011	100000	QFN32SSO
+TTP250	from hqew, 福田区京富恒昌电子	TONTEK	2011	100000	SSOP24 T
+TTP255	from hqew, 福田区京富恒昌电子	TONTEK	2011	100000	SOP24DIC
+TTP255	from hqew, 福田区京富恒昌电子	TONTEK	2011	100000	SOP24 DI
+TZMC3V9*PB FREE	from hqew, 福田区京富恒昌电子	VISHAY	09+	32500	
+TZMC3V9*PB FREE	from hqew, 福田区京富恒昌电子	VISHAY	09+	32500	SOD80
+TZMC6V8*PB FREE	from hqew, 福田区京富恒昌电子	VISHAY	08+	35000	
+UCC28950PWR	from hqew, 福田区京富恒昌电子	TI	13+	3000	TSSOP
+US1M-E3/61T	from hqew, 福田区京富恒昌电子	Other	&nbsp;	36000	
+16CTQ100PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	5000	
+1N4148W	from hqew, 福田区京富恒昌电子	DIODES INC	12+	30000	SOD123
+1SMA5930BT3G	from hqew, 福田区京富恒昌电子	ON SEMI	09+	10000	SMA
+1SS314(TPH3,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	99000	SOT323
+1SV229(TPH3,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	30000	SOD323
+20BQ030	from hqew, 福田区京富恒昌电子	IR	12+	10000	SMD
+24AA128-I/MS	from hqew, 福田区京富恒昌电子	MCP	12+	525	MSOP
+24C08AN-10SC-2.7V  *LEAD*	from hqew, 福田区京富恒昌电子	AT	00+	3500	8S1
+24C128N-10SC2.7V  *LEAD*	from hqew, 福田区京富恒昌电子	AT	01+	20000	PDIP
+24C32N-10SC-2.7V *LEAD*	from hqew, 福田区京富恒昌电子	AT	01+	5000	SOIC
+24LC02BT-I/OT	from hqew, 福田区京富恒昌电子	MCP	12+	6000	
+25AA256T-I/SM	from hqew, 福田区京富恒昌电子	MCP	12+	5000	SOIJ
+25LC010AT-I/OT	from hqew, 福田区京富恒昌电子	MCP	12+	8000	
+25LC256-I/P	from hqew, 福田区京富恒昌电子	MCP	12+	5000	
+2N7002K-T1-GE3	from hqew, 福田区京富恒昌电子	Other	&nbsp;	33000	
+2SA1015-Y(SP,F,T)  *BULK*	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	35000	TO-92
+2SA1162-GR(T5L,F,T)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	300000	S-MINI
+2SA1413Z-E1-AZK	from hqew, 福田区京富恒昌电子	NEC	10+	34000	SMD
+2SA1837/2SC4793(F，M)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	40000	
+2SB562C	from hqew, 福田区京富恒昌电子	HITACHI	07+	2000	DO41
+2SB772P-AZ	from hqew, 福田区京富恒昌电子	NEC	12+	30000	TO126
+2SB772P-AZ	from hqew, 福田区京富恒昌电子	NEC	12+	30000	TO126
+2SC1815-Y(TPE2，F) *T/R*	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	87000	TO-92
+2SC1815-Y(TPE2,F) T/R	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	87000	TO-92
+2SC2310Y	from hqew, 福田区京富恒昌电子	FAIRCHILD	06+	30000	DO92
+2SC2712-GR,LF(T)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	960000	SOT346
+2SC2712-Y,LF(T)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	480000	SOT346
+2SC4117-GR(TE85L,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	30000	USM
+2SC4117-GR)TE85L,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	30000	SOT323
+2SD1767T100R	from hqew, 福田区京富恒昌电子	ROHM	11+	3000	SOT89
+2SD882P-AZ	from hqew, 福田区京富恒昌电子	NEC	12+	30000	TO126
+2SK208-GR(TE85L，F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	30000	SOT346
+2SK2225-80	from hqew, 福田区京富恒昌电子	瑞萨	2012	100000	
+30CTQ060PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	5000	
+40106D	from hqew, 福田区京富恒昌电子	PHL	10+	15000	SMD
+4051BE	from hqew, 福田区京富恒昌电子	TI	10+	2000	
+74AC02SCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	10000	SOIC
+74AC04SJ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	11092	SOP
+74AC240SCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1000	SOIC-WID
+74AC240SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1246	SOP
+74AC273SCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2000	SOIC-WID
+74ACT245SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	604	SOP
+74ACTQ574SC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1080	SOIC-WID
+74F14SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	8000	SOP
+74HC164D	from hqew, 福田区京富恒昌电子	NXP	11+	10000	SMD
+74HC164D	from hqew, 福田区京富恒昌电子	NXP	11+	10000	SMD
+74HC245PW	from hqew, 福田区京富恒昌电子	NXP	11+	2500	TSSOP
+74LCX00SJ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	13	SOIC-WID
+74LCX07SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	914	SOP
+74LCX11M	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3300	SOIC
+74LCX543WM	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1800	SOIC-WID
+74LVX02MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	22500	SOIC
+74LVX373MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	SOIC-WID
+74LVX86MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12500	SOIC
+74LVX86MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12500	SOIC
+74VHC112MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1018	SOIC
+74VHC125MTCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	2010	2500	
+74VHC125MTCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	08+	2500	TSSOP
+74VHC393SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	94	SOP
+74VHCT00AM	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3300	SOIC
+74VHCT138AMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	SOIC
+74VHCT240ASJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2000	SOP
+74VHCT244ASJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	444	SOP
+74VHCT244ASJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	444	SOP
+74VJCT573AMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1000	SOIC-WID
+7805	from hqew, 福田区京富恒昌电子	華晶	10+	3000	TO220
+79L15	from hqew, 福田区京富恒昌电子	CJ	10+	3000	TO92
+79L15	from hqew, 福田区京富恒昌电子	CJ	10+	3000	TO92
+8ETX06PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	4000	
+90SQ040TR	from hqew, 福田区京富恒昌电子	Other	&nbsp;	43500	
+A1203LLHLT-T	from hqew, 福田区京富恒昌电子	ALLEGRO	12+	12000	
+ACPF-7024-TR1	from hqew, 福田区京富恒昌电子	AVAGO	12	12000	
+AD1674TD	from hqew, 福田区京富恒昌电子	AD	12+	32	
+AD5061BRJZ-2REEL7	from hqew, 福田区京富恒昌电子	AD	13+	2000	
+AD5246BKSZ100-RL7	from hqew, 福田区京富恒昌电子	AD	06+	731	
+AD5310BRMZ	from hqew, 福田区京富恒昌电子	AD	12+	500	8IDMSOP
+AD5310BRMZ	from hqew, 福田区京富恒昌电子	AD	12+	500	
+AD5552BRZ	from hqew, 福田区京富恒昌电子	AD	06+	500	
+AD5764BSUZ	from hqew, 福田区京富恒昌电子	AD	12+	200	
+AD7684BRMZ	from hqew, 福田区京富恒昌电子	AD	11+	300	
+AD8223BRZ	from hqew, 福田区京富恒昌电子	AD	12+	100	
+AD8276ARMZ-R7	from hqew, 福田区京富恒昌电子	AD	13+	1000	8IDMSOP
+AD8276ARMZ-R7	from hqew, 福田区京富恒昌电子	AD	13+	1000	
+AD8400ARZ100	from hqew, 福田区京富恒昌电子	AD	12+	500	8IDSOIC
+AD8571AKSZ-REEL7	from hqew, 福田区京富恒昌电子	AD	11+	1600	
+AD9283BRSZ-100	from hqew, 福田区京富恒昌电子	AD	13+	2000	20IDSSOP
+ADA4000-2ARMZ	from hqew, 福田区京富恒昌电子	AD	12+	300	MSOP8
+ADA4084-2ARMZ	from hqew, 福田区京富恒昌电子	AD	12+	122	MSOP8
+ADAU1761BCPZ-R7	from hqew, 福田区京富恒昌电子	AD	12+	2000	
+ADG779BKSZ-REEL7	from hqew, 福田区京富恒昌电子	AD	10+	3000	
+ADUM1201ARZ-RL7	from hqew, 福田区京富恒昌电子	AD	12	5000	
+ADV7125KSTZ140	from hqew, 福田区京富恒昌电子	AD	13+	1000	48IDLQFP
+AT45DB161E-SSHD-T-AD	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	16000	
+AT77C102B-CB02YV	from hqew, 福田区京富恒昌电子	ATMEL	09+	3000	
+AT89C2051-24PU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	2070	
+AT89C51ED2-RLTUM	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	2700	LQFPRL44
+AT89C51RC-24JU	from hqew, 福田区京富恒昌电子	ATMEL	09+	3000	
+AT91SAM7A3-AU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	1390	
+AT91SAM7S64C-AU	from hqew, 福田区京富恒昌电子	ATMEL	10+	3200	
+AT91SAM9263B-CU	from hqew, 福田区京富恒昌电子	ATM	13+	1260	TFBAG
+AT91SAM9263B-CU	from hqew, 福田区京富恒昌电子	ATM	13+	1260	
+AT91SAM9G20B-CU	from hqew, 福田区京富恒昌电子	ATMEL	10+	1260	
+AT91SAM9G20B-CU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	1134	
+AT91SAM9G35-CU	from hqew, 福田区京富恒昌电子	ATMEL	10+	1260	
+ATMEGA128A-AU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	1890	
+ATMEGA168-20PU	from hqew, 福田区京富恒昌电子	ATMEL	12+	830	DIP
+ATMEGA168-20PU	from hqew, 福田区京富恒昌电子	ATMEL	12+	830	DIP
+ATMEGA168PA-AU	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	5000	TQFP32A3
+ATMEGA16A-PU	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	5000	PDIP40P6
+ATMEGA2560-16AU	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	2700	FQFP100A
+ATMEGA325V-8MU	from hqew, 福田区京富恒昌电子	ATMEL	06+	4000	MLF64M16
+ATMEGA328P-PU	from hqew, 福田区京富恒昌电子	ATMEL	10+	2400	
+ATMEGA32A-PU	from hqew, 福田区京富恒昌电子	ATMEL	10+	4800	
+ATMEGA48PA-MU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	1960	
+ATMEGA8-16AU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	1750	
+AW80581ZH061003SLB5J	from hqew, 福田区京富恒昌电子	INTEL	&nbsp;	100	
+BAT54C	from hqew, 福田区京富恒昌电子	NXP	2010	150000	
+BAT54C	from hqew, 福田区京富恒昌电子	NXP	08+	150000	SOT23
+BAV103	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	75000	DC213
+BAV70	from hqew, 福田区京富恒昌电子	NXP	12+	150000	SOT23
+BAX70SV	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	NMADA
+BAX70SV	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	NMADA
+BC817-40	from hqew, 福田区京富恒昌电子	PHL	05+	3000	SOT23
+BC847 , 215	from hqew, 福田区京富恒昌电子	NXP	12+	321000	SOT023
+BC847B	from hqew, 福田区京富恒昌电子	NXP	12+	150000	SOT23
+BC847BPN/DG/B2,115	from hqew, 福田区京富恒昌电子	NXP	12+	3000	SOT636
+BC857B	from hqew, 福田区京富恒昌电子	NXP	12+	99000	SOT23
+BD13510STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	11	TO126
+BD13610STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	281	TO126
+BD237	from hqew, 福田区京富恒昌电子	ST	10+	8000	
+BT137-600D	from hqew, 福田区京富恒昌电子	NXP	12+	10000	TO220
+BT151-500R	from hqew, 福田区京富恒昌电子	NXP	11+	10000	TO220
+BXZ55C15	from hqew, 福田区京富恒昌电子	SEMTECH	07+	5000	DO41
+BXZ85C12	from hqew, 福田区京富恒昌电子	VISHAY	06+	25000	
+BZT55C12*PB FRE	from hqew, 福田区京富恒昌电子	VISHAY	06+	25000	SOD80
+BZT55C15-GS08	from hqew, 福田区京富恒昌电子	Other	&nbsp;	12500	
+BZV55-C2V7，115	from hqew, 福田区京富恒昌电子	NXP	12+	15000	SOD080
+BZV55-C3V6,115	from hqew, 福田区京富恒昌电子	NXP	12+	10000	SOD080
+BZV55C7V5	from hqew, 福田区京富恒昌电子	PHL	10+	2500	SMD
+BZV85C5V6*PB FR	from hqew, 福田区京富恒昌电子	PHL	06+	15000	
+BZX79-B18 ， 143	from hqew, 福田区京富恒昌电子	NXP	12+	155000	SOD027
+BZX79-B18 , 143	from hqew, 福田区京富恒昌电子	NXP	12+	155000	SOD027
+BZX79-C5V6 ， 113	from hqew, 福田区京富恒昌电子	NXP	12+	30000	SOD027
+BZX79-C5V6 , 113	from hqew, 福田区京富恒昌电子	NXP	12+	30000	SOD027
+BZX79C9V1	from hqew, 福田区京富恒昌电子	PHL	2010	20000	
+BZX85C12	from hqew, 福田区京富恒昌电子	VISHAY	2010	25000	
+BZX85C12	from hqew, 福田区京富恒昌电子	VISHAY	06+	25000	
+BZX85C12	from hqew, 福田区京富恒昌电子	VISHAY	06+	25000	DO41
+BZX85C5V1	from hqew, 福田区京富恒昌电子	ST	08+	10000	
+BZX85C5V1	from hqew, 福田区京富恒昌电子	ST	08+	10000	
+BZX85C9V1	from hqew, 福田区京富恒昌电子	VISHAY	08+	15000	
+BZX884-C5V6 ， 315	from hqew, 福田区京富恒昌电子	NXP	12+	10000	SOD882
+CC115LRGPR	from hqew, 福田区京富恒昌电子	TI	13+	30000	NQF(GPR)
+CD4007UBE	from hqew, 福田区京富恒昌电子	TEXAS	09+	9000	PDIP
+D1NL20U	from hqew, 福田区京富恒昌电子	新電源	12+	2000	TO220
+DBSB60	from hqew, 福田区京富恒昌电子	新電源	12+	2000	TO220
+DBSB60	from hqew, 福田区京富恒昌电子	新電源	12+	2000	TO220
+DF10S_F065	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	24000	SDIPA
+DF10S_F065	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	24000	SDIPA
+DIFS4	from hqew, 福田区京富恒昌电子	新電源	12+	8000	TO220
+DL4001-13	from hqew, 福田区京富恒昌电子	DIODES INC	08+	5000	MELF
+EGP30C	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	38750	DC213
+EPF6016ATC144-3N	from hqew, 福田区京富恒昌电子	ALTERA	13+	360	
+FAN6520AMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	7500	NMSON
+FD8880_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSON
+FDFM2N111	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1753	MLDAM
+FDFMA3N109	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1394	MLDEB
+FDG328P	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	482	NSC70
+FDG330P	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	589	NSC70
+FDG330P	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	589	NSC70
+FDG6303N	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	700	NSC70
+FDG6335N	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	772	NSC70
+FDH444	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	20000	DH204
+FDM6296	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	243000	MLOEU
+FDMA0100	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	MLDEB
+FDMA0100	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	MLDEB
+FDMC0224	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	MLDEU
+FDMS0343S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	9000	PQOAM
+FDMS7558S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	9000	PQOAM
+FDMS7580	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	255000	PQOAM
+FDMS7602S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1584	MLDAM
+FDMS7602S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1584	MLDAM
+FDMS7672	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	819	PQOAM
+FDMS7692A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	348000	PQOAM
+FDMS7694	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	690000	PQOAM
+FDMS8661AS	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15000	PQOAM
+FDMS8880	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	78000	PQOAM
+FDN338P	from hqew, 福田区京富恒昌电子	FAIRCHILD	08+	6000	SMD
+FDS2572_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	NMSON
+FDS2734	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1303	NMSON
+FDS2734	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1303	NMSON
+FDS3590_F095	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	NMSON
+FDS3710N7	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	35000	EMSON
+FDS3710N7	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	35000	EMSON
+FDS4935BZ_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSOD
+FDS4935BZ_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSOD
+FDS5690_F095	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1164	NMSON
+FDS5690_F095	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1164	NMSON
+FDS6670AS	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	20000	NMSON
+FDS6982	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSOD
+FDS6994S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1890	NMSOD
+FDS7064SN3	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	32500	EMSON
+FDS7296N3	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	EMSON
+FDS8876	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	251	NMSON
+FDS8882	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	822	NMSON
+FDS8882	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	822	NMSON
+FDS8884_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	503	NMSON
+FDS8884_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	503	NMSON
+FDS89141	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1045	NMSOD
+FDS8960C	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1009	NMSOD
+FDS9933	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2470	NMSOD
+FDS9933A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1027	NMSOD
+FDY302NZ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	36000	NMADA
+FDY302NZ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	36000	NMADA
+FFB5551	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	669	NSC70
+FJAF4210YTU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	720	TF3PF
+FJC1386RTF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	173387	SOT89
+FJY3001R	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	42000	NMADA
+FLZ11VA	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12500	DC213
+FLZ11VB	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12500	DC213
+FLZ11VC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	22500	DC213
+FLZ27VD	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	7500	DC213
+FLZ2V2A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12500	DC213
+FLZ36VC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	27500	DC213
+FLZ39VA	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	25000	DC213
+FLZ4V3B	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	10000	DC213
+FM24CL16B-GTR	from hqew, 福田区京富恒昌电子	ROMTRON	&nbsp;	5000	
+FM24CL16B-GTR	from hqew, 福田区京富恒昌电子	RAMTRON	11	10000	
+FM24CL64B-GTR	from hqew, 福田区京富恒昌电子	RAMTRON	&nbsp;	5000	
+FM24W256-GTR	from hqew, 福田区京富恒昌电子	ROMTRON	&nbsp;	5000	
+FM25640B-GTR	from hqew, 福田区京富恒昌电子	ROMTRON	&nbsp;	5000	
+FM25CL64B-GTR	from hqew, 福田区京富恒昌电子	RAMTRON	09+	5000	
+FZ3600R17HP4-B2	from hqew, 福田区京富恒昌电子	INF	11+	444	
+GBL06-B3/1	from hqew, 福田区京富恒昌电子	VISHAY	10+	10600	1.09
+HCF4010M013TR	from hqew, 福田区京富恒昌电子	ST	13+	20000	SO-16
+HVR3700001004FR500	from hqew, 福田区京富恒昌电子	Other	&nbsp;	5000	
+HZ12C-1-N-E	from hqew, 福田区京富恒昌电子	RENESAS	&nbsp;	5000	DO-35
+IN4150TR	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	30000	DH204
+IN5228B	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	4000	DH204
+IN746A_T50A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	30000	BDO35
+IP4283CZ10-TBR , 115	from hqew, 福田区京富恒昌电子	NXP	12+	5000	SMD7Q1TI
+IR2130PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	14986	
+IRF1010EPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	10500	
+IRF1405ZSPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	1400	
+IRF530PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	28550	
+IRF6216TRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	8000	
+IRF740PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	110250	
+IRFD120PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2000	
+IRFP360PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	4000	
+IRFP460PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	4550	
+IRFPS43N50KPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	3800	
+IRFR014TRLPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	3000	
+IRFZ44NPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2000	
+IRG4PC40WPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2000	
+IRLZ24NPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2000	
+ISMA5930BT3G	from hqew, 福田区京富恒昌电子	ON SEMI	09+	10000	
+ISMA5930BT3G	from hqew, 福田区京富恒昌电子	ON SEMI	09+	10000	
+K4T1G164QF-BCE7	from hqew, 福田区京富恒昌电子	SAMSUNG	13+	17920	
+KA324DTF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	324000	NMSOE
+KA339DTF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	NMSOE
+KA393A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1227	NMDIP
+KA431SMFTF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	75000	NMAE
+KA431SMFTF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	75000	NMAE
+KA78L05AIDTF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	51000	NMSON
+KIA78L15F	from hqew, 福田区京富恒昌电子	KEC	12+	4000	SOT89
+KSA1304YTU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	TF220
+KSD1691YSTU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	129	TO126
+KST29007	from hqew, 福田区京富恒昌电子	FAIRCHILD	2007	24000	
+KTA1266-GR-AT/P=2SA1015-GR	from hqew, 福田区京富恒昌电子	KEC	&nbsp;	200000	TO-92
+KTA1266-Y-AT/P=2SA1015-Y	from hqew, 福田区京富恒昌电子	KEC	12+	200000	TO-92
+KTA3198-GR-AT/P=2SC1815-GR	from hqew, 福田区京富恒昌电子	KEC	&nbsp;	200000	TO-92
+KTC3198-Y-AT/P=2SC1815-Y	from hqew, 福田区京富恒昌电子	KEC	12+	200000	TO-92
+L298N	from hqew, 福田区京富恒昌电子	ST	12+	5000	
+L6207PD	from hqew, 福田区京富恒昌电子	STM	12+	1000	SO36
+LB1641L-E	from hqew, 福田区京富恒昌电子	SANYO	13+	20000	SIP
+LB1641L-E	from hqew, 福田区京富恒昌电子	SANYO	13+	20000	SIP
+LIS3DHTR	from hqew, 福田区京富恒昌电子	ST	&nbsp;	16000	LGA-16
+LM22670MRE-5.0	from hqew, 福田区京富恒昌电子	TI	12+	3000	SO8
+LM239ADR	from hqew, 福田区京富恒昌电子	TI	10+	7500	SMD
+LM239ADR	from hqew, 福田区京富恒昌电子	TI	10+	7500	SOIC14
+LM2596SX-3.3/NOPB	from hqew, 福田区京富恒昌电子	NS	13+	30000	
+LM2675MX-ADJ/NOPB	from hqew, 福田区京富恒昌电子	NS	13+	30000	
+LM2990T-15	from hqew, 福田区京富恒昌电子	NS	2010+	360	
+LM2990T-15	from hqew, 福田区京富恒昌电子	NS	11+	360	TO220
+LM317MKVURG3	from hqew, 福田区京富恒昌电子	TEXAS	06+	7500	TO-252
+LM324DT	from hqew, 福田区京富恒昌电子	STM	12+	50000	SOP14
+LM335Z/NOPB	from hqew, 福田区京富恒昌电子	NS	12+	15000	TO92
+LM337LMX	from hqew, 福田区京富恒昌电子	NS	10+	7500	SMD
+LM337LMX	from hqew, 福田区京富恒昌电子	NS	10+	7500	SMD
+LM337LMX/NOPB	from hqew, 福田区京富恒昌电子	NS	12+	7500	SMD
+LNK306PN	from hqew, 福田区京富恒昌电子	PI	13+	10000	
+LPC1754FBD80	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	1190	SOT315
+LPC1758FBD80	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	1190	SOT315
+LPC1769FBD100	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	2700	SOT407
+LPC1778FBD144	from hqew, 福田区京富恒昌电子	NXP	09+	1800	
+LPC2106FBD48/01	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	1600	SOT313
+LPC2114FBD64/01	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	1600	SOT314
+LPC2114FBD64/01	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	1600	SOT314
+LPC2136FBD64/01	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	3200	SOT314
+LPC2138FBD64/01	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	1600	SOT314
+LPC2220FBD144	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	4800	SOT486
+LPC2368FBD100	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	1800	SOT407
+LPC2387FBD100	from hqew, 福田区京富恒昌电子	NXP	09+	900	
+LPC2387FBD100	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	2700	SOT407
+LPC2640FET208	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	1260	
+LPC3250FET296/01	from hqew, 福田区京富恒昌电子	NXP	09+	1260	
+LTV817C	from hqew, 福田区京富恒昌电子	LITEON	12+	10000	DIP
+MBR10100	from hqew, 福田区京富恒昌电子	国产	2011	100000	TO-220TO
+MBR20100	from hqew, 福田区京富恒昌电子	国产	2011	100000	TO-220 T
+MC33064P-5G	from hqew, 福田区京富恒昌电子	ON SEMI	12+	10000	TO92
+MCP121T-270E/TT	from hqew, 福田区京富恒昌电子	MCP	12+	6000	
+MCP3425AOT-E/CH	from hqew, 福田区京富恒昌电子	MCP	12+	9000	SOT23
+MCP42010-I/P	from hqew, 福田区京富恒昌电子	MCP	12+	5000	PDIP
+MCP4462-503E/ST	from hqew, 福田区京富恒昌电子	MCP	12+	1300	TSSOP
+MCP6141-E/SN	from hqew, 福田区京富恒昌电子	MCP	12+	3000	SOIC
+MCP7940N-I/SN	from hqew, 福田区京富恒昌电子	MCP	12+	5000	
+MCP9700AT-E/TT	from hqew, 福田区京富恒昌电子	MCP	12+	6000	SOT23
+MM3Z27VC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	30000	DF323
+MM3Z27VC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	30000	DF323
+MM3Z47VC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	DF323
+MM3Z47VC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	DF323
+MM5Z13V	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	32000	DF323
+MM5Z43V	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	16000	DF323
+MM74CT04SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2000	SOP
+MM74HC08SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	20000	SOP
+MM74HC165MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	10000	SOIC
+MM74HC4049MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	SOIC
+MMPQ2907	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1461	NMSON
+MMPQ3906	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	720	NMSON
+MMPQ3906	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	720	NMSON
+MMSD4148_D87Z	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	140000	DO123
+MMSD4148_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	72000	DO123
+MMSZ4692	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	DO123
+MMSZ4703	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	9000	DO123
+MMSZ5234BF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	87000	DC213
+MMSZ5234BF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	87000	DC213
+MOC3023M	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	5000	DIP
+MP4462DN-LF-Z	from hqew, 福田区京富恒昌电子	MPS	12+	2000	QFN10
+MPSA29G	from hqew, 福田区京富恒昌电子	ON SEMI	12+	40000	TO92
+MPSA42	from hqew, 福田区京富恒昌电子	UTC	10+	2000	TO92
+MSP430F2132IRHBR	from hqew, 福田区京富恒昌电子	TI	12+/13+	3000	
+MSP430F2274TDAR	from hqew, 福田区京富恒昌电子	TI	09+	900	TSSOP38
+MUR3020WTPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	1000	
+M24C32-RMN6TP	from hqew, 福田区京富恒昌电子	ST	09+	50000	
+MAX192AEAP	from hqew, 福田区京富恒昌电子	MAX	04+	100	SSOP20
+MAX192AEAP	from hqew, 福田区京富恒昌电子	MAX	04+	100	
+MAX3160EEAP+	from hqew, 福田区京富恒昌电子	MAX	04+	496	
+MAX485CPA+	from hqew, 福田区京富恒昌电子	MAXIM	12+	1800	DIP
+MAX8902AATA+T	from hqew, 福田区京富恒昌电子	MAX	10+	1000	
+MAX995ESD	from hqew, 福田区京富恒昌电子	MAX	00+	2000	
+NDS9959	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1615	NMSOD
+NDS9959	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1615	NMSOD
+NE5532N	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	18246	NMDIP
+OP07CSZ-REEL	from hqew, 福田区京富恒昌电子	AD	13+	10000	SMD
+OP184FSZ-REEL7	from hqew, 福田区京富恒昌电子	AD	12+	281	
+OPA4170AIDR	from hqew, 福田区京富恒昌电子	TI	13+	4800	SOIC8
+OPA569AIDWPR	from hqew, 福田区京富恒昌电子	TI	13+	1000	SO-20
+P4KE6.8A	from hqew, 福田区京富恒昌电子	AT	2007	8000	
+P4KE6.8A*DO-41	from hqew, 福田区京富恒昌电子	A&T	07+	8000	DO41
+P4KE6.8A*DO-41	from hqew, 福田区京富恒昌电子	A&T	07+	8000	
+P4KE6.8A*DO-41	from hqew, 福田区京富恒昌电子	A&T	07+	8000	
+PCF8574AT   *LEAD*	from hqew, 福田区京富恒昌电子	PHL	01+	40000	SOT162
+PCF8574T   *LEAD*	from hqew, 福田区京富恒昌电子	PHL	01+	26000	SOT162
+PCF8574T   *LEAD*	from hqew, 福田区京富恒昌电子	PHL	01+	26000	SOT162
+PDTA124XT,215	from hqew, 福田区京富恒昌电子	NXP	12+	3000	SOT023
+PDTA124XT，215	from hqew, 福田区京富恒昌电子	NXP	12+	3000	SOT023
+PDTA143ET ， 215	from hqew, 福田区京富恒昌电子	NXP	12+	411000	SOT023
+PDTA143ET , 215	from hqew, 福田区京富恒昌电子	NXP	12+	411000	SOT023
+PDTC123Y,215	from hqew, 福田区京富恒昌电子	NXP	12+	60000	SOT023
+PIC16F1827-I/SS	from hqew, 福田区京富恒昌电子	MCP	12+	3000	SSOP208M
+PIC18F24K20-I/SP	from hqew, 福田区京富恒昌电子	MCP	12+	750	SPDIP
+PIC18LF8722-I/PT	from hqew, 福田区京富恒昌电子	MICROCHIP	&nbsp;	2142	
+PMBT3906	from hqew, 福田区京富恒昌电子	NXP	12+	30000	SOT23
+PMEG4002EB , 115	from hqew, 福田区京富恒昌电子	NXP	12+	18000	SOD523
+PT2258	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	DIP-20
+PT2258-S	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	SOP-20
+PT2308-S	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	SOP-8
+PT4314-001	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	LQFP-144
+PUMD2/DG/B2 , 115	from hqew, 福田区京富恒昌电子	NXP	12+	480000	SOT363
+PZT2907AT1-G	from hqew, 福田区京富恒昌电子	ON SEMI	09+	5000	
+PZT2907AT1-G	from hqew, 福田区京富恒昌电子	ON SEMI	09+	5000	SOT2234
+PZT2907AT1-G	from hqew, 福田区京富恒昌电子	ON SEMI	09+	5000	SOT2234
+PZT2907ATI-G	from hqew, 福田区京富恒昌电子	ON SEMI	09+	5000	SOT23
+QSE114_0219	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	4500	
+R7731AGE	from hqew, 福田区京富恒昌电子	立琦	2011	500000	SOT-23-6
+RT6801GQW	from hqew, 福田区京富恒昌电子	立琦	2011	30000	
+RT8009-18GJ5	from hqew, 福田区京富恒昌电子	立琦	2011	3000	
+RT8010GQW	from hqew, 福田区京富恒昌电子	立琦	2011	5650	DFN
+RT8015AGQW	from hqew, 福田区京富恒昌电子	立琦	2011	62500	
+RT8023GQW	from hqew, 福田区京富恒昌电子	立琦	2011	2500	
+RT8024GB	from hqew, 福田区京富恒昌电子	立琦	2011	46548	SOT-23-5
+RT8270GS	from hqew, 福田区京富恒昌电子	立琦	2011	35000	
+RT8500GQW	from hqew, 福田区京富恒昌电子	立琦	2011	2500	
+RT8572GS	from hqew, 福田区京富恒昌电子	立琦	2011	10000	
+RT9011-JGPJ6	from hqew, 福田区京富恒昌电子	立琦	2011	30000	
+RT9011-MGGJ6	from hqew, 福田区京富恒昌电子	立琦	2011	3000	
+RT9011-MGGQW	from hqew, 福田区京富恒昌电子	立琦	2011	2300	
+RT9011-SSGJ6	from hqew, 福田区京富恒昌电子	立琦	2011	3000	
+RT9013-15GB	from hqew, 福田区京富恒昌电子	立琦	2011	21000	
+RT9013-28GB	from hqew, 福田区京富恒昌电子	立琦	2011	54000	
+RT9013-28GU5	from hqew, 福田区京富恒昌电子	立琦	2011	138000	
+RT9013-28PU5	from hqew, 福田区京富恒昌电子	立琦	2011	1760	
+RT9161A-18PV	from hqew, 福田区京富恒昌电子	立琦	2011	3000	
+RT9166-30PVL	from hqew, 福田区京富恒昌电子	立琦	2011	150	
+RT9167-25PB	from hqew, 福田区京富恒昌电子	立琦	2011	110	
+RT9169-12PV	from hqew, 福田区京富恒昌电子	立琦	2011	38300	
+RT9169-33GVL	from hqew, 福田区京富恒昌电子	立琦	2011	100	
+RT9193-25GB	from hqew, 福田区京富恒昌电子	立琦	2011	36000	
+RT9193-27PB	from hqew, 福田区京富恒昌电子	立琦	2011	30	
+RT9276GQW	from hqew, 福田区京富恒昌电子	立琦	2011	2500	
+RT9284B-20GJ6E	from hqew, 福田区京富恒昌电子	立琦	2011	45000	
+RT9292BGQW	from hqew, 福田区京富恒昌电子	立琦	2011	5000	
+RT9292DGQW	from hqew, 福田区京富恒昌电子	立琦	2011	2500	
+RT9293BGJ6	from hqew, 福田区京富恒昌电子	立琦	2011	3000	
+RT9293C-20GJ6	from hqew, 福田区京富恒昌电子	立琦	2011	33000	
+RT9300AGE	from hqew, 福田区京富恒昌电子	立琦	2011	18000	
+RT9364GQW	from hqew, 福田区京富恒昌电子	立琦	2011	1985	
+RT9379BGQW	from hqew, 福田区京富恒昌电子	立琦	2011	2500	
+RT9501BPF	from hqew, 福田区京富恒昌电子	立琦	2011	120	
+RT9503AGQW	from hqew, 福田区京富恒昌电子	立琦	2011	117500	
+RT9711CGB	from hqew, 福田区京富恒昌电子	立琦	2011	9879	SOT--23-
+RT9715AGQW	from hqew, 福田区京富恒昌电子	立琦	2011	1500	
+RT9718BGQW	from hqew, 福田区京富恒昌电子	立琦	2011	5000	
+RT9801BGE	from hqew, 福田区京富恒昌电子	立琦	2011	9000	SOT-23-6
+RT9801BPE	from hqew, 福田区京富恒昌电子	立琦	2011	202	
+S25FL032K0XMFI010	from hqew, 福田区京富恒昌电子	SPANSION	10+	137	
+S25FL032K0XMFI010	from hqew, 福田区京富恒昌电子	SPANSION	10+	137	
+S29AS016J70BFA040	from hqew, 福田区京富恒昌电子	SPANSION	10+	83	
+S29AS016J70BFV030	from hqew, 福田区京富恒昌电子	SPANSION	10+	332	
+S29AS016J70BFV040	from hqew, 福田区京富恒昌电子	SPANSION	10+	330	
+S29AS016J70TFI040	from hqew, 福田区京富恒昌电子	SPANSION	10+	1870	
+S29GL064N90BFI040	from hqew, 福田区京富恒昌电子	SPANSION	12+	3380	TSOP
+S29GL256S90TFI020	from hqew, 福田区京富恒昌电子	SPANSION	12+	4550	TSOP
+S29JL032H90TAI323	from hqew, 福田区京富恒昌电子	SPANSION	10+	1000	
+S3J-E3*PB FREE	from hqew, 福田区京富恒昌电子	VISHAY	08+	6800	
+S71GL032N40BFW0P0	from hqew, 福田区京富恒昌电子	SPANSION	10+	2666	
+SAA1064/N2,112	from hqew, 福田区京富恒昌电子	NXP	10+	5100	
+SFH615A-3X006 LF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2000	
+SI4459ADY-T1-GE3	from hqew, 福田区京富恒昌电子	Other	&nbsp;	40000	
+SMBJ150CA	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	21000	DOSMB
+SMBJ8V5A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	24000	DOSMB
+SMCJ7V5A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12000	DOSMC
+SMCJ7V5CA	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15000	DOSMC
+SMCJ8V0A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15000	DOSMC
+SN65HVD3082EDR	from hqew, 福田区京富恒昌电子	TI	2011	160000	
+SN74HC00DR	from hqew, 福田区京富恒昌电子	TI	2011	80000	
+SN74HCT04N	from hqew, 福田区京富恒昌电子	TI	2011	50000	
+SN74HCT08N	from hqew, 福田区京富恒昌电子	TI	2011	13450	
+SN74HCT373N	from hqew, 福田区京富恒昌电子	TI	2011	36040	
+SN74LVC04APWR	from hqew, 福田区京富恒昌电子	TI	2011	8000	
+SN74LVC4245APWR	from hqew, 福田区京富恒昌电子	TI	13+	8000	TSSOP24
+SN75174DWR	from hqew, 福田区京富恒昌电子	TI	13+	2400	SOIC20
+SP2038	from hqew, 福田区京富恒昌电子	国产	2011	1000000	SOP16 DI
+SP3232EEY-L/TR	from hqew, 福田区京富恒昌电子	EXAR	12+	20000	TSSOP16
+SP3232EEY-L/TR	from hqew, 福田区京富恒昌电子	EXAR	12+	20000	
+STM32F100VBT6B	from hqew, 福田区京富恒昌电子	ST	09+	3240	
+STM32F103RBT6	from hqew, 福田区京富恒昌电子	ST	09+	4800	
+STM8S103F3P6	from hqew, 福田区京富恒昌电子	ST	09+	14800	
+STV8438LU	from hqew, 福田区京富恒昌电子	ST	94+	1008	
+T6963C-0101(DRY,C)  LEAD	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	200	
+TA4805BF(T6L1,NQ)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	2000	NEWPW-MO
+TB2929HQ(O，K)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	869	HZIP
+TC3682	from hqew, 福田区京富恒昌电子	TC	2011	1000000	DIP
+TC4469COE713	from hqew, 福田区京富恒昌电子	MCP	12+	6000	
+TC7109CPL	from hqew, 福田区京富恒昌电子	MIC	12+	5000	TUBE
+TC7109CPL	from hqew, 福田区京富恒昌电子	MIC	12+	5000	PDIP
+TC7660CPA	from hqew, 福田区京富恒昌电子	MCP	12+	5000	PDIP
+TD62783AFG(O,S,EL)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	2000	SOP18
+TD62783APG(5，J，S)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	24000	DIP18
+TD62783APG(O，S，HZN)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	400	DIP18
+TD62783APG(O,S,HZN)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	400	DIP18
+TD82783AFG(O,S,EL)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	10000	SOP-18-P
+TDA5637T/C1  *LEAD*	from hqew, 福田区京富恒昌电子	PHL	01+	5000	
+TDA7293V	from hqew, 福田区京富恒昌电子	STM	12+	5000	MULTIWAT
+TK12A60D(STA4,Q,M)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	1500	TO-220SI
+TL062IDR	from hqew, 福田区京富恒昌电子	TI	2011	10000	
+TLC0820ACDWR	from hqew, 福田区京富恒昌电子	TI	05+	500	SOIC20
+TLC272BIDR	from hqew, 福田区京富恒昌电子	TI	06+	1500	SOIC
+TLC274CPWR	from hqew, 福田区京富恒昌电子	TI	2011	10000	
+TLE2061CDR	from hqew, 福田区京富恒昌电子	TI	02+	2500	
+TLP118(TPL，E(O)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	15000	SO 6
+TLP118(TPL,E,O)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	15000	SPINS06
+TLP127(TPL,U,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	30000	SOP6
+TLP181(GB-TPL，F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	90000	SOP6
+TLP181(GB-TPL,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	9000	MFSOP6
+TLP181(GB-TPL,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	90000	SOP6
+TLP184(GB-TPL，SE(T)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	69000	SO6
+TLP281-4(GB-TP,J,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	10000	SOP16
+TMS320C6747BZKBA3	from hqew, 福田区京富恒昌电子	TI	12+	1000	
+TPS61040DBVR	from hqew, 福田区京富恒昌电子	TI	2011	12000	
+TPS61500PWPR	from hqew, 福田区京富恒昌电子	TI	12+	2000	HTSSOP14
+TPS79425DGNR	from hqew, 福田区京富恒昌电子	TI	09+	2200	
+TSAL4400LF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	50000	
+TTP223	from hqew, 福田区京富恒昌电子	TONTEK	2011	100000	SSOP16SO
+TTP224	from hqew, 福田区京富恒昌电子	TONTEK	2011	100000	SSOP24TS
+TTP250	from hqew, 福田区京富恒昌电子	TONTEK	2011	100000	SSOP24TS
+TZMC12	from hqew, 福田区京富恒昌电子	VISHAY	06+	10000	SOD80
+TZMC3V9*PB FREE	from hqew, 福田区京富恒昌电子	VISHAY	09+	32500	SOD80
+TZMC5V6-GS08	from hqew, 福田区京富恒昌电子	Other	&nbsp;	5000	
+UA78L05ACDR	from hqew, 福田区京富恒昌电子	TI	2011	120000	
+ULN2004ADR	from hqew, 福田区京富恒昌电子	TI	12+	80000	
+ULN2803APG(O，N，HZA)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	5000	DIP18
+UPD82C55AC-2	from hqew, 福田区京富恒昌电子	NEC	09+	900	DIP
+UTC5N60F	from hqew, 福田区京富恒昌电子	UTC	12+	5000	TO220F
+UTC5N60F	from hqew, 福田区京富恒昌电子	UTC	12+	5000	TO220F
+XC3S200AN-4FTG256C	from hqew, 福田区京富恒昌电子	XILINX	13+	110	
+10BQ015TRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	6000	
+12CWQ03FNTRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2000	
+1N4148W	from hqew, 福田区京富恒昌电子	DIODES INC	12+	30000	SOD123
+1N5347BRLG	from hqew, 福田区京富恒昌电子	ON SEMI	10+	12000	DO41
+1N5349BRLG	from hqew, 福田区京富恒昌电子	ON SEMI	2010	8000	
+1SS302(TE85L，F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	42000	SOT323
+1SS314(TPH3，F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	99000	SOT323
+2450LP14B100	from hqew, 福田区京富恒昌电子	JOHANSON	&nbsp;	16000	
+24C128N-10SC2.7V  *LEAD*	from hqew, 福田区京富恒昌电子	AT	01+	20000	PDIP
+25AA010AT-I/OT	from hqew, 福田区京富恒昌电子	MCP	12+	6000	
+25AA256T-I/SM	from hqew, 福田区京富恒昌电子	MCP	12+	5000	
+2N7002	from hqew, 福田区京富恒昌电子	NXP	12+	60000	SOT23
+2N7002	from hqew, 福田区京富恒昌电子	NXP	12+	60000	SOT23
+2SA1015-Y(SP，F，T)  *BULK*	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	35000	TO-92
+2SA1015-Y(TE2,F,T) T/R	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	45000	TO-92
+2SA1015-Y/2SC1815-Y(TPE2，F) *T/R*	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	30000	TO-92
+2SA1015-Y/2SC1815-Y(TPE2,F) *T/R*	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	30000	TO-92
+2SA1015-Y/2SC1815-Y(TPE2,F) T/R	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	30000	TO-92
+2SA1162-GR(TE85L,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	960000	SOT346
+2SA1162Y	from hqew, 福田区京富恒昌电子	TOSHIBA	10+	15000	SOT23
+2SA1162-Y(T5L,F,T)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	690000	S-MINI
+2SA1413Z-E1-AZK	from hqew, 福田区京富恒昌电子	NEC	2010	34000	
+2SA1587-GR(TE85L,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	30000	SOT323
+2SA1941-O(Q,T)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	11500	TO-3P(N)
+2SA1941-O(Q,T)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	13500	SC-65
+2SA1943/2SC5200-O(Q)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	10000	TO-3P(N)
+2SA1943N/2SC5200N(S1，X，S)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	10000	SC-65
+2SB562C	from hqew, 福田区京富恒昌电子	HITACHI	07+	2000	TO92
+2SB562C	from hqew, 福田区京富恒昌电子	HITACHI	07+	2000	TO92
+2SC2712-GR，LF(T)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	960000	SOT346
+2SD1767T100R	from hqew, 福田区京富恒昌电子	ROHM	11+	3000	SOT89
+32CTQ030PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	43000	
+74ACT08SCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	SOIC
+74ACT245SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	604	SOP
+74ACTQ08SCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	SOIC
+74ACTQ574SC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1080	SOIC-WID
+74F14SCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	SOIC
+74HC1G04GW   *LEAD*	from hqew, 福田区京富恒昌电子	PHL	01+	21000	SOT353
+74LCX11M	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3300	SOIC
+74LCX11MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	SOIC
+74LCX126SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	SOP
+74LCX157M	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	425	SOIC
+74LCX2244WMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2000	SOIC-WID
+74LCX240WMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1000	SOIC-WID
+74LCX573SJ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3838	SOP
+74LCX573SJ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3838	SOP
+74LVX02MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	22500	SOIC
+74LVX125SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	SOP
+74LVX273MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1000	SOIC-WID
+74VCX08M	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12100	SOIC
+74VHC125MTCX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	TSSOP
+74VHC393SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	94	SOP
+74VHCT00AM	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3300	SOIC
+74VHCT240ASJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2000	SOP
+74VHCT541AMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	158	SOIC-WID
+79L15	from hqew, 福田区京富恒昌电子	CJ	10+	3000	
+8205A	from hqew, 福田区京富恒昌电子	TC	2012	100000	SOT23-6
+88E1111-B2-BAB1C000	from hqew, 福田区京富恒昌电子	MARVELL	13+	900	
+8ETH06PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2000	
+93C66A-10SU	from hqew, 福田区京富恒昌电子	ATMEL	12+	4000	SMD
+AD7274BRMZ	from hqew, 福田区京富恒昌电子	AD	12+	250	
+AD7680ARMZ	from hqew, 福田区京富恒昌电子	AD	12+	1000	
+AD7865ASZ-2	from hqew, 福田区京富恒昌电子	AD	11+	100	TRAY96
+AD8032ARZ-REEL7	from hqew, 福田区京富恒昌电子	AD	12+	1500	
+AD8208WBRMZ	from hqew, 福田区京富恒昌电子	AD	12+	300	8IDSOIC
+AD8551ARZ	from hqew, 福田区京富恒昌电子	AD	07+	7000	8IDSOIC
+AD8552ARZ	from hqew, 福田区京富恒昌电子	AD	07+	7000	8IDSOIC
+AD8646ARMZ-REEL	from hqew, 福田区京富恒昌电子	AD	09+	3000	8IDMSOP
+AD8646ARMZ-REEL	from hqew, 福田区京富恒昌电子	AD	09+	3000	
+AD9283BRSZ-100	from hqew, 福田区京富恒昌电子	AD	13+	2000	
+AD9745BCPZ	from hqew, 福田区京富恒昌电子	AD	12+	79	
+ADG5436BRUZ	from hqew, 福田区京富恒昌电子	AD	12+	200	16IDTSSO
+ADMP441ACEZ	from hqew, 福田区京富恒昌电子	AD	11+	849	
+ADR391BUJZ-REEL7	from hqew, 福田区京富恒昌电子	AD	12+	3084	
+ADS574KE	from hqew, 福田区京富恒昌电子	TI	05+	52	
+ADUM1251ARZ-RL7	from hqew, 福田区京富恒昌电子	TD	13+	4000	8IDSOIC
+ADV7125KSTZ140	from hqew, 福田区京富恒昌电子	AD	13+	1000	
+AS186-302LF	from hqew, 福田区京富恒昌电子	SKYWORKS	13+	6000	
+AT89C4051-24SU SL383	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	2000	
+AT915AM9263B-CU-100	from hqew, 福田区京富恒昌电子	ATM	13+	2520	TFBGA
+ATMEGA1280-16AU	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	1800	TQFP100A
+ATMEGA162-16AU	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	3200	TQFP44A4
+ATMEGA168PA-MU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	980	
+ATMEGA16A-PU	from hqew, 福田区京富恒昌电子	ATMEL	10+	5000	
+ATMEGA48PA-AU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	6000	
+ATMEGA48PA-MU	from hqew, 福田区京富恒昌电子	ATMEL	10+	9800	
+ATMEGA88PA-MU	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	6000	MLF32M1-
+ATMEGA8A-AUR	from hqew, 福田区京富恒昌电子	ATMEL	10	10000	
+ATMEGA8L-8AU	from hqew, 福田区京富恒昌电子	Atmel	&nbsp;	2450	
+ATXMEGA128A1-AU	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	1800	TQFP100A
+B39431-R800-H210	from hqew, 福田区京富恒昌电子	EPCOS	13	6000	
+BAT54C	from hqew, 福田区京富恒昌电子	NXP	08+	150000	SOT23
+BAV103	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	75000	DC213
+BAV70	from hqew, 福田区京富恒昌电子	NXP	12+	150000	SOT23
+BAX16	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	8000	DH204
+BC847B	from hqew, 福田区京富恒昌电子	NXP	12+	150000	SOT23
+BCX17	from hqew, 福田区京富恒昌电子	NXP	12+	12000	SOT23
+BD13910STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15	TO126
+BD237	from hqew, 福田区京富恒昌电子	ST	10+	8000	TO220
+BD238STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	344	TO126
+BT137-600D	from hqew, 福田区京富恒昌电子	NXP	2010+	8000	
+BT138-600E	from hqew, 福田区京富恒昌电子	NXP	12+	6000	TO220
+BXZ55C15	from hqew, 福田区京富恒昌电子	SEMTECH	07+	5000	DO41
+BYW51-200*PBF	from hqew, 福田区京富恒昌电子	ST	09+	1000	TO220AB
+BZT55C12*PB FRE	from hqew, 福田区京富恒昌电子	VISHAY	06+	25000	SOD80
+BZT55C36-GS08	from hqew, 福田区京富恒昌电子	Other	&nbsp;	12500	
+BZV55-C3V6，115	from hqew, 福田区京富恒昌电子	NXP	12+	10000	SOD080
+BZX55C5V6*PB FR	from hqew, 福田区京富恒昌电子	VISHAY	06+	10000	DO35
+BZX79-B11 , 113	from hqew, 福田区京富恒昌电子	NXP	12+	150000	SOD027
+BZX79-B11 ， 113	from hqew, 福田区京富恒昌电子	NXP	12+	150000	SOD027
+BZX79-B11 , 113	from hqew, 福田区京富恒昌电子	NXP	12+	150000	SOD027
+BZX79-B27 ， 143	from hqew, 福田区京富恒昌电子	NXP	12+	30000	SOD027
+BZX79-B27 , 143	from hqew, 福田区京富恒昌电子	NXP	12+	30000	SOD027
+BZX79-B7V5 , 143	from hqew, 福田区京富恒昌电子	NXP	12+	65000	SOD027
+BZX79-C12 ， 113	from hqew, 福田区京富恒昌电子	NXP	12+	60000	SOD027
+BZX79-C22 ， 113	from hqew, 福田区京富恒昌电子	NXP	12+	10000	SOD027
+BZX79C4V3	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	4000	DH204
+BZX79C9V1	from hqew, 福田区京富恒昌电子	PHL	07+	20000	ALF2
+BZX85C5V1	from hqew, 福田区京富恒昌电子	ST	08+	10000	DO-41
+BZX85C5V1-TAP-LF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	15000	
+BZX85C5V6_T50R	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	DL204
+BZX85C5V6_T50R	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	DL204
+BZX85C9V1	from hqew, 福田区京富恒昌电子	VISHAY	2010	15000	
+CD4013BCMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	70000	SOIC
+CD4538BCM	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1920	SOIC
+CT2101A	from hqew, 福田区京富恒昌电子	CT	2011	1000000	SOT23-6
+CT2101F	from hqew, 福田区京富恒昌电子	CT	2011	1000000	SOT23-6
+D1NL20U	from hqew, 福田区京富恒昌电子	新電源	12+	2000	TO220
+DCP020509U	from hqew, 福田区京富恒昌电子	TI	07+	12	
+DL4001-13	from hqew, 福田区京富恒昌电子	DIODES INC	12+	5000	MELF
+DS1340U-33+TR	from hqew, 福田区京富恒昌电子	MAX	12+	1000	SO88
+DTC114TUA	from hqew, 福田区京富恒昌电子	ROHM	10+	6000	SOT323
+DW01H	from hqew, 福田区京富恒昌电子	TC	2012	100000	SOT23-6
+EP2C5T144C8N	from hqew, 福田区京富恒昌电子	ALTERA	13+	600	TQFP144
+EPM3064ATC100-10N	from hqew, 福田区京富恒昌电子	ALTERA	13+	2160	
+ESDA14V2SC6	from hqew, 福田区京富恒昌电子	ST	11+	9000	SOT23-6L
+FD8880_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSON
+FDC679P_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	FLMPB
+FDFM2N111	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1753	MLDAM
+FDFMA3N109	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1394	MLDEB
+FDG327N	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	162	NSC70
+FDG327N	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	162	NSC70
+FDG6332C	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	520	NSC70
+FDM6296	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	243000	MLOEU
+FDMA291P	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2231	MLDEB
+FDMF8704	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	60000	MLDFR
+FDMF8704V	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	MLDFR
+FDMS0341S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	PQOAM
+FDMS0355AS	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12000	PQOAM
+FDMS3500	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	153000	PQOAM
+FDMS3500	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	153000	PQOAM
+FDMS7603S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	3000	MLDAM
+FDMS7692A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	348000	PQOAM
+FDN338P	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	TSSOP
+FDS4141	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1171	NMSON
+FDS4435A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSON
+FDS4480	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1140	NMSON
+FDS4480	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1140	NMSON
+FDS6670AS	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	20000	NMSON
+FDS6673BZ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1672	NMSON
+FDS6680A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1234	NMSON
+FDS6682	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	687	NMSON
+FDS6690AS	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1291	NMSON
+FDS6690AS	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1291	NMSON
+FDS6890A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1738	NMSOD
+FDS6982	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSOD
+FDS6982AS	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	249	NMSOD
+FDS6994S	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1890	NMSOD
+FDS7064SN3	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	32500	EMSON
+FDS7066N3	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	7500	EMSON
+FDS7088N7	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12500	EMSON
+FDS7088N7	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12500	EMSON
+FDS7096N3	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	10000	EMSON
+FDS86140	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1422	NMSON
+FDS8638	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1427	NMSON
+FDS8840NZ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1527	NMSON
+FDS8870_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSON
+FDS89161	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1180	NMSOD
+FDZ295P	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	14499	
+FDZ295P	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	14499	
+FFB5551	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	669	NSC70
+FJC1386QTF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	57910	SOT89
+FJC1386RTF	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	173387	SOT89
+FJP13007H2	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	20000	TO220
+FJPF3305HITU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	TF220
+FJPF50210TU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	900	TF220
+FJY3001R	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	42000	NMADA
+FLZ230VC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	17500	DC213
+FLZ36VC	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	27500	DC213
+FLZ39VA	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	25000	DC213
+FLZ3V0B	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	7500	DC213
+FLZ3V0B	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	7500	DC213
+FLZ4V3B	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	10000	DC213
+FLZ4V7C	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	5000	DC213
+FLZ5V6A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	15000	DC213
+FLZ6V2A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	10000	DC213
+FM22L16-55TG	from hqew, 福田区京富恒昌电子	RAMTRON	09+	2700	
+FM24CL64B-GTR	from hqew, 福田区京富恒昌电子	ROMTRON	&nbsp;	5000	
+FM24CL64B-GTR	from hqew, 福田区京富恒昌电子	RAMTRON	&nbsp;	12500	
+FM25640B-GTR	from hqew, 福田区京富恒昌电子	RAMTRON	&nbsp;	5000	
+FM25L16B-GTR	from hqew, 福田区京富恒昌电子	ROMTRON	&nbsp;	5000	
+FM25V02-GTR	from hqew, 福田区京富恒昌电子	RAMTRON	&nbsp;	5000	
+GBL06-B3/1	from hqew, 福田区京富恒昌电子	VISHAY	QQ322594	10600	1.09
+GBL06-B3/1*D/C:2010+	from hqew, 福田区京富恒昌电子	VISHAY	Q3225947	10600	1.09
+HEF4060BP	from hqew, 福田区京富恒昌电子	NXP	12+	5000	DIP
+HEF4094BT	from hqew, 福田区京富恒昌电子	NXP	12+	5000	SMD
+HFA08TB60PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	14350	
+HV9910	from hqew, 福田区京富恒昌电子	国产	2011	1000000	SOP8
+IN4737A ， 113	from hqew, 福田区京富恒昌电子	NXP	12+	305000	DO41
+IN4737A , 113	from hqew, 福田区京富恒昌电子	NXP	12+	305000	DO41
+IN5228B	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	4000	DH204
+IN5251BTR	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	10000	DH204
+IN5251BTR	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	10000	DH204
+IRF1404PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	1500	
+IRF1405ZLPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	1500	
+IRF530NPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2000	
+IRF7854TRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	2529	
+IRF840APBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	40000	
+IRFBC30APBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	3300	
+IRFBC30PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	5100	
+IRFBE30PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	1000	
+IRFI9530GPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	18000	
+IRFP264PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	11000	
+IRFP450PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	1000	
+IRFR310TRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	6000	
+IRFR9014TRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	6000	
+IRFR9120NTRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	14000	
+IRFZ14PBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	3000	
+IRG4IBC20UDPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	121100	
+IRLML2803TRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	15000	
+IRLML5203TRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	3000	
+IRLML6302TRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	18000	
+IRS21531DSTRPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	12500	
+K4B2G1646E-BCK0	from hqew, 福田区京富恒昌电子	SAMSUNG	13+	50400	
+KA2904	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2238	NMDIP
+KA319	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1500	NMDIP
+KA319	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1500	NMDIP
+KA393A	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1227	NMDIP
+KA4558	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1507	NMDIP
+KSC2310Y	from hqew, 福田区京富恒昌电子	FAIRCHILD	2006	30000	
+KSC2310Y	from hqew, 福田区京富恒昌电子	FAIRCHILD	06+	30000	TO92
+KSE800STU	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	295	TO126
+KTA1268-GR-AT/P=2SA970-GR	from hqew, 福田区京富恒昌电子	KEC	12+	14000	TO-92
+KTA1268-GR-AT/P=2SA970-GR	from hqew, 福田区京富恒昌电子	KEC	12+	14000	TO-92
+KTC3198-Y-AT/P=2SC1815-Y	from hqew, 福田区京富恒昌电子	KEC	&nbsp;	200000	TO-92
+L297/1	from hqew, 福田区京富恒昌电子	ST	13+	5000	DIP20
+LL4148-GS0	from hqew, 福田区京富恒昌电子	Other	&nbsp;	72500	
+LM239ADR	from hqew, 福田区京富恒昌电子	TI	10+	7500	
+LM335Z/NOPB	from hqew, 福田区京富恒昌电子	NS	12+	15000	TO92
+LMV358AM8X	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1261	NMSON
+LP3982IMM-ADJ	from hqew, 福田区京富恒昌电子	NS	12+	8000	MSOP8
+LPC1752FBD80	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	1190	SOT315
+LPC1752FBD80	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	1190	SOT315
+LPC1754FBD80	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	1190	SOT315
+LPC1763FBD100	from hqew, 福田区京富恒昌电子	NXP	09+	1800	
+LPC1765FBD100,551	from hqew, 福田区京富恒昌电子	NXP	13+	2700	
+LPC1768FBD100	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	3600	SOT407
+LPC1778FBD144	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	2400	SOT486
+LPC2106FBD48/01	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	1600	SOT313
+LPC2138FBD64/01	from hqew, 福田区京富恒昌电子	NXP	&nbsp;	1600	SOT314
+LPC2142FBD64/01	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	1600	SOT314
+LPC2220FBD144	from hqew, 福田区京富恒昌电子	NXP	09+	4800	
+LPC2387FBD100	from hqew, 福田区京富恒昌电子	NXT	&nbsp;	2700	SOT407
+LT3585EDDB-2#TRPBF	from hqew, 福田区京富恒昌电子	LT	09+	20000	LCLH
+LT358EDDB-2#TRPBF	from hqew, 福田区京富恒昌电子	LT	09+	20000	
+LTV817C	from hqew, 福田区京富恒昌电子	LITEON	12+	10000	DIP
+MBR20100	from hqew, 福田区京富恒昌电子	国产	2011	100000	TO-220TO
+MBR6045WTPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	8600	
+MBRB20100CTTRLPBF	from hqew, 福田区京富恒昌电子	Other	&nbsp;	15200	
+MC33064P-5G	from hqew, 福田区京富恒昌电子	ON SEMI	12+	10000	TO92
+MCP1801T-2502I/OT	from hqew, 福田区京富恒昌电子	MCP	12+	15000	SOT23
+MCP2155-I/SS	from hqew, 福田区京富恒昌电子	MCP	12+	5000	SSOP208M
+MCP23016-I/SS	from hqew, 福田区京富恒昌电子	MCP	12+	3000	SSOP208
+MCP3204-CI/ST	from hqew, 福田区京富恒昌电子	MCP	12+	3000	
+MCP3425AOT-E/CH	from hqew, 福田区京富恒昌电子	MCP	12+	9000	
+MCP6021T-E/OT	from hqew, 福田区京富恒昌电子	MCP	12+	9000	
+MCP602-I/ST	from hqew, 福田区京富恒昌电子	MCP	12+	5000	
+MCP9701AT-E/LT	from hqew, 福田区京富恒昌电子	MCP	12+	6000	SC-70
+MM3Z6V2C	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	30000	DF323
+MM3Z6V2C	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	30000	DF323
+MM5Z13V	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	32000	DF323
+MM5Z43V	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	16000	DF323
+MM74HC32SJ	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2256	SOP
+MM74HC374SJX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	684	SOP
+MM74HC393M	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	4400	SOIC
+MM74HC589MX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	SOIC
+MM74HCT240WM	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1080	SOIC-WID
+MM74HCT240WMX	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	8000	SOIC-WID
+MM74HCU04M	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6600	SOIC
+MM74HCU04M	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6600	SOIC
+MMBF176	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	9000	SMD
+MMBT2907AK	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	SOT23
+MMBT2907AK	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	6000	SOT23
+MMBT3904LT1G	from hqew, 福田区京富恒昌电子	ON SEMI	12+	150000	SOT23
+MMBTA42LT1G	from hqew, 福田区京富恒昌电子	ON SEMI	12+	30000	SOT23
+MMPQ2907	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	1461	NMSON
+MMSD4148_D87Z	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	140000	DO123
+MOC3041M	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	5000	DIP
+MP4462DN-LF-Z	from hqew, 福田区京富恒昌电子	MPS	12+	2000	QFN10
+MPSA42	from hqew, 福田区京富恒昌电子	UTC	10+	2000	TO92
+MPSA42	from hqew, 福田区京富恒昌电子	UTC	10+	2000	
+MPSA56G	from hqew, 福田区京富恒昌电子	ON SEMI	12+	40000	TO92
+MSP430F2272IDAR	from hqew, 福田区京富恒昌电子	TI	13+	10000	
+MSP430FG4619IPZR	from hqew, 福田区京富恒昌电子	TI	12+	140	LQFP
+MSP430G2553IPW20R	from hqew, 福田区京富恒昌电子	TI	12+	1800	
+M24128-BRMN6TP	from hqew, 福田区京富恒昌电子	ST	09+	50000	
+M41T81SMY6F	from hqew, 福田区京富恒昌电子	ST	11+	4000	SO8
+MAX1133BCAP+	from hqew, 福田区京富恒昌电子	MAX	12+	200	
+MAX202IPWR	from hqew, 福田区京富恒昌电子	TI	11+	4000	SOIC-16
+MAX3232EIPWR	from hqew, 福田区京富恒昌电子	TEXAS	11+	6000	TSSOP
+MAX4233ABC+T	from hqew, 福田区京富恒昌电子	MAX	10+	5000	UCSP
+MAX4745ELB+T	from hqew, 福田区京富恒昌电子	MAX	08+	2000	
+MAX485CPA+	from hqew, 福田区京富恒昌电子	MAXIM	12+	1800	DIP
+MAX8595XETA+T	from hqew, 福田区京富恒昌电子	MAX	08+	4000	8TDFN-EP
+MAX8595XETA+T	from hqew, 福田区京富恒昌电子	MAX	08+	4000	
+MAX995ESD	from hqew, 福田区京富恒昌电子	MAX	00+	2000	SO14
+NDS0610	from hqew, 福田区京富恒昌电子	TI	2011	6000	
+NDS9407_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	2500	NMSON
+NJM4558D	from hqew, 福田区京富恒昌电子	JRC	12+	3000	DIP
+PCF8583T/5,518	from hqew, 福田区京富恒昌电子	NXP	12+	5000	SOT176
+PDTA143ET , 215	from hqew, 福田区京富恒昌电子	NXP	12+	411000	SOT023
+PEMD12. 315	from hqew, 福田区京富恒昌电子	NXP	12+	96000	SOT666
+PGA112AIDGSR	from hqew, 福田区京富恒昌电子	TI	11+	1700	VSSOP10
+PGA280AIPWR	from hqew, 福田区京富恒昌电子	TI	12+	200	
+PIC16887-E/PT	from hqew, 福田区京富恒昌电子	MCP	12+	3000	
+PIC16F628-04/ISO	from hqew, 福田区京富恒昌电子	MCP	12+	3000	SOIC300
+PIC18F43K20-I/PT	from hqew, 福田区京富恒昌电子	MCP	12+	3000	TQFP
+PIC18LF6622-I/PT	from hqew, 福田区京富恒昌电子	MICROCHIP	&nbsp;	1600	
+PIC24HJ128GP206-I/PT	from hqew, 福田区京富恒昌电子	MCP	12+	3000	TQFP
+PIC32MX575F512H-80I/PT	from hqew, 福田区京富恒昌电子	MCP	12+	265	TQFP
+PMBT3904	from hqew, 福田区京富恒昌电子	NXP	12+	150000	SOT23
+PMBT3906	from hqew, 福田区京富恒昌电子	NXP	12+	30000	SOT23
+PMGD370XN , 115	from hqew, 福田区京富恒昌电子	NXP	12+	9000	SOT363
+PRF949	from hqew, 福田区京富恒昌电子	NXP	11+	3000	SC75
+PT2253A	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	DIP-16
+PT2262	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	DIP
+PT2311-S	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	SOP-28
+PT2314E	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	SOP-28
+PT7314E	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	SOP
+PT8211-S	from hqew, 福田区京富恒昌电子	PTC	&nbsp;	10000	SOP-8
+PTH03000WAH	from hqew, 福田区京富恒昌电子	TI	12+	1000	TIWTRAY
+PTH03000WAH	from hqew, 福田区京富恒昌电子	TI	12+	1000	
+PTVS14VP1UP ， 115	from hqew, 福田区京富恒昌电子	NXP	12+	21000	SOD128
+PUMD2/DG/B2 ， 115	from hqew, 福田区京富恒昌电子	NXP	12+	480000	SOT363
+RT8008-18PB	from hqew, 福田区京富恒昌电子	立琦	2011	3070	SOT-23-6
+RT8009GJ5	from hqew, 福田区京富恒昌电子	立琦	2011	38550	SOT-23-5
+RT8289GSP	from hqew, 福田区京富恒昌电子	立琦	2011	5000	
+RT8561AGQW	from hqew, 福田区京富恒昌电子	立琦	2011	10000	
+RT8566GCP	from hqew, 福田区京富恒昌电子	立琦	2011	50000	
+RT9013-12GB	from hqew, 福田区京富恒昌电子	立琦	2011	5475	SOT-23-5
+RT9013-12GB	from hqew, 福田区京富恒昌电子	立琦	2011	93000	
+RT9013-30GU5	from hqew, 福田区京富恒昌电子	立琦	2011	300	
+RT9167-28GB	from hqew, 福田区京富恒昌电子	立琦	2011	9000	
+RT9167-33GB	from hqew, 福田区京富恒昌电子	立琦	2011	6000	
+RT9169-18PB	from hqew, 福田区京富恒昌电子	立琦	2011	100	
+RT9193-18GU5	from hqew, 福田区京富恒昌电子	立琦	2011	12000	
+RT9193-27GB	from hqew, 福田区京富恒昌电子	立琦	2011	15000	
+RT9285BGJ6	from hqew, 福田区京富恒昌电子	立琦	2011	80	SOT-23-6
+RT9285BGJ6	from hqew, 福田区京富恒昌电子	立琦	2011	72000	
+RT9292DGJ6	from hqew, 福田区京富恒昌电子	立琦	2011	9000	
+RT9513GQW	from hqew, 福田区京富恒昌电子	立琦	2011	2270	WDFN-10
+RT9701GB	from hqew, 福田区京富恒昌电子	立琦	2011	44510	SOT-23-5
+RT9702AGB	from hqew, 福田区京富恒昌电子	立琦	2011	21000	
+RT9711AGB	from hqew, 福田区京富恒昌电子	立琦	2011	36000	
+RT9971AGQW	from hqew, 福田区京富恒昌电子	立琦	2011	12500	
+S25FL032P0XMFI011	from hqew, 福田区京富恒昌电子	SPANSION	12+	2275	SOIC
+S25FL032P0XMFI011	from hqew, 福田区京富恒昌电子	SPANSION	12+	2275	SOIC
+S29AL016J70TFI020	from hqew, 福田区京富恒昌电子	SPANSION	12+	4800	TSOP
+S29CL032J0MFAI030	from hqew, 福田区京富恒昌电子	SPANSION	10+	150	
+S29CL032J0MFAI030	from hqew, 福田区京富恒昌电子	SPANSION	10+	150	
+S29CL032J0RQAI030	from hqew, 福田区京富恒昌电子	SPANSION	10+	159	
+S29GL256S90TFI020	from hqew, 福田区京富恒昌电子	SPANSION	12+	4550	TSOP
+S29JL032H70TFI320	from hqew, 福田区京富恒昌电子	SPANSION	10+	942	
+S310_G	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	40961	DOSMC
+S98GL064NB0HI0030	from hqew, 福田区京富恒昌电子	SPANSION	10+	884	
+S98GL064NB0HI0040	from hqew, 福田区京富恒昌电子	SPANSION	10+	2694	
+SB42351NC	from hqew, 福田区京富恒昌电子	Other	2011	1000	
+SB42351NG	from hqew, 福田区京富恒昌电子	Other	2011	1000	
+SD42509	from hqew, 福田区京富恒昌电子	Other	2011	2000	
+SMBJ150CA	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	21000	DOSMB
+SMCJ8V5CA	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	12000	DOSMC
+SN74HC126DR	from hqew, 福田区京富恒昌电子	TI	2011	47500	
+SN74HC245DWR	from hqew, 福田区京富恒昌电子	TI	2011	44000	
+SN74HC574N	from hqew, 福田区京富恒昌电子	TI	2011	1000	
+SN74HCT32N	from hqew, 福田区京富恒昌电子	TI	2011	53700	
+STM32F103VCT6	from hqew, 福田区京富恒昌电子	ST	&nbsp;	9720	LQFP100
+STM32F103VET6	from hqew, 福田区京富恒昌电子	ST	&nbsp;	3240	LQFP100
+STM32F205ZGT6	from hqew, 福田区京富恒昌电子	ST	&nbsp;	2160	LQFP144
+STM32F407ZET6	from hqew, 福田区京富恒昌电子	ST	09+	3600	
+STM32F407ZGT6	from hqew, 福田区京富恒昌电子	ST	&nbsp;	2160	LQFP144
+TC1185-3.0VCT713	from hqew, 福田区京富恒昌电子	MCP	12+	5000	SOL-23
+TC14433EPG	from hqew, 福田区京富恒昌电子	MIC	13+	5000	PDIP
+TC74HC4051AF(EL，F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	2000	SOP16
+TC7660CPA	from hqew, 福田区京富恒昌电子	MCP	12+	5000	
+TD62783APG(5,J,S)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	24000	SOP-18-P
+TD62783APG(O,S,HZN)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	400	SOP-18-P
+TIP32C	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	5000	TO220
+TIP32C	from hqew, 福田区京富恒昌电子	FAIRCHILD	12+	5000	TO220
+TK12A60D(STA4，Q，M)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	1500	TO-220SI
+TL072IDR	from hqew, 福田区京富恒昌电子	TI	2011	120000	
+TL343IDBVR	from hqew, 福田区京富恒昌电子	TI	08+	6000	
+TL431ACDR	from hqew, 福田区京富恒昌电子	TI	2011	230000	
+TLC0820ACDWR	from hqew, 福田区京富恒昌电子	TI	05+	500	
+TLP127(TPL,U,F)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	90000	4PINMFSO
+TLP181GB-TPLF	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	30000	MFSOP6
+TLP281-4(GB-TP，J，F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	10000	SOP16
+TLP627-2F	from hqew, 福田区京富恒昌电子	TOSHIBA	13+	5000	DIP-4
+TLV1117-33CDCYR	from hqew, 福田区京富恒昌电子	TI	2011	7500	
+TLV1117CDCYR	from hqew, 福田区京富恒昌电子	TI	2011	10000	
+TLV1543CDWR	from hqew, 福田区京富恒昌电子	TI	12+	3000	
+TLV2462AQPWR	from hqew, 福田区京富恒昌电子	TI	10+	1510	TSSOP8
+TLV5617AIDR	from hqew, 福田区京富恒昌电子	TI	13+	2500	SOIC8
+TMS320F2812PGFA	from hqew, 福田区京富恒昌电子	TI	13+	320	
+TOP250(F)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	15000	DIP 8
+TPS40055PWPR	from hqew, 福田区京富恒昌电子	TI	2011	18000	
+TTP222	from hqew, 福田区京富恒昌电子	TONTEK	2011	100000	SOP28QFN
+TTP222	from hqew, 福田区京富恒昌电子	TONTEK	2011	100000	SOP28 QF
+TZMC12	from hqew, 福田区京富恒昌电子	VISHAY	06+	10000	
+TZMC3V9*PB FREE	from hqew, 福田区京富恒昌电子	VISHAY	09+	32500	
+TZMC6V8*PB FREE	from hqew, 福田区京富恒昌电子	VISHAY	08+	35000	SOD80
+U2270B-MFPY	from hqew, 福田区京富恒昌电子	ATMEL	&nbsp;	11200	
+UC3637DWTR	from hqew, 福田区京富恒昌电子	TI	12+	2000	
+UF4003	from hqew, 福田区京富恒昌电子	FAIRCHILD	10+	290000	DL204
+ULN2003AFWG	from hqew, 福田区京富恒昌电子	TOSHIBA	13+	10000	SOL-16
+ULN2003AFWG	from hqew, 福田区京富恒昌电子	TOSHIBA	13+	10000	SOL16
+ULN2003APG(O,N,HZA)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	15000	DIP16
+ULN2803APG	from hqew, 福田区京富恒昌电子	TOSHIBA	13+	10000	DIP-18
+ULN2803APG(O,N,HZA)	from hqew, 福田区京富恒昌电子	TOSHIBA	&nbsp;	48000	DIP-16
+ULN2803APG(O,N,HZA)	from hqew, 福田区京富恒昌电子	TOSHIBA	12+	5000	DIP18
+ZM4740A	from hqew, 福田区京富恒昌电子	SEMTECH	10+	5000	
+ZM4740A	from hqew, 福田区京富恒昌电子	SEMTECH	10+	5000	
