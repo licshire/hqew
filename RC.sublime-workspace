@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"brand",
+				"brandArray"
+			],
+			[
+				"fp",
+				"Fprintln	n int, err error ƒ"
+			],
+			[
 				"pa",
 				"ParseInt	i int64, err error ƒ"
 			],
@@ -71,7 +79,15 @@
 			"file": "hqew.go",
 			"settings":
 			{
-				"buffer_size": 8107,
+				"buffer_size": 7732,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "//SERVER-RC/AppServ/www/Functions_brand.php",
+			"settings":
+			{
+				"buffer_size": 4544,
 				"line_ending": "Windows"
 			}
 		},
@@ -87,7 +103,15 @@
 			"file": "mouser.go",
 			"settings":
 			{
-				"buffer_size": 3338,
+				"buffer_size": 4001,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "octopart-server.go",
+			"settings":
+			{
+				"buffer_size": 2531,
 				"line_ending": "Windows"
 			}
 		}
@@ -99,8 +123,24 @@
 		"selected_items":
 		[
 			[
+				"format",
+				"Format: Php"
+			],
+			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"for",
+				"Format: Php"
+			],
+			[
+				"form",
+				"Format: Php"
 			],
 			[
 				"view",
@@ -124,11 +164,23 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/PhpBeautifier/php_beautifier.py",
+		"//SERVER-RC/AppServ/www/detail.php",
+		"//SERVER-RC/AppServ/www/rc.css",
+		"//SERVER-RC/AppServ/www/insert_parts_hqew.php",
+		"//SERVER-RC/AppServ/www/Functions_brand.php",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/PhpTidy.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/PhpTidy/PhpTidy.sublime-settings",
+		"//SERVER-RC/AppServ/www/phpMyAdmin/INSTALL",
+		"/C/Go/hqew/login.gtpl",
+		"//SERVER-RC/AppServ/www/tools.php",
+		"//SERVER-RC/AppServ/www/add_new_customer.php",
 		"/C/Go/hqew/octopart.go",
+		"/C/Go/hqew/mouser.go",
+		"/C/Users/Administrator/Desktop/mouser.go",
 		"/C/Go/hqew/google.go",
 		"/C/Go/hqew/test.go",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/GoSublime/9o.md",
-		"//SERVER-RC/AppServ/www/detail.php",
 		"//SERVER-RC/AppServ/www/add_new_scontact.php",
 		"//SERVER-RC/AppServ/www/define.php",
 		"//SERVER-RC/AppServ/www/index2.php",
@@ -139,7 +191,6 @@
 		"//server-rc/AppServ/www/insert_parts.php",
 		"//SERVER-RC/AppServ/www/Functions_RC.php",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"//SERVER-RC/AppServ/www/Functions_brand.php",
 		"/C/Go/bin/src/hqew/hqew.go",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/go2.sublime-build",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
@@ -157,7 +208,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 90.0,
 		"where_history":
 		[
 		]
@@ -167,6 +218,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"cmd",
+			"}",
+			"{",
 			"ParseInt",
 			"15:23:12",
 			"octopart.com",
@@ -185,6 +239,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			")",
+			"array(",
 			"08:23:12"
 		],
 		"reverse": false,
@@ -196,7 +252,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -204,15 +260,15 @@
 					"file": "hqew.go",
 					"settings":
 					{
-						"buffer_size": 8107,
+						"buffer_size": 7732,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								222,
-								438
+								7714,
+								7714
 							]
 						],
 						"settings":
@@ -221,13 +277,40 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 162.0,
+						"translation.y": 698.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "//SERVER-RC/AppServ/www/Functions_brand.php",
+					"settings":
+					{
+						"buffer_size": 4544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4489,
+								4489
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3266.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "hqew_file.go",
 					"settings":
 					{
@@ -238,8 +321,8 @@
 						"selection":
 						[
 							[
-								2758,
-								2766
+								638,
+								638
 							]
 						],
 						"settings":
@@ -249,25 +332,25 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1675.0,
+						"translation.y": 91.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "mouser.go",
 					"settings":
 					{
-						"buffer_size": 3338,
+						"buffer_size": 4001,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								622,
-								622
+								998,
+								998
 							]
 						],
 						"settings":
@@ -276,7 +359,35 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 432.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "octopart-server.go",
+					"settings":
+					{
+						"buffer_size": 2531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -321,7 +432,7 @@
 	},
 	"output.9o://C:\\Go\\hqew":
 	{
-		"height": 251.0
+		"height": 316.0
 	},
 	"output.9o://C:\\Go\\rc":
 	{
@@ -353,6 +464,30 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"rc.",
+				"www/rc.css"
+			],
+			[
+				"det",
+				"www/detail.php"
+			],
+			[
+				"install",
+				"www/phpMyAdmin/INSTALL"
+			],
+			[
+				"insert",
+				"www/insert_parts_hqew.php"
+			],
+			[
+				"func",
+				"www/Functions_brand.php"
+			],
+			[
+				"tools",
+				"www/tools.php"
+			],
 			[
 				"detai",
 				"detail.php"

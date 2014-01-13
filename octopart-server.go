@@ -50,6 +50,7 @@ func search(w http.ResponseWriter, r *http.Request) {
 		url += "&q=" + search
 
 		url += "&start=1&limit=999"
+		url += "&sortby=mpn%20asc"
 
 		res, err := http.Get(url)
 		if err != nil {
