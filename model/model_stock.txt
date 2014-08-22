@@ -1,0 +1,139 @@
+2014-08-20	CL-170G	2014-08-20	CL-170G	2014-08-20	CL-170G	
+2014-08-20	CL-170G	
+2014-08-20	CL-170G	
+2014-08-20	CL-170G
+2014-08-20	CL-170G
+2014-08-20	CL-170G	http://www.hqew.com/ic/CL-170G.html
+2014-08-20	KA-3020EC	http://www.hqew.com/ic/KA-3020EC.html
+2014-08-20	KA-3020YT	http://www.hqew.com/ic/KA-3020YT.html
+2014-08-20	KPB-3025ESGC	http://www.hqew.com/ic/KPB-3025ESGC.html
+2014-08-20	KPB-3025EYC	http://www.hqew.com/ic/KPB-3025EYC.html
+2014-08-20	KPT-2012SGT	http://www.hqew.com/ic/KPT-2012SGT.html
+2014-08-20	KPT-3216SGD	http://www.hqew.com/ic/KPT-3216SGD.html
+2014-08-20	17 301	http://www.hqew.com/ic/17 301.html
+2014-08-20	17 323	http://www.hqew.com/ic/17 323.html
+2014-08-20	17 283	http://www.hqew.com/ic/17 283.html
+2014-08-20	17 300	http://www.hqew.com/ic/17 300.html
+2014-08-20	17 301	http://www.hqew.com/ic/17 301.html
+2014-08-20	17 302	http://www.hqew.com/ic/17 302.html
+2014-08-20	17 310	http://www.hqew.com/ic/17 310.html
+2014-08-20	17 312	http://www.hqew.com/ic/17 312.html
+2014-08-20	17 313	http://www.hqew.com/ic/17 313.html
+2014-08-20	17 323	http://www.hqew.com/ic/17 323.html
+2014-08-20	AP1608CGCK	http://www.hqew.com/ic/AP1608CGCK.html
+2014-08-20	AP1608EC	http://www.hqew.com/ic/AP1608EC.html
+2014-08-20	AP1608F3C	http://www.hqew.com/ic/AP1608F3C.html
+2014-08-20	APHK1608SEC	http://www.hqew.com/ic/APHK1608SEC.html
+2014-08-20	APHK1608SURC	http://www.hqew.com/ic/APHK1608SURC.html
+2014-08-20	APHK1608SURCK	http://www.hqew.com/ic/APHK1608SURCK.html
+2014-08-20	APK3020NC	http://www.hqew.com/ic/APK3020NC.html
+2014-08-20	APK3020SGC	http://www.hqew.com/ic/APK3020SGC.html
+2014-08-20	APK3216TGC	http://www.hqew.com/ic/APK3216TGC.html
+2014-08-20	KA-2734SRSGC	http://www.hqew.com/ic/KA-2734SRSGC.html
+2014-08-20	KA-3020EC	http://www.hqew.com/ic/KA-3020EC.html
+2014-08-20	KA-3020YT	http://www.hqew.com/ic/KA-3020YT.html
+2014-08-20	KPA-3010SEC	http://www.hqew.com/ic/KPA-3010SEC.html
+2014-08-20	KPA-3010SECK	http://www.hqew.com/ic/KPA-3010SECK.html
+2014-08-20	KPA-3010SGC	http://www.hqew.com/ic/KPA-3010SGC.html
+2014-08-20	KPA-3010SURC	http://www.hqew.com/ic/KPA-3010SURC.html
+2014-08-20	KPA-3010SURCK	http://www.hqew.com/ic/KPA-3010SURCK.html
+2014-08-20	KPA-3010SYC	http://www.hqew.com/ic/KPA-3010SYC.html
+2014-08-20	KPA-3010SYCK	http://www.hqew.com/ic/KPA-3010SYCK.html
+2014-08-20	KPA-3010YC	http://www.hqew.com/ic/KPA-3010YC.html
+2014-08-20	KPA-3010ZGC	http://www.hqew.com/ic/KPA-3010ZGC.html
+2014-08-20	KPA-3010ZGC-E	http://www.hqew.com/ic/KPA-3010ZGC-E.html
+2014-08-20	KPA-3210CGCK	http://www.hqew.com/ic/KPA-3210CGCK.html
+2014-08-20	KPA-3210MGC	http://www.hqew.com/ic/KPA-3210MGC.html
+2014-08-20	KPA-3210SEC	http://www.hqew.com/ic/KPA-3210SEC.html
+2014-08-20	KPA-3210SECK	http://www.hqew.com/ic/KPA-3210SECK.html
+2014-08-20	KPA-3210SURC	http://www.hqew.com/ic/KPA-3210SURC.html
+2014-08-20	KPA-3210SYC	http://www.hqew.com/ic/KPA-3210SYC.html
+2014-08-20	KPB-3025ESGC	http://www.hqew.com/ic/KPB-3025ESGC.html
+2014-08-20	KPB-3025EYC	http://www.hqew.com/ic/KPB-3025EYC.html
+2014-08-20	KPB-3025NSGC	http://www.hqew.com/ic/KPB-3025NSGC.html
+2014-08-20	KPB-3025SRSGC-PRV	http://www.hqew.com/ic/KPB-3025SRSGC-PRV.html
+2014-08-20	KPB-3025SURKCGKC	http://www.hqew.com/ic/KPB-3025SURKCGKC.html
+2014-08-20	KPT-1608ZGC	http://www.hqew.com/ic/KPT-1608ZGC.html
+2014-08-20	KPT-2012CGCK	http://www.hqew.com/ic/KPT-2012CGCK.html
+2014-08-20	KPT-2012ID	http://www.hqew.com/ic/KPT-2012ID.html
+2014-08-20	KPT-2012MGC	http://www.hqew.com/ic/KPT-2012MGC.html
+2014-08-20	KPT-2012PBC	http://www.hqew.com/ic/KPT-2012PBC.html
+2014-08-20	KPT-2012PBC-A	http://www.hqew.com/ic/KPT-2012PBC-A.html
+2014-08-20	KPT-2012PGW	http://www.hqew.com/ic/KPT-2012PGW.html
+2014-08-20	KPT-2012QBC-D	http://www.hqew.com/ic/KPT-2012QBC-D.html
+2014-08-20	KPT-2012SEC	http://www.hqew.com/ic/KPT-2012SEC.html
+2014-08-20	KPT-2012SECK	http://www.hqew.com/ic/KPT-2012SECK.html
+2014-08-20	KPT-2012SGC	http://www.hqew.com/ic/KPT-2012SGC.html
+2014-08-20	KPT-2012SGD	http://www.hqew.com/ic/KPT-2012SGD.html
+2014-08-20	KPT-2012SGT	http://www.hqew.com/ic/KPT-2012SGT.html
+2014-08-20	KPT-2012SRC-PRV	http://www.hqew.com/ic/KPT-2012SRC-PRV.html
+2014-08-20	KPT-2012SURC	http://www.hqew.com/ic/KPT-2012SURC.html
+2014-08-20	KPT-2012SURCK	http://www.hqew.com/ic/KPT-2012SURCK.html
+2014-08-20	KPT-2012SYC	http://www.hqew.com/ic/KPT-2012SYC.html
+2014-08-20	KPT-2012SYCK	http://www.hqew.com/ic/KPT-2012SYCK.html
+2014-08-20	KPT-2012VGC-A	http://www.hqew.com/ic/KPT-2012VGC-A.html
+2014-08-20	KPT-2012ZGC	http://www.hqew.com/ic/KPT-2012ZGC.html
+2014-08-20	KPT-3216CGCK	http://www.hqew.com/ic/KPT-3216CGCK.html
+2014-08-20	KPT-3216EC	http://www.hqew.com/ic/KPT-3216EC.html
+2014-08-20	KPT-3216MGC	http://www.hqew.com/ic/KPT-3216MGC.html
+2014-08-20	KPT-3216PBC	http://www.hqew.com/ic/KPT-3216PBC.html
+2014-08-20	KPT-3216PBC-A	http://www.hqew.com/ic/KPT-3216PBC-A.html
+2014-08-20	KPT-3216QBC-D	http://www.hqew.com/ic/KPT-3216QBC-D.html
+2014-08-20	KPT-3216SEC	http://www.hqew.com/ic/KPT-3216SEC.html
+2014-08-20	KPT-3216SECK	http://www.hqew.com/ic/KPT-3216SECK.html
+2014-08-20	KPT-3216SGC	http://www.hqew.com/ic/KPT-3216SGC.html
+2014-08-20	KPT-3216SGC-01	http://www.hqew.com/ic/KPT-3216SGC-01.html
+2014-08-20	KPT-3216SGD	http://www.hqew.com/ic/KPT-3216SGD.html
+2014-08-20	KPT-3216SURC	http://www.hqew.com/ic/KPT-3216SURC.html
+2014-08-20	KPT-3216SURCK	http://www.hqew.com/ic/KPT-3216SURCK.html
+2014-08-20	KPT-3216SYC	http://www.hqew.com/ic/KPT-3216SYC.html
+2014-08-20	KPT-3216SYCK	http://www.hqew.com/ic/KPT-3216SYCK.html
+2014-08-20	CL-140G	http://www.hqew.com/ic/CL-140G.html
+2014-08-20	CL-140R	http://www.hqew.com/ic/CL-140R.html
+2014-08-20	CL-140R-CD	http://www.hqew.com/ic/CL-140R-CD.html
+2014-08-20	CL-140SR	http://www.hqew.com/ic/CL-140SR.html
+2014-08-20	CL-140Y	http://www.hqew.com/ic/CL-140Y.html
+2014-08-20	CL-140YG	http://www.hqew.com/ic/CL-140YG.html
+2014-08-20	CL-140YG-X-T	http://www.hqew.com/ic/CL-140YG-X-T.html
+2014-08-20	CL-150D	http://www.hqew.com/ic/CL-150D.html
+2014-08-20	CL-150D-CD	http://www.hqew.com/ic/CL-150D-CD.html
+2014-08-20	CL-150D-CD-T	http://www.hqew.com/ic/CL-150D-CD-T.html
+2014-08-20	CL-150HR	http://www.hqew.com/ic/CL-150HR.html
+2014-08-20	CL-150HR-CD	http://www.hqew.com/ic/CL-150HR-CD.html
+2014-08-20	CL-150HR-CD-T	http://www.hqew.com/ic/CL-150HR-CD-T.html
+2014-08-20	CL-150R	http://www.hqew.com/ic/CL-150R.html
+2014-08-20	CL-150R-CD	http://www.hqew.com/ic/CL-150R-CD.html
+2014-08-20	CL-150R-CD-T	http://www.hqew.com/ic/CL-150R-CD-T.html
+2014-08-20	CL-150SR	http://www.hqew.com/ic/CL-150SR.html
+2014-08-20	CL-150SR-CD	http://www.hqew.com/ic/CL-150SR-CD.html
+2014-08-20	CL-150SR-CD-T	http://www.hqew.com/ic/CL-150SR-CD-T.html
+2014-08-20	CL-150Y	http://www.hqew.com/ic/CL-150Y.html
+2014-08-20	CL-150Y-CD	http://www.hqew.com/ic/CL-150Y-CD.html
+2014-08-20	CL-150Y-CD-T	http://www.hqew.com/ic/CL-150Y-CD-T.html
+2014-08-20	CL-155UR/G-D	http://www.hqew.com/ic/CL-155UR/G-D.html
+2014-08-20	CL-155UR/G-D-T	http://www.hqew.com/ic/CL-155UR/G-D-T.html
+2014-08-20	CL-155Y/PG-D-T	http://www.hqew.com/ic/CL-155Y/PG-D-T.html
+2014-08-20	CL-165HR/G2-D-T	http://www.hqew.com/ic/CL-165HR/G2-D-T.html
+2014-08-20	CL-165HR/HB1-D-T	http://www.hqew.com/ic/CL-165HR/HB1-D-T.html
+2014-08-20	CL-165HR/SYG-D-T	http://www.hqew.com/ic/CL-165HR/SYG-D-T.html
+2014-08-20	CL-165HR/YG	http://www.hqew.com/ic/CL-165HR/YG.html
+2014-08-20	CL-165HR/YG-D	http://www.hqew.com/ic/CL-165HR/YG-D.html
+2014-08-20	CL-165HR/YG-D-T	http://www.hqew.com/ic/CL-165HR/YG-D-T.html
+2014-08-20	CL-375HR/YG	http://www.hqew.com/ic/CL-375HR/YG.html
+2014-08-20	CL-375HR/YG-D-TS	http://www.hqew.com/ic/CL-375HR/YG-D-TS.html
+2014-08-20	CL-420C-D-TS	http://www.hqew.com/ic/CL-420C-D-TS.html
+2014-08-20	CL-421S-G	http://www.hqew.com/ic/CL-421S-G.html
+2014-08-20	CL-421S-G-D-TS	http://www.hqew.com/ic/CL-421S-G-D-TS.html
+2014-08-20	CL-421S-N7-SD-TS	http://www.hqew.com/ic/CL-421S-N7-SD-TS.html
+2014-08-20	CL-425F	http://www.hqew.com/ic/CL-425F.html
+2014-08-20	CL-430S-WF	http://www.hqew.com/ic/CL-430S-WF.html
+2014-08-20	CL-430S-WF-SD	http://www.hqew.com/ic/CL-430S-WF-SD.html
+2014-08-20	CL-430S-WF-SD-TS	http://www.hqew.com/ic/CL-430S-WF-SD-TS.html
+2014-08-20	CL-432S-WF	http://www.hqew.com/ic/CL-432S-WF.html
+2014-08-20	CL-432S-WF-SD	http://www.hqew.com/ic/CL-432S-WF-SD.html
+2014-08-20	CL-432S-WF-SD-TS	http://www.hqew.com/ic/CL-432S-WF-SD-TS.html
+2014-08-20	CL-451G	http://www.hqew.com/ic/CL-451G.html
+2014-08-20	CL-451G-D-TD	http://www.hqew.com/ic/CL-451G-D-TD.html
+2014-08-20	CL-470S-3WD	http://www.hqew.com/ic/CL-470S-3WD.html
+2014-08-20	CL-470S-3WD-D	http://www.hqew.com/ic/CL-470S-3WD-D.html
+2014-08-20	CL-470S-3WD-D-T	http://www.hqew.com/ic/CL-470S-3WD-D-T.html
